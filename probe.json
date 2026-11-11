@@ -1,526 +1,355 @@
 {
- "https://howard.andrews.edu/events/index.html": {
+ "https://bellsbeer.com/eccentric-cafe/": {
   "status": 200,
-  "final": "https://howard.andrews.edu/events/index.html",
-  "bytes": 475333,
+  "final": "https://cafe.bellsbeer.com/",
+  "bytes": 470187,
   "ld_types": {},
   "links": [
    [
-    "",
-    265
+    "https://cafe.bellsbeer.com/event/kait-rose-co-presents-fleetwood-magic-N/bells-brewery-tours/",
+    12
    ],
    [
-    "https://www.tix.com/ticket-sales/howard/N/event/N",
-    40
+    "https://cafe.bellsbeer.com/event/kalamazoo-academy-of-rock-N/bells-brewery-tours/",
+    12
    ],
    [
-    "https://www.tix.com/ticket-sales/howard/N",
+    "https://cafe.bellsbeer.com/event/kait-rose-co-presents-fleetwood-magic-N-day-package/bells-brewery-tours/",
+    6
+   ],
+   [
+    "https://cafe.bellsbeer.com/event/lions-game-brunch/bells-brewery-tours/",
+    6
+   ],
+   [
+    "https://cafe.bellsbeer.com/event/welshly-arms-with-the-astronomers/bells-brewery-tours/",
+    6
+   ],
+   [
+    "https://cafe.bellsbeer.com/event/rev-peytons-big-damn-band-wsg-adrian-and-meredith-band/bells-brewery-tours/",
+    6
+   ],
+   [
+    "https://cafe.bellsbeer.com/event/small-brown-bike-with-criteria-and-bronson-arm/bells-brewery-tours/",
+    6
+   ],
+   [
+    "https://cafe.bellsbeer.com/event/lee-emi-emilee-petersmark-of-the-crane-wives-with-cal-in-red/bells-brewery-tours/",
+    6
+   ],
+   [
+    "https://cafe.bellsbeer.com/event/wreath-making/bells-brewery-tours/",
+    6
+   ],
+   [
+    "https://cafe.bellsbeer.com/event/dwts-finale-watch-party-N/bells-brewery-tours/",
+    6
+   ],
+   [
+    "https://cafe.bellsbeer.com/event/black-friday-kickback-featuring-dc-yolonda-wsg-dj-conscious/bells-brewery-tours/",
+    6
+   ],
+   [
+    "https://cafe.bellsbeer.com/event/lower-leisure-class-with-no-bails-and-krass-kringle/bells-brewery-tours/",
+    6
+   ],
+   [
+    "https://cafe.bellsbeer.com/event/holiday-bizarre-bazaar-N/bells-brewery-tours/",
+    6
+   ],
+   [
+    "https://bellsbeer.com/host-a-private-event/",
+    5
+   ],
+   [
+    "https://events.bellsbeer.com",
     4
-   ],
-   [
-    "/events/index.html",
-    2
-   ],
-   [
-    "https://howard.andrews.edu/events/",
-    1
-   ],
-   [
-    "https://swp-acousticN-berriensprings.eventbrite.com/",
-    1
-   ],
-   [
-    "https://sbyso.org/concerts/sbyso-fall-concert/",
-    1
-   ]
-  ],
-  "ics": [],
-  "feeds": [],
-  "dates": [
-   "December 23, 2021",
-   "January 2, 2022",
-   "January 3, 2022",
-   "November 14, 2026",
-   "November 15, 2026",
-   "November 18, 2026"
-  ],
-  "apis": [
-   "https://swp-acoustic26-berriensprings.eventbrite.com",
-   "https://swp-acoustic26-berriensprings.eventbrite.com/"
-  ],
-  "snip": "dash;Rossano Galante</p> <p> Under Western Skies&mdash;Kevin McKee</p> <p style=\"margin-left: 40px;\"> I. Sundown<br /> II. Sunup&mdash;High Noon</p> <p style=\"margin-left: 40px;\"> (Luke Mularczyk and Valeria Trevino, trumpet soloists)</p> <p> The Irish Washerwoman&mdash;Leroy Anderson</p> <p> Killer Tango&mdash;Sonny Kompanek</p> <p style=\"margin-left: 40px;\"> (Andrews Brass)</p> <p> Courtly Airs &amp; Dances&mdash;Ron Nelson</p> <p style=\"margin-left: 40px;\"> I. Intrada<br /> IV. Saltarello (Italy)<br /> V. Sarabande (Spain)<br /> VI. Allemande (Germany)</p> <p> April in Paris&mdash;Vernon Duke, arr. Rick Stitzel</p> <p style=\"margin-left: 40px;\"> (Jazz Ensemble)</p> <p> <strong>-Intermission-</strong></p> <p> Olympic Fanfare&mdash;John Williams, arr. James Curnow</p> <p> Danzon No. 2&mdash;Arturo M&aacute;rquez, trans. Oliver Nickel</p> <p> Variations on a Korean Folk Song&mdash;John Barnes Chance</p> <p> Arabian Dances&mdash;Roland Barrett</p> <p style=\"margin-left: 40px;\"> (Oscar Flores, undergraduate student conductor)</p> <p> The Stars and Stripes Forever&mdash;John Philip Sousa, arr. Keith Brion</p> <p> &nbsp;</p> <p> <strong>(65:50 minutes)</strong></p> </div> <div class=\"modal-footer\"> <a href=\"#\" class=\"btn btn-sm modal-close\" data-dismiss=\"modal\">Close</a> <a href=\"https://www.tix.com/ticket-sales/howard/6714/event/1472710\" target=\"_blank\" class=\"btn btn-sm buy-tickets\" data-loading-text=\"Loading...\">Buy Tickets&nbsp;&nbsp;></a> </div> </div><!-- /.modal-content --> </div><!-- /.modal-dialog --> </div><!-- /.modal --> </div> </div> <div class=\"col-xs-12 col-sm-2 col-xs-offset-1\"> <div class=\"\"> <a href=\"https://www.tix.com/ticket-sales/howard/6714/event/1472710\" target=\"_blank\" class=\"btn btn-sm buy-tickets\" data-loading-text=\"Loading...\">Buy Tickets&nbsp;&nbsp;></a> </div> </div> </div> <div class=\"row\" data-i\"69540\"> <div class=\"col-xs-12 col-sm-3\"> <a data-toggle=\"modal\" href=\"#event69540\"><img src=\"//www.andrews.edu/i/2x1-thumb/attachments/69/69540/chi-yong-yun.jpg\" /></a> </div> <div class=\"col-xs-12 col-sm-6\"> <h3>Sunday Music Series: Chi Yong Yun</h3> <div class=\"event-date\"> November 15, 2026 04:00 pm </div> <div class=\"\"> <div style=\"display: block;\"> Pianist Chi Yong Yun has been hailed by audiences and critics alike as an artist of rare poetic insight and pianistic brilliance. Yun&rsquo;s performances as a soloist, recitalist and chamber... ",
-  "head": "",
-  "types_json": null,
-  "title": "Andrews University :: Events & Tickets - Howard Performing Arts Center"
- },
- "https://www.goshen.edu/events/performing-arts-series-apollos-fire-vivaldis-four-seasons/": {
-  "status": 200,
-  "final": "https://www.goshen.edu/events/performing-arts-series-apollos-fire-vivaldis-four-seasons/",
-  "bytes": 66086,
-  "ld_types": {
-   "WebPage": 1,
-   "ReadAction": 1,
-   "BreadcrumbList": 1,
-   "ListItem": 2,
-   "WebSite": 1,
-   "SearchAction": 1,
-   "EntryPoint": 1,
-   "PropertyValueSpecification": 1,
-   "Organization": 1,
-   "ImageObject": 1
-  },
-  "links": [
-   [
-    "https://www.goshen.edu/events/",
-    4
-   ],
-   [
-    "https://www.goshen.edu/news-events/",
-    3
-   ],
-   [
-    "https://www.goshen.edu/events/performing-arts-series-apollos-fire-vivaldis-four-seasons/",
-    2
-   ],
-   [
-    "https://www.goshen.edu/events/hershberger-gallery-exhibit-jason-keiser-seth-krabill-thomas-zuber/",
-    2
-   ],
-   [
-    "https://www.goshen.edu/events/fall-main-stage-the-metromaniacs-by-david-ives/",
-    2
-   ],
-   [
-    "https://www.goshen.edu/events/community-school-of-the-arts-winter-choral-showcase/",
-    2
-   ],
-   [
-    "https://es.goshen.edu/events/performing-arts-series-apollos-fire-vivaldis-four-seasons/",
-    1
-   ],
-   [
-    "https://fr.goshen.edu/events/performing-arts-series-apollos-fire-vivaldis-four-seasons/",
-    1
-   ],
-   [
-    "https://pt.goshen.edu/events/performing-arts-series-apollos-fire-vivaldis-four-seasons/",
-    1
-   ],
-   [
-    "https://zh-CN.goshen.edu/events/performing-arts-series-apollos-fire-vivaldis-four-seasons/",
-    1
-   ],
-   [
-    "https://www.goshen.edu/news-events/in-the-news/",
-    1
-   ],
-   [
-    "https://gcmusiccenter.org/N-N-performing-arts-series/",
-    1
-   ],
-   [
-    "https://goleafs.net/calendar",
-    1
-   ],
-   [
-    "https://merrylea.goshen.edu/category/events/",
-    1
-   ],
-   [
-    "https://www.goshen.edu/news-events/lectures/",
-    1
    ]
   ],
   "ics": [],
   "feeds": [
-   "https://www.goshen.edu/website-feedback/"
-  ],
-  "dates": [],
-  "apis": [],
-  "snip": "'><i class='fa-sharp fa-solid fa-caret-down' aria-label='Menu toggle'></i><span class='screen-reader'>Menu Toggle</span></button><div class='submenu-wrapper'> <ul class=\"sub-menu\"> <li id=\"menu-item-45357\" class=\"menu-item menu-item-type-taxonomy menu-item-object-category menu-item-45357\"><a href=\"https://www.goshen.edu/news/category/global-education/\">Global Education</a></li> <li id=\"menu-item-9662\" class=\"menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9662\"><a href=\"https://www.goshen.edu/news/category/president/\">President&#8217;s Blog</a></li> </ul> </div></li> </ul></div></div></div><section class=\"page-title colors-4\"><div class=\"bi-container size-fill\"><img width=\"1920\" height=\"1080\" src=\"https://www.goshen.edu/wp-content/uploads/2026/05/PAS_slides_2026_1920x1080-5.jpg\" class=\"attachment-scaled size-scaled\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.goshen.edu/wp-content/uploads/2026/05/PAS_slides_2026_1920x1080-5.jpg 1920w, https://www.goshen.edu/wp-content/uploads/2026/05/PAS_slides_2026_1920x1080-5-520x293.jpg 520w, https://www.goshen.edu/wp-content/uploads/2026/05/PAS_slides_2026_1920x1080-5-1040x585.jpg 1040w, https://www.goshen.edu/wp-content/uploads/2026/05/PAS_slides_2026_1920x1080-5-768x432.jpg 768w, https://www.goshen.edu/wp-content/uploads/2026/05/PAS_slides_2026_1920x1080-5-1536x864.jpg 1536w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /></div><div class=\"wrapper content\"><p class=\"pagetitle-above\">Events</p><h1>Performing Arts Series: Apollo&#8217;s Fire &#8211; Vivaldi&#8217;s Four Seasons</h1></div></section> <section id=\"info-icons\"> <ul class=\"wrapper content\"> <li> <i class=\"info-icon fa-sharp fa-regular fa-calendar-days\" aria-hidden=\"true\"></i> <p class=\"value\">Wed Nov 11, 7:30pm</p> </li> <li> <i class=\"info-icon fa-sharp fa-regular fa-dollar-sign\" aria-hidden=\"true\"></i> <p class=\"value\">$35, $50 and $60</p> </li> <li> <i class=\"info-icon fa-sharp fa-regular fa-location-pin\" aria-hidden=\"true\"></i> <p class=\"value\">Music Center, Sauder Concert Hall</p> </li> </ul> </section> <section class=\"module text colors-1 text-width-extra text-position-left\"><div class=\"wrapper text-block\"><div class=\"content group align-left no-caption\"><p>As heard in major festivals and cities across the United States, Apollo\u2019s Fire and Jeannette Sorrell present Vivaldi\u2019s beloved Four Seasons as the revolutionary acts of musical storytelling they were meant to be \u2013 bringing Vivaldi\u2019s pictorial descriptions to life. If you thought you knew the Four Seasons, be prepared for surprises! From the bird calls and storms to a barking dog, flies and wasps, drunken peasants, an exhilarating fox hunt with \u201cgunshots,\u201d and more\u2026the story that Vivaldi intended with these pieces is made clear as each concerto is preceded by a quick and polished \u201ctour\u201d of t",
-  "head": "",
-  "types_json": null,
-  "title": "Performing Arts Series: Apollo&#039;s Fire - Vivaldi&#039;s Four Seasons - Goshen College"
- },
- "https://www.goshen.edu/events/": {
-  "status": 200,
-  "final": "https://www.goshen.edu/events/",
-  "bytes": 82914,
-  "ld_types": {
-   "WebPage": 1,
-   "ReadAction": 1,
-   "BreadcrumbList": 1,
-   "ListItem": 2,
-   "WebSite": 1,
-   "SearchAction": 1,
-   "EntryPoint": 1,
-   "PropertyValueSpecification": 1,
-   "Organization": 1,
-   "ImageObject": 1
-  },
-  "links": [
-   [
-    "https://www.goshen.edu/events/",
-    3
-   ],
-   [
-    "https://www.goshen.edu/news-events/",
-    3
-   ],
-   [
-    "https://goleafs.net/calendar",
-    2
-   ],
-   [
-    "https://www.goshen.edu/events-office/",
-    2
-   ],
-   [
-    "https://www.goshen.edu/events/hershberger-gallery-exhibit-jason-keiser-seth-krabill-thomas-zuber/",
-    2
-   ],
-   [
-    "https://www.goshen.edu/events/performing-arts-series-apollos-fire-vivaldis-four-seasons/",
-    2
-   ],
-   [
-    "https://www.goshen.edu/events/fall-main-stage-the-metromaniacs-by-david-ives/",
-    2
-   ],
-   [
-    "https://www.goshen.edu/events/community-school-of-the-arts-winter-choral-showcase/",
-    2
-   ],
-   [
-    "https://www.goshen.edu/events/youth-honors-orchestra-concert/",
-    2
-   ],
-   [
-    "https://www.goshen.edu/events/lavender-jazz-fall-concert/",
-    2
-   ],
-   [
-    "https://www.goshen.edu/events/advent-chapel-lighting-the-campus/",
-    2
-   ],
-   [
-    "https://www.goshen.edu/events/festival-of-carols/",
-    2
-   ],
-   [
-    "https://www.goshen.edu/events/festival-of-carols-N/",
-    2
-   ],
-   [
-    "https://www.goshen.edu/events/performing-arts-series-the-steel-wheels/",
-    2
-   ],
-   [
-    "https://www.goshen.edu/events/yoder-public-affairs-lecture-dr-robert-fatton-jr-haitis-unending-crises-and-struggles-the-hellish-Nst-century/",
-    2
-   ]
-  ],
-  "ics": [],
-  "feeds": [
-   "https://www.goshen.edu/website-feedback/"
+   "https://cafe.bellsbeer.com/feed/",
+   "https://cafe.bellsbeer.com/comments/feed/",
+   "https://cafe.bellsbeer.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcafe.bellsbeer.com%2F",
+   "https://cafe.bellsbeer.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcafe.bellsbeer.com%2F&#038;format=xml",
+   "https://cafe.bellsbeer.com/wp-json/",
+   "https://cafe.bellsbeer.com/wp-json/wp/v2/pages/44"
   ],
   "dates": [
-   "Jan 26, 2027",
-   "Mar 16, 2027",
-   "May 01, 2027",
-   "May 02, 2027"
+   "November 10, 2026",
+   "November 10, 2026",
+   "September 27, 2026"
   ],
-  "apis": [],
-  "snip": "mage-wrapper\"><img width=\"768\" height=\"593\" src=\"https://www.goshen.edu/wp-content/uploads/2026/10/GHS-Art-Teachers-11-x-8.5-in-768x593.jpg\" class=\"attachment-medium_large size-medium_large\" alt=\"Hershberger Gallery Exhibit &#8211; Jason Keiser, Seth Krabill &#038; Thomas Zuber\" decoding=\"async\" srcset=\"https://www.goshen.edu/wp-content/uploads/2026/10/GHS-Art-Teachers-11-x-8.5-in-768x593.jpg 768w, https://www.goshen.edu/wp-content/uploads/2026/10/GHS-Art-Teachers-11-x-8.5-in-520x402.jpg 520w, https://www.goshen.edu/wp-content/uploads/2026/10/GHS-Art-Teachers-11-x-8.5-in.jpg 880w\" sizes=\"(max-width: 768px) 100vw, 768px\" /></div></a><div class=\"info\"><div class=\"date-time\"><i class=\"fa-sharp fa-regular fa-calendar\" aria-hidden=\"true\"></i><p>Fri Nov 06\u2013Sun Dec 06</p></div><a class=\"top icon-after\" href=\"https://www.goshen.edu/events/hershberger-gallery-exhibit-jason-keiser-seth-krabill-thomas-zuber/\"><h2>Hershberger Gallery Exhibit &#8211; Jason Keiser, Seth Krabill &#038; Thomas Zuber<i class=\"icon fa-sharp fa-solid fa-caret-right\" aria-hidden=\"true\"></i></h2></a><div class=\"content\">The opening reception will happen on Nov. 8 at 2.pm. in the Hershberger Art Gallery. Seth Krabill \u201915 is a functional potter, art teacher at Goshen High School and member of the Goshen Clay Artists Guild. He studied art education&hellip;</div></div></div></li><li class=\"card event-card\" data-category=\"general performing-arts\"><div class=\"container\"><a class=\"hoverlay\" href=\"https://www.goshen.edu/events/performing-arts-series-apollos-fire-vivaldis-four-seasons/\" aria-hidden=\"true\" tabindex=\"-1\"><div class=\"image-wrapper\"><img width=\"768\" height=\"432\" src=\"https://www.goshen.edu/wp-content/uploads/2026/05/PAS_slides_2026_1920x1080-5-768x432.jpg\" class=\"attachment-medium_large size-medium_large\" alt=\"Performing Arts Series: Apollo&#8217;s Fire &#8211; Vivaldi&#8217;s Four Seasons\" decoding=\"async\" srcset=\"https://www.goshen.edu/wp-content/uploads/2026/05/PAS_slides_2026_1920x1080-5-768x432.jpg 768w, https://www.goshen.edu/wp-content/uploads/2026/05/PAS_slides_2026_1920x1080-5-520x293.jpg 520w, https://www.goshen.edu/wp-content/uploads/2026/05/PAS_slides_2026_1920x1080-5-1040x585.jpg 1040w, https://www.goshen.edu/wp-content/uploads/2026/05/PAS_slides_2026_1920x1080-5-1536x864.jpg 1536w, https://www.goshen.edu/wp-content/uploads/2026/05/PAS_slides_2026_1920x1080-5.jpg 1920w\" sizes=\"(max-width: 768px) 100vw, 768px\" /></div></a><div class=\"info\"><div class=\"date-time\"><i class=\"fa-sharp fa-regular fa-calendar\" aria-hidden=\"true\"></i><p>Wed Nov 11, 7:30pm</p></div><a class=\"top icon-after\" href=\"https://www.goshen.edu/events/performing-arts-series-apollos-fire-vivaldis-four-seasons/\"><h2>Performing Arts Series: Apollo&#8217;s Fire &#8211; Vivaldi&#8217;s Four Seasons<i class=\"icon fa-sharp fa-solid fa-caret-right\" aria-hidden=\"true\"></i></h2></a><div class=\"content\">As heard in major festivals and cities across the United States, Apollo\u2019s Fire and Jeannette Sorrell present V",
-  "head": "",
-  "types_json": null,
-  "title": "Goshen College Events Calendar"
- },
- "https://state-theatre.org/": {
-  "status": 200,
-  "final": "https://state-theatre.org/",
-  "bytes": 54957,
-  "ld_types": {},
-  "links": [],
-  "ics": [],
-  "feeds": [
-   "https://state-theatre.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstate-theatre.org%2F",
-   "https://state-theatre.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstate-theatre.org%2F&#038;format=xml",
-   "https://state-theatre.org/wp-json/",
-   "https://state-theatre.org/wp-json/wp/v2/pages/9"
-  ],
-  "dates": [],
   "apis": [
    "https://api.w.org/",
-   "https://fonts.googleapis.com",
-   "https://fonts.googleapis.com/css2"
+   "https://fonts.googleapis.com/css",
+   "https://fonts.googleapis.com/css2",
+   "https://www.etix.com/ticket/k/18927895/kait-rose-co-presentsfleetwood-magic-2-day-package-kalamazoo-bells-eccentric-cafe",
+   "https://www.etix.com/ticket/p/32988076/lions-game-brunch-kalamazoo-bells-eccentric-cafe",
+   "https://www.etix.com/ticket/p/46283742/kalamazoo-academy-of-rock-kalamazoo-bells-eccentric-cafe",
+   "https://www.etix.com/ticket/p/48804859/revpeytons-big-damn-band-wsg-adrian-and-meredith-band-kalamazoo-bells-eccentric-cafe",
+   "https://www.etix.com/ticket/p/58523298/lower-leisure-class-with-no-bails-and-krass-kringle-kalamazoo-bells-eccentric-cafe",
+   "https://www.etix.com/ticket/p/58807367/lee-emi-emilee-petersmark-of-the-crane-wiveswith-cal-in-red-kalamazoo-bells-eccentric-cafe",
+   "https://www.etix.com/ticket/p/59491578/holiday-bizarre-bazaar-kalamazoo-bells-eccentric-cafe",
+   "https://www.etix.com/ticket/p/64959567/wreath-making-kalamazoo-bells-eccentric-cafe",
+   "https://www.etix.com/ticket/p/66822849/kait-rose-co-presentsfleetwood-magic-kalamazoo-bells-eccentric-cafe"
   ],
-  "snip": "description_below field_validation_below gfield_visibility_visible\" data-group-id=\"f901e6f4\" data-field-span=\"3\"><label id='gfield_label_4_3' class='gfield_label gform-field-label' for='input_4_3'><span class='gform-field-label__text'>Email</span><span class=\"gfield_required\"><span class=\"gfield_required gfield_required_asterisk\">*</span></span></label><div class='ginput_container ginput_container_email'> <input name='input_3' id='input_4_3' type='email' value='' class='form-control large' placeholder='email@email.com' aria-required=\"true\" aria-invalid=\"false\" /> </div></div><div id=\"field_submit_4\" class=\"gfield gfield--type-submit gfield--width-quarter field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible\" data-field-class=\"gform_editor_submit_container\" data-field-position=\"inline\"><button type=\"submit\" id=\"gform_submit_button_4\" class=\"gform-button gform-button--white button btn btn-primary\" onclick=\"gform.submission.handleButtonClick(this);\" data-submission-type=\"submit\">Submit</button></div></div></div> <div class='gform-footer gform_footer top_label'> <input type='hidden' name='gform_ajax' value='form_id=4&amp;title=&amp;description=&amp;tabindex=0&amp;theme=gravity-theme&amp;hash=9f6361361dea8bba67d24c89dc797fb7' /> <input type='hidden' class='gform_hidden' name='gform_submission_method' data-js='gform_submission_method_4' value='iframe' /> <input type='hidden' class='gform_hidden' name='gform_theme' data-js='gform_theme_4' id='gform_theme_4' value='gravity-theme' /> <input type='hidden' class='gform_hidden' name='gform_style_settings' data-js='gform_style_settings_4' id='gform_style_settings_4' value='' /> <input type='hidden' class='gform_hidden' name='is_submit_4' value='1' /> <input type='hidden' class='gform_hidden' name='gform_submit' value='4' /> <input type='hidden' class='gform_hidden' name='gform_currency' data-currency='USD' value='iPiJRO+w5kMFqFLV3P5Mo+R8hA3uST36CxtheqAmOD0boOOa+AQdA92TLi0C4CnykAvrcmqXRwe8v9yd24Khw1dDzF12pTMmgp+VOGKUBduGsLw=' /> <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' /> <input type='hidden' class='gform_hidden' name='state_4' value='WyJ7XCJnZm9ybV9zdWJtaXNzaW9uX21ldGhvZFwiOltcIjhmZWZhNTc4YTdmOWI0MGY0Mjc1MWYzMmQ5YTM0YWYxXCIsXCI5NGZjMmQ0OTc3YTgwNmE5ZWJhYWQ3NjUyNDcyMTQ4OVwiLFwiMGJiMGYyNDJkOGJkYzJlYTI4YjM0ZjI2ZjgyMWJiMTJcIl0sXCJnZm9ybV90aGVtZVwiOlwiOWE4NDBhMjNiOTJlOGNjZTM5NDBiZjRlZDVjYmExMTlcIixcImdmb3JtX3N0eWxlX3NldHRpbmdzXCI6XCIxYTZkMGUyZTk0NzVmYjc4YzNlYzBmMTgzZGE1NWNkYVwiLFwiZm9ybV9pZFwiOlwiNzI1NjliNTllNDI0Mzc1NGEyZTQ0NjQzYzJkNWYzYjZcIixcInVybFwiOlwiY2JhZmNjYWFlMzc0NTI5MDkzODQ0NWFhMWE0NGVmZTNcIixcInN0YXRlX3RpbWVzdGFtcFwiOlwiODUyYzc5MjE4OGQ4YjBlMmQ2ZjViM2UzN2ZhMTc4NjNcIn0iLCI3NTI4NzcwYWIxNGM3YTk4MjdlYjBkY2U5ZTczYjIyYyIsMTc5NDI3NjY1Ml0=' /> ",
+  "snip": "-in-links\" title=\"https://bellsbeer.com/beers/special-double-cream-stout/\" href=\"https://bellsbeer.com/beers/special-double-cream-stout/\" target=\"_blank\" rel=\"noreferrer noopener\" data-auth=\"NotApplicable\" data-ogsc=\"\" data-outlook-id=\"bd6b7038-223d-4330-9c7f-47fbe1c92eb3\" data-linkindex=\"0\" data-olk-copy-source=\"MessageBody\">Special <span class=\"markz4fngxwop\" data-markjs=\"true\" data-ogac=\"\" data-ogab=\"\" data-ogsc=\"\" data-ogsb=\"\" data-ogsbtc=\"\" data-ogsbrc=\"\" data-ogsbbc=\"\" data-ogsblc=\"\">Double</span> <span class=\"markg93oxmkxh\" data-markjs=\"true\" data-ogac=\"\" data-ogab=\"\" data-ogsc=\"\" data-ogsb=\"\" data-ogsbtc=\"\" data-ogsbrc=\"\" data-ogsbbc=\"\" data-ogsblc=\"\">Cream</span> Stout</a> | 4 | 8<br />6.1% ABV &#8211; Named for its velvety smooth, <span class=\"markg93oxmkxh\" data-markjs=\"true\" data-ogac=\"\" data-ogab=\"\" data-ogsc=\"\" data-ogsb=\"\" data-ogsbtc=\"\" data-ogsbrc=\"\" data-ogsbbc=\"\" data-ogsblc=\"\">cream</span>y texture, this incredibly rich stout is brewed with 10 different specialty roasted malts chosen that impart notes of rich mocha and espresso.</p> <div dir=\"auto\" data-ogsc=\"rgb(33, 33, 33)\"> </div></div> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-e6ceb1e elementor-widget elementor-widget-text-editor\" data-id=\"e6ceb1e\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\"> <div class=\"elementor-widget-container\"> <p style=\"text-align: left;\">*Last Updated:<em><strong> November 10, 2026</strong></em></p> <p style=\"text-align: left;\">Not current enough? <br />Check the Tap Camera snapshot for an almost-real-time report during <a role=\"link\" href=\"https://bellsbeer.com/eccentric-cafe/#cafehours\">cafe hours.</a></p> <p>Don\u2019t forget to visit our General Store next door to check out the rotating variety of Kalamazoo Exclusive Beers, as well as packaged Bell&#8217;s Flagship Beers!</p> </div> </div> </div> </div> <div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2b1d874\" data-id=\"2b1d874\" data-element_type=\"column\" data-e-type=\"column\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\"> <div class=\"elementor-widget-wrap elementor-element-populated\"> <div class=\"elementor-element elementor-element-7215a71 elementor-widget elementor-widget-template\" data-id=\"7215a71\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"template.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-template\"> <div data-elementor-type=\"section\" data-elementor-id=\"67132\" class=\"elementor elementor-67132\" data-elementor-settings=\"{&quot;ha_cmc_init_switcher&quot;:&quot;no&quot;}\" data-elementor-post-type=\"elementor_library\"> <section class=\"elementor-section elementor-top-section elementor-element elementor-element-aabae42 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" d",
   "head": "",
   "types_json": null,
-  "title": "The State Theatre &#8211; Kalamazoo, Michigan"
+  "title": "Cafe &#8211; Bell&#039;s Brewery"
  },
- "https://fightingirish.com/sports/football/schedule": {
+ "https://cafe.bellsbeer.com/": {
   "status": 200,
-  "final": "https://fightingirish.com/sports/football/schedule",
-  "bytes": 579085,
-  "ld_types": {
-   "WebSite": 1,
-   "SearchAction": 1,
-   "EntryPoint": 1,
-   "WebPage": 1,
-   "ReadAction": 1
-  },
+  "final": "https://cafe.bellsbeer.com/",
+  "bytes": 470187,
+  "ld_types": {},
   "links": [
    [
-    "/_nuxt/EventsList.CCha-AIc.css",
-    1
+    "https://cafe.bellsbeer.com/event/kait-rose-co-presents-fleetwood-magic-N/bells-brewery-tours/",
+    12
    ],
    [
-    "/tickets/fbtickets/",
-    1
+    "https://cafe.bellsbeer.com/event/kalamazoo-academy-of-rock-N/bells-brewery-tours/",
+    12
    ],
    [
-    "/tickets/mbbtickets/",
-    1
+    "https://cafe.bellsbeer.com/event/kait-rose-co-presents-fleetwood-magic-N-day-package/bells-brewery-tours/",
+    6
    ],
    [
-    "/tickets/wbbtickets/",
-    1
+    "https://cafe.bellsbeer.com/event/lions-game-brunch/bells-brewery-tours/",
+    6
    ],
    [
-    "/tickets/hkytickets/",
-    1
+    "https://cafe.bellsbeer.com/event/welshly-arms-with-the-astronomers/bells-brewery-tours/",
+    6
    ],
    [
-    "/tickets/premium-experiences/",
-    1
+    "https://cafe.bellsbeer.com/event/rev-peytons-big-damn-band-wsg-adrian-and-meredith-band/bells-brewery-tours/",
+    6
    ],
    [
-    "https://seatgeek.com/notre-dame-fighting-irish-football-tickets",
-    1
+    "https://cafe.bellsbeer.com/event/small-brown-bike-with-criteria-and-bronson-arm/bells-brewery-tours/",
+    6
+   ],
+   [
+    "https://cafe.bellsbeer.com/event/lee-emi-emilee-petersmark-of-the-crane-wives-with-cal-in-red/bells-brewery-tours/",
+    6
+   ],
+   [
+    "https://cafe.bellsbeer.com/event/wreath-making/bells-brewery-tours/",
+    6
+   ],
+   [
+    "https://cafe.bellsbeer.com/event/dwts-finale-watch-party-N/bells-brewery-tours/",
+    6
+   ],
+   [
+    "https://cafe.bellsbeer.com/event/black-friday-kickback-featuring-dc-yolonda-wsg-dj-conscious/bells-brewery-tours/",
+    6
+   ],
+   [
+    "https://cafe.bellsbeer.com/event/lower-leisure-class-with-no-bails-and-krass-kringle/bells-brewery-tours/",
+    6
+   ],
+   [
+    "https://cafe.bellsbeer.com/event/holiday-bizarre-bazaar-N/bells-brewery-tours/",
+    6
+   ],
+   [
+    "https://bellsbeer.com/host-a-private-event/",
+    5
+   ],
+   [
+    "https://events.bellsbeer.com",
+    4
    ]
   ],
   "ics": [],
-  "feeds": [],
+  "feeds": [
+   "https://cafe.bellsbeer.com/feed/",
+   "https://cafe.bellsbeer.com/comments/feed/",
+   "https://cafe.bellsbeer.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcafe.bellsbeer.com%2F",
+   "https://cafe.bellsbeer.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcafe.bellsbeer.com%2F&#038;format=xml",
+   "https://cafe.bellsbeer.com/wp-json/",
+   "https://cafe.bellsbeer.com/wp-json/wp/v2/pages/44"
+  ],
   "dates": [
-   "February 15, 2026",
-   "May 14, 2016",
-   "May 10, 2023",
-   "March 17, 2023",
-   "September 30, 2017",
-   "September 28, 2019"
+   "November 10, 2026",
+   "November 10, 2026",
+   "September 27, 2026"
   ],
   "apis": [
-   "https://seatgeek.com/notre-dame-fighting-irish-football-tickets",
-   "https://storage.googleapis.com/fightingirish-com/2026/10/15/Cvas4yI2cPam9GUQ2S7cbCKzp0LamfzUjhttY6VZ.pdf"
+   "https://api.w.org/",
+   "https://fonts.googleapis.com/css",
+   "https://fonts.googleapis.com/css2",
+   "https://www.etix.com/ticket/k/18927895/kait-rose-co-presentsfleetwood-magic-2-day-package-kalamazoo-bells-eccentric-cafe",
+   "https://www.etix.com/ticket/p/32988076/lions-game-brunch-kalamazoo-bells-eccentric-cafe",
+   "https://www.etix.com/ticket/p/46283742/kalamazoo-academy-of-rock-kalamazoo-bells-eccentric-cafe",
+   "https://www.etix.com/ticket/p/48804859/revpeytons-big-damn-band-wsg-adrian-and-meredith-band-kalamazoo-bells-eccentric-cafe",
+   "https://www.etix.com/ticket/p/58523298/lower-leisure-class-with-no-bails-and-krass-kringle-kalamazoo-bells-eccentric-cafe",
+   "https://www.etix.com/ticket/p/58807367/lee-emi-emilee-petersmark-of-the-crane-wiveswith-cal-in-red-kalamazoo-bells-eccentric-cafe",
+   "https://www.etix.com/ticket/p/59491578/holiday-bizarre-bazaar-kalamazoo-bells-eccentric-cafe",
+   "https://www.etix.com/ticket/p/64959567/wreath-making-kalamazoo-bells-eccentric-cafe",
+   "https://www.etix.com/ticket/p/66822849/kait-rose-co-presentsfleetwood-magic-kalamazoo-bells-eccentric-cafe"
+  ],
+  "snip": "-in-links\" title=\"https://bellsbeer.com/beers/special-double-cream-stout/\" href=\"https://bellsbeer.com/beers/special-double-cream-stout/\" target=\"_blank\" rel=\"noreferrer noopener\" data-auth=\"NotApplicable\" data-ogsc=\"\" data-outlook-id=\"bd6b7038-223d-4330-9c7f-47fbe1c92eb3\" data-linkindex=\"0\" data-olk-copy-source=\"MessageBody\">Special <span class=\"markz4fngxwop\" data-markjs=\"true\" data-ogac=\"\" data-ogab=\"\" data-ogsc=\"\" data-ogsb=\"\" data-ogsbtc=\"\" data-ogsbrc=\"\" data-ogsbbc=\"\" data-ogsblc=\"\">Double</span> <span class=\"markg93oxmkxh\" data-markjs=\"true\" data-ogac=\"\" data-ogab=\"\" data-ogsc=\"\" data-ogsb=\"\" data-ogsbtc=\"\" data-ogsbrc=\"\" data-ogsbbc=\"\" data-ogsblc=\"\">Cream</span> Stout</a> | 4 | 8<br />6.1% ABV &#8211; Named for its velvety smooth, <span class=\"markg93oxmkxh\" data-markjs=\"true\" data-ogac=\"\" data-ogab=\"\" data-ogsc=\"\" data-ogsb=\"\" data-ogsbtc=\"\" data-ogsbrc=\"\" data-ogsbbc=\"\" data-ogsblc=\"\">cream</span>y texture, this incredibly rich stout is brewed with 10 different specialty roasted malts chosen that impart notes of rich mocha and espresso.</p> <div dir=\"auto\" data-ogsc=\"rgb(33, 33, 33)\"> </div></div> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-e6ceb1e elementor-widget elementor-widget-text-editor\" data-id=\"e6ceb1e\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\"> <div class=\"elementor-widget-container\"> <p style=\"text-align: left;\">*Last Updated:<em><strong> November 10, 2026</strong></em></p> <p style=\"text-align: left;\">Not current enough? <br />Check the Tap Camera snapshot for an almost-real-time report during <a role=\"link\" href=\"https://bellsbeer.com/eccentric-cafe/#cafehours\">cafe hours.</a></p> <p>Don\u2019t forget to visit our General Store next door to check out the rotating variety of Kalamazoo Exclusive Beers, as well as packaged Bell&#8217;s Flagship Beers!</p> </div> </div> </div> </div> <div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2b1d874\" data-id=\"2b1d874\" data-element_type=\"column\" data-e-type=\"column\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\"> <div class=\"elementor-widget-wrap elementor-element-populated\"> <div class=\"elementor-element elementor-element-7215a71 elementor-widget elementor-widget-template\" data-id=\"7215a71\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"template.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-template\"> <div data-elementor-type=\"section\" data-elementor-id=\"67132\" class=\"elementor elementor-67132\" data-elementor-settings=\"{&quot;ha_cmc_init_switcher&quot;:&quot;no&quot;}\" data-elementor-post-type=\"elementor_library\"> <section class=\"elementor-section elementor-top-section elementor-element elementor-element-aabae42 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" d",
+  "head": "",
+  "types_json": null,
+  "title": "Cafe &#8211; Bell&#039;s Brewery"
+ },
+ "https://www.silverharborbrewing.com/": {
+  "status": 200,
+  "final": "https://silverharborbrewing.com/",
+  "bytes": 152690,
+  "ld_types": {},
+  "links": [
+   [
+    "https://silverharborbrewing.com/group-events/",
+    8
+   ],
+   [
+    "https://silverharborbrewing.com/events/",
+    5
+   ]
+  ],
+  "ics": [],
+  "feeds": [
+   "https://silverharborbrewing.com/feed/",
+   "https://silverharborbrewing.com/comments/feed/",
+   "https://silverharborbrewing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsilverharborbrewing.com%2F",
+   "https://silverharborbrewing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsilverharborbrewing.com%2F&#038;format=xml",
+   "https://silverharborbrewing.com/wp-json/",
+   "https://silverharborbrewing.com/wp-json/wp/v2/pages/35"
+  ],
+  "dates": [],
+  "apis": [
+   "https://api.w.org/"
   ],
   "snip": "",
   "head": "",
   "types_json": null,
-  "title": "Football 2026-27 - Notre Dame Fighting Irish - Official Athletics Website"
+  "title": "Silver Harbor Brewing Company &#8211; St. Joseph Michigan Brewery"
  },
- "https://fightingirish.com/api/v2/schedule?sport=football": {
-  "error": "HTTP Error 404: Not Found"
- },
- "https://wmubroncos.com/sports/mens-basketball/schedule": {
+ "https://www.journeyman.com/featherbone/": {
   "status": 200,
-  "final": "https://wmubroncos.com/sports/mens-basketball/schedule",
-  "bytes": 694472,
+  "final": "https://www.journeyman.com/featherbone/",
+  "bytes": 115454,
   "ld_types": {
-   "SportsTeam": 66,
-   "Place": 33,
-   "PostalAddress": 33,
-   "ImageObject": 33,
-   "SportsEvent": 33
+   "WebPage": 1,
+   "ReadAction": 1,
+   "BreadcrumbList": 1,
+   "ListItem": 2,
+   "WebSite": 1,
+   "SearchAction": 1,
+   "EntryPoint": 1,
+   "PropertyValueSpecification": 1,
+   "Organization": 1,
+   "ImageObject": 1
   },
   "links": [
    [
-    "https://wmubroncos.evenue.net/event/BN/BN",
-    28
-   ],
-   [
-    "http://www.wmuevents.com/",
-    2
-   ],
-   [
-    "/calendar",
+    "https://www.journeyman.com/events/",
     1
    ],
    [
-    "wmubroncos.com/tickets",
+    "https://www.journeyman.com/events-form/",
     1
    ],
    [
-    "/sports/N/N/N/group-ticket-sales-N.aspx",
-    1
-   ],
-   [
-    "https://wmubroncos.com/studenttickets",
-    1
-   ],
-   [
-    "https://wmubroncos.com/calendar",
-    1
-   ],
-   [
-    "/sports/N/N/N/football-ticket-game-day-information",
-    1
-   ],
-   [
-    "http://www.statbroadcast.com/events/statmonitr.php",
-    1
-   ],
-   [
-    "https://wmualumni.org/w/calendar-of-events",
+    "https://ar.pinterest.com/journeymanevents/_created/",
     1
    ]
   ],
   "ics": [],
   "feeds": [],
-  "dates": [
-   "November 2, 2026",
-   "November 2, 2026",
-   "November 2, 2026",
-   "November 2, 2026",
-   "November 2, 2026",
-   "November 5, 2026"
-  ],
-  "apis": [
-   "https://fonts.googleapis.com/css2"
-  ],
-  "snip": "TopLevelTimeout) } }) } window.s3_bucket_path = 'https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/wmich.sidearmsports.com';window.cdn_path = 'https://dbukjj6eu5tsf.cloudfront.net/';window.custom_cdn_url = '';window.urlArgs = '639027926921996534';window.cbs_school = false;window.has_alerts = false;window.disable_ad_blocker_check = false;</script><script>window.associated_sport = {\"id\":4,\"title\":\"Men's Basketball\",\"abbreviation\":\"MBB\",\"shortname\":\"mbball\",\"short_title\":\"\",\"global_sport_id\":3,\"non_sport\":false,\"show_at_vs\":false,\"global_sport_shortname\":null,\"gender\":\"m\",\"youtube\":\"PLWJ7YB88XaCrsIjxfgxI7fVlzSn0DtJIY\",\"facebook\":\"https://www.facebook.com/WMUMBB\",\"twitter\":\"@WMUMBB\",\"instagram\":\"wmumbb\",\"pinterest\":\"\",\"tickets\":\"\",\"global_sport_name_slug\":\"mens-basketball\",\"url\":null,\"ranking\":null,\"game_synonym\":null};</script><meta property=\"og:determiner\" content=\"the\"><meta property=\"og:locale\" content=\"en_US\"><meta property=\"og:site_name\" content=\"Western Michigan University Athletics\"><meta property=\"og:url\" content=\"https://wmubroncos.com/sports/mens-basketball/schedule\"><script type=\"application/ld+json\">[{\"@context\":\"https://schema.org/\",\"name\":\"Western Michigan University Vs Buffalo\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Western Michigan University\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Buffalo\"},\"startDate\":\"2026-12-02T19:00:00\",\"endDate\":\"2026-12-02T19:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"University Arena\",\"address\":{\"streetAddress\":\"Kalamazoo, Mich.\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\"Western Michigan University Vs Buffalo on 12/2/2026 7:00:00 PM\",\"image\":{\"url\":\"https://wmubroncos.com/images/logos/site/site.png\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Western Michigan University At Bowling Green\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Western Michigan University\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Bowling Green\"},\"startDate\":\"2026-12-05T14:00:00\",\"endDate\":\"2026-12-05T14:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Bowling Green, Ohio\",\"address\":{\"streetAddress\":\"Bowling Green, Ohio\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\"Western Michigan University At Bowling Green on 12/5/2026 2:00:00 PM\",\"image\":{\"url\":\"https://wmubroncos.com/images/logos/site/site.png\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Western Michigan University At UMass\",\"url\":null,\"homeTeam\":",
+  "dates": [],
+  "apis": [],
+  "snip": "/cdn.sitesearch360.com\" rel=\"dns-prefetch\"> <link data-rocket-prefetch href=\"https://js.peek.com\" rel=\"dns-prefetch\"> <link data-rocket-prefetch href=\"https://static.hotjar.com\" rel=\"dns-prefetch\"> <link data-rocket-prefetch href=\"https://script.hotjar.com\" rel=\"dns-prefetch\"> <link data-rocket-prefetch href=\"https://googleads.g.doubleclick.net\" rel=\"dns-prefetch\"> <link data-rocket-prefetch href=\"https://www.google.com\" rel=\"dns-prefetch\"> <link crossorigin data-rocket-preload as=\"font\" href=\"https://www.journeyman.com/wp-content/themes/journeyman/fonts/BebasNeue-webfont.woff2\" rel=\"preload\"> <link crossorigin data-rocket-preload as=\"font\" href=\"https://www.journeyman.com/wp-content/themes/journeyman/fonts/Acumin-Pro-Semibold.ttf\" rel=\"preload\"><link rel=\"preload\" data-rocket-preload as=\"image\" href=\"https://www.journeyman.com/wp-content/smush-webp/2023/11/journeyman-distillery-american-factory-001-600x600-1.jpg.webp\" fetchpriority=\"high\"> <link rel=\"canonical\" href=\"https://www.journeyman.com/featherbone/\" /> <meta property=\"og:locale\" content=\"en_US\" /> <meta property=\"og:type\" content=\"article\" /> <meta property=\"og:title\" content=\"The Featherbone Factory - Journeyman Distillery\" /> <meta property=\"og:url\" content=\"https://www.journeyman.com/featherbone/\" /> <meta property=\"og:site_name\" content=\"Journeyman Distillery\" /> <meta property=\"article:publisher\" content=\"https://www.facebook.com/journeyman.distillery/\" /> <meta property=\"article:modified_time\" content=\"2026-09-17T15:10:23+00:00\" /> <meta name=\"twitter:card\" content=\"summary_large_image\" /> <script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.journeyman.com\\/featherbone\\/\",\"url\":\"https:\\/\\/www.journeyman.com\\/featherbone\\/\",\"name\":\"The Featherbone Factory - Journeyman Distillery\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.journeyman.com\\/#website\"},\"datePublished\":\"2023-10-06T20:47:35+00:00\",\"dateModified\":\"2026-09-17T15:10:23+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.journeyman.com\\/featherbone\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.journeyman.com\\/featherbone\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.journeyman.com\\/featherbone\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.journeyman.com\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"The Featherbone Factory\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.journeyman.com\\/#website\",\"url\":\"https:\\/\\/www.journeyman.com\\/\",\"name\":\"Journeyman Distillery\",\"description\":\"\",\"publisher\":{\"@id\":\"https:\\/\\/www.journeyman.com\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.journeyman.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organ",
   "head": "",
   "types_json": null,
-  "title": "2026-27 Men's Basketball Schedule - Western Michigan University Athletics"
+  "title": "The Featherbone Factory - Journeyman Distillery"
  },
- "https://wmubroncos.com/sports/mens-ice-hockey/schedule": {
+ "https://www.goshenbrewing.com/": {
   "status": 200,
-  "final": "https://wmubroncos.com/sports/mens-ice-hockey/schedule",
-  "bytes": 979014,
-  "ld_types": {
-   "SportsTeam": 82,
-   "Place": 41,
-   "PostalAddress": 41,
-   "ImageObject": 41,
-   "SportsEvent": 41
-  },
-  "links": [
-   [
-    "https://nchchockey.com/tv/schedule/event/N",
-    46
-   ],
-   [
-    "https://wmubroncos.evenue.net/event/HN/HN",
-    12
-   ],
-   [
-    "http://www.wmuevents.com/",
-    2
-   ],
-   [
-    "/calendar",
-    1
-   ],
-   [
-    "wmubroncos.com/tickets",
-    1
-   ],
-   [
-    "/sports/N/N/N/group-ticket-sales-N.aspx",
-    1
-   ],
-   [
-    "https://wmubroncos.com/studenttickets",
-    1
-   ],
-   [
-    "https://wmubroncos.com/calendar",
-    1
-   ],
-   [
-    "/sports/N/N/N/football-ticket-game-day-information",
-    1
-   ],
-   [
-    "http://www.statbroadcast.com/events/statmonitr.php",
-    1
-   ],
-   [
-    "https://wmualumni.org/w/calendar-of-events",
-    1
-   ],
-   [
-    "https://www.ticketmaster.com/great-lakes-invitational-grand-rapids-michigan-N-N-N/event/NFNBCDND",
-    1
-   ],
-   [
-    "https://www.ticketmaster.com/great-lakes-invitational-grand-rapids-michigan-N-N-N/event/NFNCNDN",
-    1
-   ],
-   [
-    "https://wmubroncos.evenue.net/event/OGN/GN",
-    1
-   ]
-  ],
-  "ics": [],
-  "feeds": [],
-  "dates": [
-   "October 3, 2026",
-   "October 3, 2026",
-   "October 8, 2026",
-   "October 8, 2026",
-   "October 8, 2026",
-   "October 9, 2026"
-  ],
-  "apis": [
-   "https://fonts.googleapis.com/css2",
-   "https://www.ticketmaster.com/great-lakes-invitational-grand-rapids-michigan-12-29-2026/event/08006533F6BCD53D",
-   "https://www.ticketmaster.com/great-lakes-invitational-grand-rapids-michigan-12-30-2026/event/08006533F6C2D547"
-  ],
-  "snip": " } }) } window.s3_bucket_path = 'https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/wmich.sidearmsports.com';window.cdn_path = 'https://dbukjj6eu5tsf.cloudfront.net/';window.custom_cdn_url = '';window.urlArgs = '639027926307140372';window.cbs_school = false;window.has_alerts = false;window.disable_ad_blocker_check = false;</script><script>window.associated_sport = {\"id\":5,\"title\":\"Men's Ice Hockey\",\"abbreviation\":\"MHOCKEY\",\"shortname\":\"mhockey\",\"short_title\":\"\",\"global_sport_id\":13,\"non_sport\":false,\"show_at_vs\":false,\"global_sport_shortname\":null,\"gender\":\"m\",\"youtube\":\"PL1CF1025BC1F8A14F\",\"facebook\":\"https://www.facebook.com/WMUHockey\",\"twitter\":\"@WMUHockey\",\"instagram\":\"wmu_hockey\",\"pinterest\":\"\",\"tickets\":\"\",\"global_sport_name_slug\":\"mens-ice-hockey\",\"url\":null,\"ranking\":null,\"game_synonym\":null};</script><meta property=\"og:determiner\" content=\"the\"><meta property=\"og:locale\" content=\"en_US\"><meta property=\"og:site_name\" content=\"Western Michigan University Athletics\"><meta property=\"og:url\" content=\"https://wmubroncos.com/sports/mens-ice-hockey/schedule\"><script type=\"application/ld+json\">[{\"@context\":\"https://schema.org/\",\"name\":\"Western Michigan University Vs Western Ontario (Exhibition)\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Western Michigan University\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Western Ontario (Exhibition)\"},\"startDate\":\"2026-10-03T18:00:00\",\"endDate\":\"2026-10-03T18:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Lawson Arena\",\"address\":{\"streetAddress\":\"\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\"Western Michigan University Vs Western Ontario (Exhibition) on 10/3/2026 6:00:00 PM\",\"image\":{\"url\":\"https://wmubroncos.com/images/logos/site/site.png\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Western Michigan University Vs Ferris State University\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Western Michigan University\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Ferris State University\"},\"startDate\":\"2026-10-08T19:00:00\",\"endDate\":\"2026-10-08T19:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Lawson Arena\",\"address\":{\"streetAddress\":\"\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\"Western Michigan University Vs Ferris State University on 10/8/2026 7:00:00 PM\",\"image\":{\"url\":\"https://wmubroncos.com/images/logos/site/site.png\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Western Michigan University At Ferris State University\"",
-  "head": "",
-  "types_json": null,
-  "title": "2026-27 Men's Ice Hockey Schedule - Western Michigan University Athletics"
- },
- "https://goleafs.net/calendar": {
-  "status": 200,
-  "final": "https://goleafs.net/calendar",
-  "bytes": 380432,
+  "final": "https://goshenbrewing.com/",
+  "bytes": 310592,
   "ld_types": {},
   "links": [
    [
-    "/less/responsive/calendar.less",
-    1
+    "https://goshenbrewing.com/events/",
+    4
    ],
    [
-    "https://www.ticketsmarter.com/goshen-maple-leafs",
-    1
-   ],
-   [
-    "/calendar",
-    1
-   ],
-   [
-    "https://www.goshen.edu/tickets",
+    "https://goshenbrewing.com/wp-json/tribe/events/vN/",
     1
    ]
   ],
   "ics": [],
   "feeds": [
-   "/rss"
+   "https://goshenbrewing.com/events/?ical=1",
+   "https://goshenbrewing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgoshenbrewing.com%2F",
+   "https://goshenbrewing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgoshenbrewing.com%2F&#038;format=xml",
+   "https://goshenbrewing.com/wp-json/",
+   "https://goshenbrewing.com/wp-json/wp/v2/pages/730",
+   "https://goshenbrewing.com/wp-json/tribe/events/v1/"
   ],
-  "dates": [
-   "August 6, 2025",
-   "August 6, 2025",
-   "August 6, 2025"
+  "dates": [],
+  "apis": [
+   "https://api.w.org/",
+   "https://fonts.googleapis.com/css"
   ],
+  "snip": "",
+  "head": "",
+  "types_json": null,
+  "title": "Goshen Brewing Company, Goshen, Indiana"
+ },
+ "https://www.sbbrewwerks.com/": {
+  "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1000)>"
+ },
+ "https://www.roundbarn.com/": {
+  "status": 200,
+  "final": "https://roundbarn.com/",
+  "bytes": 6607,
+  "ld_types": {},
+  "links": [],
+  "ics": [],
+  "feeds": [
+   "/assets/icns/manifest.json"
+  ],
+  "dates": [],
   "apis": [
    "https://fonts.googleapis.com/css2"
   ],
-  "snip": "cial_media_links\":null,\"schedule_roster_news_links\":null,\"items\":[],\"stats\":null,\"tickets\":null,\"youtube\":null},{\"id\":110,\"title\":\"Support Athletics\",\"short_title\":null,\"rank\":2,\"column\":2,\"url\":\"\",\"separator\":true,\"open_in_new_window\":false,\"sport_id_association\":null,\"sport\":{\"id\":0,\"title\":null,\"abbreviation\":null,\"shortname\":null,\"short_title\":null,\"global_sport_id\":null,\"non_sport\":false,\"show_at_vs\":false,\"global_sport_shortname\":null,\"gender\":null,\"youtube\":null,\"facebook\":null,\"twitter\":null,\"instagram\":null,\"pinterest\":null,\"tickets\":null,\"global_sport_name_slug\":null,\"url\":null,\"ranking\":null,\"game_synonym\":null},\"class_name\":null,\"social_media_links\":null,\"schedule_roster_news_links\":null,\"items\":[],\"stats\":null,\"tickets\":null,\"youtube\":null},{\"id\":111,\"title\":\"Maple Leaf Athletic Club\",\"short_title\":null,\"rank\":3,\"column\":2,\"url\":\"/sports/2020/5/12/60_132337721727575359\",\"separator\":false,\"open_in_new_window\":false,\"sport_id_association\":null,\"sport\":{\"id\":0,\"title\":null,\"abbreviation\":null,\"shortname\":null,\"short_title\":null,\"global_sport_id\":null,\"non_sport\":false,\"show_at_vs\":false,\"global_sport_shortname\":null,\"gender\":null,\"youtube\":null,\"facebook\":null,\"twitter\":null,\"instagram\":null,\"pinterest\":null,\"tickets\":null,\"global_sport_name_slug\":null,\"url\":null,\"ranking\":null,\"game_synonym\":null},\"class_name\":null,\"social_media_links\":null,\"schedule_roster_news_links\":null,\"items\":[],\"stats\":null,\"tickets\":null,\"youtube\":null},{\"id\":112,\"title\":\"MLAC Golf Outing (August 6, 2025)\",\"short_title\":null,\"rank\":5,\"column\":2,\"url\":\"/sports/2020/5/12/106_132337722318543947\",\"separator\":false,\"open_in_new_window\":false,\"sport_id_association\":null,\"sport\":{\"id\":0,\"title\":null,\"abbreviation\":null,\"shortname\":null,\"short_title\":null,\"global_sport_id\":null,\"non_sport\":false,\"show_at_vs\":false,\"global_sport_shortname\":null,\"gender\":null,\"youtube\":null,\"facebook\":null,\"twitter\":null,\"instagram\":null,\"pinterest\":null,\"tickets\":null,\"global_sport_name_slug\":null,\"url\":null,\"ranking\":null,\"game_synonym\":null},\"class_name\":null,\"social_media_links\":null,\"schedule_roster_news_links\":null,\"items\":[],\"stats\":null,\"tickets\":null,\"youtube\":null},{\"id\":113,\"title\":\"Corporate Sponsors\",\"short_title\":null,\"rank\":9,\"column\":2,\"url\":\"/sports/2020/5/12/152_132337722889206706\",\"separator\":false,\"open_in_new_window\":false,\"sport_id_association\":null,\"sport\":{\"id\":0,\"title\":null,\"abbreviation\":null,\"shortname\":null,\"short_title\":null,\"global_sport_id\":null,\"non_sport\":false,\"show_at_vs\":false,\"global_sport_shortname\":null,\"gender\":null,\"youtube\":null,\"facebook\":null,\"twitter\":null,\"instagram\":null,\"pinterest\":null,\"tickets\":null,\"global_sport_name_slug\":null,\"url\":null,\"ranking\":null,\"game_synonym\":null},\"class_name\":null,\"social_media_links\":null,\"schedule_roster_news_links\":null,\"items\":[],\"stats\":null,\"tickets\":null,\"youtube\":null},{\"id\":114,\"title\":\"Student-Athlete Services\",\"short_title\":null,\"rank\":12,\"column\":2,\"url\":\"\",\"separator\":true,\"open_in_new_window\":fa",
+  "snip": "",
   "head": "",
   "types_json": null,
-  "title": "Composite Schedule - Goshen College"
+  "title": "Round Barn Winery, Brewery &amp; Distillery | Southwest Michigan | Round Barn Winery &amp; Estate"
+ },
+ "https://www.greenbushbrewing.com/": {
+  "status": 200,
+  "final": "https://www.greenbushbrewing.com/",
+  "bytes": 133336,
+  "ld_types": {
+   "WebSite": 1,
+   "Organization": 1,
+   "LocalBusiness": 1
+  },
+  "links": [],
+  "ics": [],
+  "feeds": [],
+  "dates": [],
+  "apis": [],
+  "snip": "",
+  "head": "",
+  "types_json": null,
+  "title": "Greenbush Brewing Co."
+ },
+ "https://www.tapistrybrewing.com/": {
+  "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tapistrybrewing.com'. (_ssl.c:1000)>"
+ },
+ "https://www.iechydda.com/": {
+  "error": "<urlopen error [Errno -2] Name or service not known>"
  }
 }
