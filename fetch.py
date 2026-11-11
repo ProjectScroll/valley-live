@@ -42,8 +42,14 @@ def from_jsonld(src, page):
             nm = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '', html.unescape(str(e.get('name', ''))))).strip()
             of = e.get('offers'); of = of[0] if isinstance(of, list) and of else of
             free = bool(e.get('isAccessibleForFree')) or (isinstance(of, dict) and str(of.get('price', '')).strip() in ('0', '0.0', '0.00'))
-            out.append({'title': nm, 'free': free, 'home': (' Vs ' in nm or ' vs. ' in nm) if 'Sports' in str(e.get('@type')) else None, 'start': d.isoformat(),
-                        'url': e.get('url') or src['url'], 'place': (loc or {}).get('name') if isinstance(loc, dict) else None})
+            place = (loc or {}).get('name') if isinstance(loc, dict) else None
+            home = None
+            if 'Sports' in str(e.get('@type')):
+                if re.match(r'(?i)(vs\.?|at)\s', nm): nm = f"{src.get('team', '')} {nm[0].lower()}{nm[1:]}".strip()   # 'Vs Judson' -> 'IU South Bend vs Judson'
+                # a home game: 'vs', and (when the source names its grounds) played there, not at a neutral site
+                home = bool(re.search(r'(?i)\svs\.?\s', nm)) and (not src.get('home_re') or bool(re.search(src['home_re'], place or '')))
+            out.append({'title': nm, 'free': free, 'home': home, 'start': d.isoformat(),
+                        'url': e.get('url') or src['url'], 'place': place})
     return out
 
 
@@ -124,7 +130,7 @@ def from_ndapi(src, page):
             if 'T' in st: st = datetime.datetime.fromisoformat(st.replace('Z', '+00:00').replace('.000000', '')).astimezone(TZ).isoformat()
             else:   # a time to be announced: the valley's own date of the listed moment
                 st = datetime.datetime.fromisoformat(g['datetime'].replace('Z', '+00:00').replace('.000000', '')).astimezone(TZ).date().isoformat()
-            out.append({'title': t, 'start': st, 'url': f"https://fightingirish.com/sports/{src['slug']}/schedule",
+            out.append({'title': t, 'start': st, 'url': f"https://fightingirish.com/sports/{src['slug']}/schedule/",
                         'place': g.get('venue') or g.get('location'), 'home': vt == 'home'})
         p = j['meta']['current_page'] + 1 if j['meta']['current_page'] < j['meta']['last_page'] else None
     return out

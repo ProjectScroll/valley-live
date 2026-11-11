@@ -10,7 +10,7 @@
    "kind": "sports",
    "url": "https://wmubroncos.com/sports/football/schedule",
    "method": "jsonld",
-   "tickets": "https://wmubroncos.com/tickets"
+   "home_re": "Waldo|University Arena|Lawson|Read Fieldhouse|Kalamazoo"
   },
   {
    "id": "wmu-mbb",
@@ -21,7 +21,7 @@
    "kind": "sports",
    "url": "https://wmubroncos.com/sports/mens-basketball/schedule",
    "method": "jsonld",
-   "tickets": "https://wmubroncos.com/tickets"
+   "home_re": "Waldo|University Arena|Lawson|Read Fieldhouse|Kalamazoo"
   },
   {
    "id": "wmu-wbb",
@@ -32,7 +32,7 @@
    "kind": "sports",
    "url": "https://wmubroncos.com/sports/womens-basketball/schedule",
    "method": "jsonld",
-   "tickets": "https://wmubroncos.com/tickets"
+   "home_re": "Waldo|University Arena|Lawson|Read Fieldhouse|Kalamazoo"
   },
   {
    "id": "wmu-hockey",
@@ -43,7 +43,7 @@
    "kind": "sports",
    "url": "https://wmubroncos.com/sports/mens-ice-hockey/schedule",
    "method": "jsonld",
-   "tickets": "https://wmubroncos.com/tickets"
+   "home_re": "Waldo|University Arena|Lawson|Read Fieldhouse|Kalamazoo"
   },
   {
    "id": "sb-cubs",
@@ -114,7 +114,8 @@
    "town": "Goshen",
    "url": "https://goleafs.net/sports/mens-basketball/schedule",
    "method": "jsonld",
-   "tickets": "https://www.goshen.edu/tickets"
+   "tickets": "https://www.goshen.edu/tickets",
+   "home_re": "Gunden|Recreation|Goshen"
   },
   {
    "kind": "sports",
@@ -125,7 +126,8 @@
    "town": "Goshen",
    "url": "https://goleafs.net/sports/womens-basketball/schedule",
    "method": "jsonld",
-   "tickets": "https://www.goshen.edu/tickets"
+   "tickets": "https://www.goshen.edu/tickets",
+   "home_re": "Gunden|Recreation|Goshen"
   },
   {
    "kind": "sports",
@@ -135,7 +137,8 @@
    "sport": "Men's basketball",
    "town": "Mishawaka",
    "url": "https://bupilots.com/sports/mens-basketball/schedule",
-   "method": "jsonld"
+   "method": "jsonld",
+   "home_re": "Gates|Mishawaka"
   },
   {
    "kind": "sports",
@@ -145,7 +148,8 @@
    "sport": "Women's basketball",
    "town": "Mishawaka",
    "url": "https://bupilots.com/sports/womens-basketball/schedule",
-   "method": "jsonld"
+   "method": "jsonld",
+   "home_re": "Gates|Mishawaka"
   },
   {
    "kind": "sports",
@@ -155,7 +159,8 @@
    "sport": "Men's basketball",
    "town": "South Bend",
    "url": "https://iusbtitans.com/sports/mens-basketball/schedule",
-   "method": "jsonld"
+   "method": "jsonld",
+   "home_re": "Student Activities Center|South Bend"
   },
   {
    "kind": "sports",
@@ -165,7 +170,8 @@
    "sport": "Women's basketball",
    "town": "South Bend",
    "url": "https://iusbtitans.com/sports/womens-basketball/schedule",
-   "method": "jsonld"
+   "method": "jsonld",
+   "home_re": "Student Activities Center|South Bend"
   },
   {
    "kind": "sports",
@@ -175,7 +181,8 @@
    "sport": "Women's basketball",
    "town": "Notre Dame",
    "url": "https://belles.saintmarys.edu/sports/womens-basketball/schedule",
-   "method": "jsonld"
+   "method": "jsonld",
+   "home_re": "Angela|Notre Dame"
   }
  ]
 }

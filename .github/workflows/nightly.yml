@@ -16,6 +16,6 @@ jobs:
       - name: Keep what changed
         run: |
           git config user.name "Project Scroll"; git config user.email "research@projectscroll.com"
-          git add nights.json status.json games.json sports_status.json
+          git add nights.json status.json games.json sports_status.json nights.ics games.ics
           git diff --cached --quiet || git commit -m "Nights read $(date -u +%F)"
           git pull --rebase -q && git push
