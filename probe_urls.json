@@ -1,1 +1,1 @@
-[["https://cafe.bellsbeer.com/event/welshly-arms-with-the-astronomers/bells-brewery-tours/", "(?i)(January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\\.? \\d{1,2}"], ["https://silverharborbrewing.com/wp-json/wp/v2/event?per_page=3", null]]
+[["https://thelerner.com/events/?ical=1", "BEGIN:VEVENT"], ["https://goshenbrewing.com/events/", "ld\\+json"]]
