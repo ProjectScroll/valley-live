@@ -57,14 +57,17 @@ MON = {m: i for i, m in enumerate(['jan','feb','mar','apr','may','jun','jul','au
 def pdate(txt):
     """'Thursday, November 12, 2026' or 'Nov 14, 2026' (and an optional '7:30 PM') -> ISO, date only when no time"""
     m = re.search(r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?\s+(\d{1,2})(?:,?\s+(\d{4}))?', txt or '', re.I)
-    if not m: return None
-    mo, da = MON[m.group(1)[:3].lower()], int(m.group(2))
+    n = None if m else re.search(r'\b(\d{1,2})/(\d{1,2})/(\d{4})\b', txt or '')   # 11/16/2026
+    if not m and not n: return None
+    if n: m = n; mo, da = int(n.group(1)), int(n.group(2))
+    else: mo, da = MON[m.group(1)[:3].lower()], int(m.group(2))
     if m.group(3): yr = int(m.group(3))
     else:   # a card without a year: this year, or next year if that date is more than two months gone
         yr = TODAY.year
         if datetime.date(yr, mo, da) < TODAY - datetime.timedelta(days=60): yr += 1
     d = datetime.date(yr, mo, da)
     t = re.search(r'(\d{1,2})(?::(\d{2}))?\s*([ap])\.?m', (txt or '')[m.end():m.end() + 80], re.I)
+    if t and re.match(r'\s*c\.?t\b', (txt or '')[m.end() + t.end():m.end() + t.end() + 4], re.I): t = None   # Central time: a place outside the valley's clock
     if t:
         h = int(t.group(1)) % 12 + (12 if t.group(3).lower() == 'p' else 0)
         return datetime.datetime.combine(d, datetime.time(h, int(t.group(2) or 0)), TZ).isoformat()
@@ -75,10 +78,12 @@ def from_html(src, page):
     """one event page: its title and date as printed (title_re, date_re, room_re in the source)"""
     t = re.search(src['title_re'], page, re.S | re.I); d = re.search(src['date_re'], page, re.S | re.I)
     if not t or not d: return []
-    st = pdate(clean(d.group(1)))
+    tm = re.search(src['time_re'], page, re.S | re.I) if src.get('time_re') else None
+    st = pdate(clean(d.group(1)) + (' ' + clean(tm.group(1)) if tm else ''))
     if not st: return []
     r = re.search(src['room_re'], page, re.S | re.I) if src.get('room_re') else None
-    return [{'title': clean(t.group(1)), 'start': st, 'url': src['url'], 'place': clean(r.group(1)) if r else None}]
+    ti = re.sub(src.get('title_strip', r'$^'), '', clean(t.group(1))).strip()
+    return [{'title': ti, 'start': st, 'url': src['url'], 'place': clean(r.group(1)) if r else None}]
 
 def from_cards(src, page):
     """a list page of cards: each block holds a date and a title (block_re splits, title_re/date_re/link_re inside)"""
@@ -88,11 +93,12 @@ def from_cards(src, page):
         if src.get('require_re') and not re.search(src['require_re'], b[:400]): continue
         t = re.search(src['title_re'], b, re.S | re.I); d = re.search(src['date_re'], b, re.S | re.I)
         if not t or not d: continue
-        st = pdate(clean(d.group(1)))
+        tm = re.search(src['time_re'], b, re.S | re.I) if src.get('time_re') else None
+        st = pdate(clean(d.group(1)) + (' ' + clean(tm.group(1)) if tm else ''))
         if not st: continue
         l = re.search(src.get('link_re', r'href="([^"]+)"'), b)
         u = l.group(1) if l else src['url']
-        out.append({'title': clean(t.group(1)), 'start': st, 'url': u if u.startswith('http') else base + u, 'place': None})
+        out.append({'title': re.sub(src.get('title_strip', r'$^'), '', clean(t.group(1))).strip(), 'start': st, 'url': u if u.startswith('http') else base + u, 'place': None})
     return out
 
 def from_tm(src, page):
@@ -216,7 +222,7 @@ def main(SRC='sources.json', OUT='nights.json', KEY='nights', STAT='status.json'
                 s = dict(s, url=s['url'].replace('__TEAMID__', str(tm['id'])).replace('__SPORTID__', str(tm['sport']['id'])))
             page = get(s['url'].replace('__TODAY__', TODAY.isoformat()).replace('__PLUS300__', (TODAY + datetime.timedelta(days=300)).isoformat()))
             M = {'ics': from_ics, 'jsonld': from_jsonld, 'html': from_html, 'cards': from_cards, 'tm': from_tm, 'mlb': from_mlb, 'ndapi': from_ndapi}
-            got = M[s['method']](s, page)
+            got = [] if (s.get('follow') and s['method'] == 'html') else M[s['method']](s, page)   # an html source with follow reads only the shows' own pages
             if not got and s.get('follow'):
                 # the list page names the shows; each show's own page carries its date (at most 40 pages, a second apart)
                 base = re.match(r'https?://[^/]+', s['url']).group(0)

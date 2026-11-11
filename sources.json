@@ -104,9 +104,12 @@
    "name": "Bell's Eccentric Café",
    "town": "Kalamazoo",
    "kind": "music",
-   "url": "https://cafe.bellsbeer.com/",
-   "method": "jsonld",
-   "follow": "cafe\\.bellsbeer\\.com/event/[a-z0-9-]+/"
+   "url": "https://cafe.bellsbeer.com/events/",
+   "method": "html",
+   "follow": "cafe\\.bellsbeer\\.com/event/[a-z0-9-]+/bells-brewery-tours/",
+   "title_re": "<title>(.*?) &#8211;",
+   "date_re": "class\\s*=\\s*\"eventStDate[^\"]*\">(.*?)</span>",
+   "time_re": "Show:\\s*([\\d:]+\\s*[ap]\\.?m)"
   },
   {
    "id": "goshen-brewing",
@@ -122,7 +125,10 @@
    "town": "St. Joseph",
    "kind": "brewery",
    "url": "https://silverharborbrewing.com/events/",
-   "method": "jsonld"
+   "method": "html",
+   "follow": "silverharborbrewing\\.com/event/[a-z0-9-]+/",
+   "title_re": "<title>(.*?) &#8211;",
+   "date_re": "elementor-heading-title elementor-size-default\">((?:January|February|March|April|May|June|July|August|September|October|November|December) \\d{1,2}, \\d{4})</p>"
   },
   {
    "id": "journeyman",
@@ -130,7 +136,14 @@
    "town": "Three Oaks",
    "kind": "cocktails",
    "url": "https://www.journeyman.com/events/",
-   "method": "jsonld"
+   "method": "cards",
+   "block_re": "class=\"upcoming_events__card\"",
+   "require_re": "Three Oaks",
+   "title_re": "upcoming_events__uppertitle\">(.*?)</div>",
+   "date_re": "upcoming_events__date\">(.*?)</div>",
+   "time_re": "upcoming_events__duration\">(.*?)</div>",
+   "link_re": "href=\"([^\"]+)\"",
+   "title_strip": "\\s*\\|\\s*Three Oaks.*$"
   }
  ]
 }
