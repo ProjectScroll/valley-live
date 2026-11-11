@@ -245,7 +245,7 @@ def main(SRC='sources.json', OUT='nights.json', KEY='nights', STAT='status.json'
                 nights.append({'id': hashlib.sha1(repr(key).encode()).hexdigest()[:10], 'title': g['title'], 'start': g['start'], 'allday': 'T' not in g['start'],
                                'venue': s['name'], 'room': g['place'] if g['place'] and g['place'] != s['name'] else None,
                                'town': s['town'], 'kind': s['kind'], 'campus': s.get('campus'), 'url': g['url'],
-                               'source': s['url'], 'read': TODAY.isoformat(), 'tags': tags(g['title']) if s['kind'] != 'sports' else [], **flags(g),
+                               'source': s['url'], 'read': TODAY.isoformat(), 'tags': (lambda T: T + (['film'] if 'film' not in T and re.search(r'(?i)cinema|movie|film', (g.get('place') or '') + ' ' + (s.get('kind') or '')) else []))(tags(g['title'])) if s['kind'] != 'sports' else [],   # a show in a cinema is a film **flags(g),
                                **({'tickets': s['tickets']} if s.get('tickets') else {}), **({'home': g['home'], 'team': s.get('team'), 'sport': s.get('sport')} if 'home' in g and g['home'] is not None else {})})
             status[s['id']] = {'ok': True, 'found': len(got), 'kept': kept, 'read': NOW.isoformat(timespec='minutes')}
         except Exception as e:
