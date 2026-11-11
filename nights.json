@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11T17:43-05:00",
+"updated": "2026-11-11T17:52-05:00",
 "nights": [
 {
 "id": "3272d48be4",
@@ -43,21 +43,6 @@
 "campus": "University of Notre Dame",
 "url": "https://events.nd.edu/events/2026/11/11/bite-sized-art-7/",
 "source": "https://events.nd.edu/events/calendar/arts-and-entertainment/",
-"read": "2026-11-11",
-"tags": []
-},
-{
-"id": "17b75512ec",
-"title": "Don Savoie",
-"start": "2026-11-11T19:00:00-05:00",
-"allday": false,
-"venue": "Goshen Brewing Company",
-"room": null,
-"town": "Goshen",
-"kind": "brewery",
-"campus": null,
-"url": "https://goshenbrewing.com/event/don-savoie-2/",
-"source": "https://goshenbrewing.com/events/",
 "read": "2026-11-11",
 "tags": []
 },
@@ -208,24 +193,6 @@
 ]
 },
 {
-"id": "29ceae22ab",
-"title": "Bored Teachers: \"Is It Friday Yet?!\" Comedy Tour",
-"start": "2026-11-12T19:30:00-05:00",
-"allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/bored-teachers-is-it-friday-yet-comedy-tour/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": [
-"comedy",
-"music"
-]
-},
-{
 "id": "86b120c243",
 "title": "Film: The Honeymoon Killers (1969)",
 "start": "2026-11-12T21:30:00-05:00",
@@ -327,6 +294,36 @@
 ]
 },
 {
+"id": "0d496715b7",
+"title": "Kait Rose & Co Presents: Fleetwood Magic",
+"start": "2026-11-13T20:00:00-05:00",
+"allday": false,
+"venue": "Bell's Eccentric Café",
+"room": null,
+"town": "Kalamazoo",
+"kind": "music",
+"campus": null,
+"url": "https://cafe.bellsbeer.com/event/kait-rose-co-presents-fleetwood-magic-4/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
+"read": "2026-11-11",
+"tags": []
+},
+{
+"id": "c17872ea1c",
+"title": "Kait Rose & Co Presents: Fleetwood Magic 2 Day Package.",
+"start": "2026-11-13T20:00:00-05:00",
+"allday": false,
+"venue": "Bell's Eccentric Café",
+"room": null,
+"town": "Kalamazoo",
+"kind": "music",
+"campus": null,
+"url": "https://cafe.bellsbeer.com/event/kait-rose-co-presents-fleetwood-magic-2-day-package/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
+"read": "2026-11-11",
+"tags": []
+},
+{
 "id": "21fecec263",
 "title": "Brahms & Bronfman",
 "start": "2026-11-14",
@@ -340,23 +337,6 @@
 "source": "https://www.millerauditorium.com/shows",
 "read": "2026-11-11",
 "tags": []
-},
-{
-"id": "49de3c706a",
-"title": "South Bend Lyric Opera - French Masters: Operatic Arias and Duets",
-"start": "2026-11-14T19:30:00-05:00",
-"allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Crystal Ballroom, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/south-bend-lyric-opera-french-masters-operatic-arias-and-duets/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": [
-"theatre"
-]
 },
 {
 "id": "2af730fc2a",
@@ -377,21 +357,19 @@
 ]
 },
 {
-"id": "22566cf69b",
-"title": "Trivia",
+"id": "63c2c31f9b",
+"title": "Kait Rose & Co Presents: Fleetwood Magic",
 "start": "2026-11-14T20:00:00-05:00",
 "allday": false,
-"venue": "Goshen Brewing Company",
+"venue": "Bell's Eccentric Café",
 "room": null,
-"town": "Goshen",
-"kind": "brewery",
+"town": "Kalamazoo",
+"kind": "music",
 "campus": null,
-"url": "https://goshenbrewing.com/event/trivia-8/",
-"source": "https://goshenbrewing.com/events/",
+"url": "https://cafe.bellsbeer.com/event/kait-rose-co-presents-fleetwood-magic-5/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
 "read": "2026-11-11",
-"tags": [
-"trivia"
-]
+"tags": []
 },
 {
 "id": "e5be5c3b43",
@@ -460,6 +438,21 @@
 ]
 },
 {
+"id": "9a0763bd2e",
+"title": "Lions Game Brunch",
+"start": "2026-11-15T09:00:00-05:00",
+"allday": false,
+"venue": "Bell's Eccentric Café",
+"room": null,
+"town": "Kalamazoo",
+"kind": "music",
+"campus": null,
+"url": "https://cafe.bellsbeer.com/event/lions-game-brunch/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
+"read": "2026-11-11",
+"tags": []
+},
+{
 "id": "34f424b269",
 "title": "Film: Old Yeller (1957)",
 "start": "2026-11-15T13:00:00-05:00",
@@ -490,24 +483,6 @@
 "source": "https://events.nd.edu/events/calendar/performing-arts/",
 "read": "2026-11-11",
 "tags": [
-"music"
-]
-},
-{
-"id": "a57ec44122",
-"title": "Elkhart County Symphony - Duel Vi2lity",
-"start": "2026-11-15T16:00:00-05:00",
-"allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/elkhart-county-symphony-duel-vi2lity/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": [
-"classical",
 "music"
 ]
 },
@@ -659,21 +634,6 @@
 ]
 },
 {
-"id": "d0209d5ff4",
-"title": "Missy Burgess & Travis Gow",
-"start": "2026-11-18T19:00:00-05:00",
-"allday": false,
-"venue": "Goshen Brewing Company",
-"room": null,
-"town": "Goshen",
-"kind": "brewery",
-"campus": null,
-"url": "https://goshenbrewing.com/event/missy-burgess-travis-gow/",
-"source": "https://goshenbrewing.com/events/",
-"read": "2026-11-11",
-"tags": []
-},
-{
 "id": "780356d371",
 "title": "Concert: The Gesualdo Six",
 "start": "2026-11-18T19:30:00-05:00",
@@ -709,6 +669,21 @@
 ]
 },
 {
+"id": "eacc9e2faf",
+"title": "Welshly Arms with The Astronomers",
+"start": "2026-11-18T20:00:00-05:00",
+"allday": false,
+"venue": "Bell's Eccentric Café",
+"room": null,
+"town": "Kalamazoo",
+"kind": "music",
+"campus": null,
+"url": "https://cafe.bellsbeer.com/event/welshly-arms-with-the-astronomers/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
+"read": "2026-11-11",
+"tags": []
+},
+{
 "id": "f62feb1ea8",
 "title": "Cronos (1993)",
 "start": "2026-11-19",
@@ -737,6 +712,23 @@
 "source": "https://performingarts.nd.edu/events/",
 "read": "2026-11-11",
 "tags": []
+},
+{
+"id": "b266642647",
+"title": "Rev. Peyton’s Big Damn Band WSG Adrian and Meredith Band",
+"start": "2026-11-19T20:00:00-05:00",
+"allday": false,
+"venue": "Bell's Eccentric Café",
+"room": null,
+"town": "Kalamazoo",
+"kind": "music",
+"campus": null,
+"url": "https://cafe.bellsbeer.com/event/rev-peytons-big-damn-band-wsg-adrian-and-meredith-band/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
+"read": "2026-11-11",
+"tags": [
+"music"
+]
 },
 {
 "id": "1da2126a98",
@@ -838,21 +830,6 @@
 ]
 },
 {
-"id": "99f9b06ad3",
-"title": "Friends of The Lerner presents: Mike Super - Magic & Illusion",
-"start": "2026-11-20T19:30:00-05:00",
-"allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/friends-of-the-lerner-presents-mike-super-magic-illusion/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": []
-},
-{
 "id": "1bcf6a18b1",
 "title": "Lavender Jazz Fall Concert",
 "start": "2026-11-20T19:30:00-05:00",
@@ -870,6 +847,21 @@
 ]
 },
 {
+"id": "8ac955c97f",
+"title": "Small Brown Bike with CRITERIA and Bronson Arm",
+"start": "2026-11-20T20:00:00-05:00",
+"allday": false,
+"venue": "Bell's Eccentric Café",
+"room": null,
+"town": "Kalamazoo",
+"kind": "music",
+"campus": null,
+"url": "https://cafe.bellsbeer.com/event/small-brown-bike-with-criteria-and-bronson-arm/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
+"read": "2026-11-11",
+"tags": []
+},
+{
 "id": "15b266eba5",
 "title": "Rick Springfield",
 "start": "2026-11-21",
@@ -883,23 +875,6 @@
 "source": "https://fourwindscasino.com/newbuffalo/entertainment/event-calendar/",
 "read": "2026-11-11",
 "tags": []
-},
-{
-"id": "aaf1003aac",
-"title": "Sir Charles Jones & Friends: Pour Me a Drank - Southern Soul Tour",
-"start": "2026-11-21T18:30:00-05:00",
-"allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/sir-charles-jones-friends-pour-me-a-drank-southern-soul-tour/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": [
-"music"
-]
 },
 {
 "id": "1e3cd92eaf",
@@ -917,6 +892,21 @@
 "tags": [
 "music"
 ]
+},
+{
+"id": "f74ad4c551",
+"title": "Lee Emi (Emilee Petersmark of The Crane Wives) with Cal in Red",
+"start": "2026-11-21T20:00:00-05:00",
+"allday": false,
+"venue": "Bell's Eccentric Café",
+"room": null,
+"town": "Kalamazoo",
+"kind": "music",
+"campus": null,
+"url": "https://cafe.bellsbeer.com/event/lee-emi-emilee-petersmark-of-the-crane-wives-with-cal-in-red/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
+"read": "2026-11-11",
+"tags": []
 },
 {
 "id": "305d3e6f79",
@@ -982,21 +972,6 @@
 "tags": []
 },
 {
-"id": "bdf88ad3ec",
-"title": "Hinterland Bookery",
-"start": "2026-11-22T10:00:00-05:00",
-"allday": false,
-"venue": "Goshen Brewing Company",
-"room": null,
-"town": "Goshen",
-"kind": "brewery",
-"campus": null,
-"url": "https://goshenbrewing.com/event/hinterland-bookery-2/",
-"source": "https://goshenbrewing.com/events/",
-"read": "2026-11-11",
-"tags": []
-},
-{
 "id": "d4116af51b",
 "title": "O Christmas Tea: A British Comedy",
 "start": "2026-11-22T15:00:00-05:00",
@@ -1034,38 +1009,6 @@
 ]
 },
 {
-"id": "70a87e35fd",
-"title": "Sweet Pea Three",
-"start": "2026-11-22T17:00:00-05:00",
-"allday": false,
-"venue": "Goshen Brewing Company",
-"room": null,
-"town": "Goshen",
-"kind": "brewery",
-"campus": null,
-"url": "https://goshenbrewing.com/event/sweet-pea-three/",
-"source": "https://goshenbrewing.com/events/",
-"read": "2026-11-11",
-"tags": []
-},
-{
-"id": "8d10d38b36",
-"title": "Charlie Berens: The Lost and Found Tour",
-"start": "2026-11-22T19:00:00-05:00",
-"allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/charlie-berens-the-lost-and-found-tour/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": [
-"music"
-]
-},
-{
 "id": "90d1bc8317",
 "title": "Billy Preston: That’s the Way God Planned It (2024)",
 "start": "2026-11-24",
@@ -1081,36 +1024,32 @@
 "tags": []
 },
 {
-"id": "4adf8a7cbb",
-"title": "The Nutcracker: FREE Community Performance",
-"start": "2026-11-25T11:00:00-05:00",
+"id": "e842dfadbe",
+"title": "Wreath Making",
+"start": "2026-11-24T18:00:00-05:00",
 "allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
+"venue": "Bell's Eccentric Café",
+"room": null,
+"town": "Kalamazoo",
+"kind": "music",
 "campus": null,
-"url": "https://thelerner.com/event/the-nutcracker-free-community-performance/",
-"source": "https://thelerner.com/events/?ical=1",
+"url": "https://cafe.bellsbeer.com/event/wreath-making/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
 "read": "2026-11-11",
-"tags": [
-"dance",
-"holiday"
-],
-"free": true
+"tags": []
 },
 {
-"id": "a706908fcb",
-"title": "Johnny and I",
-"start": "2026-11-25T19:00:00-05:00",
+"id": "e54299a017",
+"title": "DWTS Finale Watch Party",
+"start": "2026-11-24T20:00:00-05:00",
 "allday": false,
-"venue": "Goshen Brewing Company",
+"venue": "Bell's Eccentric Café",
 "room": null,
-"town": "Goshen",
-"kind": "brewery",
+"town": "Kalamazoo",
+"kind": "music",
 "campus": null,
-"url": "https://goshenbrewing.com/event/johnny-and-i/",
-"source": "https://goshenbrewing.com/events/",
+"url": "https://cafe.bellsbeer.com/event/dwts-finale-watch-party-2/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
 "read": "2026-11-11",
 "tags": []
 },
@@ -1145,22 +1084,20 @@
 "tags": []
 },
 {
-"id": "126a9375ff",
-"title": "The Nutcracker at The Lerner Theatre",
-"start": "2026-11-28T15:00:00-05:00",
+"id": "e73ef628ec",
+"title": "Black Friday Kickback featuring DC + Yolonda WSG DJ Conscious",
+"start": "2026-11-27T19:30:00-05:00",
 "allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
+"venue": "Bell's Eccentric Café",
+"room": null,
+"town": "Kalamazoo",
+"kind": "music",
 "campus": null,
-"url": "https://thelerner.com/event/the-nutcracker-at-the-lerner-theatre-2026/",
-"source": "https://thelerner.com/events/?ical=1",
+"url": "https://cafe.bellsbeer.com/event/black-friday-kickback-featuring-dc-yolonda-wsg-dj-conscious/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
 "read": "2026-11-11",
 "tags": [
-"theatre",
-"dance",
-"holiday"
+"music"
 ]
 },
 {
@@ -1181,21 +1118,19 @@
 ]
 },
 {
-"id": "1939c7c546",
-"title": "Trivia",
+"id": "63ea9cabce",
+"title": "Lower Leisure Class with No Bails and Krass Kringle",
 "start": "2026-11-28T20:00:00-05:00",
 "allday": false,
-"venue": "Goshen Brewing Company",
+"venue": "Bell's Eccentric Café",
 "room": null,
-"town": "Goshen",
-"kind": "brewery",
+"town": "Kalamazoo",
+"kind": "music",
 "campus": null,
-"url": "https://goshenbrewing.com/event/trivia-11/",
-"source": "https://goshenbrewing.com/events/",
+"url": "https://cafe.bellsbeer.com/event/lower-leisure-class-with-no-bails-and-krass-kringle/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
 "read": "2026-11-11",
-"tags": [
-"trivia"
-]
+"tags": []
 },
 {
 "id": "dbf2e1ce2c",
@@ -1216,35 +1151,20 @@
 ]
 },
 {
-"id": "1d80473c9c",
-"title": "The Lerner Loves You: Home Alone",
-"start": "2026-11-29T15:00:00-05:00",
+"id": "902726a074",
+"title": "Holiday Bizarre Bazaar",
+"start": "2026-11-29T12:00:00-05:00",
 "allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/the-lerner-loves-you-home-alone/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": []
-},
-{
-"id": "0436c43ae9",
-"title": "Elkhart County Beer Choir",
-"start": "2026-11-29T16:00:00-05:00",
-"allday": false,
-"venue": "Goshen Brewing Company",
+"venue": "Bell's Eccentric Café",
 "room": null,
-"town": "Goshen",
-"kind": "brewery",
+"town": "Kalamazoo",
+"kind": "music",
 "campus": null,
-"url": "https://goshenbrewing.com/event/elkhart-county-beer-choir-4/",
-"source": "https://goshenbrewing.com/events/",
+"url": "https://cafe.bellsbeer.com/event/holiday-bizarre-bazaar-4/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
 "read": "2026-11-11",
 "tags": [
-"music"
+"holiday"
 ]
 },
 {
@@ -1263,19 +1183,38 @@
 "tags": []
 },
 {
-"id": "67e2ae129f",
-"title": "Brides of Neptune wsg Jacob Neild",
-"start": "2026-12-02T19:00:00-05:00",
+"id": "c57d643b70",
+"title": "Kalamazoo Academy Of Rock",
+"start": "2026-12-01T18:00:00-05:00",
 "allday": false,
-"venue": "Goshen Brewing Company",
+"venue": "Bell's Eccentric Café",
 "room": null,
-"town": "Goshen",
-"kind": "brewery",
+"town": "Kalamazoo",
+"kind": "music",
 "campus": null,
-"url": "https://goshenbrewing.com/event/brides-of-neptune-wsg-jacob-neild/",
-"source": "https://goshenbrewing.com/events/",
+"url": "https://cafe.bellsbeer.com/event/kalamazoo-academy-of-rock-25/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
 "read": "2026-11-11",
-"tags": []
+"tags": [
+"music"
+]
+},
+{
+"id": "35068b265a",
+"title": "Kalamazoo Academy Of Rock",
+"start": "2026-12-02T18:00:00-05:00",
+"allday": false,
+"venue": "Bell's Eccentric Café",
+"room": null,
+"town": "Kalamazoo",
+"kind": "music",
+"campus": null,
+"url": "https://cafe.bellsbeer.com/event/kalamazoo-academy-of-rock-26/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
+"read": "2026-11-11",
+"tags": [
+"music"
+]
 },
 {
 "id": "4743b9947b",
@@ -1327,6 +1266,23 @@
 "tags": []
 },
 {
+"id": "75d460459b",
+"title": "Kalamazoo Academy Of Rock",
+"start": "2026-12-03T18:00:00-05:00",
+"allday": false,
+"venue": "Bell's Eccentric Café",
+"room": null,
+"town": "Kalamazoo",
+"kind": "music",
+"campus": null,
+"url": "https://cafe.bellsbeer.com/event/kalamazoo-academy-of-rock-27/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
+"read": "2026-11-11",
+"tags": [
+"music"
+]
+},
+{
 "id": "32d97a4abb",
 "title": "Harvest (2026)",
 "start": "2026-12-04",
@@ -1371,6 +1327,21 @@
 "campus": "Goshen College",
 "url": "https://www.goshen.edu/events/festival-of-carols/",
 "source": "https://www.goshen.edu/events/",
+"read": "2026-11-11",
+"tags": []
+},
+{
+"id": "bf8d46ba2e",
+"title": "The Palmer Squares with the Sandwich Boiz",
+"start": "2026-12-04T20:00:00-05:00",
+"allday": false,
+"venue": "Bell's Eccentric Café",
+"room": null,
+"town": "Kalamazoo",
+"kind": "music",
+"campus": null,
+"url": "https://cafe.bellsbeer.com/event/the-palmer-squares-with-the-sandwich-boiz/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
 "read": "2026-11-11",
 "tags": []
 },
@@ -1427,6 +1398,21 @@
 ]
 },
 {
+"id": "9f45d74200",
+"title": "Caelan Cardello Trio",
+"start": "2026-12-05T16:00:00-05:00",
+"allday": false,
+"venue": "Bell's Eccentric Café",
+"room": null,
+"town": "Kalamazoo",
+"kind": "music",
+"campus": null,
+"url": "https://cafe.bellsbeer.com/event/caelan-cardello-trio/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
+"read": "2026-11-11",
+"tags": []
+},
+{
 "id": "d233fd7415",
 "title": "Christmas Extravaganza",
 "start": "2026-12-05T19:30:00-05:00",
@@ -1441,23 +1427,6 @@
 "read": "2026-11-11",
 "tags": [
 "holiday"
-]
-},
-{
-"id": "2d9a6ceb47",
-"title": "Trivia",
-"start": "2026-12-05T20:00:00-05:00",
-"allday": false,
-"venue": "Goshen Brewing Company",
-"room": null,
-"town": "Goshen",
-"kind": "brewery",
-"campus": null,
-"url": "https://goshenbrewing.com/event/trivia-7/",
-"source": "https://goshenbrewing.com/events/",
-"read": "2026-11-11",
-"tags": [
-"trivia"
 ]
 },
 {
@@ -1525,6 +1494,23 @@
 ]
 },
 {
+"id": "07ddc6b1cd",
+"title": "Vintage Music Market",
+"start": "2026-12-06T12:00:00-05:00",
+"allday": false,
+"venue": "Bell's Eccentric Café",
+"room": null,
+"town": "Kalamazoo",
+"kind": "music",
+"campus": null,
+"url": "https://cafe.bellsbeer.com/event/vintage-music-market-4/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
+"read": "2026-11-11",
+"tags": [
+"music"
+]
+},
+{
 "id": "9093546750",
 "title": "The Bodyguard: National Broadway Tour",
 "start": "2026-12-06T14:00:00-05:00",
@@ -1540,23 +1526,6 @@
 "tags": [
 "music",
 "theatre"
-]
-},
-{
-"id": "b636174bc8",
-"title": "Elkhart Municipal Band presents: The North Pole Radio Hour",
-"start": "2026-12-06T15:00:00-05:00",
-"allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/elkhart-municipal-band-presents-the-north-pole-radio-hour-2026/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": [
-"music"
 ]
 },
 {
@@ -1659,21 +1628,6 @@
 ]
 },
 {
-"id": "2f58d9b3b1",
-"title": "Premier Arts: Joseph and the Amazing Technicolor Dreamcoat",
-"start": "2026-12-11T19:30:00-05:00",
-"allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/premier-arts-joseph-and-the-amazing-technicolor-dreamcoat-2026-12-11/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": []
-},
-{
 "id": "6e4173130f",
 "title": "Cirque Musica Holiday Wonderland",
 "start": "2026-12-12",
@@ -1711,23 +1665,6 @@
 ]
 },
 {
-"id": "884de20331",
-"title": "Premier Arts: Joseph and the Amazing Technicolor Dreamcoat - All Youth Production",
-"start": "2026-12-12T14:00:00-05:00",
-"allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/premier-arts-joseph-and-the-amazing-technicolor-dreamcoat-all-youth-production/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": [
-"family"
-]
-},
-{
 "id": "65bd723ffe",
 "title": "Performing Arts Series: The Steel Wheels",
 "start": "2026-12-12T19:30:00-05:00",
@@ -1741,6 +1678,23 @@
 "source": "https://www.goshen.edu/events/",
 "read": "2026-11-11",
 "tags": []
+},
+{
+"id": "0557749df3",
+"title": "Out of Favor Boys and Friends Holiday Soiree",
+"start": "2026-12-12T20:00:00-05:00",
+"allday": false,
+"venue": "Bell's Eccentric Café",
+"room": null,
+"town": "Kalamazoo",
+"kind": "music",
+"campus": null,
+"url": "https://cafe.bellsbeer.com/event/out-of-favor-boys-and-friends-holiday-soiree/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
+"read": "2026-11-11",
+"tags": [
+"holiday"
+]
 },
 {
 "id": "11b91203fa",
@@ -1759,57 +1713,6 @@
 "theatre",
 "dance",
 "holiday"
-]
-},
-{
-"id": "03bbfe8e3c",
-"title": "Premier Arts: Joseph and the Amazing Technicolor Dreamcoat",
-"start": "2026-12-13T14:00:00-05:00",
-"allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/premier-arts-joseph-and-the-amazing-technicolor-dreamcoat-2026-12-13/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": []
-},
-{
-"id": "8a53e6be71",
-"title": "Lunchtime Live with Celia Weiss – Kimball Organ Concert",
-"start": "2026-12-16T11:00:00-05:00",
-"allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/lunchtime-live-with-celia-weiss-kimball-organ-concert-2026/2026-12-16/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": [
-"classical",
-"music"
-]
-},
-{
-"id": "ec5707cb48",
-"title": "Behind the Curtain: A Guided Theatre Tour",
-"start": "2026-12-16T12:15:00-05:00",
-"allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/behind-the-curtain-a-guided-theatre-tour/2026-12-16/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": [
-"music",
-"theatre"
 ]
 },
 {
@@ -1850,34 +1753,17 @@
 ]
 },
 {
-"id": "28f59daa4b",
-"title": "Trivia",
+"id": "63db531364",
+"title": "All American Funk Parade with The Brandino Extravaganza",
 "start": "2026-12-19T20:00:00-05:00",
 "allday": false,
-"venue": "Goshen Brewing Company",
+"venue": "Bell's Eccentric Café",
 "room": null,
-"town": "Goshen",
-"kind": "brewery",
+"town": "Kalamazoo",
+"kind": "music",
 "campus": null,
-"url": "https://goshenbrewing.com/event/trivia-6/",
-"source": "https://goshenbrewing.com/events/",
-"read": "2026-11-11",
-"tags": [
-"trivia"
-]
-},
-{
-"id": "f9c66735b5",
-"title": "Hinterland Bookery",
-"start": "2026-12-20T10:00:00-05:00",
-"allday": false,
-"venue": "Goshen Brewing Company",
-"room": null,
-"town": "Goshen",
-"kind": "brewery",
-"campus": null,
-"url": "https://goshenbrewing.com/event/hinterland-bookery-mobile-bookshop/",
-"source": "https://goshenbrewing.com/events/",
+"url": "https://cafe.bellsbeer.com/event/all-american-funk-parade-with-the-brandino-extravaganza/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
 "read": "2026-11-11",
 "tags": []
 },
@@ -1901,32 +1787,17 @@
 ]
 },
 {
-"id": "3c885c02c0",
-"title": "The Lerner Loves You: Miracle on 34th Street",
-"start": "2026-12-20T15:00:00-05:00",
+"id": "17aa075285",
+"title": "KSO Craft Presents: Carnival of the Animals",
+"start": "2027-01-20T18:00:00-05:00",
 "allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/the-lerner-loves-you-miracle-on-34th-street/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": []
-},
-{
-"id": "1da8673179",
-"title": "Imphormal",
-"start": "2026-12-20T16:00:00-05:00",
-"allday": false,
-"venue": "Goshen Brewing Company",
+"venue": "Bell's Eccentric Café",
 "room": null,
-"town": "Goshen",
-"kind": "brewery",
+"town": "Kalamazoo",
+"kind": "music",
 "campus": null,
-"url": "https://goshenbrewing.com/event/imphormal-electric-cello/",
-"source": "https://goshenbrewing.com/events/",
+"url": "https://cafe.bellsbeer.com/event/kso-craft-presents-carnival-of-the-animals/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
 "read": "2026-11-11",
 "tags": []
 },
@@ -1983,21 +1854,6 @@
 ]
 },
 {
-"id": "d54d01b566",
-"title": "Friends of The Lerner presents: Catapult - Magic Shadows",
-"start": "2027-02-05T19:00:00-05:00",
-"allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/catapult-magic-shadows/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": []
-},
-{
 "id": "de8317999d",
 "title": "Eaglemania The Worlds Greatest Eagles Tribute",
 "start": "2027-02-06",
@@ -2033,6 +1889,21 @@
 ]
 },
 {
+"id": "df5b9cf175",
+"title": "Bumpin Uglies with Jakob’s Castle",
+"start": "2027-02-10T20:00:00-05:00",
+"allday": false,
+"venue": "Bell's Eccentric Café",
+"room": null,
+"town": "Kalamazoo",
+"kind": "music",
+"campus": null,
+"url": "https://cafe.bellsbeer.com/event/bumpin-uglies-with-jakobs-castle/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
+"read": "2026-11-11",
+"tags": []
+},
+{
 "id": "36aaa12323",
 "title": "AU Wind Symphony Winter Concert and SMC Brass Band",
 "start": "2027-02-11T19:30:00-05:00",
@@ -2047,6 +1918,40 @@
 "read": "2026-11-11",
 "tags": [
 "classical",
+"music"
+]
+},
+{
+"id": "d8f96fd128",
+"title": "An Evening with Kanola Band: Kalamazoo’s Fat Friday Mardi Gras Party!",
+"start": "2027-02-11T20:00:00-05:00",
+"allday": false,
+"venue": "Bell's Eccentric Café",
+"room": null,
+"town": "Kalamazoo",
+"kind": "music",
+"campus": null,
+"url": "https://cafe.bellsbeer.com/event/an-evening-with-kanola-band-kalamazoos-fat-friday-mardi-gras-party/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
+"read": "2026-11-11",
+"tags": [
+"music"
+]
+},
+{
+"id": "7c8f1ba033",
+"title": "Infamous Love Songs: An Over the Rhine Valentine‘s Concert",
+"start": "2027-02-12T20:00:00-05:00",
+"allday": false,
+"venue": "Bell's Eccentric Café",
+"room": null,
+"town": "Kalamazoo",
+"kind": "music",
+"campus": null,
+"url": "https://cafe.bellsbeer.com/event/infamous-love-songs-an-over-the-rhine-valentines-concert/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
+"read": "2026-11-11",
+"tags": [
 "music"
 ]
 },
@@ -2081,24 +1986,6 @@
 "tags": []
 },
 {
-"id": "31c560f938",
-"title": "Elkhart County Symphony - Verdi Requiem",
-"start": "2027-02-14T16:00:00-05:00",
-"allday": false,
-"venue": "The Lerner Theatre",
-"room": "Sauder Concert Hall, 1700 S Main St, Goshen, IN, 46526, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/elkhart-county-symphony-verdi-requiem/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": [
-"classical",
-"music"
-]
-},
-{
 "id": "643cbe9800",
 "title": "Holst’s The Planets",
 "start": "2027-02-20",
@@ -2112,23 +1999,6 @@
 "source": "https://www.millerauditorium.com/shows",
 "read": "2026-11-11",
 "tags": []
-},
-{
-"id": "2582cca8d5",
-"title": "Coppélia at The Lerner Theatre",
-"start": "2027-02-20T19:30:00-05:00",
-"allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/coppelia-at-the-lerner-theatre-2026/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": [
-"theatre"
-]
 },
 {
 "id": "076d116436",
@@ -2146,6 +2016,21 @@
 "tags": [
 "music"
 ]
+},
+{
+"id": "7ff3b279c6",
+"title": "BERTHA: Grateful Drag",
+"start": "2027-02-24T20:00:00-05:00",
+"allday": false,
+"venue": "Bell's Eccentric Café",
+"room": null,
+"town": "Kalamazoo",
+"kind": "music",
+"campus": null,
+"url": "https://cafe.bellsbeer.com/event/bertha-grateful-drag/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
+"read": "2026-11-11",
+"tags": []
 },
 {
 "id": "a401af9f9e",
@@ -2235,23 +2120,6 @@
 ]
 },
 {
-"id": "2124155e93",
-"title": "Elkhart Municipal Band presents: E Pluribus Unum",
-"start": "2027-03-07T15:00:00-05:00",
-"allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/elkhart-municipal-band-presents-e-pluribus-unum/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": [
-"music"
-]
-},
-{
 "id": "b4be66a2d4",
 "title": "Sunday Music Series: Andrews University Composers",
 "start": "2027-03-07T16:00:00-05:00",
@@ -2284,23 +2152,19 @@
 "tags": []
 },
 {
-"id": "88ab02e000",
-"title": "Elkhart County Symphony - Cinematic Symphony",
-"start": "2027-03-14T16:00:00-04:00",
+"id": "e5ed38f7c0",
+"title": "Sicard Hollow",
+"start": "2027-03-19T20:00:00-04:00",
 "allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
+"venue": "Bell's Eccentric Café",
+"room": null,
+"town": "Kalamazoo",
+"kind": "music",
 "campus": null,
-"url": "https://thelerner.com/event/elkhart-county-symphony-cinematic-symphony/",
-"source": "https://thelerner.com/events/?ical=1",
+"url": "https://cafe.bellsbeer.com/event/sicard-hollow/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
 "read": "2026-11-11",
-"tags": [
-"classical",
-"music",
-"film"
-]
+"tags": []
 },
 {
 "id": "35a91b883a",
@@ -2331,24 +2195,6 @@
 "source": "https://www.millerauditorium.com/shows",
 "read": "2026-11-11",
 "tags": []
-},
-{
-"id": "4308ce1269",
-"title": "Friends of The Lerner presents: Broadway's Rock Of Ages Band",
-"start": "2027-03-26T20:00:00-04:00",
-"allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/friends-of-the-lerner-presents-broadways-rock-of-ages-band/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": [
-"music",
-"theatre"
-]
 },
 {
 "id": "04f205810a",
@@ -2466,23 +2312,6 @@
 "tags": []
 },
 {
-"id": "bfa7f184f6",
-"title": "Amber Autry: Happy Holler Tour",
-"start": "2027-04-09T19:00:00-04:00",
-"allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/amber-autry-happy-holler-tour/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": [
-"music"
-]
-},
-{
 "id": "9bcf7eaf81",
 "title": "Music & Worship Conference Concert",
 "start": "2027-04-10T18:30:00-04:00",
@@ -2535,23 +2364,6 @@
 ]
 },
 {
-"id": "835f5cb49f",
-"title": "Elkhart Municipal Band presents: Songs of Grace and Glory",
-"start": "2027-04-18T15:00:00-04:00",
-"allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/elkhart-municipal-band-presents-songs-of-grace-and-glory/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": [
-"music"
-]
-},
-{
 "id": "376f37c2b9",
 "title": "Andrews University Wind Symphony Spring Concert",
 "start": "2027-04-18T16:00:00-04:00",
@@ -2600,23 +2412,6 @@
 "tags": []
 },
 {
-"id": "e718e8cfdf",
-"title": "The Amy Winehouse Band",
-"start": "2027-04-28T19:30:00-04:00",
-"allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/the-amy-winehouse-band/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": [
-"music"
-]
-},
-{
 "id": "b94cdf573a",
 "title": "HADESTOWN",
 "start": "2027-05-11",
@@ -2628,6 +2423,21 @@
 "campus": "Western Michigan University",
 "url": "https://www.millerauditorium.com/shows",
 "source": "https://www.millerauditorium.com/shows",
+"read": "2026-11-11",
+"tags": []
+},
+{
+"id": "1cb7d7adb6",
+"title": "An Evening With",
+"start": "2027-05-11T20:00:00-04:00",
+"allday": false,
+"venue": "Bell's Eccentric Café",
+"room": null,
+"town": "Kalamazoo",
+"kind": "music",
+"campus": null,
+"url": "https://cafe.bellsbeer.com/event/an-evening-with-martin-sexton-live-wide-open-tour/bells-brewery-tours/",
+"source": "https://cafe.bellsbeer.com/events/",
 "read": "2026-11-11",
 "tags": []
 },
@@ -2646,24 +2456,6 @@
 "read": "2026-11-11",
 "tags": [
 "dance"
-]
-},
-{
-"id": "f8268db0b6",
-"title": "Elkhart County Symphony - Planetary Finale",
-"start": "2027-05-16T16:00:00-04:00",
-"allday": false,
-"venue": "The Lerner Theatre",
-"room": "The Lerner Theatre, 410 South Main Street, Elkhart, IN, 46516, United States",
-"town": "Elkhart",
-"kind": "concerts",
-"campus": null,
-"url": "https://thelerner.com/event/elkhart-county-symphony-planetary-finale/",
-"source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-11",
-"tags": [
-"classical",
-"music"
 ]
 },
 {
