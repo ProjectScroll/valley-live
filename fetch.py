@@ -238,7 +238,7 @@ def main(SRC='sources.json', OUT='nights.json', KEY='nights', STAT='status.json'
             for g in got:
                 d = datetime.datetime.fromisoformat(g['start'] if 'T' in g['start'] else g['start'] + 'T00:00')
                 if d.date() < TODAY - datetime.timedelta(days=1) or not g['title']: continue
-                if re.search(r'(?i)\b(?:day )?package\b|gift card|private event', g['title']): continue   # ticket bundles and private bookings are not shows
+                if re.search(r'(?i)\b(?:day )?package\b|gift card|private event|to-go\b', g['title']): continue   # ticket bundles and private bookings are not shows
                 key = (s.get('name'), d.date().isoformat(), re.sub(r'\W+', '', g['title'].lower())[:40])
                 if key in seen: continue
                 seen.add(key); kept += 1
