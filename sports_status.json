@@ -1,0 +1,31 @@
+{
+ "wmu-football": {
+  "ok": true,
+  "found": 14,
+  "kept": 4,
+  "read": "2026-11-11T16:54-05:00"
+ },
+ "wmu-mbb": {
+  "ok": true,
+  "found": 33,
+  "kept": 30,
+  "read": "2026-11-11T16:54-05:00"
+ },
+ "wmu-wbb": {
+  "ok": true,
+  "found": 32,
+  "kept": 30,
+  "read": "2026-11-11T16:54-05:00"
+ },
+ "wmu-hockey": {
+  "ok": true,
+  "found": 41,
+  "kept": 30,
+  "read": "2026-11-11T16:54-05:00"
+ },
+ "sb-cubs": {
+  "ok": false,
+  "error": "HTTP Error 400: Bad Request",
+  "read": "2026-11-11T16:54-05:00"
+ }
+}

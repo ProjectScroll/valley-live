@@ -1,6 +1,20 @@
 {
-"updated": "2026-11-11T16:40-05:00",
+"updated": "2026-11-11T16:54-05:00",
 "nights": [
+{
+"id": "3272d48be4",
+"title": "Compagnie Hervé Koubi: Sol Invictus",
+"start": "2026-11-11",
+"allday": true,
+"venue": "DeBartolo Performing Arts Center",
+"room": "Patricia George Decio Theatre",
+"town": "Notre Dame",
+"kind": "concerts",
+"campus": "University of Notre Dame",
+"url": "https://performingarts.nd.edu/event/19639/compagnie-herv-koubi-sol-invictus",
+"source": "https://performingarts.nd.edu/events/",
+"read": "2026-11-11"
+},
 {
 "id": "e277ed9d2f",
 "title": "Franz (2025)",
@@ -41,6 +55,20 @@
 "campus": "University of Notre Dame",
 "url": "https://events.nd.edu/events/2026/11/11/franz-2025/",
 "source": "https://events.nd.edu/events/calendar/arts-and-entertainment/",
+"read": "2026-11-11"
+},
+{
+"id": "734ae2d347",
+"title": "Performing Arts Series: Apollo’s Fire – Vivaldi’s Four Seasons",
+"start": "2026-11-11T19:30:00-05:00",
+"allday": false,
+"venue": "Goshen College",
+"room": null,
+"town": "Goshen",
+"kind": "concerts",
+"campus": "Goshen College",
+"url": "https://www.goshen.edu/events/performing-arts-series-apollos-fire-vivaldis-four-seasons/",
+"source": "https://www.goshen.edu/events/",
 "read": "2026-11-11"
 },
 {
@@ -226,6 +254,20 @@
 "read": "2026-11-11"
 },
 {
+"id": "45f0ba8f56",
+"title": "Fall Main Stage: The Metromaniacs by David Ives",
+"start": "2026-11-13T19:30:00-05:00",
+"allday": false,
+"venue": "Goshen College",
+"room": null,
+"town": "Goshen",
+"kind": "concerts",
+"campus": "Goshen College",
+"url": "https://www.goshen.edu/events/fall-main-stage-the-metromaniacs-by-david-ives/",
+"source": "https://www.goshen.edu/events/",
+"read": "2026-11-11"
+},
+{
 "id": "21fecec263",
 "title": "Brahms & Bronfman",
 "start": "2026-11-14",
@@ -251,6 +293,20 @@
 "campus": null,
 "url": "https://thelerner.com/event/south-bend-lyric-opera-french-masters-operatic-arias-and-duets/",
 "source": "https://thelerner.com/events/?ical=1",
+"read": "2026-11-11"
+},
+{
+"id": "2af730fc2a",
+"title": "Andrews Wind Symphony: A Symphonic Voyage",
+"start": "2026-11-14T19:30:00-05:00",
+"allday": false,
+"venue": "Howard Performing Arts Center",
+"room": null,
+"town": "Berrien Springs",
+"kind": "concerts",
+"campus": "Andrews University",
+"url": "https://www.tix.com/ticket-sales/howard/6714/event/1472710",
+"source": "https://howard.andrews.edu/events/index.html",
 "read": "2026-11-11"
 },
 {
@@ -352,6 +408,34 @@
 "read": "2026-11-11"
 },
 {
+"id": "2a4e4948bb",
+"title": "Community School of the Arts Winter Choral Showcase",
+"start": "2026-11-15T16:00:00-05:00",
+"allday": false,
+"venue": "Goshen College",
+"room": null,
+"town": "Goshen",
+"kind": "concerts",
+"campus": "Goshen College",
+"url": "https://www.goshen.edu/events/community-school-of-the-arts-winter-choral-showcase/",
+"source": "https://www.goshen.edu/events/",
+"read": "2026-11-11"
+},
+{
+"id": "2c3b8af841",
+"title": "Sunday Music Series: Chi Yong Yun",
+"start": "2026-11-15T16:00:00-05:00",
+"allday": false,
+"venue": "Howard Performing Arts Center",
+"room": null,
+"town": "Berrien Springs",
+"kind": "concerts",
+"campus": "Andrews University",
+"url": "https://howard.andrews.edu/events/index.html",
+"source": "https://howard.andrews.edu/events/index.html",
+"read": "2026-11-11"
+},
+{
 "id": "bc78967b4b",
 "title": "True Grit (2010)",
 "start": "2026-11-17",
@@ -366,6 +450,34 @@
 "read": "2026-11-11"
 },
 {
+"id": "eccf833866",
+"title": "The Gesualdo Six and Owain Park, director",
+"start": "2026-11-17",
+"allday": true,
+"venue": "DeBartolo Performing Arts Center",
+"room": "Reyes Organ and Choral Hall",
+"town": "Notre Dame",
+"kind": "concerts",
+"campus": "University of Notre Dame",
+"url": "https://performingarts.nd.edu/event/19693/the-gesualdo-six-and-owain-park-director",
+"source": "https://performingarts.nd.edu/events/",
+"read": "2026-11-11"
+},
+{
+"id": "b9212c5ac2",
+"title": "Youth Honors Orchestra Concert",
+"start": "2026-11-17T19:00:00-05:00",
+"allday": false,
+"venue": "Goshen College",
+"room": null,
+"town": "Goshen",
+"kind": "concerts",
+"campus": "Goshen College",
+"url": "https://www.goshen.edu/events/youth-honors-orchestra-concert/",
+"source": "https://www.goshen.edu/events/",
+"read": "2026-11-11"
+},
+{
 "id": "38fa94398b",
 "title": "Concert: The Gesualdo Six",
 "start": "2026-11-17T19:30:00-05:00",
@@ -377,6 +489,20 @@
 "campus": "University of Notre Dame",
 "url": "https://events.nd.edu/events/2026/11/17/the-gesualdo-six/",
 "source": "https://events.nd.edu/events/calendar/performing-arts/",
+"read": "2026-11-11"
+},
+{
+"id": "e7d4de90bc",
+"title": "These Shining Lives",
+"start": "2026-11-18",
+"allday": true,
+"venue": "DeBartolo Performing Arts Center",
+"room": "Philbin Studio Theatre",
+"town": "Notre Dame",
+"kind": "concerts",
+"campus": "University of Notre Dame",
+"url": "https://performingarts.nd.edu/event/19965/these-shining-lives",
+"source": "https://performingarts.nd.edu/events/",
 "read": "2026-11-11"
 },
 {
@@ -419,6 +545,20 @@
 "campus": "University of Notre Dame",
 "url": "https://events.nd.edu/events/2026/11/18/the-gesualdo-six/",
 "source": "https://events.nd.edu/events/calendar/performing-arts/",
+"read": "2026-11-11"
+},
+{
+"id": "16fb3295fb",
+"title": "Beatha Shiorraidh - A Senior Voice Recital",
+"start": "2026-11-18T19:30:00-05:00",
+"allday": false,
+"venue": "Howard Performing Arts Center",
+"room": null,
+"town": "Berrien Springs",
+"kind": "concerts",
+"campus": "Andrews University",
+"url": "https://howard.andrews.edu/events/index.html",
+"source": "https://howard.andrews.edu/events/index.html",
 "read": "2026-11-11"
 },
 {
@@ -548,6 +688,20 @@
 "read": "2026-11-11"
 },
 {
+"id": "1bcf6a18b1",
+"title": "Lavender Jazz Fall Concert",
+"start": "2026-11-20T19:30:00-05:00",
+"allday": false,
+"venue": "Goshen College",
+"room": null,
+"town": "Goshen",
+"kind": "concerts",
+"campus": "Goshen College",
+"url": "https://www.goshen.edu/events/lavender-jazz-fall-concert/",
+"source": "https://www.goshen.edu/events/",
+"read": "2026-11-11"
+},
+{
 "id": "15b266eba5",
 "title": "Rick Springfield",
 "start": "2026-11-21",
@@ -573,6 +727,20 @@
 "campus": null,
 "url": "https://thelerner.com/event/sir-charles-jones-friends-pour-me-a-drank-southern-soul-tour/",
 "source": "https://thelerner.com/events/?ical=1",
+"read": "2026-11-11"
+},
+{
+"id": "1e3cd92eaf",
+"title": "Lahing Kayumanggi - AUSO Fall Concert",
+"start": "2026-11-21T19:30:00-05:00",
+"allday": false,
+"venue": "Howard Performing Arts Center",
+"room": null,
+"town": "Berrien Springs",
+"kind": "concerts",
+"campus": "Andrews University",
+"url": "https://www.tix.com/ticket-sales/howard/6714/event/1472722",
+"source": "https://howard.andrews.edu/events/index.html",
 "read": "2026-11-11"
 },
 {
@@ -643,6 +811,20 @@
 "campus": null,
 "url": "https://morriscenter.org/event/o-christmas-tea-a-british-comedy/",
 "source": "https://morriscenter.org/events/",
+"read": "2026-11-11"
+},
+{
+"id": "706fd1bbf2",
+"title": "South Bend Youth Symphony Orchestra",
+"start": "2026-11-22T16:00:00-05:00",
+"allday": false,
+"venue": "Howard Performing Arts Center",
+"room": null,
+"town": "Berrien Springs",
+"kind": "concerts",
+"campus": "Andrews University",
+"url": "https://howard.andrews.edu/events/index.html",
+"source": "https://howard.andrews.edu/events/index.html",
 "read": "2026-11-11"
 },
 {
@@ -800,6 +982,20 @@
 "read": "2026-11-11"
 },
 {
+"id": "9456ed9e5c",
+"title": "Handel: Messiah ND Chorale and CO",
+"start": "2026-12-03",
+"allday": true,
+"venue": "DeBartolo Performing Arts Center",
+"room": "Leighton Concert Hall",
+"town": "Notre Dame",
+"kind": "concerts",
+"campus": "University of Notre Dame",
+"url": "https://performingarts.nd.edu/event/20248/handel-messiah-nd-chorale-and-co",
+"source": "https://performingarts.nd.edu/events/",
+"read": "2026-11-11"
+},
+{
 "id": "e2e178a1c8",
 "title": "Mysterious Object at Noon (2000)",
 "start": "2026-12-03",
@@ -842,6 +1038,20 @@
 "read": "2026-11-11"
 },
 {
+"id": "c7dcd42d23",
+"title": "Festival of Carols",
+"start": "2026-12-04T19:30:00-05:00",
+"allday": false,
+"venue": "Goshen College",
+"room": null,
+"town": "Goshen",
+"kind": "concerts",
+"campus": "Goshen College",
+"url": "https://www.goshen.edu/events/festival-of-carols/",
+"source": "https://www.goshen.edu/events/",
+"read": "2026-11-11"
+},
+{
 "id": "d6b87da1a8",
 "title": "Samson et Dalila (Saint-Saëns)",
 "start": "2026-12-05",
@@ -881,6 +1091,20 @@
 "campus": null,
 "url": "https://morriscenter.org/event/the-bodyguard/2026-12-05/1/",
 "source": "https://morriscenter.org/events/",
+"read": "2026-11-11"
+},
+{
+"id": "d233fd7415",
+"title": "Christmas Extravaganza",
+"start": "2026-12-05T19:30:00-05:00",
+"allday": false,
+"venue": "Howard Performing Arts Center",
+"room": null,
+"town": "Berrien Springs",
+"kind": "concerts",
+"campus": "Andrews University",
+"url": "https://www.tix.com/ticket-sales/howard/6714/event/1472724",
+"source": "https://howard.andrews.edu/events/index.html",
 "read": "2026-11-11"
 },
 {
@@ -965,6 +1189,20 @@
 "campus": null,
 "url": "https://thelerner.com/event/elkhart-municipal-band-presents-the-north-pole-radio-hour-2026/",
 "source": "https://thelerner.com/events/?ical=1",
+"read": "2026-11-11"
+},
+{
+"id": "b5b0789ab3",
+"title": "Christmas Extravaganza (Reprise)",
+"start": "2026-12-06T16:00:00-05:00",
+"allday": false,
+"venue": "Howard Performing Arts Center",
+"room": null,
+"town": "Berrien Springs",
+"kind": "concerts",
+"campus": "Andrews University",
+"url": "https://www.tix.com/ticket-sales/howard/6714/event/1472732",
+"source": "https://howard.andrews.edu/events/index.html",
 "read": "2026-11-11"
 },
 {
@@ -1094,6 +1332,20 @@
 "read": "2026-11-11"
 },
 {
+"id": "65bd723ffe",
+"title": "Performing Arts Series: The Steel Wheels",
+"start": "2026-12-12T19:30:00-05:00",
+"allday": false,
+"venue": "Goshen College",
+"room": null,
+"town": "Goshen",
+"kind": "concerts",
+"campus": "Goshen College",
+"url": "https://www.goshen.edu/events/performing-arts-series-the-steel-wheels/",
+"source": "https://www.goshen.edu/events/",
+"read": "2026-11-11"
+},
+{
 "id": "11b91203fa",
 "title": "Southold Dance Theater Presents: The Nutcracker",
 "start": "2026-12-13T14:00:00-05:00",
@@ -1206,6 +1458,34 @@
 "read": "2026-11-11"
 },
 {
+"id": "b3fbeecbe9",
+"title": "Sunday Music Series: Ketevan Badridze",
+"start": "2027-01-24T16:00:00-05:00",
+"allday": false,
+"venue": "Howard Performing Arts Center",
+"room": null,
+"town": "Berrien Springs",
+"kind": "concerts",
+"campus": "Andrews University",
+"url": "https://howard.andrews.edu/events/index.html",
+"source": "https://howard.andrews.edu/events/index.html",
+"read": "2026-11-11"
+},
+{
+"id": "eb26f22347",
+"title": "A BEAUTIFUL NOISE: THE NEIL DIAMOND MUSICAL",
+"start": "2027-01-26",
+"allday": true,
+"venue": "Miller Auditorium",
+"room": null,
+"town": "Kalamazoo",
+"kind": "concerts",
+"campus": "Western Michigan University",
+"url": "https://www.millerauditorium.com/shows",
+"source": "https://www.millerauditorium.com/shows",
+"read": "2026-11-11"
+},
+{
 "id": "3fa8ed144a",
 "title": "That Arena Rock Show",
 "start": "2027-01-29",
@@ -1245,6 +1525,34 @@
 "campus": null,
 "url": "https://www.ticketmaster.com/eaglemania-the-worlds-greatest-eagles-tribute-new-buffalo-michigan-02-06-2027/event/0400655CAE6788B3",
 "source": "https://fourwindscasino.com/newbuffalo/entertainment/event-calendar/",
+"read": "2026-11-11"
+},
+{
+"id": "1f2a39dfc7",
+"title": "AU Symphony Orchestra Young Artist Concert",
+"start": "2027-02-06T19:30:00-05:00",
+"allday": false,
+"venue": "Howard Performing Arts Center",
+"room": null,
+"town": "Berrien Springs",
+"kind": "concerts",
+"campus": "Andrews University",
+"url": "https://www.tix.com/ticket-sales/howard/6714/event/1472733",
+"source": "https://howard.andrews.edu/events/index.html",
+"read": "2026-11-11"
+},
+{
+"id": "36aaa12323",
+"title": "AU Wind Symphony Winter Concert and SMC Brass Band",
+"start": "2027-02-11T19:30:00-05:00",
+"allday": false,
+"venue": "Howard Performing Arts Center",
+"room": null,
+"town": "Berrien Springs",
+"kind": "concerts",
+"campus": "Andrews University",
+"url": "https://www.tix.com/ticket-sales/howard/6714/event/1472743",
+"source": "https://howard.andrews.edu/events/index.html",
 "read": "2026-11-11"
 },
 {
@@ -1318,6 +1626,20 @@
 "read": "2026-11-11"
 },
 {
+"id": "076d116436",
+"title": "University Choirs Winter Concert",
+"start": "2027-02-20T19:30:00-05:00",
+"allday": false,
+"venue": "Howard Performing Arts Center",
+"room": null,
+"town": "Berrien Springs",
+"kind": "concerts",
+"campus": "Andrews University",
+"url": "https://www.tix.com/ticket-sales/howard/6714/event/1472746",
+"source": "https://howard.andrews.edu/events/index.html",
+"read": "2026-11-11"
+},
+{
 "id": "a401af9f9e",
 "title": "Sonic Live in Concert",
 "start": "2027-02-25",
@@ -1332,6 +1654,62 @@
 "read": "2026-11-11"
 },
 {
+"id": "6fdea24083",
+"title": "Department of Music Showcase Concert",
+"start": "2027-03-04T19:00:00-05:00",
+"allday": false,
+"venue": "Howard Performing Arts Center",
+"room": null,
+"town": "Berrien Springs",
+"kind": "concerts",
+"campus": "Andrews University",
+"url": "https://howard.andrews.edu/events/index.html",
+"source": "https://howard.andrews.edu/events/index.html",
+"read": "2026-11-11"
+},
+{
+"id": "4af129870c",
+"title": "LEGALLY BLONDE —THE MUSICAL",
+"start": "2027-03-05",
+"allday": true,
+"venue": "Miller Auditorium",
+"room": null,
+"town": "Kalamazoo",
+"kind": "concerts",
+"campus": "Western Michigan University",
+"url": "https://www.millerauditorium.com/shows",
+"source": "https://www.millerauditorium.com/shows",
+"read": "2026-11-11"
+},
+{
+"id": "6224f1b67b",
+"title": "Andrews University Wind Symphony Vespers Concert",
+"start": "2027-03-05T19:30:00-05:00",
+"allday": false,
+"venue": "Howard Performing Arts Center",
+"room": null,
+"town": "Berrien Springs",
+"kind": "concerts",
+"campus": "Andrews University",
+"url": "https://howard.andrews.edu/events/index.html",
+"source": "https://howard.andrews.edu/events/index.html",
+"read": "2026-11-11"
+},
+{
+"id": "fc7cad4b1f",
+"title": "DOM Music Festival Finale Concert",
+"start": "2027-03-06T16:00:00-05:00",
+"allday": false,
+"venue": "Howard Performing Arts Center",
+"room": null,
+"town": "Berrien Springs",
+"kind": "concerts",
+"campus": "Andrews University",
+"url": "https://howard.andrews.edu/events/index.html",
+"source": "https://howard.andrews.edu/events/index.html",
+"read": "2026-11-11"
+},
+{
 "id": "2124155e93",
 "title": "Elkhart Municipal Band presents: E Pluribus Unum",
 "start": "2027-03-07T15:00:00-05:00",
@@ -1343,6 +1721,20 @@
 "campus": null,
 "url": "https://thelerner.com/event/elkhart-municipal-band-presents-e-pluribus-unum/",
 "source": "https://thelerner.com/events/?ical=1",
+"read": "2026-11-11"
+},
+{
+"id": "b4be66a2d4",
+"title": "Sunday Music Series: Andrews University Composers",
+"start": "2027-03-07T16:00:00-05:00",
+"allday": false,
+"venue": "Howard Performing Arts Center",
+"room": null,
+"town": "Berrien Springs",
+"kind": "concerts",
+"campus": "Andrews University",
+"url": "https://howard.andrews.edu/events/index.html",
+"source": "https://howard.andrews.edu/events/index.html",
 "read": "2026-11-11"
 },
 {
@@ -1377,6 +1769,20 @@
 "id": "35a91b883a",
 "title": "St. Matthew Passion",
 "start": "2027-03-20",
+"allday": true,
+"venue": "Miller Auditorium",
+"room": null,
+"town": "Kalamazoo",
+"kind": "concerts",
+"campus": "Western Michigan University",
+"url": "https://www.millerauditorium.com/shows",
+"source": "https://www.millerauditorium.com/shows",
+"read": "2026-11-11"
+},
+{
+"id": "079499490e",
+"title": "THE BOOK OF MORMON",
+"start": "2027-03-23",
 "allday": true,
 "venue": "Miller Auditorium",
 "room": null,
@@ -1430,6 +1836,48 @@
 "read": "2026-11-11"
 },
 {
+"id": "7236b00656",
+"title": "Star Wars: A New Hope in Concert",
+"start": "2027-04-02",
+"allday": true,
+"venue": "Miller Auditorium",
+"room": null,
+"town": "Kalamazoo",
+"kind": "concerts",
+"campus": "Western Michigan University",
+"url": "https://www.millerauditorium.com/shows",
+"source": "https://www.millerauditorium.com/shows",
+"read": "2026-11-11"
+},
+{
+"id": "a6466b6e5a",
+"title": "Andrews University Choirs Spring Concert",
+"start": "2027-04-03T20:30:00-04:00",
+"allday": false,
+"venue": "Howard Performing Arts Center",
+"room": null,
+"town": "Berrien Springs",
+"kind": "concerts",
+"campus": "Andrews University",
+"url": "https://www.tix.com/ticket-sales/howard/6714/event/1472749",
+"source": "https://howard.andrews.edu/events/index.html",
+"read": "2026-11-11"
+},
+{
+"id": "a2e5327e26",
+"title": "Howard Center Presents: Altino Brothers",
+"start": "2027-04-04T19:00:00-04:00",
+"allday": false,
+"venue": "Howard Performing Arts Center",
+"room": null,
+"town": "Berrien Springs",
+"kind": "concerts",
+"campus": "Andrews University",
+"url": "https://www.tix.com/ticket-sales/howard/6714/event/1480346",
+"source": "https://howard.andrews.edu/events/index.html",
+"read": "2026-11-11"
+},
+{
 "id": "335eb617a5",
 "title": "The Ukulele Orchestra of Great Britain",
 "start": "2027-04-06",
@@ -1472,6 +1920,48 @@
 "read": "2026-11-11"
 },
 {
+"id": "9bcf7eaf81",
+"title": "Music & Worship Conference Concert",
+"start": "2027-04-10T18:30:00-04:00",
+"allday": false,
+"venue": "Howard Performing Arts Center",
+"room": null,
+"town": "Berrien Springs",
+"kind": "concerts",
+"campus": "Andrews University",
+"url": "https://howard.andrews.edu/events/index.html",
+"source": "https://howard.andrews.edu/events/index.html",
+"read": "2026-11-11"
+},
+{
+"id": "09b0115579",
+"title": "Sunday Music Series: Jason Gresl & Lara Turner",
+"start": "2027-04-11T16:00:00-04:00",
+"allday": false,
+"venue": "Howard Performing Arts Center",
+"room": null,
+"town": "Berrien Springs",
+"kind": "concerts",
+"campus": "Andrews University",
+"url": "https://howard.andrews.edu/events/index.html",
+"source": "https://howard.andrews.edu/events/index.html",
+"read": "2026-11-11"
+},
+{
+"id": "5f84d85a30",
+"title": "AU Symphony Orchestra & WAUS Thank You Concert",
+"start": "2027-04-17T20:30:00-04:00",
+"allday": false,
+"venue": "Howard Performing Arts Center",
+"room": null,
+"town": "Berrien Springs",
+"kind": "concerts",
+"campus": "Andrews University",
+"url": "https://howard.andrews.edu/events/index.html",
+"source": "https://howard.andrews.edu/events/index.html",
+"read": "2026-11-11"
+},
+{
 "id": "835f5cb49f",
 "title": "Elkhart Municipal Band presents: Songs of Grace and Glory",
 "start": "2027-04-18T15:00:00-04:00",
@@ -1486,9 +1976,37 @@
 "read": "2026-11-11"
 },
 {
+"id": "376f37c2b9",
+"title": "Andrews University Wind Symphony Spring Concert",
+"start": "2027-04-18T16:00:00-04:00",
+"allday": false,
+"venue": "Howard Performing Arts Center",
+"room": null,
+"town": "Berrien Springs",
+"kind": "concerts",
+"campus": "Andrews University",
+"url": "https://www.tix.com/ticket-sales/howard/6714/event/1472750",
+"source": "https://howard.andrews.edu/events/index.html",
+"read": "2026-11-11"
+},
+{
 "id": "e1cb69f4ef",
 "title": "Beethoven & Dvořák",
 "start": "2027-04-24",
+"allday": true,
+"venue": "Miller Auditorium",
+"room": null,
+"town": "Kalamazoo",
+"kind": "concerts",
+"campus": "Western Michigan University",
+"url": "https://www.millerauditorium.com/shows",
+"source": "https://www.millerauditorium.com/shows",
+"read": "2026-11-11"
+},
+{
+"id": "07349ded7c",
+"title": "SHUCKED",
+"start": "2027-04-27",
 "allday": true,
 "venue": "Miller Auditorium",
 "room": null,
@@ -1553,6 +2071,20 @@
 "campus": null,
 "url": "https://thelerner.com/event/elkhart-county-symphony-planetary-finale/",
 "source": "https://thelerner.com/events/?ical=1",
+"read": "2026-11-11"
+},
+{
+"id": "6ebfa31ae3",
+"title": "THE WIZ",
+"start": "2027-05-18",
+"allday": true,
+"venue": "Miller Auditorium",
+"room": null,
+"town": "Kalamazoo",
+"kind": "concerts",
+"campus": "Western Michigan University",
+"url": "https://www.millerauditorium.com/shows",
+"source": "https://www.millerauditorium.com/shows",
 "read": "2026-11-11"
 }
 ]
