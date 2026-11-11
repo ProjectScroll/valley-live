@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11T16:57-05:00",
+"updated": "2026-11-11T17:02-05:00",
 "nights": [
 {
 "id": "3272d48be4",
@@ -41,6 +41,20 @@
 "campus": "University of Notre Dame",
 "url": "https://events.nd.edu/events/2026/11/11/bite-sized-art-7/",
 "source": "https://events.nd.edu/events/calendar/arts-and-entertainment/",
+"read": "2026-11-11"
+},
+{
+"id": "17b75512ec",
+"title": "Don Savoie",
+"start": "2026-11-11T19:00:00-05:00",
+"allday": false,
+"venue": "Goshen Brewing Company",
+"room": null,
+"town": "Goshen",
+"kind": "brewery",
+"campus": null,
+"url": "https://goshenbrewing.com/event/don-savoie-2/",
+"source": "https://goshenbrewing.com/events/",
 "read": "2026-11-11"
 },
 {
@@ -310,6 +324,20 @@
 "read": "2026-11-11"
 },
 {
+"id": "22566cf69b",
+"title": "Trivia",
+"start": "2026-11-14T20:00:00-05:00",
+"allday": false,
+"venue": "Goshen Brewing Company",
+"room": null,
+"town": "Goshen",
+"kind": "brewery",
+"campus": null,
+"url": "https://goshenbrewing.com/event/trivia-8/",
+"source": "https://goshenbrewing.com/events/",
+"read": "2026-11-11"
+},
+{
 "id": "e5be5c3b43",
 "title": "Old Yeller (1957)",
 "start": "2026-11-15",
@@ -531,6 +559,20 @@
 "campus": "University of Notre Dame",
 "url": "https://events.nd.edu/events/2026/11/18/liederabend-1/",
 "source": "https://events.nd.edu/events/calendar/performing-arts/",
+"read": "2026-11-11"
+},
+{
+"id": "d0209d5ff4",
+"title": "Missy Burgess & Travis Gow",
+"start": "2026-11-18T19:00:00-05:00",
+"allday": false,
+"venue": "Goshen Brewing Company",
+"room": null,
+"town": "Goshen",
+"kind": "brewery",
+"campus": null,
+"url": "https://goshenbrewing.com/event/missy-burgess-travis-gow/",
+"source": "https://goshenbrewing.com/events/",
 "read": "2026-11-11"
 },
 {
@@ -800,6 +842,20 @@
 "read": "2026-11-11"
 },
 {
+"id": "bdf88ad3ec",
+"title": "Hinterland Bookery",
+"start": "2026-11-22T10:00:00-05:00",
+"allday": false,
+"venue": "Goshen Brewing Company",
+"room": null,
+"town": "Goshen",
+"kind": "brewery",
+"campus": null,
+"url": "https://goshenbrewing.com/event/hinterland-bookery-2/",
+"source": "https://goshenbrewing.com/events/",
+"read": "2026-11-11"
+},
+{
 "id": "d4116af51b",
 "title": "O Christmas Tea: A British Comedy",
 "start": "2026-11-22T15:00:00-05:00",
@@ -825,6 +881,20 @@
 "campus": "Andrews University",
 "url": "https://howard.andrews.edu/events/index.html",
 "source": "https://howard.andrews.edu/events/index.html",
+"read": "2026-11-11"
+},
+{
+"id": "70a87e35fd",
+"title": "Sweet Pea Three",
+"start": "2026-11-22T17:00:00-05:00",
+"allday": false,
+"venue": "Goshen Brewing Company",
+"room": null,
+"town": "Goshen",
+"kind": "brewery",
+"campus": null,
+"url": "https://goshenbrewing.com/event/sweet-pea-three/",
+"source": "https://goshenbrewing.com/events/",
 "read": "2026-11-11"
 },
 {
@@ -867,6 +937,20 @@
 "campus": null,
 "url": "https://thelerner.com/event/the-nutcracker-free-community-performance/",
 "source": "https://thelerner.com/events/?ical=1",
+"read": "2026-11-11"
+},
+{
+"id": "a706908fcb",
+"title": "Johnny and I",
+"start": "2026-11-25T19:00:00-05:00",
+"allday": false,
+"venue": "Goshen Brewing Company",
+"room": null,
+"town": "Goshen",
+"kind": "brewery",
+"campus": null,
+"url": "https://goshenbrewing.com/event/johnny-and-i/",
+"source": "https://goshenbrewing.com/events/",
 "read": "2026-11-11"
 },
 {
@@ -926,6 +1010,20 @@
 "read": "2026-11-11"
 },
 {
+"id": "1939c7c546",
+"title": "Trivia",
+"start": "2026-11-28T20:00:00-05:00",
+"allday": false,
+"venue": "Goshen Brewing Company",
+"room": null,
+"town": "Goshen",
+"kind": "brewery",
+"campus": null,
+"url": "https://goshenbrewing.com/event/trivia-11/",
+"source": "https://goshenbrewing.com/events/",
+"read": "2026-11-11"
+},
+{
 "id": "dbf2e1ce2c",
 "title": "A Very Merry Symphony Sleigh Ride Adventure",
 "start": "2026-11-29",
@@ -954,6 +1052,20 @@
 "read": "2026-11-11"
 },
 {
+"id": "0436c43ae9",
+"title": "Elkhart County Beer Choir",
+"start": "2026-11-29T16:00:00-05:00",
+"allday": false,
+"venue": "Goshen Brewing Company",
+"room": null,
+"town": "Goshen",
+"kind": "brewery",
+"campus": null,
+"url": "https://goshenbrewing.com/event/elkhart-county-beer-choir-4/",
+"source": "https://goshenbrewing.com/events/",
+"read": "2026-11-11"
+},
+{
 "id": "4323e77426",
 "title": "Inside Llewyn Davis (2013)",
 "start": "2026-12-01",
@@ -965,6 +1077,20 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/19904/inside-llewyn-davis-2013",
 "source": "https://performingarts.nd.edu/events/",
+"read": "2026-11-11"
+},
+{
+"id": "67e2ae129f",
+"title": "Brides of Neptune wsg Jacob Neild",
+"start": "2026-12-02T19:00:00-05:00",
+"allday": false,
+"venue": "Goshen Brewing Company",
+"room": null,
+"town": "Goshen",
+"kind": "brewery",
+"campus": null,
+"url": "https://goshenbrewing.com/event/brides-of-neptune-wsg-jacob-neild/",
+"source": "https://goshenbrewing.com/events/",
 "read": "2026-11-11"
 },
 {
@@ -1105,6 +1231,20 @@
 "campus": "Andrews University",
 "url": "https://www.tix.com/ticket-sales/howard/6714/event/1472724",
 "source": "https://howard.andrews.edu/events/index.html",
+"read": "2026-11-11"
+},
+{
+"id": "2d9a6ceb47",
+"title": "Trivia",
+"start": "2026-12-05T20:00:00-05:00",
+"allday": false,
+"venue": "Goshen Brewing Company",
+"room": null,
+"town": "Goshen",
+"kind": "brewery",
+"campus": null,
+"url": "https://goshenbrewing.com/event/trivia-7/",
+"source": "https://goshenbrewing.com/events/",
 "read": "2026-11-11"
 },
 {
@@ -1430,6 +1570,34 @@
 "read": "2026-11-11"
 },
 {
+"id": "28f59daa4b",
+"title": "Trivia",
+"start": "2026-12-19T20:00:00-05:00",
+"allday": false,
+"venue": "Goshen Brewing Company",
+"room": null,
+"town": "Goshen",
+"kind": "brewery",
+"campus": null,
+"url": "https://goshenbrewing.com/event/trivia-6/",
+"source": "https://goshenbrewing.com/events/",
+"read": "2026-11-11"
+},
+{
+"id": "f9c66735b5",
+"title": "Hinterland Bookery",
+"start": "2026-12-20T10:00:00-05:00",
+"allday": false,
+"venue": "Goshen Brewing Company",
+"room": null,
+"town": "Goshen",
+"kind": "brewery",
+"campus": null,
+"url": "https://goshenbrewing.com/event/hinterland-bookery-mobile-bookshop/",
+"source": "https://goshenbrewing.com/events/",
+"read": "2026-11-11"
+},
+{
 "id": "f110fbcc67",
 "title": "Everwise presents Holiday Pops with the South Bend Symphony",
 "start": "2026-12-20T14:30:00-05:00",
@@ -1455,6 +1623,20 @@
 "campus": null,
 "url": "https://thelerner.com/event/the-lerner-loves-you-miracle-on-34th-street/",
 "source": "https://thelerner.com/events/?ical=1",
+"read": "2026-11-11"
+},
+{
+"id": "1da8673179",
+"title": "Imphormal",
+"start": "2026-12-20T16:00:00-05:00",
+"allday": false,
+"venue": "Goshen Brewing Company",
+"room": null,
+"town": "Goshen",
+"kind": "brewery",
+"campus": null,
+"url": "https://goshenbrewing.com/event/imphormal-electric-cello/",
+"source": "https://goshenbrewing.com/events/",
 "read": "2026-11-11"
 },
 {
