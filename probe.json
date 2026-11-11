@@ -1,72 +1,110 @@
 {
- "https://cafe.bellsbeer.com/event/welshly-arms-with-the-astronomers/bells-brewery-tours/": {
+ "https://thelerner.com/events/?ical=1": {
   "status": 200,
-  "final": "https://cafe.bellsbeer.com/event/welshly-arms-with-the-astronomers/bells-brewery-tours/",
-  "bytes": 237066,
-  "ld_types": {},
-  "links": [
-   [
-    "https://bellsbeer.com/host-a-private-event/",
-    5
-   ],
-   [
-    "https://events.bellsbeer.com",
-    4
-   ],
-   [
-    "https://cafe.bellsbeer.com/wp-json/oembed/N.N/embed",
-    2
-   ],
-   [
-    "https://events.bellsbeer.com/",
-    2
-   ],
-   [
-    "https://www.etix.com/ticket/p/N/welshly-arms-with-the-astronomers-kalamazoo-bells-eccentric-cafe",
-    2
-   ],
-   [
-    "https://help.bellsbeer.com/portal/en/newticket",
-    2
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/welshly-arms-with-the-astronomers/bells-brewery-tours/",
-    1
-   ]
-  ],
-  "ics": [],
-  "feeds": [
-   "https://cafe.bellsbeer.com/feed/",
-   "https://cafe.bellsbeer.com/comments/feed/",
-   "https://cafe.bellsbeer.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcafe.bellsbeer.com%2Fevent%2Fwelshly-arms-with-the-astronomers%2Fbells-brewery-tours%2F",
-   "https://cafe.bellsbeer.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcafe.bellsbeer.com%2Fevent%2Fwelshly-arms-with-the-astronomers%2Fbells-brewery-tours%2F&#038;format=xml",
-   "https://cafe.bellsbeer.com/wp-json/"
-  ],
-  "dates": [],
-  "apis": [
-   "https://api.w.org/",
-   "https://fonts.googleapis.com/css",
-   "https://fonts.googleapis.com/css2",
-   "https://www.etix.com/ticket/p/96080198/welshly-arms-with-the-astronomers-kalamazoo-bells-eccentric-cafe"
-  ],
-  "snip": "div> </div><!-- end headerBox--> <!-- CTA below Headliner --> <div class = \"eventImgBox col-12 p-0 d-block d-lg-none px-md-0\"> <div class = \"rhp-events-event-image position-relative z-index-0\"> <img src=\"https://cafe.bellsbeer.com/wp-content/uploads/2026/08/welshly-arms.jpeg\" title=\"Welshly Arms with The Astronomers\" alt='Welshly Arms with The Astronomers' /> </div> </div> <div class = \"col-12 p-0 ctaBox d-lg-none d-md-block d-none px-md-0\"> <span id=\"ctaspan-367734\" class=\"rhp-event-cta on-sale\"><a class=\"btn btn-primary btn-md d-block w-100\" target=\"_blank\" rel=\"external\" title=\"Buy Tickets\" href=\"https://www.etix.com/ticket/p/96080198/welshly-arms-with-the-astronomers-kalamazoo-bells-eccentric-cafe?partner_id=100\" >Buy Tickets</a></span> <div class=\"multiple_ctas d-block\"> </div> </div><!-- end events CTA --> <div class = \"contentBox px-4 px-md-0 pt-1 pb-4\"> <div class=\"col-12 p-0\"> <div class = \"row g-0\"> <div class = \"col-sm-12\"> <div class = \"d-block EventsDateBox\"> <span class = \"eventStDate text-uppercase\">Wednesday, November 18</span> </div><!-- end event start date --> <div class=\"row g-0\"> </div> <div class = \"eventsColor eventDoorStartDate d-flex align-items-center\"> <i class=\"rhp-events-icon clock me-1\"></i> <span class = \"font0Med75\"> Show: 8 pm </span> </div><!-- end event doors date --> <div class = \"d-flex align-items-center eventsColor eventCost pt-2\"> <i class=\"rhp-events-icon ticket me-1\"></i> <span class=\"\"> $28.76 </span> </div><!-- end event cost --> </div><!-- end col-sm-12 --> </div><!-- end row --> </div> <!-- col-12--> <div class = \"col-12\"",
-  "head": "",
-  "types_json": null,
-  "title": "Welshly Arms with The Astronomers &#8211; Cafe &#8211; Bell&#039;s Brewery"
- },
- "https://silverharborbrewing.com/wp-json/wp/v2/event?per_page=3": {
-  "status": 200,
-  "final": "https://silverharborbrewing.com/wp-json/wp/v2/event?per_page=3",
-  "bytes": 7189,
+  "final": "https://thelerner.com/events/?ical=1",
+  "bytes": 79846,
   "ld_types": {},
   "links": [],
   "ics": [],
   "feeds": [],
   "dates": [],
   "apis": [],
-  "snip": "[{\"id\":3562,\"date\":\"2026-10-11T19:40:11\",\"date_gmt\":\"2026-10-11T19:40:11\",\"guid\":{\"rendered\":\"https:\\/\\/silverharborbrewing.com\\/?post_type=event&#038;p=3562\"},\"modified\":\"2026-10-11T19:40:11\",\"modified_gmt\":\"2026-10-11T19:40:11\",\"slug\":\"sunday-brunch-2\",\"status\":\"publish\",\"type\":\"event\",\"link\":\"https:\\/\\/silverharborbrewing.com\\/event\\/sunday-brunch-2\\/\",\"title\":{\"rendered\":\"Sunday Brunch\"},\"content\":{\"rendered\":\"<p data-pm-slice=\\\"1 1 []\\\">Celebrate the season with a festive Christmas brunch at our holiday pop-up bar! Enjoy a delicious food buffet, seasonal drinks for adults and kids, and a magical Christmas atmosphere filled with holiday cheer. Gather your family and friends for a merry morning of great food, festive sips, and Christmas memories!<\\/p>\\n<p data-pm-slice=\\\"1 1 []\\\">Reservations Coming Soon!<\\/p>\\n\",\"protected\":false},\"excerpt\":{\"rendered\":\"<p>Celebrate the season with a festive Christmas brunch at our holiday pop-up bar! Enjoy a delicious food buffet, seasonal drinks for adults and kids, and a magical Christmas atmosphere filled with holiday cheer. Gather your family and friends for a merry morning of great food, festive sips, and Christmas memories! Reservations Coming Soon!<\\/p>\\n\",\"protected\":false},\"featured_media\":3564,\"template\":\"\",\"meta\":{\"_acf_changed\":false,\"footnotes\":\"\"},\"tags\":[],\"class_list\":[\"post-3562\",\"event\",\"type-event\",\"status-publish\",\"has-post-thumbnail\",\"hentry\"],\"acf\":[],\"_links\":{\"self\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\\",
-  "head": "[{\"id\":3562,\"date\":\"2026-10-11T19:40:11\",\"date_gmt\":\"2026-10-11T19:40:11\",\"guid\":{\"rendered\":\"https:\\/\\/silverharborbrewing.com\\/?post_type=event&#038;p=3562\"},\"modified\":\"2026-10-11T19:40:11\",\"modified_gmt\":\"2026-10-11T19:40:11\",\"slug\":\"sunday-brunch-2\",\"status\":\"publish\",\"type\":\"event\",\"link\":\"https:\\/\\/silverharborbrewing.com\\/event\\/sunday-brunch-2\\/\",\"title\":{\"rendered\":\"Sunday Brunch\"},\"content\":{\"rendered\":\"<p data-pm-slice=\\\"1 1 []\\\">Celebrate the season with a festive Christmas brunch at our holiday pop-up bar! Enjoy a delicious food buffet, seasonal drinks for adults and kids, and a magical Christmas atmosphere filled with holiday cheer. Gather your family and friends for a merry morning of great food, festive sips, and Christmas memories!<\\/p>\\n<p data-pm-slice=\\\"1 1 []\\\">Reservations Coming Soon!<\\/p>\\n\",\"protected\":false},\"excerpt\":{\"rendered\":\"<p>Celebrate the season with a festive Christmas brunch at our holiday pop-up bar! Enjoy a delicious food buffet, seasonal drinks for adults and kids, and a magical Christmas atmosphere filled with holiday cheer. Gather your family and friends for a merry morning of great food, festive sips, and Christmas memories! Reservations Coming Soon!<\\/p>\\n\",\"protected\":false},\"featured_media\":3564,\"template\":\"\",\"meta\":{\"_acf_changed\":false,\"footnotes\":\"\"},\"tags\":[],\"class_list\":[\"post-3562\",\"event\",\"type-event\",\"status-publish\",\"has-post-thumbnail\",\"hentry\"],\"acf\":[],\"_links\":{\"self\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\\/3562\",\"targetHints\":{\"allow\":[\"GET\"]}}],\"collection\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\"}],\"about\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/types\\/event\"}],\"version-history\":[{\"count\":3,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\\/3562\\/revisions\"}],\"predecessor-version\":[{\"id\":3570,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\\/3562\\/revisions\\/3570\"}],\"wp:featuredmedia\":[{\"embeddable\":true,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/media\\/3564\"}],\"wp:attachment\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/media?parent=3562\"}],\"wp:term\":[{\"taxonomy\":\"post_tag\",\"embeddable\":true,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/tags?post=3562\"}],\"curies\":[{\"name\":\"wp\",\"href\":\"https:\\/\\/api.w.org\\/{rel}\",\"templated\":true}]}},{\"id\":3566,\"date\":\"2026-10-11T19:38:51\",\"date_gmt\":\"2026-10-11T19:38:51\",\"guid\":{\"rendered\":\"https:\\/\\/silverharborbrewing.com\\/?post_type=event&#038;p=3566\"},\"modified\":\"2026-10-11T19:38:51\",\"modified_gmt\":\"2026-10-11T19:38:51\",\"slug\":\"sunday-brunch\",\"status\":\"publish\",\"type\":\"event\",\"link\":\"https:\\/\\/silverharborbrewing.com\\/event\\/sunday-brunch\\/\",\"title\":{\"rendered\":\"Sunday Brunch\"},\"content\":{\"rendered\":\"<p data-pm-slice=\\\"1 1 []\\\">Celebrate the season with a festive Christmas brunch at our holiday pop-up bar! Enjoy a delicious food buffet, seasonal drinks for adults and kids, and a magical Christmas atmosphere filled with holiday cheer. Gather your family and friends for a merry morning of great food, festive sips, and Christmas memories!<\\/p>\\n<p data-pm-slice=\\\"1 1 []\\\">\\n<p data-pm-slice=\\\"1 1 []\\\">Reservations Coming Soon!<\\/p>\\n\",\"protected\":false},\"excerpt\":{\"rendered\":\"<p>Celebrate the season with a festive Christmas brunch at our holiday pop-up bar! Enjoy a delicious food buffet, seasonal drinks for adults and kids, and a magical Christmas atmosphere filled with holiday cheer. Gather your family and friends for a merry morning of great food, festive sips, and Christmas memories! Reservations Coming Soon!<\\/p>\\n\",\"protected\":false},\"featured_media\":3567,\"template\":\"\",\"meta\":{\"_acf_changed\":false,\"footnotes\":\"\"},\"tags\":[],\"class_list\":[\"post-3566\",\"event\",\"type-event\",\"status-publish\",\"has-post-thumbnail\",\"hentry\"],\"acf\":[],\"_links\":{\"self\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\\/3566\",\"targetHints\":{\"allow\":[\"GET\"]}}],\"collection\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\"}],\"about\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/types\\/event\"}],\"version-history\":[{\"count\":2,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\\/3566\\/revisions\"}],\"predecessor-version\":[{\"id\":3569,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\\/3566\\/revisions\\/3569\"}],\"wp:featuredmedia\":[{\"embeddable\":true,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/media\\/3567\"}],\"wp:attachment\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/media?parent=3566\"}],\"wp:term\":[{\"taxonomy\":\"post_tag\",\"embeddable\":true,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/tags?post=3566\"}],\"curies\":[{\"name\":\"wp\",\"href\":\"https:\\/\\/api.w.org\\/{rel}\",\"templated\":true}]}},{\"id\":3558,\"date\":\"2026-10-11T19:26:09\",\"date_gmt\":\"2026-10-11T19:26:09\",\"guid\":{\"rendered\":\"https:\\/\\/silverharborbrewing.com\\/?post_type=event&#038;p=3558\"},\"modified\":\"2026-10-18T16:26:27\",\"modified_gmt\":\"2026-10-18T16:26:27\",\"slug\":\"grinch-brunch\",\"status\":\"publish\",\"type\":\"event\",\"link\":\"https:\\/\\/silverharborbrewing.com\\/event\\/grinch-brunch\\/\",\"title\":{\"rendered\":\"Grinch Brunch\"},\"content\":{\"rendered\":\"<p>Celebrate the season with a little holiday cheer and just the right amount of mischief. Enjoy a delicious food buffet and special festive drinks for both adults and kids. We hear an appearance from the Grinch himself is on the way while you enjoy our pop-up Christmas experience. It\\u2019s a morning of fun, laughter, and great food for the whole family.<\\/p>\\n<p>&nbsp;<\\/p>\\n<p>&nbsp;<\\/p>\\n\",\"protected\":false},\"excerpt\":{\"rendered\":\"<p>Celebrate the season with a little holiday cheer and just the right amount of mischief. Enjoy a delicious food buffet and special festive drinks for both adults and kids. We hear an appearance from the Grinch himself is on the way while you enjoy our pop-up Christmas experience. It\\u2019s a morning of fun, laughter, and [&hellip;]<\\/p>\\n\",\"protected\":false},\"featured_media\":3559,\"template\":\"\",\"meta\":{\"_acf_changed\":false,\"footnotes\":\"\"},\"tags\":[],\"class_list\":[\"post-3558\",\"event\",\"type-event\",\"status-publish\",\"has-post-thumbnail\",\"hentry\"],\"acf\":[],\"_links\":{\"self\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\\/3558\",\"targetHints\":{\"allow\":[\"GET\"]}}],\"collection\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\"}],\"about\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/types\\/event\"}],\"version-history\":[{\"count\":5,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\\/3558\\/revisions\"}],\"predecessor-version\":[{\"id\":3586,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\\/3558\\/revisions\\/3586\"}],\"wp:featuredmedia\":[{\"embeddable\":true,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/media\\/3559\"}],\"wp:attachment\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/media?parent=3558\"}],\"wp:term\":[{\"taxonomy\":\"post_tag\",\"embeddable\":true,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/tags?post=3558\"}],\"curies\":[{\"name\":\"wp\",\"href\":\"https:\\/\\/api.w.org\\/{rel}\",\"templated\":true}]}}]",
+  "snip": "BEGIN:VCALENDAR VERSION:2.0 PRODID:-//The Lerner Theatre - ECPv6.8.2//NONSGML v1.0//EN CALSCALE:GREGORIAN METHOD:PUBLISH X-WR-CALNAME:The Lerner Theatre X-ORIGINAL-URL:https://thelerner.com X-WR-CALDESC:Events for The Lerner Theatre REFRESH-INTERVAL;VALUE=DURATION:PT1H X-Robots-Tag:noindex X-PUBLISHED-TTL:PT1H BEGIN:VTIMEZONE TZID:America/Indiana/Indianapolis BEGIN:DAYLIGHT TZOFFSETFROM:-0500 TZOFFSETTO:-0400 TZNAME:EDT DTSTART:20260308T070000 END:DAYLIGHT BEGIN:STANDARD TZOFFSETFROM:-0400 TZOFFSETTO:-0500 TZNAME:EST DTSTART:20261101T060000 END:STANDARD BEGIN:DAYLIGHT TZOFFSETFROM:-0500 TZOFFSETTO:-0400 TZNAME:EDT DTSTART:20270314T070000 END:DAYLIGHT BEGIN:STANDARD TZOFFSETFROM:-0400 TZOFFSETTO:-0500 TZNAME:EST DTSTART:20271107T060000 END:STANDARD END:VTIMEZONE BEGIN:VEVENT DTSTART;TZID=America/Indiana/Indianapolis:20260922T080000 DTEND;TZID=America/Indiana/Indianapolis:20261115T170000 DTSTAMP:20261111T175609 CREATED:20260922T143424Z LAST-MODIFIED:20260922T143452Z UID:10000524-1790064000-1794762000@thelerner.com SUMMARY:Elkhart County Symphony 2026-2027 \u2013 4 Show Package DESCRIPTION:Our 2026-27 season\u2014which will\\, incredibly\\, be our 79th year\u2014is one of magical music and continued momentum\\, and we hope you will join us! \\nDuel Vi2lity\\, Nov. 15 at The Lerner Theatre\\, features guest soloist Khari Joyner\\, a rising cellist described by the New York Classical Review as \u201cone of the most exciting young musicians on the classical scene.\u201d \\nOur annual concert on the historic campus of Goshen College\u2014inside the lovely Sauder Concert Hall at the Goshen College Music Center\u2014takes place Feb. 14\\, 2027. Verdi Requiem features collaborators and guest soloists including the Camerata Singers and vocalists from Goshen College Choirs. \\nCinematic Symphony\\, March 14\\, 2027\\, at The Lerner Theatre\\, celebrates film music from Mozart to Williams and features guest conductor Michael Stern\u2014music director of the Montgomery Symphony Orchestra. The event also features\\, as guest soloist\\, our Youth Concerto Competition Winner! \\nPlanetary Finale\\, the final concert of Season 79\\, is May 16\\, 2027 at The Lerner Theatre\\, and presents pax duo\\, an exciting percussion project created by Tristan Swihart and Micah Detweiler that aims to break preconcep",
+  "head": "",
   "types_json": null,
   "title": ""
+ },
+ "https://goshenbrewing.com/events/": {
+  "status": 200,
+  "final": "https://goshenbrewing.com/events/",
+  "bytes": 353359,
+  "ld_types": {
+   "Event": 13,
+   "Place": 12,
+   "PostalAddress": 12,
+   "Person": 12
+  },
+  "links": [
+   [
+    "https://goshenbrewing.com/events/list/",
+    7
+   ],
+   [
+    "https://goshenbrewing.com/event/trivia-N/",
+    4
+   ],
+   [
+    "https://goshenbrewing.com/events/",
+    3
+   ],
+   [
+    "https://goshenbrewing.com/wp-json/tribe/events/vN/",
+    1
+   ],
+   [
+    "https://goshenbrewing.com/events/month/",
+    1
+   ],
+   [
+    "https://goshenbrewing.com/events/today/",
+    1
+   ],
+   [
+    "https://goshenbrewing.com/event/don-savoie-N/",
+    1
+   ],
+   [
+    "https://goshenbrewing.com/event/missy-burgess-travis-gow/",
+    1
+   ],
+   [
+    "https://goshenbrewing.com/event/hinterland-bookery-N/",
+    1
+   ],
+   [
+    "https://goshenbrewing.com/event/sweet-pea-three/",
+    1
+   ],
+   [
+    "https://goshenbrewing.com/event/johnny-and-i/",
+    1
+   ],
+   [
+    "https://goshenbrewing.com/event/elkhart-county-beer-choir-N/",
+    1
+   ],
+   [
+    "https://goshenbrewing.com/event/brides-of-neptune-wsg-jacob-neild/",
+    1
+   ],
+   [
+    "https://goshenbrewing.com/event/hinterland-bookery-mobile-bookshop/",
+    1
+   ],
+   [
+    "https://goshenbrewing.com/event/imphormal-electric-cello/",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [
+   "https://goshenbrewing.com/events/?ical=1",
+   "https://goshenbrewing.com/wp-json/",
+   "https://goshenbrewing.com/wp-json/tribe/events/v1/",
+   "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fgoshenbrewing.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
+   "webcal://goshenbrewing.com/?post_type=tribe_events&#038;ical=1&#038;eventDisplay=list",
+   "https://outlook.office.com/owa?path=/calendar/action/compose&#038;rru=addsubscription&#038;url=webcal%3A%2F%2Fgoshenbrewing.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&#038;name=Goshen+Brewing+Company+Events+|+Goshen+Brewing+Company",
+   "https://outlook.live.com/owa?path=/calendar/action/compose&#038;rru=addsubscription&#038;url=webcal%3A%2F%2Fgoshenbrewing.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&#038;name=Goshen+Brewing+Company+Events+|+Goshen+Brewing+Company",
+   "https://goshenbrewing.com/events/list/?ical=1"
+  ],
+  "dates": [],
+  "apis": [
+   "https://api.w.org/",
+   "https://fonts.googleapis.com/css"
+  ],
+  "snip": " <div id=\"et-main-area\"> <div class=\"tribe-common tribe-events tribe-events-view tribe-events-view--list\" data-js=\"tribe-events-view\" data-view-rest-url=\"https://goshenbrewing.com/wp-json/tribe/views/v2/html\" data-view-rest-method=\"GET\" data-view-manage-url=\"1\" data-view-breakpoint-pointer=\"5b1d33ad-6d83-4d54-b638-66d7bc2c0163\" role=\"main\"> <section class=\"tribe-common-l-container tribe-events-l-container\"> <div class=\"tribe-events-view-loader tribe-common-a11y-hidden\" role=\"alert\" aria-live=\"polite\" > <span class=\"tribe-events-view-loader__text tribe-common-a11y-visual-hide\"> 13 events found. </span> <div class=\"tribe-events-view-loader__dots tribe-common-c-loader\"> <svg class=\"tribe-common-c-svgicon tribe-common-c-svgicon--dot tribe-common-c-loader__dot tribe-common-c-loader__dot--first\" aria-hidden=\"true\" viewBox=\"0 0 15 15\" xmlns=\"http://www.w3.org/2000/svg\" > <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\"/> </svg> <svg class=\"tribe-common-c-svgicon tribe-common-c-svgicon--dot tribe-common-c-loader__dot tribe-common-c-loader__dot--second\" aria-hidden=\"true\" viewBox=\"0 0 15 15\" xmlns=\"http://www.w3.org/2000/svg\" > <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\"/> </svg> <svg class=\"tribe-common-c-svgicon tribe-common-c-svgicon--dot tribe-common-c-loader__dot tribe-common-c-loader__dot--third\" aria-hidden=\"true\" viewBox=\"0 0 15 15\" xmlns=\"http://www.w3.org/2000/svg\" > <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\"/> </svg> </div> </div> <script type=\"application/ld+json\"> [{\"@context\":\"http://schema.org\",\"@type\":\"Event\",\"name\":\"Don Savoie\",\"description\":\"&lt;p&gt;Come enjoy the blues with singer-songwriter Don Savoie on the GBCo. stage as part of our free Wednesday Music Series!&lt;/p&gt;\\\\n\",\"image\":\"https://goshenbrewing.com/wp-content/uploads/2026/02/don-savoie.jpg\",\"url\":\"https://goshenbrewing.com/event/don-savoie-2/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2026-11-11T19:00:00-05:00\",\"endDate\":\"2026-11-11T21:00:00-05:00\",\"location\":{\"@type\":\"Place\",\"name\":\"Goshen Brewing Company\",\"description\":\"\",\"url\":\"\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"315 W Washington St.\",\"addressLocality\":\"Goshen\",\"addressRegion\":\"IN\",\"postalCode\":\"46526\",\"addressCountry\":\"United States\"},\"telephone\":\"5749715324\",\"sameAs\":\"\"},\"organizer\":{\"@type\":\"Person\",\"name\":\"Goshen Brewing Company\",\"description\":\"\",\"url\":\"\",\"telephone\":\"5749715324\",\"email\":\"\",\"sameAs\":\"\"},\"performer\":\"Organization\"},{\"@context\":\"http://schema.org\",\"@type\":\"Event\",\"name\":\"Trivia\",\"description\":\"&lt;p&gt;Join us in the Beer Hall for Trivia, prizes, and fun!&lt;/p&gt;\\\\n\",\"image\":\"https://goshenbrewing.com/wp-content/uploads/2025/11/TRIVIA-1.png\",\"url\":\"https://goshenbrewing.com/event/trivia-8/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2026-11-14T20:00:00-05:00\",\"endDate\":\"2026-11-14T22:0",
+  "head": "",
+  "types_json": null,
+  "title": "Events from November 11 &#8211; December 20 &#8211; Goshen Brewing Company"
  }
 }
