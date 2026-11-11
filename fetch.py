@@ -90,7 +90,7 @@ def from_cards(src, page):
     out = []
     base = re.match(r'https?://[^/]+', src['url']).group(0)
     for b in re.split(src['block_re'], page)[1:]:
-        if src.get('require_re') and not re.search(src['require_re'], b[:400]): continue
+        if src.get('require_re') and not re.search(src['require_re'], b[:src.get('require_len', 400)]): continue
         t = re.search(src['title_re'], b, re.S | re.I); d = re.search(src['date_re'], b, re.S | re.I)
         if not t or not d: continue
         tm = re.search(src['time_re'], b, re.S | re.I) if src.get('time_re') else None
