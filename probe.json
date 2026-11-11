@@ -1,79 +1,16 @@
 {
- "https://www.journeyman.com/events/": {
+ "https://www.cinemark.com/theatres/in-mishawaka/cinemark-south-bend-and-screenx": {
   "status": 200,
-  "final": "https://www.journeyman.com/events/",
-  "bytes": 128342,
-  "ld_types": {
-   "WebPage": 1,
-   "ReadAction": 1,
-   "BreadcrumbList": 1,
-   "ListItem": 2,
-   "WebSite": 1,
-   "SearchAction": 1,
-   "EntryPoint": 1,
-   "PropertyValueSpecification": 1,
-   "Organization": 1,
-   "ImageObject": 1
-  },
+  "final": "https://www.cinemark.com/theatres/in-mishawaka/cinemark-south-bend-and-screenx",
+  "bytes": 317123,
+  "ld_types": {},
   "links": [
    [
-    "https://www.journeyman.com/events/",
+    "/private-events",
     2
    ],
    [
-    "https://www.journeyman.com/events-form/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/trivia-mondays-valparaiso-in/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/autumn-artisan-market-valparaiso-N/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/thanksgivingathome-chef-prepared-dinner-valparaiso-in/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/pumpkin-pie-to-go-three-oaks-mi/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/thanksgiving-valparaiso-in/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/comedy-on-the-rocks-three-oaks-mi/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/jazz-sessions-valparaiso-in-N/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/comedy-on-the-rocks-valparaiso-in/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/santa-brunch-valparaiso-in/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/rotten-tooth-valparaiso-in/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/burns-night-three-oaks-mi/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/winter-artisan-market-N/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/spring-artisan-market-three-oaks-N/",
+    "/prepaidtickets",
     1
    ]
   ],
@@ -81,9 +18,243 @@
   "feeds": [],
   "dates": [],
   "apis": [],
-  "snip": "'http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E\" alt=\"Thanksgiving To-Go | Valparaiso, IN\" data-lazy-src=\"https://www.journeyman.com/wp-content/smush-webp/2026/10/JOU_Thanksgiving_Calender_1000x1000_New-900x900.png.webp\" /><noscript><img width=\"900\" height=\"900\" src=\"https://www.journeyman.com/wp-content/uploads/2026/10/JOU_Thanksgiving_Calender_1000x1000_New-900x900.png\" alt=\"Thanksgiving To-Go | Valparaiso, IN\" /></noscript> </div> <div class=\"upcoming_events__uppertitle\">Thanksgiving To-Go | Valparaiso, IN</div> <div class=\"upcoming_events__date\">11/25/2026</div> <div class=\"upcoming_events__duration\">11:00AM - 6:00 PM CT</div> <div class=\"upcoming_events__month-year\">11/25/2026</div> </a> </div> <div class=\"upcoming_events__card\"> <a class=\"block_pages__item\" href=\"https://www.journeyman.com/events/pumpkin-pie-to-go-three-oaks-mi/\"> <div class=\"block_pages__image\"> <img width=\"900\" height=\"900\" src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E\" alt=\"Bourbon Caramel Pumpkin Pie &#8211; To-Go | Three Oaks, MI\" data-lazy-src=\"https://www.journeyman.com/wp-content/smush-webp/2026/11/JOU_PPS_Calendar_1000x1000_1126-1-900x900.png.webp\" /><noscript><img width=\"900\" height=\"900\" src=\"https://www.journeyman.com/wp-content/uploads/2026/11/JOU_PPS_Calendar_1000x1000_1126-1-900x900.png\" alt=\"Bourbon Caramel Pumpkin Pie &#8211; To-Go | Three Oaks, MI\" /></noscript> </div> <div class=\"upcoming_events__uppertitle\">Bourbon Caramel Pumpkin Pie &#8211; To-Go | Three Oaks, MI</div> <div class=\"upcoming_events__date\">11/25/2026</div> <div class=\"upcoming_events__duration\">11:00AM - 6:00PM ET</div> <div class=\"upcoming_events__month-year\">11/25/2026</div> </a> </div> <div class=\"upcoming_events__card\"> <a class=\"block_pages__item\" href=\"https://www.journeyman.com/events/thanksgiving-valparaiso-in/\"> <div class=\"block_pages__image\"> <img width=\"900\" height=\"900\" src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E\" alt=\"The Thanksgiving Feast | Valparaiso, IN\" data-lazy-src=\"https://www.journeyman.com/wp-content/smush-webp/2026/1",
+  "snip": "ic/chunks/0cxrek0ifmjoo.js\" async=\"\" type=\"c6ec0cadca146805c494046b-text/javascript\"></script><script src=\"/_next/static/chunks/0rikg8_fggxdj.js\" async=\"\" type=\"c6ec0cadca146805c494046b-text/javascript\"></script><script src=\"/_next/static/chunks/2e67t4krsnasx.js\" async=\"\" type=\"c6ec0cadca146805c494046b-text/javascript\"></script><script src=\"/_next/static/chunks/2nghrdds1sby5.js\" async=\"\" type=\"c6ec0cadca146805c494046b-text/javascript\"></script><script src=\"/_next/static/chunks/14x_rk-8j3s5-.js\" async=\"\" type=\"c6ec0cadca146805c494046b-text/javascript\"></script><script src=\"/_next/static/chunks/12su-7bc3te-6.js\" async=\"\" type=\"c6ec0cadca146805c494046b-text/javascript\"></script><script src=\"/_next/static/chunks/045vm2qwgvf3d.js\" async=\"\" type=\"c6ec0cadca146805c494046b-text/javascript\"></script><link rel=\"preload\" href=\"https://js.recurly.com/v4/recurly.css\" as=\"style\"/><link rel=\"preload\" href=\"https://checkoutshopper-live-us.adyen.com/checkoutshopper/sdk/6.14.0/adyen.css\" as=\"style\"/><link rel=\"preload\" href=\"https://js.recurly.com/v4/recurly.js\" as=\"script\"/><link rel=\"preload\" href=\"https://cdn.optimizely.com/js/24591270085.js\" as=\"script\"/><title>Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX</title><meta name=\"description\" content=\"Visit Our Cinemark Theater in Mishawaka, IN. Enjoy alcoholic drinks and fast food. Upgrade Your Movie with reclining Luxury Loungers! Buy Tickets Online Now!\"/><meta name=\"keywords\" content=\"cinemark,movies,theater,tickets,showtimes,cinema,blockbuster,film\"/><meta name=\"robots\" content=\"index, follow\"/><meta name=\"googlebot\" content=\"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1\"/><meta name=\"application-name\" content=\"Cinemark\"/><link rel=\"canonical\" href=\"https://www.cinemark.com/theatres/in-mishawaka/cinemark-south-bend-and-screenx\"/><meta property=\"og:title\" content=\"Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX\"/><meta property=\"og:description\" content=\"Visit Our Cinemark Theater in Mishawaka, IN. Enjoy alcoholic drinks and fast food. Upgrade Your Movie with reclining Luxury Loungers! Buy Tickets Online Now!\"/><meta property=\"og:url\" content=\"https://www.cinemark.com/theatres/in-mishawaka/cinemark-south-bend-and-screenx\"/><meta property=\"og:site_name\" content=\"Cinemark\"/><meta property=\"og:image\" content=\"https://www.cinemark.com/papi/og-image?url=https%3A%2F%2Fwww.cinemark.com%2Fimg%2Fposter_blank.jpg\"/><meta property=\"og:image:alt\" content=\"Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX\"/><meta property=\"og:type\" content=\"article\"/><meta name=\"twitter:card\" content=\"summary_large_image\"/><meta name=\"twitter:title\" content=\"Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX\"/><meta name=\"twitter:description\" content=\"Visit Our Cinemark Theater in Mishawaka, IN. Enjoy alcoholic drinks and fast food. Upgrade Your Movie with reclining Luxury Loungers! Buy Tickets Online Now!\"/><meta name=\"twitter",
   "head": "",
   "types_json": null,
-  "title": "Events at Journeyman Distillery"
+  "title": "Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX"
+ },
+ "https://www.cinemark.com/theatres/in-mishawaka/cinemark-south-bend-movies-14": {
+  "status": 200,
+  "final": "https://www.cinemark.com/theatres/in-mishawaka/cinemark-south-bend-and-screenx",
+  "bytes": 317123,
+  "ld_types": {},
+  "links": [
+   [
+    "/private-events",
+    2
+   ],
+   [
+    "/prepaidtickets",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [],
+  "dates": [],
+  "apis": [],
+  "snip": "ic/chunks/0cxrek0ifmjoo.js\" async=\"\" type=\"7444e975cab9e23ea1c97851-text/javascript\"></script><script src=\"/_next/static/chunks/0rikg8_fggxdj.js\" async=\"\" type=\"7444e975cab9e23ea1c97851-text/javascript\"></script><script src=\"/_next/static/chunks/2e67t4krsnasx.js\" async=\"\" type=\"7444e975cab9e23ea1c97851-text/javascript\"></script><script src=\"/_next/static/chunks/2nghrdds1sby5.js\" async=\"\" type=\"7444e975cab9e23ea1c97851-text/javascript\"></script><script src=\"/_next/static/chunks/14x_rk-8j3s5-.js\" async=\"\" type=\"7444e975cab9e23ea1c97851-text/javascript\"></script><script src=\"/_next/static/chunks/12su-7bc3te-6.js\" async=\"\" type=\"7444e975cab9e23ea1c97851-text/javascript\"></script><script src=\"/_next/static/chunks/045vm2qwgvf3d.js\" async=\"\" type=\"7444e975cab9e23ea1c97851-text/javascript\"></script><link rel=\"preload\" href=\"https://js.recurly.com/v4/recurly.css\" as=\"style\"/><link rel=\"preload\" href=\"https://checkoutshopper-live-us.adyen.com/checkoutshopper/sdk/6.14.0/adyen.css\" as=\"style\"/><link rel=\"preload\" href=\"https://js.recurly.com/v4/recurly.js\" as=\"script\"/><link rel=\"preload\" href=\"https://cdn.optimizely.com/js/24591270085.js\" as=\"script\"/><title>Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX</title><meta name=\"description\" content=\"Visit Our Cinemark Theater in Mishawaka, IN. Enjoy alcoholic drinks and fast food. Upgrade Your Movie with reclining Luxury Loungers! Buy Tickets Online Now!\"/><meta name=\"keywords\" content=\"cinemark,movies,theater,tickets,showtimes,cinema,blockbuster,film\"/><meta name=\"robots\" content=\"index, follow\"/><meta name=\"googlebot\" content=\"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1\"/><meta name=\"application-name\" content=\"Cinemark\"/><link rel=\"canonical\" href=\"https://www.cinemark.com/theatres/in-mishawaka/cinemark-south-bend-and-screenx\"/><meta property=\"og:title\" content=\"Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX\"/><meta property=\"og:description\" content=\"Visit Our Cinemark Theater in Mishawaka, IN. Enjoy alcoholic drinks and fast food. Upgrade Your Movie with reclining Luxury Loungers! Buy Tickets Online Now!\"/><meta property=\"og:url\" content=\"https://www.cinemark.com/theatres/in-mishawaka/cinemark-south-bend-and-screenx\"/><meta property=\"og:site_name\" content=\"Cinemark\"/><meta property=\"og:image\" content=\"https://www.cinemark.com/papi/og-image?url=https%3A%2F%2Fwww.cinemark.com%2Fimg%2Fposter_blank.jpg\"/><meta property=\"og:image:alt\" content=\"Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX\"/><meta property=\"og:type\" content=\"article\"/><meta name=\"twitter:card\" content=\"summary_large_image\"/><meta name=\"twitter:title\" content=\"Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX\"/><meta name=\"twitter:description\" content=\"Visit Our Cinemark Theater in Mishawaka, IN. Enjoy alcoholic drinks and fast food. Upgrade Your Movie with reclining Luxury Loungers! Buy Tickets Online Now!\"/><meta name=\"twitter",
+  "head": "",
+  "types_json": null,
+  "title": "Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX"
+ },
+ "https://vickerstheatre.com/": {
+  "status": 200,
+  "final": "https://vickerstheatre.com/",
+  "bytes": 3543,
+  "ld_types": {
+   "MovieTheater": 1,
+   "PostalAddress": 1
+  },
+  "links": [],
+  "ics": [],
+  "feeds": [],
+  "dates": [],
+  "apis": [],
+  "snip": "",
+  "head": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <!-- Google tag (gtag.js): sends to both GA4 properties -->\n    <script async src=\"https://www.googletagmanager.com/gtag/js?id=G-YJ8VR90K1L\"></script>\n    <script>\n      window.dataLayer = window.dataLayer || [];\n      function gtag(){dataLayer.push(arguments);}\n      gtag('js', new Date());\n      gtag('config', 'G-YJ8VR90K1L');\n      gtag('config', 'G-19DQ9Q5NX2');\n    </script>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>Vickers Theatre \u2014 Three Oaks, MI</title>\n    <meta name=\"description\" content=\"A historic, independent cinema in Three Oaks, Michigan. See this week's showtimes, buy tickets, and discover upcoming films and live events.\">\n    <meta name=\"keywords\" content=\"Vickers Theatre, Three Oaks movie theater, Michigan independent cinema, showtimes, movie tickets, Harbor Country films\">\n    <meta name=\"author\" content=\"Vickers Theatre\" />\n    <link rel=\"canonical\" href=\"https://vickerstheatre.com/\" />\n\n    <meta property=\"og:type\" content=\"website\" />\n    <meta property=\"og:site_name\" content=\"Vickers Theatre\" />\n    <meta property=\"og:url\" content=\"https://vickerstheatre.com/\" />\n\n    <meta name=\"twitter:card\" content=\"summary_large_image\" />\n    <meta name=\"twitter:image\" content=\"https://vickerstheatre.com/og-share.jpg?v=2\">\n    <meta property=\"og:title\" content=\"Vickers Theatre \u2014 Three Oaks, MI\">\n  <meta name=\"twitter:title\" content=\"Vickers Theatre \u2014 Three Oaks, MI\">\n  <meta property=\"og:description\" content=\"A historic, independent cinema in Three Oaks, Michigan. See this week's showtimes, buy tickets, and discover upcoming films and live events.\">\n  <meta name=\"twitter:description\" content=\"A historic, independent cinema in Three Oaks, Michigan. See this week's showtimes, buy tickets, and discover upcoming films and live events.\">\n  <link rel=\"icon\" type=\"image/png\" href=\"/favicon.png\">\n  <meta property=\"og:image\" content=\"https://vickerstheatre.com/og-share.jpg?v=2\">\n  <meta property=\"og:image:width\" content=\"1200\">\n  <meta property=\"og:image:height\" content=\"630\">\n  <script type=\"application/ld+json\">\n    {\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"MovieTheater\",\n      \"name\": \"Vickers Theatre\",\n      \"url\": \"https://vickerstheatre.com/\",\n      \"telephone\": \"+1-269-756-3522\",\n      \"email\": \"info@vickerstheatre.com\",\n      \"address\": {\n        \"@type\": \"PostalAddress\",\n        \"streetAddress\": \"6 N. Elm Street",
+  "types_json": null,
+  "title": "Vickers Theatre \u2014 Three Oaks, MI"
+ },
+ "https://www.celebrationcinema.com/theaters/crossroads": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://www.celebrationcinema.com/": {
+  "status": 200,
+  "final": "https://www.celebrationcinema.com/",
+  "bytes": 222261,
+  "ld_types": {
+   "Organization": 1,
+   "ImageObject": 1,
+   "ContactPoint": 1,
+   "State": 1
+  },
+  "links": [
+   [
+    "/events-series",
+    2
+   ],
+   [
+    "/group-events",
+    2
+   ],
+   [
+    "https://www.celebrationcinema.com/gifts/gold-tickets-checkout",
+    2
+   ],
+   [
+    "/Films/detail/ZERO-A-D-The-Birth-of-Christ-Early-Access-Event",
+    1
+   ],
+   [
+    "https://www.celebrationcinema.com/events-series/detail/T-A-C-O-Tuesday",
+    1
+   ],
+   [
+    "https://www.celebrationcinema.com/events-series/detail/Sunday-Discount-Movie",
+    1
+   ],
+   [
+    "https://www.celebrationcinema.com/events-series/detail/flick&",
+    1
+   ],
+   [
+    "/group-events/private-showtimes",
+    1
+   ],
+   [
+    "/group-events/corporate-events",
+    1
+   ],
+   [
+    "/group-events/event-spaces",
+    1
+   ],
+   [
+    "/group-events/school-groups",
+    1
+   ],
+   [
+    "/group-events/gold-tickets",
+    1
+   ],
+   [
+    "/group-events/Holiday-events",
+    1
+   ],
+   [
+    "https://www.celebrationcinema.com/events-series/detail/C-Premium",
+    1
+   ],
+   [
+    "https://www.celebrationcinema.com/events-series/detail/IMAX",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [
+   "/manifest.json"
+  ],
+  "dates": [],
+  "apis": [
+   "https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular-animate.min.js",
+   "https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular-cookies.min.js",
+   "https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular-messages.min.js",
+   "https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular-route.min.js",
+   "https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular-sanitize.min.js",
+   "https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular.min.js"
+  ],
+  "snip": "e-gift-card-checkout#%2Fgiftcards\" target=\"_self\">Gift Cards</a> <a class=\"footer-navigation-compact child-item\" href=\"https://www.celebrationcinema.com/gifts/gold-tickets-checkout#%2Fgiftcards\" target=\"_self\">Gold Tickets</a> </div> </div> <div class=\"col-12 col-md-4\"> <div class=\"footer-nav-links\"> <a class=\"footer-navigation-compact parent-item\" href=\"/cinemas\" target=\"_self\">Locations</a> <a class=\"footer-navigation-compact child-item\" href=\"https://www.celebrationcinema.com/cinemas/Celebration-Cinema-GR-North\" target=\"_self\">GR North</a> <a class=\"footer-navigation-compact child-item\" href=\"https://www.celebrationcinema.com/cinemas/Celebration-Cinema-GR-South\" target=\"_self\">GR South</a> <a class=\"footer-navigation-compact child-item\" href=\"https://www.celebrationcinema.com/cinemas/Studio-Park\" target=\"_self\">Studio Park</a> <a class=\"footer-navigation-compact child-item\" href=\"https://www.celebrationcinema.com/cinemas/Celebration-Cinema-Rivertown\" target=\"_self\">Grandville</a> <a class=\"footer-navigation-compact child-item\" href=\"https://www.celebrationcinema.com/cinemas/Celebration-Cinema-Lansing\" target=\"_self\">Lansing</a> <a class=\"footer-navigation-compact child-item\" href=\"https://www.celebrationcinema.com/cinemas/Studio-C-Meridian-Mall\" target=\"_self\">Okemos</a> <a class=\"footer-navigation-compact child-item\" href=\"https://www.celebrationcinema.com/cinemas/Celebration-Cinema-Crossroads\" target=\"_self\">Portage</a> <a class=\"footer-navigation-compact child-item\" href=\"https://www.celebrationcinema.com/cinemas/Cinema-Carousel\" target=\"_self\">Muskegon</a> <a class=\"footer-navigation-compact child-item\" href=\"https://www.celebrationcinema.com/cinemas/Celebration-Cinema-Benton\" target=\"_self\">Benton Harbor</a> <a class=\"footer-navigation-compact child-item\" href=\"https://www.celebrationcinema.com/cinemas/Celebration-Cinema-Mt-Pleasant\" target=\"_self\">Mount Pleasant</a> <a class=\"footer-navigation-compact child-item\" href=\"https://www.celebrationcinema.com/cinemas/Getty-Drive-In\" target=\"_self\">Getty Drive-In</a> </div> </div> <div class=\"col-12 col-md-4\"> <div class=\"footer-nav-links\"> <span class=\"footer-navigation-compact parent-item no-link\" href=\"\" target=\"_self\">Our Company</span> <a class=\"footer-navigation-compact child-item\" href=\"https://www.celebrationcinema.com/jobs\" target=\"_self\">Jobs</a> <a class=\"footer-navigation-compact child-item\" href=\"https://www.celebrationcinema.com/news\" target=\"_self\">News</a> <a class=\"footer-navigation-compact child-item\" href=\"https://www.celebrationcinema.com/history\" target=\"_self\">History</a> <a class=\"footer-navigation-compact child-item\" href=\"https://www.celebrationcinema.com/mentalhealth\" target=\"_self\">Mental Health</a> <a class=\"footer-navigation-compact child-item\" href=\"https://www.celebrationcinema.c",
+  "head": "",
+  "types_json": null,
+  "title": "Movie Showtimes &amp; Tickets | Celebration Cinema"
+ },
+ "https://performingarts.nd.edu/browning-cinema/": {
+  "status": 200,
+  "final": "https://performingarts.nd.edu/browning-cinema/",
+  "bytes": 97297,
+  "ld_types": {
+   "CollectionPage": 1,
+   "ImageObject": 2,
+   "BreadcrumbList": 1,
+   "ListItem": 2,
+   "WebSite": 1,
+   "SearchAction": 1,
+   "EntryPoint": 1,
+   "PropertyValueSpecification": 1,
+   "Organization": 1
+  },
+  "links": [
+   [
+    "https://performingarts.nd.edu/events/",
+    19
+   ],
+   [
+    "https://performingarts.nd.edu/wp-content/uploads/N/N/cropped-icon-NxN.png",
+    3
+   ],
+   [
+    "https://dpactickets.nd.edu/events",
+    3
+   ],
+   [
+    "https://performingarts.nd.edu/presenting-series/",
+    3
+   ],
+   [
+    "https://performingarts.nd.edu/season-tickets/",
+    3
+   ],
+   [
+    "https://performingarts.nd.edu/film-series/",
+    3
+   ],
+   [
+    "https://performingarts.nd.edu/directions-parking/",
+    3
+   ],
+   [
+    "https://performingarts.nd.edu/category/news-announcements/",
+    3
+   ],
+   [
+    "https://performingarts.nd.edu/podcasts/",
+    3
+   ],
+   [
+    "https://performingarts.nd.edu/our-story/",
+    3
+   ],
+   [
+    "https://performingarts.nd.edu/contact/",
+    3
+   ],
+   [
+    "https://performingarts.nd.edu/news-announcements/browning-cinema-relaunches-community-summer-film-studies-program/",
+    3
+   ],
+   [
+    "https://performingarts.nd.edu/browning-cinema/live-scores/live-score-la-quena-de-la-muerte-N/",
+    3
+   ],
+   [
+    "https://performingarts.nd.edu/browning-cinema/live-scores/the-passion-of-the-joan-of-arc-N/",
+    3
+   ],
+   [
+    "https://performingarts.nd.edu/podcast/the-oscars-in-a-pandemic-a-closer-look/",
+    3
+   ]
+  ],
+  "ics": [],
+  "feeds": [
+   "https://performingarts.nd.edu/wp-json/",
+   "https://performingarts.nd.edu/wp-json/wp/v2/categories/8",
+   "https://performingarts.nd.edu/category/browning-cinema/feed/"
+  ],
+  "dates": [
+   "November 11, 2026",
+   "November 12, 2026",
+   "November 12, 2026",
+   "November 12, 2026"
+  ],
+  "apis": [
+   "https://api.tiles.mapbox.com/mapbox-gl-js/v0.45.0/mapbox-gl.css",
+   "https://api.tiles.mapbox.com/mapbox-gl-js/v0.45.0/mapbox-gl.js",
+   "https://api.w.org/"
+  ],
+  "snip": "anonical\" href=\"https://performingarts.nd.edu/category/browning-cinema/\" /> <link rel=\"next\" href=\"https://performingarts.nd.edu/category/browning-cinema/page/2/\" /> <meta property=\"og:locale\" content=\"en_US\" /> <meta property=\"og:type\" content=\"article\" /> <meta property=\"og:title\" content=\"Browning Cinema Archives\" /> <meta property=\"og:description\" content=\"Explore an archival collection of cinema-focused blogs and podcasts from DeBartolo Performing Arts Center. Written and hosted by staff, students, and faculty.\" /> <meta property=\"og:url\" content=\"https://performingarts.nd.edu/category/browning-cinema/\" /> <meta property=\"og:site_name\" content=\"DeBartolo Performing Arts Center\" /> <meta name=\"twitter:card\" content=\"summary_large_image\" /> <meta name=\"twitter:site\" content=\"@DPACND\" /> <script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/performingarts.nd.edu\\/category\\/browning-cinema\\/\",\"url\":\"https:\\/\\/performingarts.nd.edu\\/category\\/browning-cinema\\/\",\"name\":\"Browning Cinema | Category | DeBartolo Performing Arts Center\",\"isPartOf\":{\"@id\":\"https:\\/\\/performingarts.nd.edu\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/performingarts.nd.edu\\/category\\/browning-cinema\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/performingarts.nd.edu\\/category\\/browning-cinema\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/performingarts.nd.edu\\/wp-content\\/uploads\\/2022\\/06\\/Summer_Film_School_1600x700_home.jpeg\",\"description\":\"Explore an archival collection of cinema-focused blogs and podcasts from DeBartolo Performing Arts Center. Written and hosted by staff, students, and faculty.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/performingarts.nd.edu\\/category\\/browning-cinema\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/performingarts.nd.edu\\/category\\/browning-cinema\\/#primaryimage\",\"url\":\"https:\\/\\/performingarts.nd.edu\\/wp-content\\/uploads\\/2022\\/06\\/Summer_Film_School_1600x700_home.jpeg\",\"contentUrl\":\"https:\\/\\/performingarts.nd.edu\\/wp-content\\/uploads\\/2022\\/06\\/Summer_Film_School_1600x700_home.jpeg\",\"width\":1600,\"height\":700,\"caption\":\"Summer Film School 2022 promotional collage.\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/performingarts.nd.edu\\/category\\/browning-cinema\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/performingarts.nd.edu\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Browning Cinema\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/performingarts.nd.edu\\/#website\",\"url\":\"https:\\/\\/performingarts.nd.edu\\/\",\"name\":\"DeBartolo Performing Arts Center\",\"description\":\"\",\"publisher\":{\"@id\":\"https:\\/\\/performingarts.nd.edu\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/performingarts.nd.edu\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"v",
+  "head": "",
+  "types_json": null,
+  "title": "Browning Cinema | Category | DeBartolo Performing Arts Center"
  }
 }
