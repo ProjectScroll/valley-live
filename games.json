@@ -1,10 +1,10 @@
 {
-"updated": "2026-11-11T17:02-05:00",
+"updated": "2026-11-11T17:07-05:00",
 "games": [
 {
 "id": "e47bac204e",
 "title": "Western Michigan University At University of Akron",
-"start": "2026-11-10T19:00:00",
+"start": "2026-11-10T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Akron, Ohio",
@@ -21,7 +21,7 @@
 {
 "id": "b8c0a76fa7",
 "title": "Western Michigan University Vs Purdue Fort Wayne",
-"start": "2026-11-10T19:00:00",
+"start": "2026-11-10T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -38,7 +38,7 @@
 {
 "id": "16133d17e1",
 "title": "Western Michigan University At Purdue Fort Wayne",
-"start": "2026-11-12T19:00:00",
+"start": "2026-11-12T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Fort Wayne, Ind.",
@@ -55,7 +55,7 @@
 {
 "id": "3b119aacad",
 "title": "Western Michigan University Vs #12/13 Colorado College",
-"start": "2026-11-13T19:00:00",
+"start": "2026-11-13T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Lawson Arena",
@@ -72,7 +72,7 @@
 {
 "id": "65dc8f4bcc",
 "title": "Western Michigan University Vs #12/13 Colorado College",
-"start": "2026-11-14T18:00:00",
+"start": "2026-11-14T18:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Lawson Arena",
@@ -89,7 +89,7 @@
 {
 "id": "8c7229cb18",
 "title": "Western Michigan University At University of Dayton",
-"start": "2026-11-15T13:00:00",
+"start": "2026-11-15T13:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Dayton, OH",
@@ -106,7 +106,7 @@
 {
 "id": "28aeff8337",
 "title": "Western Michigan University At Southern Indiana",
-"start": "2026-11-15T16:30:00",
+"start": "2026-11-15T16:30:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Evansville, Ind.",
@@ -123,7 +123,7 @@
 {
 "id": "cdecec2951",
 "title": "Western Michigan University Vs Eastern Michigan University",
-"start": "2026-11-17T19:00:00",
+"start": "2026-11-17T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Stafford-Smith Field at Waldo Stadium",
@@ -140,7 +140,7 @@
 {
 "id": "2980bfd700",
 "title": "Western Michigan University At Mount St. Mary's",
-"start": "2026-11-20T19:00:00",
+"start": "2026-11-20T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Emmitsburg, Md.",
@@ -157,7 +157,7 @@
 {
 "id": "d20b6bd98c",
 "title": "Western Michigan University Vs Milwaukee",
-"start": "2026-11-20T19:00:00",
+"start": "2026-11-20T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -174,7 +174,7 @@
 {
 "id": "85dcae59f9",
 "title": "Western Michigan University At University of Nebraska at Omaha",
-"start": "2026-11-20T20:00:00",
+"start": "2026-11-20T20:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Omaha, Neb.",
@@ -191,7 +191,7 @@
 {
 "id": "884df9f5cc",
 "title": "Western Michigan University At University of Nebraska at Omaha",
-"start": "2026-11-21T20:00:00",
+"start": "2026-11-21T20:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Omaha, Neb.",
@@ -208,7 +208,7 @@
 {
 "id": "cb5ad14d79",
 "title": "Western Michigan University Vs Miami University (OH)",
-"start": "2026-11-24T00:00:00",
+"start": "2026-11-24T00:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Stafford-Smith Field at Waldo Stadium",
@@ -225,7 +225,7 @@
 {
 "id": "3ff8aff2f2",
 "title": "Western Michigan University Vs Lindenwood",
-"start": "2026-11-24T15:00:00",
+"start": "2026-11-24T15:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Cleveland, Ohio",
@@ -242,7 +242,7 @@
 {
 "id": "376d504b8d",
 "title": "Western Michigan University Vs Georgia Southern University",
-"start": "2026-11-25T12:00:00",
+"start": "2026-11-25T12:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Cleveland, Ohio",
@@ -259,7 +259,7 @@
 {
 "id": "0eb009db0e",
 "title": "Western Michigan University Vs Grace Christian",
-"start": "2026-11-25T14:00:00",
+"start": "2026-11-25T14:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -276,7 +276,7 @@
 {
 "id": "d6f01b66ca",
 "title": "Western Michigan University Vs Buffalo",
-"start": "2026-12-02T19:00:00",
+"start": "2026-12-02T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -293,7 +293,7 @@
 {
 "id": "cedfbb33c0",
 "title": "Western Michigan University At University of Wisconsin",
-"start": "2026-12-02T19:30:00",
+"start": "2026-12-02T19:30:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Madison, WI",
@@ -310,7 +310,7 @@
 {
 "id": "c8985bb619",
 "title": "Western Michigan University Vs Miami University (OH)",
-"start": "2026-12-04T19:00:00",
+"start": "2026-12-04T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Lawson Arena",
@@ -327,7 +327,7 @@
 {
 "id": "2173f17850",
 "title": "Western Michigan University Vs Mid-American Conference Championship",
-"start": "2026-12-05T12:00:00",
+"start": "2026-12-05T12:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Detroit, Mich. (Ford Field)",
@@ -344,7 +344,7 @@
 {
 "id": "14a1fdc8f3",
 "title": "Western Michigan University At Bowling Green",
-"start": "2026-12-05T14:00:00",
+"start": "2026-12-05T14:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Bowling Green, Ohio",
@@ -361,7 +361,7 @@
 {
 "id": "c741179275",
 "title": "Western Michigan University Vs Miami University (OH)",
-"start": "2026-12-05T18:00:00",
+"start": "2026-12-05T18:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Lawson Arena",
@@ -378,7 +378,7 @@
 {
 "id": "44494175f9",
 "title": "Western Michigan University At UMass",
-"start": "2026-12-09T19:00:00",
+"start": "2026-12-09T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Amherst, Mass.",
@@ -395,7 +395,7 @@
 {
 "id": "fe5e4187f2",
 "title": "Western Michigan University Vs Madonna University (Mich.)",
-"start": "2026-12-10T19:00:00",
+"start": "2026-12-10T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -412,7 +412,7 @@
 {
 "id": "1ae2f55379",
 "title": "Western Michigan University At Arizona State University",
-"start": "2026-12-11T21:00:00",
+"start": "2026-12-11T21:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Tempe, Ariz.",
@@ -429,7 +429,7 @@
 {
 "id": "9352d120cb",
 "title": "Western Michigan University Vs Toledo",
-"start": "2026-12-12T14:00:00",
+"start": "2026-12-12T14:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -446,7 +446,7 @@
 {
 "id": "9b5a4bdcf4",
 "title": "Western Michigan University At Arizona State University",
-"start": "2026-12-12T19:00:00",
+"start": "2026-12-12T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Tempe, Ariz.",
@@ -463,7 +463,7 @@
 {
 "id": "01782e00f3",
 "title": "Western Michigan University At Duquesne University",
-"start": "2026-12-13T14:00:00",
+"start": "2026-12-13T14:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Pittsburgh, PA",
@@ -480,7 +480,7 @@
 {
 "id": "aaf3276dd2",
 "title": "Western Michigan University Vs Great Lakes Christian",
-"start": "2026-12-18T19:00:00",
+"start": "2026-12-18T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -497,7 +497,7 @@
 {
 "id": "627425a931",
 "title": "Western Michigan University Vs Oakland University",
-"start": "2026-12-19T13:00:00",
+"start": "2026-12-19T13:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -514,7 +514,7 @@
 {
 "id": "b6ac951216",
 "title": "Western Michigan University At Purdue University",
-"start": "2026-12-22T12:00:00",
+"start": "2026-12-22T12:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "West Lafayette, IN",
@@ -531,7 +531,7 @@
 {
 "id": "8affab2b7f",
 "title": "Western Michigan University At USC",
-"start": "2026-12-22T22:00:00",
+"start": "2026-12-22T22:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Los Angeles, Calif.",
@@ -548,7 +548,7 @@
 {
 "id": "0459976e11",
 "title": "Western Michigan University Vs Michigan Tech",
-"start": "2026-12-29T15:30:00",
+"start": "2026-12-29T15:30:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Van Andel Arena",
@@ -565,7 +565,7 @@
 {
 "id": "b84bce9175",
 "title": "Western Michigan University Vs Great Lakes Invitational",
-"start": "2026-12-30T00:00:00",
+"start": "2026-12-30T00:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Van Andel Arena",
@@ -582,7 +582,7 @@
 {
 "id": "5feb3b0ba6",
 "title": "Western Michigan University Vs Eastern Michigan University",
-"start": "2027-01-02T13:00:00",
+"start": "2027-01-02T13:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -599,7 +599,7 @@
 {
 "id": "888a17f94d",
 "title": "Western Michigan University At Akron",
-"start": "2027-01-02T14:00:00",
+"start": "2027-01-02T14:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Akron, Ohio",
@@ -616,7 +616,7 @@
 {
 "id": "f3ff22baa6",
 "title": "Western Michigan University Vs Eastern Michigan",
-"start": "2027-01-05T19:00:00",
+"start": "2027-01-05T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -633,7 +633,7 @@
 {
 "id": "0cf8ce540a",
 "title": "Western Michigan University Vs Ohio University",
-"start": "2027-01-06T19:00:00",
+"start": "2027-01-06T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -650,7 +650,7 @@
 {
 "id": "a076ff4594",
 "title": "Western Michigan University Vs University of Denver",
-"start": "2027-01-08T19:00:00",
+"start": "2027-01-08T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Lawson Arena",
@@ -667,7 +667,7 @@
 {
 "id": "00dcce26f1",
 "title": "Western Michigan University At University of Massachusetts",
-"start": "2027-01-09T12:00:00",
+"start": "2027-01-09T12:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Amherst, MA",
@@ -684,7 +684,7 @@
 {
 "id": "e7373a6680",
 "title": "Western Michigan University Vs Kent State",
-"start": "2027-01-09T14:00:00",
+"start": "2027-01-09T14:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -701,7 +701,7 @@
 {
 "id": "924a881aa3",
 "title": "Western Michigan University Vs University of Denver",
-"start": "2027-01-09T18:00:00",
+"start": "2027-01-09T18:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Lawson Arena",
@@ -718,7 +718,7 @@
 {
 "id": "0832e3fd45",
 "title": "Western Michigan University At Miami",
-"start": "2027-01-12T19:00:00",
+"start": "2027-01-12T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Oxford, Ohio",
@@ -735,7 +735,7 @@
 {
 "id": "7e33ac39b4",
 "title": "Western Michigan University At Bowling Green",
-"start": "2027-01-13T19:00:00",
+"start": "2027-01-13T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Bowling Green, OH",
@@ -752,7 +752,7 @@
 {
 "id": "259f9ff082",
 "title": "Western Michigan University Vs University of Nebraska at Omaha",
-"start": "2027-01-15T19:00:00",
+"start": "2027-01-15T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Lawson Arena",
@@ -769,7 +769,7 @@
 {
 "id": "399c2f7b0e",
 "title": "Western Michigan University Vs University of Toledo",
-"start": "2027-01-16T12:00:00",
+"start": "2027-01-16T12:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -786,7 +786,7 @@
 {
 "id": "031bcea5ee",
 "title": "Western Michigan University Vs Ball State",
-"start": "2027-01-16T14:30:00",
+"start": "2027-01-16T14:30:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -803,7 +803,7 @@
 {
 "id": "a2f732206d",
 "title": "Western Michigan University Vs University of Nebraska at Omaha",
-"start": "2027-01-16T18:00:00",
+"start": "2027-01-16T18:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Lawson Arena",
@@ -820,7 +820,7 @@
 {
 "id": "2bc7ae9786",
 "title": "Western Michigan University At Ohio",
-"start": "2027-01-19T19:00:00",
+"start": "2027-01-19T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Athens, Ohio",
@@ -837,7 +837,7 @@
 {
 "id": "8cadbca08f",
 "title": "Western Michigan University At Kent State University",
-"start": "2027-01-20T19:00:00",
+"start": "2027-01-20T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Kent, OH",
@@ -854,7 +854,7 @@
 {
 "id": "2d82bcb23e",
 "title": "Western Michigan University At University of St. Thomas",
-"start": "2027-01-22T20:00:00",
+"start": "2027-01-22T20:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "St. Paul, Minn.",
@@ -871,7 +871,7 @@
 {
 "id": "cfdfc28259",
 "title": "Western Michigan University Vs Ball State University",
-"start": "2027-01-23T13:00:00",
+"start": "2027-01-23T13:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -888,7 +888,7 @@
 {
 "id": "8a9e2710f1",
 "title": "Western Michigan University At Central Michigan",
-"start": "2027-01-23T15:30:00",
+"start": "2027-01-23T15:30:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Mount Pleasant, Mich.",
@@ -905,7 +905,7 @@
 {
 "id": "6c1e2f7ba0",
 "title": "Western Michigan University At University of St. Thomas",
-"start": "2027-01-23T19:00:00",
+"start": "2027-01-23T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "St. Paul, Minn.",
@@ -922,7 +922,7 @@
 {
 "id": "b667d7af03",
 "title": "Western Michigan University Vs Bowling Green",
-"start": "2027-01-26T19:00:00",
+"start": "2027-01-26T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -939,7 +939,7 @@
 {
 "id": "adcf0db5d4",
 "title": "Western Michigan University At Miami University (OH)",
-"start": "2027-01-27T19:00:00",
+"start": "2027-01-27T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Oxford, OH",
@@ -956,7 +956,7 @@
 {
 "id": "9d07caf97a",
 "title": "Western Michigan University Vs University of Michigan",
-"start": "2027-01-30T00:00:00",
+"start": "2027-01-30T00:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Stafford-Smith Field at Waldo Stadium",
@@ -973,7 +973,7 @@
 {
 "id": "60a2c16492",
 "title": "Western Michigan University At Central Michigan University",
-"start": "2027-01-30T13:00:00",
+"start": "2027-01-30T13:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Mount Pleasant, MI",
@@ -990,7 +990,7 @@
 {
 "id": "5d2822706a",
 "title": "Western Michigan University At Eastern Michigan",
-"start": "2027-01-30T14:00:00",
+"start": "2027-01-30T14:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Ypsilanti, Mich.",
@@ -1007,7 +1007,7 @@
 {
 "id": "14226904f6",
 "title": "Western Michigan University Vs Akron",
-"start": "2027-02-02T19:00:00",
+"start": "2027-02-02T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -1024,7 +1024,7 @@
 {
 "id": "279c7c9d54",
 "title": "Western Michigan University Vs University of Akron",
-"start": "2027-02-03T19:00:00",
+"start": "2027-02-03T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -1041,7 +1041,7 @@
 {
 "id": "b4e5145bca",
 "title": "Western Michigan University Vs St. Cloud State University",
-"start": "2027-02-05T19:00:00",
+"start": "2027-02-05T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Lawson Arena",
@@ -1058,7 +1058,7 @@
 {
 "id": "913f84ff84",
 "title": "Western Michigan University At Sun Belt Conference",
-"start": "2027-02-06T00:00:00",
+"start": "2027-02-06T00:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "New Orleans, La.",
@@ -1075,7 +1075,7 @@
 {
 "id": "bf2839dbc6",
 "title": "Western Michigan University Vs TBD",
-"start": "2027-02-06T14:00:00",
+"start": "2027-02-06T14:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -1092,7 +1092,7 @@
 {
 "id": "1e8b152a1f",
 "title": "Western Michigan University Vs St. Cloud State University",
-"start": "2027-02-06T18:00:00",
+"start": "2027-02-06T18:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Lawson Arena",
@@ -1109,7 +1109,7 @@
 {
 "id": "f10f999a13",
 "title": "Western Michigan University Vs Ohio",
-"start": "2027-02-09T19:00:00",
+"start": "2027-02-09T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -1126,7 +1126,7 @@
 {
 "id": "e7a32b2f18",
 "title": "Western Michigan University At University at Buffalo",
-"start": "2027-02-10T18:00:00",
+"start": "2027-02-10T18:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Buffalo, NY",
@@ -1143,7 +1143,7 @@
 {
 "id": "a00d13cd41",
 "title": "Western Michigan University At Colorado College",
-"start": "2027-02-12T21:00:00",
+"start": "2027-02-12T21:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Colorado Springs, Colo.",
@@ -1160,7 +1160,7 @@
 {
 "id": "bbe9d71290",
 "title": "Western Michigan University Vs University of Massachusetts",
-"start": "2027-02-13T13:00:00",
+"start": "2027-02-13T13:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -1177,7 +1177,7 @@
 {
 "id": "6e7dbf2321",
 "title": "Western Michigan University At Toledo",
-"start": "2027-02-13T14:00:00",
+"start": "2027-02-13T14:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Toledo, Ohio",
@@ -1194,7 +1194,7 @@
 {
 "id": "39600b417f",
 "title": "Western Michigan University At Colorado College",
-"start": "2027-02-13T20:00:00",
+"start": "2027-02-13T20:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Colorado Springs, Colo.",
@@ -1211,7 +1211,7 @@
 {
 "id": "86cfa1860d",
 "title": "Western Michigan University At Kent State",
-"start": "2027-02-16T19:00:00",
+"start": "2027-02-16T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Kent, Ohio",
@@ -1228,7 +1228,7 @@
 {
 "id": "e1a58b6bda",
 "title": "Western Michigan University At Eastern Michigan University",
-"start": "2027-02-17T18:30:00",
+"start": "2027-02-17T18:30:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Ypsilanti, MI",
@@ -1245,7 +1245,7 @@
 {
 "id": "9d1f4d31d2",
 "title": "Western Michigan University Vs University of Minnesota Duluth",
-"start": "2027-02-19T19:00:00",
+"start": "2027-02-19T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Lawson Arena",
@@ -1262,7 +1262,7 @@
 {
 "id": "0a278bbdd1",
 "title": "Western Michigan University Vs Central Michigan University",
-"start": "2027-02-20T12:00:00",
+"start": "2027-02-20T12:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -1279,7 +1279,7 @@
 {
 "id": "be3e5949a4",
 "title": "Western Michigan University Vs UMass",
-"start": "2027-02-20T14:30:00",
+"start": "2027-02-20T14:30:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -1296,7 +1296,7 @@
 {
 "id": "6dda328c15",
 "title": "Western Michigan University Vs University of Minnesota Duluth",
-"start": "2027-02-20T18:00:00",
+"start": "2027-02-20T18:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Lawson Arena",
@@ -1313,7 +1313,7 @@
 {
 "id": "df22bdefea",
 "title": "Western Michigan University At Ball State",
-"start": "2027-02-23T19:00:00",
+"start": "2027-02-23T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Muncie, Ind.",
@@ -1330,7 +1330,7 @@
 {
 "id": "fd187a071e",
 "title": "Western Michigan University Vs Kent State University",
-"start": "2027-02-24T19:00:00",
+"start": "2027-02-24T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -1347,7 +1347,7 @@
 {
 "id": "b17d8bc683",
 "title": "Western Michigan University At Miami University (OH)",
-"start": "2027-02-26T19:00:00",
+"start": "2027-02-26T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Oxford, Ohio",
@@ -1364,7 +1364,7 @@
 {
 "id": "b6d48a70c1",
 "title": "Western Michigan University At Ohio University",
-"start": "2027-02-27T13:00:00",
+"start": "2027-02-27T13:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Athens, OH",
@@ -1381,7 +1381,7 @@
 {
 "id": "e589a32827",
 "title": "Western Michigan University Vs Central Michigan",
-"start": "2027-02-27T17:00:00",
+"start": "2027-02-27T17:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -1398,7 +1398,7 @@
 {
 "id": "19b7e42cb3",
 "title": "Western Michigan University At Miami University (OH)",
-"start": "2027-02-27T18:00:00",
+"start": "2027-02-27T18:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Oxford, Ohio",
@@ -1415,7 +1415,7 @@
 {
 "id": "5d3fd4fd03",
 "title": "Western Michigan University Vs Miami",
-"start": "2027-03-02T19:00:00",
+"start": "2027-03-02T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -1432,7 +1432,7 @@
 {
 "id": "dcc5f6f50d",
 "title": "Western Michigan University Vs Miami University (OH)",
-"start": "2027-03-03T19:00:00",
+"start": "2027-03-03T19:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "University Arena",
@@ -1449,7 +1449,7 @@
 {
 "id": "50c61a51ef",
 "title": "Western Michigan University Vs NCHC First Round",
-"start": "2027-03-05T00:00:00",
+"start": "2027-03-05T00:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": null,
@@ -1466,7 +1466,7 @@
 {
 "id": "b9a4dcdc63",
 "title": "Western Michigan University At Buffalo",
-"start": "2027-03-05T18:30:00",
+"start": "2027-03-05T18:30:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Buffalo, N.Y.",
@@ -1483,7 +1483,7 @@
 {
 "id": "6c10d9be7d",
 "title": "Western Michigan University At University of Akron",
-"start": "2027-03-06T12:00:00",
+"start": "2027-03-06T12:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Akron, OH",
@@ -1500,7 +1500,7 @@
 {
 "id": "0fcdafad65",
 "title": "Western Michigan University Vs TBD",
-"start": "2027-03-10T00:00:00",
+"start": "2027-03-10T00:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Rocket Arena",
@@ -1517,7 +1517,7 @@
 {
 "id": "35033eb0f2",
 "title": "Western Michigan University Vs Mid-American Conference",
-"start": "2027-03-10T00:00:00",
+"start": "2027-03-10T00:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Rocket Arena",
@@ -1534,7 +1534,7 @@
 {
 "id": "cd612e1ddc",
 "title": "Western Michigan University Vs NCHC Semifinals",
-"start": "2027-03-13T00:00:00",
+"start": "2027-03-13T00:00:00-05:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": null,
@@ -1551,7 +1551,7 @@
 {
 "id": "0e089837d1",
 "title": "Western Michigan University Vs NCHC Championship",
-"start": "2027-03-19T00:00:00",
+"start": "2027-03-19T00:00:00-04:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": null,
@@ -1568,7 +1568,7 @@
 {
 "id": "412ae8a1d5",
 "title": "Western Michigan University Vs NCAA Regionals",
-"start": "2027-03-25T00:00:00",
+"start": "2027-03-25T00:00:00-04:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": null,
@@ -1670,7 +1670,7 @@
 {
 "id": "f38ddd4ed4",
 "title": "Western Michigan University Vs NCAA Frozen Four",
-"start": "2027-04-08T00:00:00",
+"start": "2027-04-08T00:00:00-04:00",
 "allday": false,
 "venue": "Western Michigan Broncos",
 "room": "Washington, D.C.",
