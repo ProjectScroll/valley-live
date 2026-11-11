@@ -1,57 +1,142 @@
 {
- "https://fightingirish.com/website-api/schedule-events?filter%5Bschedule_id%5D=730&include=opponent,schedule_event_links&per_page=3": {
-  "status": 200,
-  "final": "https://fightingirish.com/website-api/schedule-events?filter%5Bschedule_id%5D=730&include=opponent,schedule_event_links&per_page=3",
-  "bytes": 6585,
-  "ld_types": {},
-  "links": [],
-  "ics": [],
-  "feeds": [],
-  "dates": [],
-  "apis": [],
-  "snip": "{\"data\":[{\"id\":20509,\"promo_title\":null,\"promo_link\":null,\"ranking\":\"3\",\"location\":\"South Bend, IN\",\"location_url\":null,\"opponent_id\":5865,\"opponent\":{\"id\":5865,\"name\":\"Boston College\",\"long_name\":\"Eagles\",\"abbreviation\":null,\"website_url\":null,\"location\":null,\"official_logo_id\":45286,\"custom_logo_id\":null},\"opponent_name\":\"Boston College\",\"opponent_logo_id\":45286,\"opponent_school_name\":\"Eagles\",\"opponent_ranking\":null,\"neutral_event\":false,\"neutral_event_preposition\":\"vs\",\"second_opponent_id\":null,\"second_opponent_name\":null,\"second_opponent_logo_id\":null,\"second_opponent_school_name\":null,\"second_opponent_ranking\":null,\"presented_by_id\":null,\"presented_by_url\":null,\"datetime\":\"2026-11-14T20:30:00.000000Z\",\"datetime_end\":null,\"is_all_day\":false,\"tba\":null,\"tba_text\":null,\"schedule_id\":730,\"venue_type\":\"home\",\"venue\":\"Notre Dame Stadium\",\"is_conference\":false,\"conference_id\":null,\"is_exhibition\":false,\"hide_vs_at\":false,\"hide_from_all_sports_schedule\":false,\"hide_current_team_logo\":false,\"hide_from_specific_sport_schedule\":false,\"status\":\"as_scheduled\",\"status_text\":null,\"more_details_text\":null,\"tournament_id\":null,\"pre_event_article_id\":null,\"post_event_article_id\":null,\"wmt_stats_game_id\":null,\"wmt_stats_iframe_url\":null,\"wmt_stats2_game_id\":6604103,\"wmt_stats2_iframe_url\":\"https:\\/\\/wmt.games\\/und\\/stats\\/match\\/full\\/6604103\",\"wmt_stats2_compact_iframe_url\":\"https:\\/\\/wmt.games\\/und\\/stats\\/match\\/6604103\",\"has_box_score\":false,\"box_score_url\":\"https:\\/\\/fightingirish.com\\/boxscore\\/20509\",\"pdf_id\":null,\"statbroadcast_id\":672924,\"hide_tba_text\":false,\"hide_from_side_rail_schedule\":false,\"hide_from_schedule_ticker\":false},{\"id\":20511,\"promo_title\":null,\"promo_link\":null,\"ranking\":\"3\",\"location\":\"West Lafayette, IN\",\"location_url\":null,\"opponent_id\":5952,\"opponent\":{\"id\":5952,\"name\":\"Purdue\",\"long_name\":\"Boilermakers\",\"abbreviation\":null,\"website_url\":null,\"location\":null,\"official_logo_id\":10136,\"custom_logo_id\":null},\"opponent_name\":\"Purdue\",\"opponent_logo_id\":10136,\"opponent_school_name\":\"Boilermakers\",\"opponent_ranking\":null,\"neutral_event\":false,\"neutral_event_preposition\":\"vs\",\"second_opponent_id\":null,\"second_opponent_name\":null,\"second_opp",
-  "head": "{\"data\":[{\"id\":20509,\"promo_title\":null,\"promo_link\":null,\"ranking\":\"3\",\"location\":\"South Bend, IN\",\"location_url\":null,\"opponent_id\":5865,\"opponent\":{\"id\":5865,\"name\":\"Boston College\",\"long_name\":\"Eagles\",\"abbreviation\":null,\"website_url\":null,\"location\":null,\"official_logo_id\":45286,\"custom_logo_id\":null},\"opponent_name\":\"Boston College\",\"opponent_logo_id\":45286,\"opponent_school_name\":\"Eagles\",\"opponent_ranking\":null,\"neutral_event\":false,\"neutral_event_preposition\":\"vs\",\"second_opponent_id\":null,\"second_opponent_name\":null,\"second_opponent_logo_id\":null,\"second_opponent_school_name\":null,\"second_opponent_ranking\":null,\"presented_by_id\":null,\"presented_by_url\":null,\"datetime\":\"2026-11-14T20:30:00.000000Z\",\"datetime_end\":null,\"is_all_day\":false,\"tba\":null,\"tba_text\":null,\"schedule_id\":730,\"venue_type\":\"home\",\"venue\":\"Notre Dame Stadium\",\"is_conference\":false,\"conference_id\":null,\"is_exhibition\":false,\"hide_vs_at\":false,\"hide_from_all_sports_schedule\":false,\"hide_current_team_logo\":false,\"hide_from_specific_sport_schedule\":false,\"status\":\"as_scheduled\",\"status_text\":null,\"more_details_text\":null,\"tournament_id\":null,\"pre_event_article_id\":null,\"post_event_article_id\":null,\"wmt_stats_game_id\":null,\"wmt_stats_iframe_url\":null,\"wmt_stats2_game_id\":6604103,\"wmt_stats2_iframe_url\":\"https:\\/\\/wmt.games\\/und\\/stats\\/match\\/full\\/6604103\",\"wmt_stats2_compact_iframe_url\":\"https:\\/\\/wmt.games\\/und\\/stats\\/match\\/6604103\",\"has_box_score\":false,\"box_score_url\":\"https:\\/\\/fightingirish.com\\/boxscore\\/20509\",\"pdf_id\":null,\"statbroadcast_id\":672924,\"hide_tba_text\":false,\"hide_from_side_rail_schedule\":false,\"hide_from_schedule_ticker\":false},{\"id\":20511,\"promo_title\":null,\"promo_link\":null,\"ranking\":\"3\",\"location\":\"West Lafayette, IN\",\"location_url\":null,\"opponent_id\":5952,\"opponent\":{\"id\":5952,\"name\":\"Purdue\",\"long_name\":\"Boilermakers\",\"abbreviation\":null,\"website_url\":null,\"location\":null,\"official_logo_id\":10136,\"custom_logo_id\":null},\"opponent_name\":\"Purdue\",\"opponent_logo_id\":10136,\"opponent_school_name\":\"Boilermakers\",\"opponent_ranking\":null,\"neutral_event\":false,\"neutral_event_preposition\":\"vs\",\"second_opponent_id\":null,\"second_opponent_name\":null,\"second_opponent_logo_id\":null,\"second_opponent_school_name\":null,\"second_opponent_ranking\":null,\"presented_by_id\":null,\"presented_by_url\":null,\"datetime\":\"2026-09-26T18:00:00.000000Z\",\"datetime_end\":null,\"is_all_day\":false,\"tba\":null,\"tba_text\":null,\"schedule_id\":730,\"venue_type\":\"away\",\"venue\":\"Ross-Ade Stadium\",\"is_conference\":false,\"conference_id\":null,\"is_exhibition\":false,\"hide_vs_at\":false,\"hide_from_all_sports_schedule\":false,\"hide_current_team_logo\":false,\"hide_from_specific_sport_schedule\":false,\"status\":\"completed\",\"status_text\":null,\"more_details_text\":null,\"tournament_id\":null,\"pre_event_article_id\":76924,\"post_event_article_id\":76940,\"wmt_stats_game_id\":null,\"wmt_stats_iframe_url\":null,\"wmt_stats2_game_id\":6604099,\"wmt_stats2_iframe_url\":\"https:\\/\\/wmt.games\\/und\\/stats\\/match\\/full\\/6604099\",\"wmt_stats2_compact_iframe_url\":\"https:\\/\\/wmt.games\\/und\\/stats\\/match\\/6604099\",\"has_box_score\":true,\"box_score_url\":\"https:\\/\\/fightingirish.com\\/boxscore\\/20511\",\"pdf_id\":176188,\"statbroadcast_id\":673078,\"hide_tba_text\":false,\"hide_from_side_rail_schedule\":false,\"hide_from_schedule_ticker\":false},{\"id\":20513,\"promo_title\":null,\"promo_link\":null,\"ranking\":\"3\",\"location\":\"South Bend, IN\",\"location_url\":null,\"opponent_id\":5953,\"opponent\":{\"id\":5953,\"name\":\"Rice\",\"long_name\":\"Owls\",\"abbreviation\":null,\"website_url\":null,\"location\":null,\"official_logo_id\":167795,\"custom_logo_id\":null},\"opponent_name\":\"Rice\",\"opponent_logo_id\":167795,\"opponent_school_name\":\"Owls\",\"opponent_ranking\":null,\"neutral_event\":false,\"neutral_event_preposition\":\"vs\",\"second_opponent_id\":null,\"second_opponent_name\":null,\"second_opponent_logo_id\":null,\"second_opponent_school_name\":null,\"second_opponent_ranking\":null,\"presented_by_id\":null,\"presented_by_url\":null,\"datetime\":\"2026-09-12T19:30:00.000000Z\",\"datetime_end\":null,\"is_all_day\":false,\"tba\":null,\"tba_text\":null,\"schedule_id\":730,\"venue_type\":\"home\",\"venue\":\"Notre Dame Stadium\",\"is_conference\":false,\"conference_id\":null,\"is_exhibition\":false,\"hide_vs_at\":false,\"hide_from_all_sports_schedule\":false,\"hide_current_team_logo\":false,\"hide_from_specific_sport_schedule\":false,\"status\":\"completed\",\"status_text\":null,\"more_details_text\":null,\"tournament_id\":null,\"pre_event_article_id\":76647,\"post_event_article_id\":76665,\"wmt_stats_game_id\":null,\"wmt_stats_iframe_url\":null,\"wmt_stats2_game_id\":6604097,\"wmt_stats2_iframe_url\":\"https:\\/\\/wmt.games\\/und\\/stats\\/match\\/full\\/6604097\",\"wmt_stats2_compact_iframe_url\":\"https:\\/\\/wmt.games\\/und\\/stats\\/match\\/6604097\",\"has_box_score\":true,\"box_score_url\":\"https:\\/\\/fightingirish.com\\/boxscore\\/20513\",\"pdf_id\":null,\"statbroadcast_id\":672921,\"hide_tba_text\":false,\"hide_from_side_rail_schedule\":false,\"hide_from_schedule_ticker\":false}],\"links\":{\"first\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=730&include=opponent%2Cschedule_event_links&per_page=3&page=1\",\"last\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=730&include=opponent%2Cschedule_event_links&per_page=3&page=4\",\"prev\":null,\"next\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=730&include=opponent%2Cschedule_event_links&per_page=3&page=2\"},\"meta\":{\"current_page\":1,\"from\":1,\"last_page\":4,\"links\":[{\"url\":null,\"label\":\"&laquo; Previous\",\"page\":null,\"active\":false},{\"url\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=730&include=opponent%2Cschedule_event_links&per_page=3&page=1\",\"label\":\"1\",\"page\":1,\"active\":true},{\"url\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=730&include=opponent%2Cschedule_event_links&per_page=3&page=2\",\"label\":\"2\",\"page\":2,\"active\":false},{\"url\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=730&include=opponent%2Cschedule_event_links&per_page=3&page=3\",\"label\":\"3\",\"page\":3,\"active\":false},{\"url\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=730&include=opponent%2Cschedule_event_links&per_page=3&page=4\",\"label\":\"4\",\"page\":4,\"active\":false},{\"url\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=730&include=opponent%2Cschedule_event_links&per_page=3&page=2\",\"label\":\"Next &raquo;\",\"page\":2,\"active\":false}],\"path\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events\",\"per_page\":3,\"to\":3,\"total\":12}}",
-  "types_json": [
-   "data",
-   "links",
-   "meta"
-  ],
-  "title": ""
+ "https://wmubroncos.com/tickets": {
+  "error": "HTTP Error 403: Forbidden"
  },
- "https://fightingirish.com/website-api/schedules/730": {
+ "https://fightingirish.com/tickets/": {
   "status": 200,
-  "final": "https://fightingirish.com/website-api/schedules/730",
-  "bytes": 362,
-  "ld_types": {},
-  "links": [],
+  "final": "https://fightingirish.com/tickets",
+  "bytes": 557428,
+  "ld_types": {
+   "WebSite": 1,
+   "SearchAction": 1,
+   "EntryPoint": 1,
+   "WebPage": 1,
+   "ReadAction": 1
+  },
+  "links": [
+   [
+    "/tickets/fbtickets/",
+    4
+   ],
+   [
+    "/tickets/mbbtickets/",
+    4
+   ],
+   [
+    "/tickets/wbbtickets/",
+    4
+   ],
+   [
+    "/tickets/hkytickets/",
+    4
+   ],
+   [
+    "/tickets/premium-experiences/",
+    1
+   ],
+   [
+    "https://seatgeek.com/notre-dame-fighting-irish-football-tickets",
+    1
+   ],
+   [
+    "https://fightingirish.evenue.net/list/GS",
+    1
+   ],
+   [
+    "/mobiletickets/",
+    1
+   ],
+   [
+    "/tickets/student-ticket-information/",
+    1
+   ],
+   [
+    "/tickets/premium-experiences",
+    1
+   ],
+   [
+    "/tickets/group-experiences",
+    1
+   ]
+  ],
   "ics": [],
   "feeds": [],
-  "dates": [],
-  "apis": [],
-  "snip": "",
-  "head": "{\"data\":{\"id\":730,\"name\":\"Football 2026-27\",\"sport_id\":8,\"season_id\":156,\"statistics_table\":[],\"display_statistics_table\":false,\"schedule_image_id\":173584,\"schedule_top_notes\":null,\"meta_title\":null,\"meta_keywords\":null,\"meta_description\":null,\"meta_image_id\":null,\"hide_schedule_page_image\":false,\"pdf_id\":null,\"schedule_events_pdf_id\":null,\"links_title\":null}}",
-  "types_json": [
-   "data"
+  "dates": [
+   "November 5, 2021",
+   "December 20, 2024",
+   "February 17, 2024",
+   "March 1, 2023",
+   "February 15, 2026",
+   "May 14, 2016"
   ],
-  "title": ""
+  "apis": [
+   "https://seatgeek.com/notre-dame-fighting-irish-football-tickets",
+   "https://storage.googleapis.com/fightingirish-com/2026/10/15/Cvas4yI2cPam9GUQ2S7cbCKzp0LamfzUjhttY6VZ.pdf"
+  ],
+  "snip": "rm_string}\"}],\"query-input\":\"required name=search_term_string\"}]},{\"@id\":\"https://fightingirish.com/tickets#webpage\",\"@type\":\"WebPage\",\"name\":\"Tickets\",\"url\":\"https://fightingirish.com/tickets\",\"isPartOf\":{\"@id\":\"https://fightingirish.com/#website\"},\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://fightingirish.com/tickets\"]}]}]}</script><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"true\" id=\"__NUXT_DATA__\">[[\"ShallowReactive\",1],{\"data\":2,\"state\":290,\"once\":305,\"_errors\":306,\"serverRendered\":16,\"path\":271,\"pinia\":308},[\"ShallowReactive\",3],{\"single-page-tickets\":4,\"i-fluent:add-12-filled\":273,\"i-mdi:close\":276,\"i-octicon:calendar-16\":279,\"i-fluent:chevron-down-12-regular\":282,\"i-material-symbols:chevron-right-rounded\":284,\"i-material-symbols:arrow-forward-rounded\":286,\"i-ic:round-arrow-outward\":288},{\"id\":5,\"title\":6,\"slug\":7,\"show_author\":8,\"parent_id\":9,\"parent\":9,\"template_id\":10,\"template\":11,\"template_menu_id\":9,\"template_menu\":9,\"publication_state\":14,\"order\":15,\"show_ads\":16,\"show_in_xml_sitemap\":16,\"meta_title\":17,\"meta_keywords\":9,\"meta_description\":9,\"meta_image_id\":9,\"meta_image\":9,\"image_id\":9,\"published_at\":18,\"schedule_event_id\":9,\"schedule_event_link\":9,\"author_id\":19,\"author\":9,\"categories\":20,\"content_blocks\":24,\"orderedSports\":270,\"permalink\":271,\"template_variables\":272,\"sports\":270},524,\"Tickets\",\"tickets\",false,null,1,{\"id\":10,\"name\":12,\"value\":13},\"Default\",\"default\",\"published\",0,true,\"Join Us at Notre Dame (Tickets)\",\"2022-04-12T14:43:31.000000Z\",47,[21],{\"id\":22,\"name\":23,\"slug\":23},67,\"internal-fb\",[25,62,106,200,235],{\"id\":26,\"name\":27,\"uuid\":28,\"settings\":29,\"variables\":33,\"order\":15,\"shows_after\":9,\"shows_until\":9},438192,\"Hero Banner Block\",\"47321f74-8609-4518-8449-c2046f3a6727\",[30],{\"name\":31,\"value\":9,\"type\":32},\"background_color\",\"options\",[34,36,40,43,45,53,55],{\"name\":35,\"value\":9,\"type\":35},\"anchor\",{\"name\":37,\"value\":38,\"type\":39},\"title\",\"Join us at Notre Dame\",\"text\",{\"name\":41,\"value\":42,\"type\":39},\"description\",\"Scroll to learn more about ticket offerings for Football, Men's and Women's Basketball, and Hockey!\",{\"name\":44,\"value\":9,\"type\":39},\"promo_message\",{\"name\":46,\"value\":47,\"data\":48,\"type\":46},\"image\",15330,{\"id\":47,\"url\":49,\"caption\":50,\"description\":50,\"alt\":9,\"type\":46,\"mime_type\":51,\"original_name\":52},\"https:\\u002F\\u002Ffightingirish.com\\u002Fimgproxy\\u002FIHEtqbMnwAmehtSdX3K-n36qeo_9vTnQZ25oRd5ldP8\\u002Frs:fit:1980:0:0:0\\u002Fg:ce:0:0\\u002Fq:90\\u002FaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2ZpZ2h0aW5naXJpc2gtY29tLzIwMjQvMDEvQkotMTEuNS4yMS1DYW1wdXMtQWVyaWFsLTE2LmpwZw.jpg\",\"November 5, 2021; Aerial view of campus looking west with athletic fields, Joyce Center and Notre Dame Stadium at dusk. (Photo by Barbara Johnston\\u002FUniversity of Notre Dame)\",\"image\\u002Fjpeg\",\"BJ-11.5.21-Campus-Aerial-16.jpg\",{\"name\":54,\"value\":9,\"data\":9,\"type\":46},\"logo\",{\"name\":56,\"value\":57,\"type\":61},\"presented_by\",[58,59],{\"name\":46,\"value\":9,\"data\":9,\"type\":46},{\"name\":60,\"value",
+  "head": "",
+  "types_json": null,
+  "title": "Tickets - Notre Dame Fighting Irish - Official Athletics Website"
  },
- "https://fightingirish.com/website-api/schedule-events?filter%5Bschedule_id%5D=734&per_page=2": {
+ "https://www.goshen.edu/tickets": {
   "status": 200,
-  "final": "https://fightingirish.com/website-api/schedule-events?filter%5Bschedule_id%5D=734&per_page=2",
-  "bytes": 5367,
-  "ld_types": {},
-  "links": [],
+  "final": "https://www.goshen.edu/tickets/",
+  "bytes": 78921,
+  "ld_types": {
+   "WebPage": 1,
+   "ReadAction": 1,
+   "BreadcrumbList": 1,
+   "ListItem": 2,
+   "WebSite": 1,
+   "SearchAction": 1,
+   "EntryPoint": 1,
+   "PropertyValueSpecification": 1,
+   "Organization": 1,
+   "ImageObject": 1
+  },
+  "links": [
+   [
+    "https://www.goshen.edu/news-events/",
+    3
+   ],
+   [
+    "https://www.goshen.edu/tickets/",
+    2
+   ],
+   [
+    "https://es.goshen.edu/tickets/",
+    1
+   ],
+   [
+    "https://fr.goshen.edu/tickets/",
+    1
+   ],
+   [
+    "https://pt.goshen.edu/tickets/",
+    1
+   ],
+   [
+    "https://zh-CN.goshen.edu/tickets/",
+    1
+   ],
+   [
+    "https://gcmusiccenter.org/about/facilities/sauder-concert-hall/",
+    1
+   ],
+   [
+    "https://www.goshen.edu/news-events/lectures/umble-master-class/",
+    1
+   ]
+  ],
   "ics": [],
-  "feeds": [],
+  "feeds": [
+   "https://www.goshen.edu/website-feedback/"
+  ],
   "dates": [],
   "apis": [],
-  "snip": "{\"data\":[{\"id\":20153,\"promo_title\":null,\"promo_link\":null,\"ranking\":null,\"location\":\"Las Vegas\",\"location_url\":null,\"opponent_id\":864,\"opponent_name\":\"Florida\",\"opponent_logo_id\":20008,\"opponent_school_name\":\"Florida\",\"opponent_ranking\":\"1\",\"neutral_event\":false,\"neutral_event_preposition\":\"vs\",\"second_opponent_id\":null,\"second_opponent_name\":null,\"second_opponent_logo_id\":null,\"second_opponent_school_name\":null,\"second_opponent_ranking\":null,\"presented_by_id\":169751,\"presented_by_url\":null,\"datetime\":\"2026-11-17T21:30:00.000000Z\",\"datetime_end\":null,\"is_all_day\":false,\"tba\":null,\"tba_text\":null,\"schedule_id\":734,\"venue_type\":\"neutral\",\"venue\":\"Michelob ULTRA Arena\",\"is_conference\":false,\"conference_id\":null,\"is_exhibition\":false,\"hide_vs_at\":false,\"hide_from_all_sports_schedule\":false,\"hide_current_team_logo\":false,\"hide_from_specific_sport_schedule\":false,\"status\":\"as_scheduled\",\"status_text\":null,\"more_details_text\":null,\"tournament_id\":536,\"pre_event_article_id\":null,\"post_event_article_id\":null,\"wmt_stats_game_id\":null,\"wmt_stats_iframe_url\":null,\"wmt_stats2_game_id\":null,\"wmt_stats2_iframe_url\":null,\"wmt_stats2_compact_iframe_url\":null,\"has_box_score\":false,\"box_score_url\":\"https:\\/\\/fightingirish.com\\/boxscore\\/20153\",\"pdf_id\":null,\"statbroadcast_id\":null,\"hide_tba_text\":false,\"hide_from_side_rail_schedule\":false,\"hide_from_schedule_ticker\":false},{\"id\":20159,\"promo_title\":null,\"promo_link\":null,\"ranking\":null,\"location\":\"Las Vegas\",\"location_url\":null,\"opponent_id\":5881,\"opponent_name\":\"Players Era 8\",\"opponent_logo_id\":169750,\"opponent_school_name\":\"Players Era 8\",\"opponent_ranking\":null,\"neutral_event\":false,\"neutral_event_preposition\":\"vs\",\"second_opponent_id\":null,\"second_opponent_name\":null,\"second_opponent_logo_id\":null,\"second_opponent_school_name\":null,\"second_opponent_ranking\":null,\"presented_by_id\":169751,\"presented_by_url\":null,\"datetime\":\"2026-11-18T05:00:00.000000Z\",\"datetime_end\":null,\"is_all_day\":false,\"tba\":\"time_tba\",\"tba_text\":\"TBA\",\"schedule_id\":7",
-  "head": "{\"data\":[{\"id\":20153,\"promo_title\":null,\"promo_link\":null,\"ranking\":null,\"location\":\"Las Vegas\",\"location_url\":null,\"opponent_id\":864,\"opponent_name\":\"Florida\",\"opponent_logo_id\":20008,\"opponent_school_name\":\"Florida\",\"opponent_ranking\":\"1\",\"neutral_event\":false,\"neutral_event_preposition\":\"vs\",\"second_opponent_id\":null,\"second_opponent_name\":null,\"second_opponent_logo_id\":null,\"second_opponent_school_name\":null,\"second_opponent_ranking\":null,\"presented_by_id\":169751,\"presented_by_url\":null,\"datetime\":\"2026-11-17T21:30:00.000000Z\",\"datetime_end\":null,\"is_all_day\":false,\"tba\":null,\"tba_text\":null,\"schedule_id\":734,\"venue_type\":\"neutral\",\"venue\":\"Michelob ULTRA Arena\",\"is_conference\":false,\"conference_id\":null,\"is_exhibition\":false,\"hide_vs_at\":false,\"hide_from_all_sports_schedule\":false,\"hide_current_team_logo\":false,\"hide_from_specific_sport_schedule\":false,\"status\":\"as_scheduled\",\"status_text\":null,\"more_details_text\":null,\"tournament_id\":536,\"pre_event_article_id\":null,\"post_event_article_id\":null,\"wmt_stats_game_id\":null,\"wmt_stats_iframe_url\":null,\"wmt_stats2_game_id\":null,\"wmt_stats2_iframe_url\":null,\"wmt_stats2_compact_iframe_url\":null,\"has_box_score\":false,\"box_score_url\":\"https:\\/\\/fightingirish.com\\/boxscore\\/20153\",\"pdf_id\":null,\"statbroadcast_id\":null,\"hide_tba_text\":false,\"hide_from_side_rail_schedule\":false,\"hide_from_schedule_ticker\":false},{\"id\":20159,\"promo_title\":null,\"promo_link\":null,\"ranking\":null,\"location\":\"Las Vegas\",\"location_url\":null,\"opponent_id\":5881,\"opponent_name\":\"Players Era 8\",\"opponent_logo_id\":169750,\"opponent_school_name\":\"Players Era 8\",\"opponent_ranking\":null,\"neutral_event\":false,\"neutral_event_preposition\":\"vs\",\"second_opponent_id\":null,\"second_opponent_name\":null,\"second_opponent_logo_id\":null,\"second_opponent_school_name\":null,\"second_opponent_ranking\":null,\"presented_by_id\":169751,\"presented_by_url\":null,\"datetime\":\"2026-11-18T05:00:00.000000Z\",\"datetime_end\":null,\"is_all_day\":false,\"tba\":\"time_tba\",\"tba_text\":\"TBA\",\"schedule_id\":734,\"venue_type\":\"neutral\",\"venue\":\"Michelob ULTRA Arena\",\"is_conference\":false,\"conference_id\":null,\"is_exhibition\":false,\"hide_vs_at\":false,\"hide_from_all_sports_schedule\":false,\"hide_current_team_logo\":false,\"hide_from_specific_sport_schedule\":false,\"status\":\"as_scheduled\",\"status_text\":null,\"more_details_text\":null,\"tournament_id\":536,\"pre_event_article_id\":null,\"post_event_article_id\":null,\"wmt_stats_game_id\":null,\"wmt_stats_iframe_url\":null,\"wmt_stats2_game_id\":null,\"wmt_stats2_iframe_url\":null,\"wmt_stats2_compact_iframe_url\":null,\"has_box_score\":false,\"box_score_url\":\"https:\\/\\/fightingirish.com\\/boxscore\\/20159\",\"pdf_id\":null,\"statbroadcast_id\":null,\"hide_tba_text\":false,\"hide_from_side_rail_schedule\":false,\"hide_from_schedule_ticker\":false}],\"links\":{\"first\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=734&per_page=2&page=1\",\"last\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=734&per_page=2&page=17\",\"prev\":null,\"next\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=734&per_page=2&page=2\"},\"meta\":{\"current_page\":1,\"from\":1,\"last_page\":17,\"links\":[{\"url\":null,\"label\":\"&laquo; Previous\",\"page\":null,\"active\":false},{\"url\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=734&per_page=2&page=1\",\"label\":\"1\",\"page\":1,\"active\":true},{\"url\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=734&per_page=2&page=2\",\"label\":\"2\",\"page\":2,\"active\":false},{\"url\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=734&per_page=2&page=3\",\"label\":\"3\",\"page\":3,\"active\":false},{\"url\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=734&per_page=2&page=4\",\"label\":\"4\",\"page\":4,\"active\":false},{\"url\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=734&per_page=2&page=5\",\"label\":\"5\",\"page\":5,\"active\":false},{\"url\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=734&per_page=2&page=6\",\"label\":\"6\",\"page\":6,\"active\":false},{\"url\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=734&per_page=2&page=7\",\"label\":\"7\",\"page\":7,\"active\":false},{\"url\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=734&per_page=2&page=8\",\"label\":\"8\",\"page\":8,\"active\":false},{\"url\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=734&per_page=2&page=9\",\"label\":\"9\",\"page\":9,\"active\":false},{\"url\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=734&per_page=2&page=10\",\"label\":\"10\",\"page\":10,\"active\":false},{\"url\":null,\"label\":\"...\",\"active\":false},{\"url\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=734&per_page=2&page=16\",\"label\":\"16\",\"page\":16,\"active\":false},{\"url\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=734&per_page=2&page=17\",\"label\":\"17\",\"page\":17,\"active\":false},{\"url\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule_id%5D=734&per_page=2&page=2\",\"label\":\"Next &raquo;\",\"page\":2,\"active\":false}],\"path\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events\",\"per_page\":2,\"to\":2,\"total\":34}}",
-  "types_json": [
-   "data",
-   "links",
-   "meta"
-  ],
-  "title": ""
+  "snip": "ps://www.goshen.edu\" /> <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' /> <link rel=\"alternate\" hreflang=\"en\" href=\"https://www.goshen.edu/tickets/\" /> <link rel=\"alternate\" hreflang=\"es\" href=\"https://es.goshen.edu/tickets/\" /> <link rel=\"alternate\" hreflang=\"fr\" href=\"https://fr.goshen.edu/tickets/\" /> <link rel=\"alternate\" hreflang=\"pt\" href=\"https://pt.goshen.edu/tickets/\" /> <link rel=\"alternate\" hreflang=\"zh-CN\" href=\"https://zh-CN.goshen.edu/tickets/\" /> <!-- This site is optimized with the Yoast SEO Premium plugin v28.8 (Yoast SEO v28.8) - https://yoast.com/product/yoast-seo-premium-wordpress/ --> <meta name=\"description\" content=\"Buy tickets from the Goshen College Box Office for concerts, theater, student ensembles, athletics and the Performing Arts Series.\" /> <link rel=\"canonical\" href=\"https://www.goshen.edu/tickets/\" /> <meta property=\"og:locale\" content=\"en_US\" /> <meta property=\"og:type\" content=\"article\" /> <meta property=\"og:title\" content=\"Box Office\" /> <meta property=\"og:description\" content=\"Buy tickets from the Goshen College Box Office for concerts, theater, student ensembles, athletics and the Performing Arts Series.\" /> <meta property=\"og:url\" content=\"https://www.goshen.edu/tickets/\" /> <meta property=\"og:site_name\" content=\"Goshen College\" /> <meta property=\"article:publisher\" content=\"https://www.facebook.com/goshencollege\" /> <meta property=\"article:modified_time\" content=\"2026-11-05T13:56:46+00:00\" /> <meta name=\"twitter:card\" content=\"summary_large_image\" /> <meta name=\"twitter:site\" content=\"@GoshenCollege\" /> <meta name=\"twitter:label1\" content=\"Est. reading time\" /> <meta name=\"twitter:data1\" content=\"3 minutes\" /> <script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.goshen.edu\\/tickets\\/\",\"url\":\"https:\\/\\/www.goshen.edu\\/tickets\\/\",\"name\":\"Box Office: Concert & Event Tickets | Goshen College\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.goshen.edu\\/#website\"},\"datePublished\":\"2026-07-22T20:02:15+00:00\",\"dateModified\":\"2026-11-05T13:56:46+00:00\",\"description\":\"Buy tickets from the Goshen College Box Office for concerts, theater, student ensembles, athletics and the Performing Arts Series.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.goshen.edu\\/tickets\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.goshen.edu\\/tickets\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.goshen.edu\\/tickets\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.goshen.edu\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Box Office\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.goshen.edu\\/#website\",\"url\":\"https:\\/\\/www.goshen.edu\\/\",\"name\":\"Goshen College\",\"description\":\"Everything connects at Goshen\",\"publisher\":{\"@id\":\"https:\\/\\/www.goshen.edu\\/#organization\"},\"potentialAction\":[{\"@ty",
+  "head": "",
+  "types_json": null,
+  "title": "Box Office: Concert &amp; Event Tickets | Goshen College"
  }
 }
