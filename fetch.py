@@ -39,7 +39,8 @@ def from_jsonld(src, page):
             d = when(e.get('startDate'))
             if not d: continue
             loc = e.get('location'); loc = loc[0] if isinstance(loc, list) and loc else loc
-            out.append({'title': re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '', html.unescape(str(e.get('name', ''))))).strip(), 'start': d.isoformat(),
+            nm = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '', html.unescape(str(e.get('name', ''))))).strip()
+            out.append({'title': nm, 'home': (' Vs ' in nm or ' vs. ' in nm) if 'Sports' in str(e.get('@type')) else None, 'start': d.isoformat(),
                         'url': e.get('url') or src['url'], 'place': (loc or {}).get('name') if isinstance(loc, dict) else None})
     return out
 
@@ -47,9 +48,14 @@ def from_jsonld(src, page):
 MON = {m: i for i, m in enumerate(['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec'], 1)}
 def pdate(txt):
     """'Thursday, November 12, 2026' or 'Nov 14, 2026' (and an optional '7:30 PM') -> ISO, date only when no time"""
-    m = re.search(r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?\s+(\d{1,2}),?\s+(\d{4})', txt or '', re.I)
+    m = re.search(r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?\s+(\d{1,2})(?:,?\s+(\d{4}))?', txt or '', re.I)
     if not m: return None
-    d = datetime.date(int(m.group(3)), MON[m.group(1)[:3].lower()], int(m.group(2)))
+    mo, da = MON[m.group(1)[:3].lower()], int(m.group(2))
+    if m.group(3): yr = int(m.group(3))
+    else:   # a card without a year: this year, or next year if that date is more than two months gone
+        yr = TODAY.year
+        if datetime.date(yr, mo, da) < TODAY - datetime.timedelta(days=60): yr += 1
+    d = datetime.date(yr, mo, da)
     t = re.search(r'(\d{1,2})(?::(\d{2}))?\s*([ap])\.?m', (txt or '')[m.end():m.end() + 80], re.I)
     if t:
         h = int(t.group(1)) % 12 + (12 if t.group(3).lower() == 'p' else 0)
@@ -71,6 +77,7 @@ def from_cards(src, page):
     out = []
     base = re.match(r'https?://[^/]+', src['url']).group(0)
     for b in re.split(src['block_re'], page)[1:]:
+        if src.get('require_re') and not re.search(src['require_re'], b[:400]): continue
         t = re.search(src['title_re'], b, re.S | re.I); d = re.search(src['date_re'], b, re.S | re.I)
         if not t or not d: continue
         st = pdate(clean(d.group(1)))
@@ -90,6 +97,16 @@ def from_tm(src, page):
         out.append({'title': slug.replace('-', ' ').title(), 'start': f'{yy}-{mm}-{dd}', 'url': u, 'place': None})
     return out
 
+def from_mlb(src, page):
+    """MLB's own schedule service (statsapi.mlb.com) for the valley's minor-league clubs"""
+    out = []
+    for d in json.loads(page).get('dates', []):
+        for g in d.get('games', []):
+            h, a = g['teams']['home']['team']['name'], g['teams']['away']['team']['name']
+            out.append({'title': f"{a} at {h}", 'start': g['gameDate'] if g.get('gameDate') else d['date'],
+                        'url': src.get('link') or src['url'], 'place': (g.get('venue') or {}).get('name'), 'home': h == src['name']})
+    return out
+
 def from_ics(src, page):
     out = []; page = re.sub(r'\r?\n[ \t]', '', page)
     for ev in re.findall(r'BEGIN:VEVENT(.*?)END:VEVENT', page, re.S):
@@ -106,13 +123,17 @@ def from_ics(src, page):
                     'url': f.get('URL', ('', src['url']))[1], 'place': f.get('LOCATION', ('', ''))[1].replace('\\,', ',') or None})
     return out
 
-def main():
-    S = json.load(open('sources.json'))['sources']
+def main(SRC='sources.json', OUT='nights.json', KEY='nights', STAT='status.json'):
+    S = json.load(open(SRC))['sources']
     nights, status, seen = [], {}, set()
     for s in S:
         try:
-            page = get(s['url'])
-            M = {'ics': from_ics, 'jsonld': from_jsonld, 'html': from_html, 'cards': from_cards, 'tm': from_tm}
+            if '__TEAMID__' in s['url']:   # the club's number in MLB's own list, looked up by its name
+                T = json.loads(get('https://statsapi.mlb.com/api/v1/teams?sportIds=11,12,13,14,16&season=' + str(TODAY.year)))['teams']
+                tid = next(t['id'] for t in T if t['name'] == s['name'])
+                s = dict(s, url=s['url'].replace('__TEAMID__', str(tid)))
+            page = get(s['url'].replace('__TODAY__', TODAY.isoformat()).replace('__PLUS300__', (TODAY + datetime.timedelta(days=300)).isoformat()))
+            M = {'ics': from_ics, 'jsonld': from_jsonld, 'html': from_html, 'cards': from_cards, 'tm': from_tm, 'mlb': from_mlb}
             got = M[s['method']](s, page)
             if not got and s.get('follow'):
                 # the list page names the shows; each show's own page carries its date (at most 40 pages, a second apart)
@@ -135,14 +156,16 @@ def main():
                 nights.append({'id': hashlib.sha1(repr(key).encode()).hexdigest()[:10], 'title': g['title'], 'start': g['start'], 'allday': 'T' not in g['start'],
                                'venue': s['name'], 'room': g['place'] if g['place'] and g['place'] != s['name'] else None,
                                'town': s['town'], 'kind': s['kind'], 'campus': s.get('campus'), 'url': g['url'],
-                               'source': s['url'], 'read': TODAY.isoformat()})
+                               'source': s['url'], 'read': TODAY.isoformat(), **({'home': g['home'], 'team': s.get('team'), 'sport': s.get('sport')} if 'home' in g and g['home'] is not None else {})})
             status[s['id']] = {'ok': True, 'found': len(got), 'kept': kept, 'read': NOW.isoformat(timespec='minutes')}
         except Exception as e:
             status[s['id']] = {'ok': False, 'error': str(e)[:200], 'read': NOW.isoformat(timespec='minutes')}
     nights.sort(key=lambda n: n['start'])
-    json.dump({'updated': NOW.isoformat(timespec='minutes'), 'nights': nights}, open('nights.json', 'w'), ensure_ascii=False, indent=0)
-    json.dump(status, open('status.json', 'w'), ensure_ascii=False, indent=1)
+    json.dump({'updated': NOW.isoformat(timespec='minutes'), KEY: nights}, open(OUT, 'w'), ensure_ascii=False, indent=0)
+    json.dump(status, open(STAT, 'w'), ensure_ascii=False, indent=1)
     print(f"{len(nights)} nights from {sum(v['ok'] for v in status.values())} of {len(S)} sources")
     for k, v in status.items(): print(k, v)
 
-if __name__ == '__main__': main()
+if __name__ == '__main__':
+    main()
+    main('sports_sources.json', 'games.json', 'games', 'sports_status.json')

@@ -1,0 +1,56 @@
+{
+ "_about": "The valley's teams: each club's own schedule page (schema.org SportsEvent data) or its league's own schedule service. home = a game in the valley.",
+ "sources": [
+  {
+   "id": "wmu-football",
+   "name": "Western Michigan Broncos",
+   "team": "Western Michigan",
+   "sport": "Football",
+   "town": "Kalamazoo",
+   "kind": "sports",
+   "url": "https://wmubroncos.com/sports/football/schedule",
+   "method": "jsonld"
+  },
+  {
+   "id": "wmu-mbb",
+   "name": "Western Michigan Broncos",
+   "team": "Western Michigan",
+   "sport": "Men's basketball",
+   "town": "Kalamazoo",
+   "kind": "sports",
+   "url": "https://wmubroncos.com/sports/mens-basketball/schedule",
+   "method": "jsonld"
+  },
+  {
+   "id": "wmu-wbb",
+   "name": "Western Michigan Broncos",
+   "team": "Western Michigan",
+   "sport": "Women's basketball",
+   "town": "Kalamazoo",
+   "kind": "sports",
+   "url": "https://wmubroncos.com/sports/womens-basketball/schedule",
+   "method": "jsonld"
+  },
+  {
+   "id": "wmu-hockey",
+   "name": "Western Michigan Broncos",
+   "team": "Western Michigan",
+   "sport": "Hockey",
+   "town": "Kalamazoo",
+   "kind": "sports",
+   "url": "https://wmubroncos.com/sports/mens-ice-hockey/schedule",
+   "method": "jsonld"
+  },
+  {
+   "id": "sb-cubs",
+   "name": "South Bend Cubs",
+   "team": "South Bend Cubs",
+   "sport": "Baseball",
+   "town": "South Bend",
+   "kind": "sports",
+   "url": "https://statsapi.mlb.com/api/v1/schedule?sportId=11,12,13,14,16&teamId=__TEAMID__&startDate=__TODAY__&endDate=__PLUS300__",
+   "link": "https://www.milb.com/south-bend/schedule",
+   "method": "mlb"
+  }
+ ]
+}

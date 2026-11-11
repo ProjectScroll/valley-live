@@ -79,8 +79,12 @@
    "kind": "concerts",
    "campus": "Goshen College",
    "url": "https://www.goshen.edu/events/",
-   "method": "jsonld",
-   "follow": "goshen\\.edu/events/[a-z0-9-]+/$"
+   "method": "cards",
+   "block_re": "class=\"card event-card\"",
+   "require_re": "performing-arts",
+   "title_re": "<h2>(.*?)<i",
+   "date_re": "class=\"date-time\">.*?<p>(.*?)</p>",
+   "link_re": "href=\"(https://www\\.goshen\\.edu/events/[^\"]+)\""
   },
   {
    "id": "howard",
@@ -89,7 +93,11 @@
    "kind": "concerts",
    "campus": "Andrews University",
    "url": "https://howard.andrews.edu/events/index.html",
-   "method": "jsonld"
+   "method": "cards",
+   "block_re": "<div class=\"row\" data-i",
+   "title_re": "<h3>(.*?)</h3>",
+   "date_re": "class=\"event-date\">(.*?)</div>",
+   "link_re": "href=\"(https://www\\.tix\\.com/ticket-sales/howard/\\d+/event/\\d+)\""
   }
  ]
 }
