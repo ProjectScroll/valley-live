@@ -11,7 +11,7 @@ for u in URLS:
         h = r.read().decode('utf-8', 'replace')
         lds = re.findall(r'<script[^>]+ld\+json[^>]*>(.*?)</script>', h, re.S | re.I)
         types = collections.Counter(re.findall(r'"@type"\s*:\s*"([^"]+)"', ' '.join(lds)))
-        links = collections.Counter(re.sub(r'\d+', 'N', re.sub(r'[?#].*', '', l)) for l in re.findall(r'href="([^"]+)"', h) if re.search(r'event|show|perform|ticket|concert|calendar', l, re.I))
+        links = collections.Counter(re.sub(r'\d+', 'N', re.sub(r'[?#].*', '', l)) for l in re.findall(r'href="([^"]+)"', h) if re.search(r'event|show|perform|ticket|concert|calendar|movie|film', l, re.I))
         out[u] = {'status': r.status, 'final': r.geturl(), 'bytes': len(h), 'ld_types': dict(types), 'links': links.most_common(15),
                   'ics': re.findall(r'href="([^"]+\.ics[^"]*)"', h)[:5], 'feeds': re.findall(r'href="([^"]*(?:feed|rss|ical|json)[^"]*)"', h, re.I)[:8],
                   'dates': re.findall(r'(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.? \d{1,2},? \d{4}', h)[:6],
