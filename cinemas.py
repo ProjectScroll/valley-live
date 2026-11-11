@@ -19,12 +19,16 @@ S, W, N, E = min(ys), min(xs), max(ys), max(xs)
 
 # ---- cinemas
 q = f'[out:json][timeout:90];(nwr["amenity"="cinema"]({S},{W},{N},{E}););out center tags;'
-for ep in ('https://overpass-api.de/api/interpreter', 'https://overpass.kumi.systems/api/interpreter'):
+import socket, time
+_gai = socket.getaddrinfo   # IPv4 only: the runners have no IPv6 route
+socket.getaddrinfo = lambda *a, **k: [x for x in _gai(*a, **k) if x[0] == socket.AF_INET] or _gai(*a, **k)
+els = None
+for ep in ('https://overpass-api.de/api/interpreter', 'https://overpass.private.coffee/api/interpreter', 'https://maps.mail.ru/osm/tools/overpass/api/interpreter', 'https://overpass.kumi.systems/api/interpreter'):
     try:
-        r = urllib.request.urlopen(urllib.request.Request(ep, data=urllib.parse.urlencode({'data': q}).encode(), headers={'User-Agent': UA}), timeout=120)
-        els = json.load(r)['elements']; break
+        r = urllib.request.urlopen(urllib.request.Request(ep, data=urllib.parse.urlencode({'data': q}).encode(), headers={'User-Agent': UA}), timeout=100)
+        els = json.load(r)['elements']; print('overpass', ep, len(els)); break
     except Exception as e:
-        print('overpass', ep, e); els = None
+        print('overpass', ep, e); time.sleep(3)
 if els is None: raise SystemExit('no answer from Overpass')
 out = []
 for e in els:
