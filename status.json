@@ -1,0 +1,54 @@
+{
+ "nd-dpac": {
+  "ok": true,
+  "found": 0,
+  "kept": 0,
+  "read": "2026-11-11T14:37-05:00"
+ },
+ "nd-dpac-tickets": {
+  "ok": true,
+  "found": 0,
+  "kept": 0,
+  "read": "2026-11-11T14:37-05:00"
+ },
+ "nd-events-arts": {
+  "ok": true,
+  "found": 0,
+  "kept": 0,
+  "read": "2026-11-11T14:37-05:00"
+ },
+ "morris": {
+  "ok": true,
+  "found": 15,
+  "kept": 13,
+  "read": "2026-11-11T14:37-05:00"
+ },
+ "lerner": {
+  "ok": false,
+  "error": "HTTP Error 520: <none>",
+  "read": "2026-11-11T14:37-05:00"
+ },
+ "miller": {
+  "ok": false,
+  "error": "HTTP Error 404: Not Found",
+  "read": "2026-11-11T14:37-05:00"
+ },
+ "kazoo-state": {
+  "ok": true,
+  "found": 0,
+  "kept": 0,
+  "read": "2026-11-11T14:37-05:00"
+ },
+ "four-winds": {
+  "ok": true,
+  "found": 0,
+  "kept": 0,
+  "read": "2026-11-11T14:37-05:00"
+ },
+ "howard": {
+  "ok": true,
+  "found": 0,
+  "kept": 0,
+  "read": "2026-11-11T14:37-05:00"
+ }
+}
