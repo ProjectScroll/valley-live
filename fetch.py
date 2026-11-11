@@ -130,8 +130,8 @@ def main(SRC='sources.json', OUT='nights.json', KEY='nights', STAT='status.json'
         try:
             if '__TEAMID__' in s['url']:   # the club's number in MLB's own list, looked up by its name
                 T = json.loads(get('https://statsapi.mlb.com/api/v1/teams?sportIds=11,12,13,14,16&season=' + str(TODAY.year)))['teams']
-                tid = next(t['id'] for t in T if t['name'] == s['name'])
-                s = dict(s, url=s['url'].replace('__TEAMID__', str(tid)))
+                tm = next(t for t in T if t['name'] == s['name'])
+                s = dict(s, url=s['url'].replace('__TEAMID__', str(tm['id'])).replace('__SPORTID__', str(tm['sport']['id'])))
             page = get(s['url'].replace('__TODAY__', TODAY.isoformat()).replace('__PLUS300__', (TODAY + datetime.timedelta(days=300)).isoformat()))
             M = {'ics': from_ics, 'jsonld': from_jsonld, 'html': from_html, 'cards': from_cards, 'tm': from_tm, 'mlb': from_mlb}
             got = M[s['method']](s, page)
