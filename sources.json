@@ -98,6 +98,39 @@
    "title_re": "<h3>(.*?)</h3>",
    "date_re": "class=\"event-date\">(.*?)</div>",
    "link_re": "href=\"(https://www\\.tix\\.com/ticket-sales/howard/\\d+/event/\\d+)\""
+  },
+  {
+   "id": "bells-cafe",
+   "name": "Bell's Eccentric Café",
+   "town": "Kalamazoo",
+   "kind": "music",
+   "url": "https://cafe.bellsbeer.com/",
+   "method": "jsonld",
+   "follow": "cafe\\.bellsbeer\\.com/event/[a-z0-9-]+/"
+  },
+  {
+   "id": "goshen-brewing",
+   "name": "Goshen Brewing Company",
+   "town": "Goshen",
+   "kind": "brewery",
+   "url": "https://goshenbrewing.com/events/",
+   "method": "jsonld"
+  },
+  {
+   "id": "silver-harbor",
+   "name": "Silver Harbor Brewing Company",
+   "town": "St. Joseph",
+   "kind": "brewery",
+   "url": "https://silverharborbrewing.com/events/",
+   "method": "jsonld"
+  },
+  {
+   "id": "journeyman",
+   "name": "Journeyman Distillery",
+   "town": "Three Oaks",
+   "kind": "cocktails",
+   "url": "https://www.journeyman.com/events/",
+   "method": "jsonld"
   }
  ]
 }
