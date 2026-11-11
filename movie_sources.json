@@ -1,0 +1,9 @@
+{"_about": "Cinemas whose showtimes are read nightly by movies.py, each from its own site (ll from OpenStreetMap, cinemas.json). Every other cinema in the fourteen counties is listed from cinemas.json with a link to its own showtimes.",
+ "theaters": [
+  {"id": "kp", "name": "KP Cinemas", "town": "Kalamazoo", "url": "https://www.kpcinemas.com/", "method": "cinemaplus"},
+  {"id": "gqt-kzoo", "name": "GQT Kalamazoo 10", "town": "Kalamazoo", "url": "https://www.gqtmovies.com/gqt-kalamazoo-10", "method": "cinemaplus"},
+  {"id": "gqt-3r", "name": "GQT Three Rivers 6", "town": "Three Rivers", "url": "https://www.gqtmovies.com/gqt-three-rivers-6", "method": "cinemaplus"},
+  {"id": "gqt-lakeview", "name": "GQT Lakeview 10", "town": "Battle Creek", "url": "https://www.gqtmovies.com/gqt-lakeview-10", "method": "cinemaplus"},
+  {"id": "gqt-wcol", "name": "GQT West Columbia 7", "town": "Battle Creek", "url": "https://www.gqtmovies.com/gqt-west-columbia-7", "method": "cinemaplus"},
+  {"id": "linway", "name": "Linway Cinema 14", "town": "Goshen", "url": "https://www.linwaycinema.com/", "method": "cinemaplus"}
+ ]}

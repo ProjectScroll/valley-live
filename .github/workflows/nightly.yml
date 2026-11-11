@@ -13,11 +13,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: python3 fetch.py
+      - name: Read the cinemas' showtimes
+        env:
+          TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
+        run: python3 movies.py || true
       - name: Draw the day's share cards
         run: pip install -q pillow && python3 cards.py
       - name: Keep what changed
         run: |
           git config user.name "Project Scroll"; git config user.email "research@projectscroll.com"
-          git add nights.json status.json games.json sports_status.json nights.ics games.ics counts.json cards/
+          git add nights.json status.json games.json sports_status.json nights.ics games.ics counts.json movies.json cards/; [ -f tmdb_cache.json ] && git add tmdb_cache.json || true
           git diff --cached --quiet || git commit -m "Nights read $(date -u +%F)"
           git pull --rebase -q && git push
