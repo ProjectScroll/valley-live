@@ -24,8 +24,8 @@ def when(s):
     s = str(s).strip()
     try:
         d = datetime.datetime.fromisoformat(s.replace('Z', '+00:00'))
-        if d.tzinfo: d = d.astimezone(TZ)
-        return d
+        # a time with no zone is the venue's own clock: the valley's (Eastern)
+        return d.astimezone(TZ) if d.tzinfo else (d.replace(tzinfo=TZ) if 'T' in s else d)
     except ValueError:
         try: return datetime.datetime.combine(datetime.date.fromisoformat(s[:10]), datetime.time())
         except ValueError: return None
