@@ -14,8 +14,8 @@
    "name": "The Lerner Theatre",
    "town": "Elkhart",
    "kind": "concerts",
-   "url": "https://thelerner.com/events/",
-   "method": "jsonld"
+   "url": "https://thelerner.com/events/?ical=1",
+   "method": "ics"
   },
   {
    "id": "nd-dpac",
