@@ -1,6 +1,63 @@
 {
- "https://m89cinema.mooretheatres.com/": {
-  "error": "HTTP Error 403: Forbidden"
+ "https://www.kpcinemas.com/": {
+  "status": 200,
+  "final": "https://www.kpcinemas.com/",
+  "bytes": 107384,
+  "ld_types": {},
+  "links": [
+   [
+    "https://www.kpcinemas.com/tickets/N",
+    18
+   ],
+   [
+    "/page/events",
+    1
+   ],
+   [
+    "https://www.kpcinemas.com/events",
+    1
+   ],
+   [
+    "/advance-tickets",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [],
+  "dates": [],
+  "apis": [
+   "https://fonts.googleapis.com",
+   "https://fonts.googleapis.com/css2"
+  ],
+  "snip": "ow to Rob a Bank\" class=\"h-auto w-full\" /> </picture> </a> </div> <div class=\"carousel-cell cin-carousel-cell \"> <a href=\"https://www.kpcinemas.com/movie/27869\" class=\"cin-carousel-cell-link\"> <picture> <source media=\"(min-width: 500px)\" srcset=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/B2u6W5xBQLQKctNOfVDm3n3OIBCeH7polmxKGXJS.webp\" /> <source srcset=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/70CGbCsJ4ABJlN6ESIhzJmM9J9cD8g19B65SJdvQ.webp\" /> <img src=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/70CGbCsJ4ABJlN6ESIhzJmM9J9cD8g19B65SJdvQ.webp\" alt=\"I Play Rocky\" class=\"h-auto w-full\" /> </picture> </a> </div> </div> </div> </div> </div> </div> </div> <div class=\"cin-container\"> <div class=\"mb-4 grid grid-cols-1 gap-2 gap-y-0 pb-6 sm:grid-cols-2 sm:gap-4 lg:grid-cols-3\"> <div class=\"cin-moviessubnav order-5 sm:order-2\"> <span class=\"cin-moviesnav-hdr\">Movies</span> <div class=\"cin-moviesnav\"> <a class=\"cin-moviesnav-link selected \" href=\"/\">Now Playing</a> <a class=\"cin-moviesnav-link \" href=\"/advance-tickets\">Advance Tix</a> <a class=\"cin-moviesnav-link \" href=\"/coming-soon\">Coming Soon</a> </div> </div> <div class=\"cin-locationsnav order-2 mt-4 md:mt-0\" x-data=\"\"> <label for=\"attribute\" class=\"cin-h2 mb-2 block\">Filter By</label> <script> function updateUrl(param, value) { const url = new URL(window.location); if (value) { url.searchParams.set(param, value); } else { url.searchParams.delete(param); } window.location.href = url.toString(); } </script> <select onchange=\"updateUrl('filter', this.value)\" id=\"attribute\" name=\"attribute\" aria-label=\"Choose a Filter\" class=\"cin-attributesnav-select\" > <option value=\"\">Choose a Filter</option> <option value=\"Reserved Seating\" >Reserved Seating</option> <option value=\"Recliners\" >Recliners</option> <option value=\"Flashback Cinema\" >Flashback Cinema</option> <option value=\"Japanese Language\" >Japanese Language</option> <option value=\"Subtitled in English\" >Subtitled in English</option> <option value=\"Fathom Events\" >Fathom Events</option> <option value=\"Holiday Series\" >Holid",
+  "head": "",
+  "types_json": null,
+  "title": "Showtimes - KP Cinemas | Kalamazoo, MI"
+ },
+ "https://www.linwaycinema.com/": {
+  "status": 200,
+  "final": "https://www.linwaycinema.com/",
+  "bytes": 112911,
+  "ld_types": {},
+  "links": [
+   [
+    "https://www.linwaycinema.com/tickets/N",
+    9
+   ]
+  ],
+  "ics": [],
+  "feeds": [],
+  "dates": [
+   "November 11, 2026"
+  ],
+  "apis": [
+   "https://fonts.googleapis.com",
+   "https://fonts.googleapis.com/css2"
+  ],
+  "snip": "mx-4 max-w-7xl py-10 xl:mx-auto\" :class=\"{ 'py-10': !navbarStuck, 'py-2': navbarStuck }\" x-transition:enter=\"transform transition ease-in-out duration-300\"> <div class=\"relative flex flex-col items-start justify-between md:items-center\"> <div class=\"flex w-full flex-1 items-start sm:justify-between md:items-center\"> <div class=\"shrink-0\"> <a href=\"/\" title=\"Linway Cinema 14 Home Page\"> <img class=\"mx-2 h-16 w-auto sm:block\" x-bind:class=\"{ 'md:h-16 w-auto': !navbarStuck, }\" src=\"https://images.cinemaplus.com/hosted/linway-cinema/exhibitor/linway-logo-v3.webp\" alt=\"Linway Cinema 14 Logo\" /> </a> </div> <div class=\"hidden md:block\"> <div class=\"flex items-center md:justify-self-end lg:space-x-1 lg:text-xl xl:space-x-4\"> <a href=\"/\" class=\"rounded-sm p-3 font-roboto leading-5 tracking-tight text-gray-100 uppercase transition duration-150 ease-in-out hover:bg-primary-800 focus:bg-gray-100 focus:bg-secondary-800 focus:text-white\" :class=\"{ 'bg-black/25': activePage === 'showtimes', 'text-sm': navbarStuck, }\" > Showtimes </a> <a href=\"/contact\" class=\"rounded-sm p-3 font-roboto leading-5 tracking-tight text-gray-100 uppercase transition duration-150 ease-in-out hover:bg-primary-800 focus:bg-gray-100 focus:bg-secondary-800 focus:text-white\" x-bind:class=\"{ 'bg-black/25': activePage === 'contact', 'text-sm': navbarStuck, }\" > Contact </a> <a href=\"/summer-film-series\" class=\"rounded-sm p-3 font-roboto leading-5 tracking-tight text-gray-100 uppercase transition duration-150 ease-in-out hover:bg-primary-800 focus:bg-gray-100 focus:bg-secondary-800 focus:text-white\" x-bind:class=\"{ 'bg-black/25': activePage === 'summer-film-series', 'text-sm': navbarStuck, }\" > Summer Film Series </a> <a href=\"/pricing\" class=\"rounded-sm p-3 font-roboto leading-5 tracking-tight text-gray-100 uppercase transition duration-150 ease-in-out hover:bg-primary-800 focus:bg-gray-100 focus:bg-secondary-800 focus:text-white\" x-bind:class=\"{ 'bg-black/25': activePage === 'pricing', 'text-sm': navbarStuck, }\" > Pricing </a> ",
+  "head": "",
+  "types_json": null,
+  "title": "Showtimes - Linway Cinema 14 | Goshen, IN"
  },
  "https://celebrationcinema.com/cinemas/Celebration-Cinema-Benton": {
   "status": 200,
@@ -91,324 +148,12 @@
    "https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular-sanitize.min.js",
    "https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular.min.js"
   ],
-  "snip": " <!DOCTYPE html> <html lang=\"en\" class=\"cc-clip-x\"> <head> <title> Celebration Cinema Benton </title> <meta charset=\"utf-8\" /> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"> <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\" /> <link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/apple-touch-icon.png\"> <link rel=\"shortcut icon\" href=\"/Favicons/Celebration/favicon.ico\"> <link rel=\"manifest\" href=\"/manifest.json\"> <link rel=\"mask-icon\" href=\"/safari-pinned-tab.svg\" color=\"#f84018\"> <meta name=\"theme-color\" content=\"#ffffff\"> <meta name=\"facebook-domain-verification\" content=\"11i98m2qmb6g13m563itno207bxgfb\" /> <link href=\"/scss/CelebrationStyles/compiled/default.css?v=7EUkt_k_3wg1\" rel=\"stylesheet\" type=\"text/css\" /><link href=\"/scss/GlobalStyles/aos.css?v=7EUkt_k_3wg1\" rel=\"stylesheet\" type=\"text/css\" /><link href=\"/WebResource.axd?d=Vp6kuE4VPNhKU1AiWuZ542wiVE-EIVaaZTPBXb3h3zdG7UZLaVdLAYIsj1_Fre5tc-xTjJIqVhDeC7ChHCPDsU3qoU8vjKrJoX3HmElxoW0sPPUxeVQT0fo2Jtdr5k8SFYfCQ1L0GMjTyTEsRkaIAJJ9UY1gX8zyrmSvSs0j9R-xOPMwGC6ZjlrgLIRbItha0&amp;t=638385320850226835\" rel=\"stylesheet\" type=\"text/css\" /> <script src=\"https://www.google.com/recaptcha/api.js\" async defer></script> <script>function onSubmit(token) { document.forms[0].submit(); }</script> <!-- Google Tag Manager --> <script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-KT3DNH2P');</script> <!-- End Google Tag Manager --> <!-- Google Analytics 4 --> <script async src=\"https://www.googletagmanager.com/gtag/js?id=G-YRMGMNGJ16\"></script> <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-YRMGMNGJ16');</script> <!-- Google Ads --> <script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-698381614\"></script> <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'AW-698381614');</script> <!-- Facebook Pixel Code --> <script>!function (f, b, e, v, n, t, s) { if (f.fbq) return; n = f.fbq = function () { n.callMethod ? n.callMeth",
+  "snip": "s) : n.queue.push(arguments) }; if (!s._saq) s._saq = n; n.push = n; n.loaded = !0; n.version = '1.0'; n.queue = []; t = a.createElement(e); t.async = !0; t.src = v; z = a.getElementsByTagName(e)[0]; z.parentNode.insertBefore(t, z) }(window, document, 'script', 'https://tags.srv.stackadapt.com/events.js'); saq('ts', 'zrqnEZceuOhIZsMENgyKig');</script> <!-- End Box Office Pixel Code --> <script src=\"/Frontend-Assembly/Telerik.Sitefinity.Frontend/Scripts/CelebrationScripts/pageTitleAdjuster.js?package=Bootstrap&amp;v=LTk2NzEwMzI2OQ%3d%3d\" type=\"text/javascript\"></script> <meta name=\"customPageTitleField\" content=\"Benton Harbor Movie Theater | Celebration Cinema Benton\" /> <meta name=\"google-site-verification\" content=\"Sglwyn7Q0Ak8pvepEyRZeQaf0QyfWBzLZjvTNT_kZkk\" /> <meta property=\"og:type\" content=\"website\" /><meta property=\"og:url\" content=\"https://www.celebrationcinema.com/cinemas/Celebration-Cinema-Benton\" /><meta property=\"og:site_name\" content=\"Celebration\" /><meta name=\"Generator\" content=\"Sitefinity 14.4.8152.0 DX\" /><link rel=\"canonical\" href=\"https://www.celebrationcinema.com/cinemas/celebration-cinema-benton\" /><meta property=\"og:title\" content=\"Benton Harbor Movie Theater | Celebration Cinema Benton\" /><meta property=\"og:description\" content=\"Enjoy the latest movies at Celebration Cinema Benton Harbor. Check showtimes and buy your tickets online today!\" /><meta name=\"description\" content=\"Enjoy the latest movies at Celebration Cinema Benton Harbor. Check showtimes and buy your tickets online today!\" /></head> <body> <!-- Google Tag Manager (noscript) --> <noscript> <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-KT3DNH2P\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> </noscript> <!-- End Google Tag Manager (noscript) --> <script src=\"/ScriptResource.axd?d=ktXPS54N4JY6vbaCTPlT9Z3lcN6glgPAU7KinxEqGiAxnAEsenoFuGpxyfcSBKuSzvmIaU8uPAFJeCuN7ClQ7dSUVxj-_VgPybQg6KJBatHM-4SXtJR3YLq3lxe3mClKD1ftrpZPovdcWIl77urW1TzBTOQit-OrQbQYwZZt-YAI5KRnOkVQoDWDgs3Irg0Y0&amp;t=6593801e\" type=\"text/javascript\"></script><script src=\"/ScriptResource.axd?d=ePnjFy9PuY6CB3GWMX-b_wSdxUiz4VoqdlXyIg1dgHddZB3AaMO61dVSqZuB1Uy3TCZC81Fhar0biKQlfAj1cau3w-GzKQm6pqEnUWIQLGXzCddLPZVlEqwr3VodC0EEoQqH5H5GTMxYv6P6wN44f-u7Vh27Twem3QVRuVCwX1gIXzrF7AC2VfUQU9L8bZVU0&amp;t=6593801e\" type=\"text/javascript\"></script> <div class=\"global-max-width\"> <header class=\"header\"> <div class=\"header-inner\"> <a href=\"/\" class=\"header-logo\"> <img src=\"/Assets/CRewards/Logos/celebration_cinema_logo_red.png\" alt=\"Celebration Cinema Logo\" /> </a> <nav class=\"nav js-nav extend-padding\"> <div class=\"loading-text-wrapper\"> <div class=\"loading-text-top\"> <div class=\"loading-text circular\"></div> <div class=\"loading-text-large\"></div> </div> <div class=\"loading-",
   "head": "",
   "types_json": null,
   "title": "Celebration Cinema Benton"
  },
- "https://lomatheatre.mooretheatres.com/": {
-  "error": "HTTP Error 403: Forbidden"
- },
- "https://capridrive-in.com/": {
-  "status": 200,
-  "final": "https://capridrive-in.com/",
-  "bytes": 66277,
-  "ld_types": {
-   "WebPage": 1,
-   "ReadAction": 1,
-   "BreadcrumbList": 1,
-   "ListItem": 1,
-   "WebSite": 1,
-   "SearchAction": 1,
-   "EntryPoint": 1,
-   "PropertyValueSpecification": 1,
-   "Organization": 1,
-   "ImageObject": 1
-  },
-  "links": [
-   [
-    "https://capridrive-in.com/events/",
-    2
-   ],
-   [
-    "https://capridrive-in.com/events/trunk-or-treat-N/",
-    1
-   ]
-  ],
-  "ics": [],
-  "feeds": [
-   "https://capridrive-in.com/feed/",
-   "https://capridrive-in.com/comments/feed/",
-   "https://capridrive-in.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcapridrive-in.com%2F",
-   "https://capridrive-in.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcapridrive-in.com%2F&#038;format=xml",
-   "https://capridrive-in.com/wp-json/",
-   "https://capridrive-in.com/wp-json/wp/v2/pages/76"
-  ],
-  "dates": [],
-  "apis": [
-   "https://api.w.org/",
-   "https://fonts.googleapis.com/css",
-   "https://fonts.googleapis.com/css2"
-  ],
-  "snip": "d\":\"https:\\/\\/capridrive-in.com\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/capridrive-in.com\\/#website\",\"url\":\"https:\\/\\/capridrive-in.com\\/\",\"name\":\"Capri Drive-In\",\"description\":\"Celebrating 60 years this year!\",\"publisher\":{\"@id\":\"https:\\/\\/capridrive-in.com\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/capridrive-in.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/capridrive-in.com\\/#organization\",\"name\":\"Capri Drive-In\",\"url\":\"https:\\/\\/capridrive-in.com\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en\",\"@id\":\"https:\\/\\/capridrive-in.com\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/i0.wp.com\\/capridrive-in.com\\/wp-content\\/uploads\\/2024\\/02\\/logo-rotated-1.png?fit=443%2C275&ssl=1\",\"contentUrl\":\"https:\\/\\/i0.wp.com\\/capridrive-in.com\\/wp-content\\/uploads\\/2024\\/02\\/logo-rotated-1.png?fit=443%2C275&ssl=1\",\"width\":443,\"height\":275,\"caption\":\"Capri Drive-In\"},\"image\":{\"@id\":\"https:\\/\\/capridrive-in.com\\/#\\/schema\\/logo\\/image\\/\"},\"sameAs\":[\"https:\\/\\/facebook.com\\/capridrivein\",\"https:\\/\\/x.com\\/capridrivein\",\"https:\\/\\/instagram.com\\/capridrivein\",\"https:\\/\\/www.tiktok.com\\/@capri.drivein.the\"]}]}</script> <!-- / Yoast SEO plugin. --> <link rel='dns-prefetch' href='//fonts.googleapis.com' /> <link rel='dns-prefetch' href='//use.fontawesome.com' /> <link rel='dns-prefetch' href='//www.googletagmanager.com' /> <link rel='preconnect' href='//i0.wp.com' /> <link rel='preconnect' href='//c0.wp.com' /> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Capri Drive-In &raquo; Feed\" href=\"https://capridrive-in.com/feed/\" /> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Capri Drive-In &raquo; Comments Feed\" href=\"https://capridrive-in.com/comments/feed/\" /> <link rel=\"alternate\" title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://capridrive-in.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcapridrive-in.com%2F\" /> <link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://capridrive-in.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcapridrive-in.com%2F&#038;format=xml\" /> <style id=\"wp-img-auto-sizes-contain-inline-css\"> img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px} /*# sourceURL=wp-img-auto-sizes-contain-inline-css */ </style> <style id=\"wp-emoji-styles-inline-css\"> img.wp-smiley, img.emoji { display: inline !important; border: none !important; box-shadow: none !important; height: 1em !important; width: 1em !important; margin: 0 0.07em !important; vertical-align: -0.1em !important; background: none !important; padding: 0 !important; } /*# sourceURL=wp-emoji-styles-inline-css */ </style> <style id=\"wp-block-library-inline-css\"> :root{--wp-block-synced-col",
-  "head": "",
-  "types_json": null,
-  "title": "Capri Drive-In"
- },
- "https://ncgmovies.com/coldwater/": {
-  "error": "HTTP Error 404: Not Found"
- },
- "https://www.bohmtheatre.org/": {
-  "status": 200,
-  "final": "https://bohmtheatre.org/",
-  "bytes": 100085,
-  "ld_types": {},
-  "links": [
-   [
-    "https://bohmtheatre.org/event/ebenezer/",
-    4
-   ],
-   [
-    "https://bohmtheatre.org/event/the-cat-in-the-hat/",
-    4
-   ],
-   [
-    "https://bohmtheatre.easy-ware-ticketing.com/events/",
-    2
-   ],
-   [
-    "https://bohmtheatre.org/calendar/",
-    1
-   ],
-   [
-    "https://bohmtheatre.org/wp-json/tribe/events/vN/",
-    1
-   ],
-   [
-    "/calendar",
-    1
-   ],
-   [
-    "https://bohmtheatre.org/tickets/",
-    1
-   ],
-   [
-    "https://bohmtheatre.org/tickets/gift-certificates/",
-    1
-   ],
-   [
-    "https://bohmtheatre.easy-ware-ticketing.com/events",
-    1
-   ]
-  ],
-  "ics": [],
-  "feeds": [
-   "https://bohmtheatre.org/feed/",
-   "https://bohmtheatre.org/comments/feed/",
-   "https://bohmtheatre.org/calendar/?ical=1",
-   "https://bohmtheatre.org/wp-json/",
-   "https://bohmtheatre.org/wp-json/wp/v2/pages/6",
-   "https://bohmtheatre.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbohmtheatre.org%2F",
-   "https://bohmtheatre.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbohmtheatre.org%2F&#038;format=xml",
-   "https://bohmtheatre.org/wp-json/tribe/events/v1/"
-  ],
-  "dates": [
-   "July 5, 2017",
-   "July 5, 2017"
-  ],
-  "apis": [
-   "http://fonts.googleapis.com/css",
-   "https://api.w.org/",
-   "https://fonts.googleapis.com/css"
-  ],
-  "snip": "<!DOCTYPE html> <html lang=\"en-US\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"> <meta name=\"google-site-verification\" content=\"WXn_Qa6jb1Lz5sKby_-0nqnxDzK1PSBR--Vwhn5K6o8\" /><link rel=\"profile\" href=\"http://gmpg.org/xfn/11\"> <link rel=\"pingback\" href=\"https://bohmtheatre.org/xmlrpc.php\"> <title>Bohm Theatre &#8211; Albion, Michigan</title> <meta name='robots' content='max-image-preview:large' /> <link rel='dns-prefetch' href='//fonts.googleapis.com' /> <link rel='dns-prefetch' href='//s.w.org' /> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Bohm Theatre &raquo; Feed\" href=\"https://bohmtheatre.org/feed/\" /> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Bohm Theatre &raquo; Comments Feed\" href=\"https://bohmtheatre.org/comments/feed/\" /> <link rel=\"alternate\" type=\"text/calendar\" title=\"Bohm Theatre &raquo; iCal Feed\" href=\"https://bohmtheatre.org/calendar/?ical=1\" /> <!-- This site uses the Google Analytics by MonsterInsights plugin v10.0.1 - Using Analytics tracking - https://www.monsterinsights.com/ --> <!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. --> <!-- No tracking code set --> <!-- / Google Analytics by MonsterInsights --> <script type=\"text/javascript\"> window._wpemojiSettings = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/14.0.0\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/14.0.0\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/bohmtheatre.org\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=6.0.18\"}}; /*! This file is auto-generated */ !function(e,a,t){var n,r,o,i=a.createElement(\"canvas\"),p=i.getContext&&i.getContext(\"2d\");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(t",
-  "head": "",
-  "types_json": null,
-  "title": "Bohm Theatre &#8211; Albion, Michigan"
- },
- "https://www.gqtmovies.com/gqt-lakeview-10": {
-  "status": 200,
-  "final": "https://www.gqtmovies.com/gqt-lakeview-10",
-  "bytes": 116845,
-  "ld_types": {},
-  "links": [
-   [
-    "https://www.gqtmovies.com/gqt-lakeview-N/tickets/N",
-    8
-   ],
-   [
-    "/gqt-lakeview-N/advance-tickets",
-    1
-   ]
-  ],
-  "ics": [],
-  "feeds": [],
-  "dates": [],
-  "apis": [
-   "https://fonts.googleapis.com",
-   "https://fonts.googleapis.com/css2"
-  ],
-  "snip": " <!DOCTYPE html> <html lang=\"en\" class=\"scroll-smooth \"> <head> <meta charset=\"UTF-8\" /> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /> <title>Showtimes - GQT Lakeview 10 | Battle Creek, MI</title> <link rel=\"canonical\" href=\"https://www.gqtmovies.com/gqt-lakeview-10\" /> <meta name=\"csrf-token\" content=\"f2Nzd6tqaj6vTnbJGrSLWJZkmKepeiE5v4AkZzVd\" /> <meta name=\"keywords\" content=\"GQT Lakeview 10, MI, Battle Creek, screens, movie screens, showtimes, tickets, movie tickets\" /> <meta name=\"description\" content=\"Movie Showtimes at GQT Lakeview 10, Battle Creek, MI\" /> <!-- Google Tag Manager --> <script> (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ \"gtm.start\": new Date().getTime(), event: \"gtm.js\" }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != \"dataLayer\" ? \"&l=\" + l : \"\"; j.async = true; j.src = \"https://www.googletagmanager.com/gtm.js?id=\" + i + dl; f.parentNode.insertBefore(j, f); })(window, document, \"script\", \"dataLayer\", \"GTM-WR9HV5TD\"); </script> <!-- End Google Tag Manager --> <link rel=\"icon\" type=\"image/png\" href=\"https://images.cinemaplus.com/hosted/goodrich-quality-theater/exhibitor/icons/gqt-favicon-16x16-v1.png\" sizes=\"16x16\" /> <link rel=\"icon\" type=\"image/png\" href=\"https://images.cinemaplus.com/hosted/goodrich-quality-theater/exhibitor/icons/gqt-favicon-32x32-v1.png\" sizes=\"32x32\" /> <link rel=\"icon\" type=\"image/png\" href=\"htt",
-  "head": "",
-  "types_json": null,
-  "title": "Showtimes - GQT Lakeview 10 | Battle Creek, MI"
- },
- "https://jccinema.mooretheatres.com/": {
-  "error": "HTTP Error 403: Forbidden"
- },
- "https://www.gqtmovies.com/michigan/w-columbia-7": {
-  "error": "HTTP Error 404: Not Found"
- },
- "https://www.spotlighttheatres.com/spotlight-linway": {
-  "status": 200,
-  "final": "https://www.linwaycinema.com/",
-  "bytes": 113240,
-  "ld_types": {},
-  "links": [
-   [
-    "https://www.linwaycinema.com/tickets/N",
-    9
-   ]
-  ],
-  "ics": [],
-  "feeds": [],
-  "dates": [
-   "November 11, 2026"
-  ],
-  "apis": [
-   "https://fonts.googleapis.com",
-   "https://fonts.googleapis.com/css2"
-  ],
-  "snip": " <!DOCTYPE html> <html lang=\"en\" class=\"scroll-smooth \"> <head> <meta charset=\"UTF-8\" /> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /> <title>Showtimes - Linway Cinema 14 | Goshen, IN</title> <link rel=\"canonical\" href=\"https://www.linwaycinema.com\" /> <meta name=\"csrf-token\" content=\"4EYPrJIk8fGujTEnWpqPcdlJy9ZrbWGTSFZq16tl\" /> <meta name=\"keywords\" content=\"Linway Cinema 14, IN, Goshen, screens, movie screens, showtimes, tickets, movie tickets\" /> <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\" /> <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin /> <link href=\"https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap\" rel=\"stylesheet\" /> <link rel=\"preload\" as=\"style\" href=\"https://www.linwaycinema.com/build/assets/cinemaplus-v2-DqYfP_XL.css\" /><link rel=\"stylesheet\" href=\"https://www.linwaycinema.com/build/assets/cinemaplus-v2-DqYfP_XL.css\" /> <link rel=\"preload\" as=\"style\" href=\"https://www.linwaycinema.com/build/assets/linway-cinema-0dTWjxvt.css\" /><link rel=\"stylesheet\" href=\"https://www.linwaycinema.com/build/assets/linway-cinema-0dTWjxvt.css\" /> </head> <body class=\"bg-gray-100 bg-contain\" style=\"\"> <div class=\"cin-base-wrapper\"> <div class=\"w-full flex-1\" style=\"background-image: none;\"> <div class=\"relative\"> <!-- Main Nav --> <",
-  "head": "",
-  "types_json": null,
-  "title": "Showtimes - Linway Cinema 14 | Goshen, IN"
- },
- "https://www.celebrationcinema.com/": {
-  "status": 200,
-  "final": "https://www.celebrationcinema.com/",
-  "bytes": 222261,
-  "ld_types": {
-   "Organization": 1,
-   "ImageObject": 1,
-   "ContactPoint": 1,
-   "State": 1
-  },
-  "links": [
-   [
-    "/events-series",
-    2
-   ],
-   [
-    "/group-events",
-    2
-   ],
-   [
-    "https://www.celebrationcinema.com/gifts/gold-tickets-checkout",
-    2
-   ],
-   [
-    "/Films/detail/ZERO-A-D-The-Birth-of-Christ-Early-Access-Event",
-    1
-   ],
-   [
-    "https://www.celebrationcinema.com/events-series/detail/T-A-C-O-Tuesday",
-    1
-   ],
-   [
-    "https://www.celebrationcinema.com/events-series/detail/Sunday-Discount-Movie",
-    1
-   ],
-   [
-    "https://www.celebrationcinema.com/events-series/detail/flick&",
-    1
-   ],
-   [
-    "/group-events/private-showtimes",
-    1
-   ],
-   [
-    "/group-events/corporate-events",
-    1
-   ],
-   [
-    "/group-events/event-spaces",
-    1
-   ],
-   [
-    "/group-events/school-groups",
-    1
-   ],
-   [
-    "/group-events/gold-tickets",
-    1
-   ],
-   [
-    "/group-events/Holiday-events",
-    1
-   ],
-   [
-    "https://www.celebrationcinema.com/events-series/detail/C-Premium",
-    1
-   ],
-   [
-    "https://www.celebrationcinema.com/events-series/detail/IMAX",
-    1
-   ]
-  ],
-  "ics": [],
-  "feeds": [
-   "/manifest.json"
-  ],
-  "dates": [],
-  "apis": [
-   "https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular-animate.min.js",
-   "https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular-cookies.min.js",
-   "https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular-messages.min.js",
-   "https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular-route.min.js",
-   "https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular-sanitize.min.js",
-   "https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular.min.js"
-  ],
-  "snip": " <!DOCTYPE html> <html lang=\"en\" class=\"cc-clip-x\"> <head> <title> Movie Showtimes &amp; Tickets | Celebration Cinema </title> <meta charset=\"utf-8\" /> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"> <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\" /> <link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/apple-touch-icon.png\"> <link rel=\"shortcut icon\" href=\"/Favicons/Celebration/favicon.ico\"> <link rel=\"manifest\" href=\"/manifest.json\"> <link rel=\"mask-icon\" href=\"/safari-pinned-tab.svg\" color=\"#f84018\"> <meta name=\"theme-color\" content=\"#ffffff\"> <meta name=\"facebook-domain-verification\" content=\"11i98m2qmb6g13m563itno207bxgfb\" /> <link href=\"/scss/CelebrationStyles/compiled/default.css?v=7EUkt_k_3wg1\" rel=\"stylesheet\" type=\"text/css\" /><link href=\"/scss/GlobalStyles/aos.css?v=7EUkt_k_3wg1\" rel=\"stylesheet\" type=\"text/css\" /> <script src=\"https://www.google.com/recaptcha/api.js\" async defer></script> <script>function onSubmit(token) { document.forms[0].submit(); }</script> <!-- Google Tag Manager --> <script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-KT3",
-  "head": "",
-  "types_json": null,
-  "title": "Movie Showtimes &amp; Tickets | Celebration Cinema"
- },
- "https://www.gqtmovies.com/michigan/kalamazoo-10": {
-  "error": "HTTP Error 404: Not Found"
- },
- "https://www.kpcinemas.com/": {
-  "status": 200,
-  "final": "https://www.kpcinemas.com/",
-  "bytes": 107384,
-  "ld_types": {},
-  "links": [
-   [
-    "https://www.kpcinemas.com/tickets/N",
-    18
-   ],
-   [
-    "/page/events",
-    1
-   ],
-   [
-    "https://www.kpcinemas.com/events",
-    1
-   ],
-   [
-    "/advance-tickets",
-    1
-   ]
-  ],
-  "ics": [],
-  "feeds": [],
-  "dates": [],
-  "apis": [
-   "https://fonts.googleapis.com",
-   "https://fonts.googleapis.com/css2"
-  ],
-  "snip": " <!DOCTYPE html> <html lang=\"en\" class=\"scroll-smooth \"> <head> <meta charset=\"UTF-8\" /> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /> <title>Showtimes - KP Cinemas | Kalamazoo, MI</title> <link rel=\"canonical\" href=\"https://www.kpcinemas.com\" /> <meta name=\"csrf-token\" content=\"DzsNtiNURH0B0A60hnnLYcx6EKUK8d35wUrIC5uI\" /> <meta name=\"keywords\" content=\"KP Cinemas, MI, Kalamazoo, screens, movie screens, showtimes, tickets, movie tickets\" /> <meta name=\"description\" content=\"Movie Showtimes at KP Cinemas, Kalamazoo, MI\" /> <link rel=\"icon\" type=\"image/png\" href=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/kp-favicon-16x16-v1.png\" sizes=\"16x16\" /> <link rel=\"icon\" type=\"image/png\" href=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/kp-favicon-32x32-v1.png\" sizes=\"32x32\" /> <link rel=\"icon\" type=\"image/png\" href=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/kp-favicon-48x48-v1.png\" sizes=\"48x48\" /> <link rel=\"icon\" type=\"image/png\" href=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/kp-favicon-64x64-v1.png\" sizes=\"64x64\" /> <link rel=\"icon\" type=\"image/png\" href=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/kp-favicon-192x192-v1.png\" sizes=\"192x192\" /> <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\" /> <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin /> <link href=\"https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&fa",
-  "head": "",
-  "types_json": null,
-  "title": "Showtimes - KP Cinemas | Kalamazoo, MI"
- },
- "https://www.amctheatres.com/movie-theatres/gary/amc-classic-michigan-city-14": {
-  "error": "HTTP Error 403: Forbidden"
- },
- "https://www.amctheatres.com/movie-theatres/south-bend/amc-south-bend-16": {
-  "error": "HTTP Error 403: Forbidden"
- },
- "https://www.cinemark.com/theatres/in-mishawaka/cinemark-movies-14": {
+ "https://www.cinemark.com/theatres/in-mishawaka/cinemark-south-bend-and-screenx": {
   "status": 200,
   "final": "https://www.cinemark.com/theatres/in-mishawaka/cinemark-south-bend-and-screenx",
   "bytes": 316375,
@@ -427,12 +172,12 @@
   "feeds": [],
   "dates": [],
   "apis": [],
-  "snip": "ic/chunks/0cxrek0ifmjoo.js\" async=\"\" type=\"108eb472fe6017ea67e54ecd-text/javascript\"></script><script src=\"/_next/static/chunks/0rikg8_fggxdj.js\" async=\"\" type=\"108eb472fe6017ea67e54ecd-text/javascript\"></script><script src=\"/_next/static/chunks/2e67t4krsnasx.js\" async=\"\" type=\"108eb472fe6017ea67e54ecd-text/javascript\"></script><script src=\"/_next/static/chunks/2nghrdds1sby5.js\" async=\"\" type=\"108eb472fe6017ea67e54ecd-text/javascript\"></script><script src=\"/_next/static/chunks/14x_rk-8j3s5-.js\" async=\"\" type=\"108eb472fe6017ea67e54ecd-text/javascript\"></script><script src=\"/_next/static/chunks/12su-7bc3te-6.js\" async=\"\" type=\"108eb472fe6017ea67e54ecd-text/javascript\"></script><script src=\"/_next/static/chunks/045vm2qwgvf3d.js\" async=\"\" type=\"108eb472fe6017ea67e54ecd-text/javascript\"></script><link rel=\"preload\" href=\"https://js.recurly.com/v4/recurly.css\" as=\"style\"/><link rel=\"preload\" href=\"https://checkoutshopper-live-us.adyen.com/checkoutshopper/sdk/6.14.0/adyen.css\" as=\"style\"/><link rel=\"preload\" href=\"https://js.recurly.com/v4/recurly.js\" as=\"script\"/><link rel=\"preload\" href=\"https://cdn.optimizely.com/js/24591270085.js\" as=\"script\"/><title>Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX</title><meta name=\"description\" content=\"Visit Our Cinemark Theater in Mishawaka, IN. Enjoy alcoholic drinks and fast food. Upgrade Your Movie with reclining Luxury Loungers! Buy Tickets Online Now!\"/><meta name=\"keywords\" content=\"cinemark,movies,theater,tickets,showtimes,cinema,blockbuster,film\"/><meta name=\"robots\" content=\"index, follow\"/><meta name=\"googlebot\" content=\"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1\"/><meta name=\"application-name\" content=\"Cinemark\"/><link rel=\"canonical\" href=\"https://www.cinemark.com/theatres/in-mishawaka/cinemark-south-bend-and-screenx\"/><meta property=\"og:title\" content=\"Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX\"/><meta property=\"og:description\" content=\"Visit Our Cinemark Theater in Mishawaka, IN. Enjoy alcoholic drinks and fast food. Upgrade Your Movie with reclining Luxury Loungers! Buy Tickets Online Now!\"/><meta property=\"og:url\" content=\"https://www.cinemark.com/theatres/in-mishawaka/cinemark-south-bend-and-screenx\"/><meta property=\"og:site_name\" content=\"Cinemark\"/><meta property=\"og:image\" content=\"https://www.cinemark.com/papi/og-image?url=https%3A%2F%2Fwww.cinemark.com%2Fimg%2Fposter_blank.jpg\"/><meta property=\"og:image:alt\" content=\"Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX\"/><meta property=\"og:type\" content=\"article\"/><meta name=\"twitter:card\" content=\"summary_large_image\"/><meta name=\"twitter:title\" content=\"Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX\"/><meta name=\"twitter:description\" content=\"Visit Our Cinemark Theater in Mishawaka, IN. Enjoy alcoholic drinks and fast food. Upgrade Your Movie with reclining Luxury Loungers! Buy Tickets Online Now!\"/><meta name=\"twitter",
+  "snip": "ic/chunks/0cxrek0ifmjoo.js\" async=\"\" type=\"62b718fe46c90d3ef39be23f-text/javascript\"></script><script src=\"/_next/static/chunks/0rikg8_fggxdj.js\" async=\"\" type=\"62b718fe46c90d3ef39be23f-text/javascript\"></script><script src=\"/_next/static/chunks/2e67t4krsnasx.js\" async=\"\" type=\"62b718fe46c90d3ef39be23f-text/javascript\"></script><script src=\"/_next/static/chunks/2nghrdds1sby5.js\" async=\"\" type=\"62b718fe46c90d3ef39be23f-text/javascript\"></script><script src=\"/_next/static/chunks/14x_rk-8j3s5-.js\" async=\"\" type=\"62b718fe46c90d3ef39be23f-text/javascript\"></script><script src=\"/_next/static/chunks/12su-7bc3te-6.js\" async=\"\" type=\"62b718fe46c90d3ef39be23f-text/javascript\"></script><script src=\"/_next/static/chunks/045vm2qwgvf3d.js\" async=\"\" type=\"62b718fe46c90d3ef39be23f-text/javascript\"></script><link rel=\"preload\" href=\"https://js.recurly.com/v4/recurly.css\" as=\"style\"/><link rel=\"preload\" href=\"https://checkoutshopper-live-us.adyen.com/checkoutshopper/sdk/6.14.0/adyen.css\" as=\"style\"/><link rel=\"preload\" href=\"https://js.recurly.com/v4/recurly.js\" as=\"script\"/><link rel=\"preload\" href=\"https://cdn.optimizely.com/js/24591270085.js\" as=\"script\"/><title>Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX</title><meta name=\"description\" content=\"Visit Our Cinemark Theater in Mishawaka, IN. Enjoy alcoholic drinks and fast food. Upgrade Your Movie with reclining Luxury Loungers! Buy Tickets Online Now!\"/><meta name=\"keywords\" content=\"cinemark,movies,theater,tickets,showtimes,cinema,blockbuster,film\"/><meta name=\"robots\" content=\"index, follow\"/><meta name=\"googlebot\" content=\"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1\"/><meta name=\"application-name\" content=\"Cinemark\"/><link rel=\"canonical\" href=\"https://www.cinemark.com/theatres/in-mishawaka/cinemark-south-bend-and-screenx\"/><meta property=\"og:title\" content=\"Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX\"/><meta property=\"og:description\" content=\"Visit Our Cinemark Theater in Mishawaka, IN. Enjoy alcoholic drinks and fast food. Upgrade Your Movie with reclining Luxury Loungers! Buy Tickets Online Now!\"/><meta property=\"og:url\" content=\"https://www.cinemark.com/theatres/in-mishawaka/cinemark-south-bend-and-screenx\"/><meta property=\"og:site_name\" content=\"Cinemark\"/><meta property=\"og:image\" content=\"https://www.cinemark.com/papi/og-image?url=https%3A%2F%2Fwww.cinemark.com%2Fimg%2Fposter_blank.jpg\"/><meta property=\"og:image:alt\" content=\"Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX\"/><meta property=\"og:type\" content=\"article\"/><meta name=\"twitter:card\" content=\"summary_large_image\"/><meta name=\"twitter:title\" content=\"Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX\"/><meta name=\"twitter:description\" content=\"Visit Our Cinemark Theater in Mishawaka, IN. Enjoy alcoholic drinks and fast food. Upgrade Your Movie with reclining Luxury Loungers! Buy Tickets Online Now!\"/><meta name=\"twitter",
   "head": "",
   "types_json": null,
   "title": "Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX"
  },
- "https://www.trriviera.com/": {
+ "https://trriviera.com/": {
   "status": 200,
   "final": "https://trriviera.com/",
   "bytes": 96186,
@@ -478,12 +223,12 @@
   "apis": [
    "https://api.w.org/"
   ],
-  "snip": "-gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-normal-font-size{font-size: var(--wp--preset--font-size--normal) !important;}.has-xlarge-font-size{font-size: var(--wp--preset--font-size--xlarge) !important;}.has-huge-font-size{font-size: var(--wp--preset--font-size--huge) !important;} /*# sourceURL=global-styles-inline-css */ </style> <link rel='stylesheet' id='fusion-dynamic-css-css' href='https://trriviera.com/wp-content/uploads/fusion-styles/0c3deee6d5aec22b979b245221ad24d9.min.css?ver=3.16.4' media='all' /> <link rel=\"https://api.w.org/\" href=\"https://trriviera.com/wp-json/\" /><link rel=\"alternate\" title=\"JSON\" type=\"application/json\" href=\"https://trriviera.com/wp-json/wp/v2/pages/3562\" /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://trriviera.com/xmlrpc.php?rsd\" /> <link rel=\"canonical\" href=\"https://trriviera.com/\" /> <link rel='shortlink' href='https://trriviera.com/' /> <meta name=\"generator\" content=\"webp-uploads 2.7.1\"> <meta name=\"et-api-version\" content=\"v1\"><meta name=\"et-api-origin\" content=\"https://trriviera.com\"><link rel=\"https://theeventscalendar.com/\" href=\"https://trriviera.com/wp-json/tribe/tickets/v1/\" /><meta name=\"tec-api-version\" content=\"v1\"><meta name=\"tec-api-origin\" content=\"https://trriviera.com\"><link rel=\"alternate\" href=\"https://trriviera.com/wp-json/tribe/events/v1/\" /><link rel=\"preload\" href=\"https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2\" as=\"font\" type=\"font/woff2\" crossorigin><style type=\"text/css\" id=\"css-fb-visibility\">a[href^=\"#awb-close-collapsible__\"][href$=\"__hide\"]:not(.awb-collapse-link-visible),a[href^=\"#awb-open-collapsible__\"][href$=\"__hide\"].awb-collapse-link-hidden{display:none;}@media screen and (max-width: 640px){.fusion-no-small-visibility{display:none !important;}body .sm-text-align-center{text-align:center !important;}body .sm-text-align-left{text-align:left !important;}body .sm-text-align-right{text-align:right !important;}body .sm-text-align-justify{text-align:justify !important;}body .sm-f",
+  "snip": "",
   "head": "",
   "types_json": null,
   "title": "TR Riviera Theatre &#8211; Historic Theatre in Three Rivers, MI"
  },
- "https://strand4.com/": {
+ "https://www.strand4.com/": {
   "status": 200,
   "final": "https://www.strand4.com/",
   "bytes": 117878,
@@ -495,15 +240,12 @@
    "Jul 17 2026"
   ],
   "apis": [],
-  "snip": "ass=\"cookie-settings-popup__option-title\">Essential</div><label class=\"gdpr-switcher\" data-active=\"true\"><input type=\"checkbox\" disabled=\"\" class=\"gdpr-switcher__checkbox\" checked=\"\"/><span class=\"gdpr-switcher__text\">On</span><span class=\"gdpr-switcher__label\"><span class=\"gdpr-switcher__circle\"></span></span></label></div><p class=\"cookie-settings-popup__option-text\"></p></div><p class=\"cookie-settings-popup__option-text\">These cookies are strictly necessary to provide you with services available through our websites.</p><div><div class=\"cookie-settings-popup__option-wrap\"><div class=\"cookie-settings-popup__option-title\">Analytics</div><label class=\"gdpr-switcher gdpr-switcher__analytics\" data-active=\"true\"><input type=\"checkbox\" class=\"gdpr-switcher__checkbox\" checked=\"\"/><span class=\"gdpr-switcher__text\">On</span><span class=\"gdpr-switcher__label\"><span class=\"gdpr-switcher__circle\"></span></span></label></div><p class=\"cookie-settings-popup__option-text _pb-10\">These cookies collect information that is used in aggregate and in an anonymized form to help us understand how our website is being used and how effectively our site is performing.</p></div><div class=\"cookie-settings-popup__btn-wrap\"><button class=\"cookie-settings-popup__btn cookie-settings-popup__btn-save\" type=\"button\">Save settings</button></div></div></div></div></div></div></div> <script> window['__PRELOADED_STATE__'] = { \"analytics\": { \"googleAnalyticsId\": \"\", \"googleTagManagerId\": \"\" }, \"apiUrls\": { \"static\": \"https://static.edit.site\", \"staticService\": \"https://static-cdn.edit.site\", \"memberApi\": \"https://rest.edit.site/member-api/1.1\", \"blogApi\": \"https://rest.edit.site/blog-api/1.1\", \"ecommerceFilestorageService\": \"https://rest.edit.site/ecommerce-filestorage-service/1.0\", \"memberApiService\": \"https://rest.edit.site/member-api-service\", \"fileStorageService\": \"https://rest.edit.site/filestorage-api-service\", \"imageApiService\": \"https://rest.edit.site/image-api-service\", \"imageResizeApiService\": \"https://rest.edit.site/image-resize-v2/_\", \"ecommerceService\": \"https://rest.edit.site/ecommerce-api-service\", \"analyticApiService\": \"https://rest.edit.site/member-analytics-service\", \"embedApiService\": \"https://rest.edit.site/embed-api-service\", \"geoipService\": \"https://rest.edit.site/geoip-service\", \"pageRenderService\": \"https://rest.edit.site/page-render-service\", \"staticCdnService\": \"https://static-gcs.edit.site\", \"fontsCdn\": \"https://fonts-cdn.edit.site\", \"ecomDashApiUrl\": \"https://app-gateway.svc.ecomdash.com/storedash/checkout/v1.0\", \"ecomDashCartScriptUrl\": \"https://mfe.newfold-addons.io\", \"bookingApiUrl\": \"https://app-gateway.myschedulr.com/booking/public/v1.0\", \"bookingService\": \"https://app.myschedulr.com/bookings-scheduler/index\" }, \"ecommerce\": { \"storeUrl\": \"\" }, \"iconsPath\": \"projects/960b8fe2-b32b-48c7-9041-4505cc649add\", \"pageId\": \"c7ff4635-fa15-4100-b3fe-6",
+  "snip": "",
   "head": "",
   "types_json": null,
   "title": ""
  },
- "https://www.gqti.com/theaters.aspx?theaterid=1458": {
-  "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gqti.com'. (_ssl.c:1000)>"
- },
- "http://www.thebrokaw.com/": {
+ "https://www.thebrokaw.com/": {
   "status": 200,
   "final": "https://www.thebrokaw.com/",
   "bytes": 92913,
@@ -522,13 +264,10 @@
   "feeds": [],
   "dates": [],
   "apis": [],
-  "snip": "button-inner {} .wsite-not-footer blockquote {} .wsite-footer blockquote {} .blog-header h2 a {} #wsite-content h2.wsite-product-title {} .wsite-product .wsite-product-price a {} }</style> <style> .wsite-background {background-image: url(\"/uploads/8/6/7/3/86738218/background-images/1533673746.jpg\") !important;background-repeat: no-repeat !important;background-position: 50.00% 3.81% !important;background-size: 100% !important;background-color: transparent !important;} body.wsite-background {background-attachment: fixed !important;}.wsite-background.wsite-custom-background{ background-size: cover !important} </style><style type='text/css'>.wsite-com-category-product-group .wsite-com-column { width: 33.33% !important } .wsite-com-category-product-featured-group .wsite-com-column { width: 25.00% !important } .wsite-com-category-subcategory-group .wsite-com-column { width: 33.33% !important } </style> <script src='/files/templateArtifacts.js?1794251337'></script> <script> var STATIC_BASE = '//cdn1.editmysite.com/'; var ASSETS_BASE = '//cdn11.editmysite.com/'; var STYLE_PREFIX = 'wsite'; </script> <script src='https://cdn11.editmysite.com/js/jquery-1.8.3.min.js'></script> <script type=\"text/javascript\" src=\"//cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1793991193&\"></script> <script src=\"//cdn11.editmysite.com/js/site/main.js?buildtime=1793991193\"></script><script type=\"text/javascript\"> function initCustomerAccountsModels() { (function(){_W.setup_rpc({\"url\":\"\\/ajax\\/api\\/JsonRPC\\/CustomerAccounts\\/\",\"actions\":{\"CustomerAccounts\":[{\"name\":\"login\",\"len\":2,\"multiple\":false,\"standalone\":false},{\"name\":\"logout\",\"len\":0,\"multiple\":false,\"standalone\":false},{\"name\":\"getSessionDetails\",\"len\":0,\"multiple\":false,\"standalone\":false},{\"name\":\"getAccountDetails\",\"len\":0,\"multiple\":false,\"standalone\":false},{\"name\":\"getOrders\",\"len\":0,\"multiple\":false,\"standalone\":false},{\"name\":\"register\",\"len\":4,\"multiple\":false,\"standalone\":false},{\"name\":\"emailExists\",\"len\":1,\"multiple\":false,\"standalone\":false},{\"name\":\"passwordReset\",\"len\":1,\"multiple\":false,\"standalone\":false},{\"name\":\"passwordUpdate\",\"len\":3,\"multiple\":false,\"standalone\":false},{\"name\":\"validateSession\",\"len\":1,\"multiple\":false,\"standalone\":false}]},\"namespace\":\"_W.CustomerAccounts.RPC\"}); _W.setup_model_rpc({\"rpc_namespace\":\"_W.CustomerAccounts.RPC\",\"model_namespace\":\"_W.CustomerAccounts.BackboneModelData\",\"collection_namespace\":\"_W.CustomerAccounts.BackboneCollectionData\",\"bootstrap_namespace\":\"_W.CustomerAccounts.BackboneBootstrap\",\"models\":{\"CustomerAccounts\":{\"_class\":\"CustomerAccounts.Model.CustomerAccounts\",\"defaults\":null,\"validation\":null,\"types\":null,\"idAttribute\":null,\"keydefs\":null}},\"collections\":{\"CustomerAccounts\":{\"_class\":\"CustomerAccounts.Collection.CustomerAccounts\"}},\"bootstrap\":[]}); })(); } if(document.createEvent && document.addEventListener) { var initEvt = document.createEvent('Event'); initEvt.initEvent('customerAccountsModelsInitialized', true, false); d",
+  "snip": "ection.Customer\"},\"Log\":{\"_class\":\"Commerce.Collection.Log\"},\"OrderBilling\":{\"_class\":\"Commerce.Collection.OrderBilling\"},\"OrderFulfillment\":{\"_class\":\"Commerce.Collection.OrderFulfillment\"},\"OrderItem\":{\"_class\":\"Commerce.Collection.OrderItem\"},\"Order\":{\"_class\":\"Commerce.Collection.Order\"},\"OrderShipment\":{\"_class\":\"Commerce.Collection.OrderShipment\"},\"Product\":{\"_class\":\"Commerce.Collection.Product\"},\"ShippingRate\":{\"_class\":\"Commerce.Collection.ShippingRate\"},\"StoredPayment\":{\"_class\":\"Commerce.Collection.StoredPayment\"}},\"bootstrap\":[]}); })(); }</script> <script src='//cdn11.editmysite.com/js/site/commerce-core.js?buildtime=1793991193'></script> <script src='//cdn11.editmysite.com/js/site/main-commerce-browse.js?buildtime=1793991193'></script><script type=\"text/javascript\">_W.configDomain = \"www.weebly.com\";</script><script>_W.relinquish && _W.relinquish()</script> <script type=\"text/javascript\" src=\"//cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1793991193&\"></script><script> _W.themePlugins = [];</script><script type=\"text/javascript\"> _W.recaptchaUrl = \"https://www.google.com/recaptcha/api.js\"; </script><script type=\"text/javascript\"><!-- function initFlyouts(){ initPublishedFlyoutMenus( [{\"id\":\"824119276671210941\",\"title\":\"Home\",\"url\":\"index.html\",\"target\":\"\",\"nav_menu\":false,\"nonclickable\":false},{\"id\":\"962672718791967090\",\"title\":\"About\",\"url\":\"about.html\",\"target\":\"\",\"nav_menu\":false,\"nonclickable\":false},{\"id\":\"496879240314363592\",\"title\":\"Movies & Showtimes\",\"url\":\"movies--showtimes.html\",\"target\":\"\",\"nav_menu\":false,\"nonclickable\":false},{\"id\":\"237046841398226870\",\"title\":\"Gift Cards & Certificates\",\"url\":\"gift-cards--certificates.html\",\"target\":\"\",\"nav_menu\":false,\"nonclickable\":false},{\"id\":\"511585259910337629\",\"title\":\"Upcoming Movies & Events\",\"url\":\"upcoming-movies--events.html\",\"target\":\"\",\"nav_menu\":false,\"nonclickable\":false},{\"id\":\"305100863684377752\",\"title\":\"Menu\",\"url\":\"menu.html\",\"target\":\"\",\"nav_menu\":false,\"nonclickable\":false},{\"id\":\"526927222788282840\",\"title\":\"Theatre Rental\",\"url\":\"theatre-rental.html\",\"target\":\"\",\"nav_menu\":false,\"nonclickable\":false},{\"id\":\"528858630880615919\",\"title\":\"Advertise\",\"url\":\"advertise.html\",\"target\":\"\",\"nav_menu\":false,\"nonclickable\":false},{\"id\":\"916450496259036212\",\"title\":\"Contact\",\"url\":\"contact.html\",\"target\":\"\",\"nav_menu\":false,\"nonclickable\":false},{\"id\":\"445658763694601449\",\"title\":\"History\",\"url\":\"history.html\",\"target\":\"\",\"nav_menu\":false,\"nonclickable\":false}], \"824119276671210941\", '', 'active', false, {\"navigation\\/item\":\"<li {{#id}}id=\\\"{{id}}\\\"{{\\/id}} class=\\\"wsite-menu-item-wrap\\\">\\n\\t<a\\n\\t\\t{{^nonclickable}}\\n\\t\\t\\t{{^nav_menu}}\\n\\t\\t\\t\\thref=\\\"{{url}}\\\"\\n\\t\\t\\t{{\\/nav_menu}}\\n\\t\\t{{\\/nonclickable}}\\n\\t\\t{{#target}}\\n\\t\\t\\ttarget=\\\"{{target}}\\\"\\n\\t\\t{{\\/target}}\\n\\t\\t{{#membership_required}}\\n\\t\\t\\tdata-membership-required=\\\"{{.}}\\\"\\n\\t\\t{{\\/membership_required}}\\n\\t\\tclass=\\\"wsite-menu-item\\\"\\n\\t\\t>\\n\\t\\t{{{title_html}}}\\n\\t<\\/a>\\n\\t{",
   "head": "",
   "types_json": null,
   "title": "Brokaw Movie House - Angola, Indiana - Home"
- },
- "https://michigantheatre.mooretheatres.com/": {
-  "error": "HTTP Error 403: Forbidden"
  },
  "http://pawpawstrand.com/": {
   "status": 200,
@@ -548,36 +287,55 @@
    "https://api.w.org/",
    "https://fonts.googleapis.com/css"
   ],
-  "snip": "ptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener(\"DOMContentLoaded\",n,!1),e.addEventListener(\"load\",n,!1)):(e.attachEvent(\"onload\",n),a.attachEvent(\"onreadystatechange\",function(){\"complete\"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings); </script> <style type=\"text/css\"> img.wp-smiley, img.emoji { display: inline !important; border: none !important; box-shadow: none !important; height: 1em !important; width: 1em !important; margin: 0 .07em !important; vertical-align: -0.1em !important; background: none !important; padding: 0 !important; } </style> <script type='text/javascript' src='http://pawpawstrand.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script> <script type='text/javascript' src='http://pawpawstrand.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script> <script type='text/javascript' src='http://pawpawstrand.com/wp-content/themes/caffeinated/includes/js/superfish.js?ver=4.9.35'></script> <script type='text/javascript' src='http://pawpawstrand.com/wp-content/themes/caffeinated/includes/js/general.js?ver=4.9.35'></script> <script type='text/javascript' src='http://pawpawstrand.com/wp-content/themes/caffeinated/includes/js/jquery.prettyPhoto.js?ver=4.9.35'></script> <link rel='https://api.w.org/' href='http://pawpawstrand.com/wp-json/' /> <link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"http://pawpawstrand.com/xmlrpc.php?rsd\" /> <link rel=\"wlwmanifest\" type=\"application/wlwmanifest+xml\" href=\"http://pawpawstrand.com/wp-includes/wlwmanifest.xml\" /> <!-- Theme version --> <meta name=\"generator\" content=\"Caffeinated \" /> <meta name=\"generator\" content=\"WooFramework 5.3.12\" /> <!--[if IE 6]> <script type=\"text/javascript\" src=\"http://pawpawstrand.com/wp-content/themes/caffeinated/includes/js/pngfix.js\"></script> <script type=\"text/javascript\" src=\"http://pawpawstrand.com/wp-content/themes/caffeinated/includes/js/menu.js\"></script> <link rel=\"stylesheet\" type=\"text/css\" media=\"all\" href=\"http://pawpawstrand.com/wp-content/themes/caffeinated/css/ie6.css\" /> <![endif]--> <!--[if IE 7]> <link rel=\"stylesheet\" type=\"text/css\" media=\"all\" href=\"http://pawpawstrand.com/wp-content/themes/caffeinated/css/ie7.css\" /> <![endif]--> <!--[if IE 8]> <link rel=\"stylesheet\" type=\"text/css\" media=\"all\" href=\"http://pawpawstrand.com/wp-content/themes/caffeinated/css/ie8.css\" /> <![endif]--> <script type='text/javascript' src='http://pawpawstrand.com/wp-includes/js/tw-sack.min.js?ver=1.6.1'></script> <!-- Alt Stylesheet --> <link href=\"http://pawpawstrand.com/wp-content/themes/caffeinated/styles/grey.css\" rel=\"stylesheet\" type=\"text/css\" /> <!-- Woo Shortcodes CSS --> <link href=\"http://pawpawstrand.com/wp-content/themes/caffeinated/functions/css/shortcode",
+  "snip": "intage movie cinema since 1927 with updated digital technology, concessions &amp; discount tickets.</span> </div><!-- /#logo --> <div id=\"navigation\"> <ul id=\"main-nav\" class=\"nav fl\"><li id=\"menu-item-206\" class=\"menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-206\"><a href=\"http://pawpawstrand.com/\">Home</a></li> <li id=\"menu-item-204\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-204\"><a href=\"http://pawpawstrand.com/schedule/\">Schedule</a></li> <li id=\"menu-item-424\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-424\"><a href=\"http://pawpawstrand.com/concessions/\">Concessions</a></li> <li id=\"menu-item-205\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-205\"><a href=\"http://pawpawstrand.com/about/\">About Us</a></li> <li id=\"menu-item-203\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-203\"><a href=\"http://pawpawstrand.com/news/\">News</a></li> <li id=\"menu-item-223\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-223\"><a href=\"http://pawpawstrand.com/contact/\">Contact</a></li> </ul> </div><!-- /#navigation --> </div><!-- /.col-full --> </div><!-- /#header --> <div id=\"content\" class=\"col-full\"> <div id=\"home\" class=\"col-full\"> <div id=\"introduction\" class=\"col-left\"> <p><span></span> </p> <p><span>SHOWTIMES:</span><br /> Tuesday-Sunday 7pm. Sunday 3pm. Wed 2pm. Closed Mondays <p><span>TICKET PRICES:</span><br /> All 7:00pm shows $5 all seats.<br /> All Matinee's $4 all seats</p> <p><span>VISIT US:</span><br /> 115 E Michigan Ave., Paw Paw, MI 49079 - <a target=\"_blank\" href=\"https://www.google.com/maps/place/115+E+Michigan+Ave,+Paw+Paw,+MI+49079/@42.2179603,-85.8940299,17z/data=!3m1!4b1!4m5!3m4!1s0x88176a4b76b853ef:0xc2230229d985f29a!8m2!3d42.2179603!4d-85.8918412\">view map</a><br /> (269)657-2895</p> <p><a class=\"btn-feat\" href=\"schedule\">View Upcoming Schedule!</a></p> </div><!-- /#introduction --> <div id=\"home-port\" class=\"col-right\"> <!-- Post Starts --> <div class=\"post block fl\"> <h2 class=\"title\">Now Playing!</h2> <!-- div href=\"\" class=\"thumb\" --> <div class=\"thumb\"> <img class=\"portfolio-img\" src=\"http://pawpawstrand.com/wp-content/uploads/2026/10/Whalefall-movie-poster-302x450.jpg\" alt=\"\" /> </div> </div><!-- /.post --> </div><!-- /#home-port --> </div><!-- /#home --> <div class=\"clear\"></div> <div id=\"recent\" class=\"col-full\"> <h3 class=\"title-recent replace\">Latest News!</h3> <div class=\"block\" > <h4><a href=\"http://pawpawstrand.com/uncategorized/call-email-now-holiday-",
   "head": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head profile=\"http://gmpg.org/xfn/11\"> <script type=\"text/javascript\"> var gform;gform||(document.addEventListener(\"gform_main_scripts_loaded\",function(){gform.scriptsLoaded=!0}),window.addEventListener(\"DOMContentLoaded\",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener(\"DOMContentLoaded\",o):document.addEventListener(\"gform_main_scripts_loaded\",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook(\"action\",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook(\"filter\",o,n,r,t)},doAction:function(o){gform.doHook(\"action\",o,arguments)},applyFilters:function(o){return gform.doHook(\"filter\",o,arguments)},removeAction:function(o,n){gform.removeHook(\"action\",o,n)},removeFilter:function(o,n,r){gform.removeHook(\"filter\",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+\"_\"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){\"function\"!=typeof(t=o.callable)&&(t=window[t]),\"action\"==n?t.apply(null,r):r[0]=t.apply(null,r)})),\"filter\"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}}); </script>\n\n\n<meta name=\"copyright\" content=\"Crawl Space\" />\n\n<meta name=\"keywords\" content=\"\" />\n\n<link rel=\"stylesheet\" type=\"text/css\" href=\"http://pawpawstrand.com/wp-content/themes/caffeinated/style.css\" media=\"screen\" />\n<link rel=\"stylesheet\" type=\"text/css\" media=\"all\" href=\"http://pawpawstrand.com/wp-content/themes/caffeinated/css/prettyPhoto.css\" />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS 2.0\" href=\"http://pawpawstrand.com/feed/\" />\n<link rel=\"pingback\" href=\"http://pawpawstrand.com/xmlrpc.php\" />\n      \n\n<!-- This site is optimized with the Yoast SEO plugin v5.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Strand Theater - Paw Paw, Michigan</title>\n<meta name=\"description\" content=\"Vintage",
   "types_json": null,
   "title": "Strand Theater - Paw Paw, Michigan"
  },
- "https://www.cinemark.com/theatres/in-mishawaka/cinemark-south-bend-and-screenx": {
+ "https://capridrive-in.com/": {
   "status": 200,
-  "final": "https://www.cinemark.com/theatres/in-mishawaka/cinemark-south-bend-and-screenx",
-  "bytes": 316375,
-  "ld_types": {},
+  "final": "https://capridrive-in.com/",
+  "bytes": 66277,
+  "ld_types": {
+   "WebPage": 1,
+   "ReadAction": 1,
+   "BreadcrumbList": 1,
+   "ListItem": 1,
+   "WebSite": 1,
+   "SearchAction": 1,
+   "EntryPoint": 1,
+   "PropertyValueSpecification": 1,
+   "Organization": 1,
+   "ImageObject": 1
+  },
   "links": [
    [
-    "/private-events",
+    "https://capridrive-in.com/events/",
     2
    ],
    [
-    "/prepaidtickets",
+    "https://capridrive-in.com/events/trunk-or-treat-N/",
     1
    ]
   ],
   "ics": [],
-  "feeds": [],
+  "feeds": [
+   "https://capridrive-in.com/feed/",
+   "https://capridrive-in.com/comments/feed/",
+   "https://capridrive-in.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcapridrive-in.com%2F",
+   "https://capridrive-in.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcapridrive-in.com%2F&#038;format=xml",
+   "https://capridrive-in.com/wp-json/",
+   "https://capridrive-in.com/wp-json/wp/v2/pages/76"
+  ],
   "dates": [],
-  "apis": [],
-  "snip": " rel=\"preload\" href=\"https://checkoutshopper-live-us.adyen.com/checkoutshopper/sdk/6.14.0/adyen.css\" as=\"style\"/><link rel=\"preload\" href=\"https://js.recurly.com/v4/recurly.js\" as=\"script\"/><link rel=\"preload\" href=\"https://cdn.optimizely.com/js/24591270085.js\" as=\"script\"/><title>Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX</title><meta name=\"description\" content=\"Visit Our Cinemark Theater in Mishawaka, IN. Enjoy alcoholic drinks and fast food. Upgrade Your Movie with reclining Luxury Loungers! Buy Tickets Online Now!\"/><meta name=\"keywords\" content=\"cinemark,movies,theater,tickets,showtimes,cinema,blockbuster,film\"/><meta name=\"robots\" content=\"index, follow\"/><meta name=\"googlebot\" content=\"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1\"/><meta name=\"application-name\" content=\"Cinemark\"/><link rel=\"canonical\" href=\"https://www.cinemark.com/theatres/in-mishawaka/cinemark-south-bend-and-screenx\"/><meta property=\"og:title\" content=\"Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX\"/><meta property=\"og:description\" content=\"Visit Our Cinemark Theater in Mishawaka, IN. Enjoy alcoholic drinks and fast food. Upgrade Your Movie with reclining Luxury Loungers! Buy Tickets Online Now!\"/><meta property=\"og:url\" content=\"https://www.cinemark.com/theatres/in-mishawaka/cinemark-south-bend-and-screenx\"/><meta property=\"og:site_name\" content=\"Cinemark\"/><meta property=\"og:image\" content=\"https://www.cinemark.com/papi/og-image?url=https%3A%2F%2Fwww.cinemark.com%2Fimg%2Fposter_blank.jpg\"/><meta property=\"og:image:alt\" content=\"Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX\"/><meta property=\"og:type\" content=\"article\"/><meta name=\"twitter:card\" content=\"summary_large_image\"/><meta name=\"twitter:title\" content=\"Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX\"/><meta name=\"twitter:description\" content=\"Visit Our Cinemark Theater in Mishawaka, IN. Enjoy alcoholic drinks and fast food. Upgrade Your Movie with reclining Luxury Loungers! Buy Tickets Online Now!\"/><meta name=\"twitter:image\" content=\"https://www.cinemark.com/papi/og-image?url=https%3A%2F%2Fwww.cinemark.com%2Fimg%2Fposter_blank.jpg\"/><link rel=\"icon\" href=\"/favicon.ico?favicon.1z5utpcp7150s.ico\" sizes=\"64x64\" type=\"image/x-icon\"/><link rel=\"icon\" href=\"/img/favicon-32x32.webp\"/><link rel=\"icon\" href=\"/img/favicon-32x32.webp\" sizes=\"32x32\"/><link href=\"https://js.recurly.com/v4/recurly.css\" rel=\"stylesheet\"/><link href=\"https://checkoutshopper-live-us.adyen.com/checkoutshopper/sdk/6.14.0/adyen.css\" rel=\"stylesheet\"/><script src=\"/_next/static/chunks/0cz1d0mv5g_q7.js\" noModule=\"\" type=\"64cc4c0f497129f395e918f2-text/javascript\"></script></head><body class=\"work_sans_5d77afbd-module__6ssAba__className\"><script type=\"64cc4c0f497129f395e918f2-text/javascript\">(self.__next_s=self.__next_s||[]).push([0,{\"children\":\"window.utag_cfg_ovrd = { noview: true }; window.utag_data = { page_type: \\\"defa",
+  "apis": [
+   "https://api.w.org/",
+   "https://fonts.googleapis.com/css",
+   "https://fonts.googleapis.com/css2"
+  ],
+  "snip": "",
   "head": "",
   "types_json": null,
-  "title": "Movie Theater In Mishawaka, Indiana | Cinemark South Bend and SCREENX"
- },
- "https://www.amctheatres.com/movie-theatres/south-bend/amc-south-bend-16/showtimes": {
-  "error": "HTTP Error 403: Forbidden"
+  "title": "Capri Drive-In"
  }
 }
