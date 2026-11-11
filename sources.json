@@ -1,0 +1,14 @@
+{
+ "_about": "Each venue's own public events page or calendar feed. method: jsonld = the schema.org Event data the page carries for Google; ics = a calendar feed. Checked by fetch.py every night; a source that fails is listed in status.json for the Monday update.",
+ "sources": [
+  {"id": "nd-dpac", "name": "DeBartolo Performing Arts Center", "town": "Notre Dame", "kind": "concerts", "campus": "University of Notre Dame", "url": "https://performingarts.nd.edu/events/", "method": "jsonld"},
+  {"id": "nd-dpac-tickets", "name": "DeBartolo Performing Arts Center", "town": "Notre Dame", "kind": "concerts", "campus": "University of Notre Dame", "url": "https://dpactickets.nd.edu/events", "method": "jsonld"},
+  {"id": "nd-events-arts", "name": "University of Notre Dame", "town": "Notre Dame", "kind": "concerts", "campus": "University of Notre Dame", "url": "https://events.nd.edu/events/calendar/performing-arts/", "method": "jsonld"},
+  {"id": "morris", "name": "Morris Performing Arts Center", "town": "South Bend", "kind": "concerts", "url": "https://www.morriscenter.org/events", "method": "jsonld"},
+  {"id": "lerner", "name": "The Lerner Theatre", "town": "Elkhart", "kind": "concerts", "url": "https://www.thelerner.com/events", "method": "jsonld"},
+  {"id": "miller", "name": "Miller Auditorium", "town": "Kalamazoo", "kind": "concerts", "campus": "Western Michigan University", "url": "https://millerauditorium.com/events", "method": "jsonld"},
+  {"id": "kazoo-state", "name": "Kalamazoo State Theatre", "town": "Kalamazoo", "kind": "concerts", "url": "https://kazoostate.com/events/", "method": "jsonld"},
+  {"id": "four-winds", "name": "Four Winds", "town": "New Buffalo", "kind": "concerts", "url": "https://www.fourwindscasino.com/entertainment", "method": "jsonld"},
+  {"id": "howard", "name": "Howard Performing Arts Center", "town": "Berrien Springs", "kind": "concerts", "campus": "Andrews University", "url": "https://howard.andrews.edu/events", "method": "jsonld"}
+ ]
+}
