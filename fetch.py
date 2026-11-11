@@ -261,3 +261,13 @@ def main(SRC='sources.json', OUT='nights.json', KEY='nights', STAT='status.json'
 if __name__ == '__main__':
     main()
     main('sports_sources.json', 'games.json', 'games', 'sports_status.json')
+    # counts.json: how many shows and home games each day of the next two weeks, for the home page's two buttons (a few hundred bytes)
+    def per_day(path, key, home=False):
+        c = {}
+        for n in json.load(open(path))[key]:
+            if home and not n.get('home'): continue
+            d = n['start'][:10] if len(n['start']) == 10 else datetime.datetime.fromisoformat(n['start']).astimezone(TZ).date().isoformat()
+            if TODAY.isoformat() <= d <= (TODAY + datetime.timedelta(days=14)).isoformat(): c[d] = c.get(d, 0) + 1
+        return dict(sorted(c.items()))
+    json.dump({'updated': NOW.isoformat(timespec='minutes'), 'shows': per_day('nights.json', 'nights'), 'games': per_day('games.json', 'games', True)},
+              open('counts.json', 'w'), separators=(',', ':'))
