@@ -1,0 +1,21 @@
+name: Read the valley's cinemas
+on:
+  schedule:
+    - cron: '23 10 * * 1'   # Monday mornings
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: { group: nightly, cancel-in-progress: false }
+jobs:
+  read:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 cinemas.py
+      - name: Keep what changed
+        run: |
+          git config user.name "Project Scroll"; git config user.email "research@projectscroll.com"
+          git add cinemas.json zips.json
+          git diff --cached --quiet || git commit -m "Cinemas read $(date -u +%F)"
+          git pull --rebase -q && git push
