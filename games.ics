@@ -1,0 +1,2656 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Project Scroll//Valley Live//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Game Day: home games in the valley
+X-WR-TIMEZONE:America/Detroit
+X-WR-CALDESC:Home games of the valley's teams\, from each club's own sched
+ ule. Project Scroll.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VTIMEZONE
+TZID:America/Detroit
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e5885f0e9f@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261110T170000
+DURATION:PT3H
+SUMMARY:Bethel University (Ind) Vs University of Rio Grande (Ohio)
+LOCATION:Gates Gymnasium\, Mishawaka
+URL:https://bupilots.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Bethel Pilots. Times and tickets: https://bupilots.c
+ om/sports/womens-basketball/schedule\nMore nights out in the valley: http
+ s://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:b8c0a76fa7@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261110T190000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Purdue Fort Wayne
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/womens-basketball/schedule\nMore nights out in the
+  valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:ca9f1a0fb5@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261110T190000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Detroit Mercy
+LOCATION:South Bend\, IN\, Notre Dame
+URL:https://fightingirish.com/sports/wbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/wbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:71b84ca658@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261110T190000
+DURATION:PT3H
+SUMMARY:Bethel University (Ind) Vs Saint Mary-of-the-Woods College
+LOCATION:Gates Gymnasium\, Mishawaka
+URL:https://bupilots.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Bethel Pilots. Times and tickets: https://bupilots.c
+ om/sports/mens-basketball/schedule\nMore nights out in the valley: https:
+ //projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:030244615c@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261111T173000
+DURATION:PT3H
+SUMMARY:IU South Bend vs Goshen
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/womens-basketball/schedule\nMore nights out in the val
+ ley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:86e08b6c3e@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261111T190000
+DURATION:PT3H
+SUMMARY:Notre Dame vs South Carolina State
+LOCATION:Purcell Pavilion\, Notre Dame
+URL:https://fightingirish.com/sports/mbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:8a8e3b96d7@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261111T193000
+DURATION:PT3H
+SUMMARY:IU South Bend vs University of Saint Francis (Ind.)
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/mens-basketball/schedule\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:b16d827e1e@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261112T190000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Michigan State
+LOCATION:Notre Dame\, IN | Compton Family Ice Arena\, Notre Dame
+URL:https://fightingirish.com/sports/mhockey/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mhockey/schedule/\nMore nights out in the vall
+ ey: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:fd1eacdb42@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261112T190000
+DURATION:PT3H
+SUMMARY:Saint Mary's College Vs North Park
+LOCATION:Angela Athletic & Wellness Complex\, Notre Dame
+URL:https://belles.saintmarys.edu/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Saint Mary's Belles. Times and tickets: https://bell
+ es.saintmarys.edu/sports/womens-basketball/schedule\nMore nights out in t
+ he valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:3b119aacad@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261113T190000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs #12/13 Colorado College
+LOCATION:Lawson Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-ice-hockey/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-ice-hockey/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:8004f117cb@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261113T190000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Michigan State
+LOCATION:Notre Dame\, IN | Compton Family Ice Arena\, Notre Dame
+URL:https://fightingirish.com/sports/mhockey/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mhockey/schedule/\nMore nights out in the vall
+ ey: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:185d663edf@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261114T130000
+DURATION:PT3H
+SUMMARY:Bethel University (Ind) Vs Brescia University (Ky.)
+LOCATION:Gates Gymnasium\, Mishawaka
+URL:https://bupilots.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Bethel Pilots. Times and tickets: https://bupilots.c
+ om/sports/womens-basketball/schedule\nMore nights out in the valley: http
+ s://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:d5cb274cd4@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261114T130000
+DURATION:PT3H
+SUMMARY:IU South Bend vs IU Northwest
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/womens-basketball/schedule\nMore nights out in the val
+ ley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:c6d1a0c9a3@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261114T150000
+DURATION:PT3H
+SUMMARY:Goshen vs Cleary University
+LOCATION:Ruth Gunden Gymnasium\, Goshen
+URL:https://goleafs.net/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Goshen College Maple Leafs. Times and tickets: https
+ ://goleafs.net/sports/mens-basketball/schedule\nMore nights out in the va
+ lley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:1e78cbc5f6@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261114T153000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Boston College
+LOCATION:Notre Dame Stadium\, Notre Dame
+URL:https://fightingirish.com/sports/football/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/football/schedule/\nMore nights out in the val
+ ley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:65dc8f4bcc@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261114T180000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs #12/13 Colorado College
+LOCATION:Lawson Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-ice-hockey/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-ice-hockey/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:cdecec2951@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261117T190000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Eastern Michigan University
+LOCATION:Stafford-Smith Field at Waldo Stadium\, Kalamazoo
+URL:https://wmubroncos.com/sports/football/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/football/schedule\nMore nights out in the valley: 
+ https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:6c57fa534d@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261118T173000
+DURATION:PT3H
+SUMMARY:IU South Bend vs Judson
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/womens-basketball/schedule\nMore nights out in the val
+ ley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:2e369a04ed@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261118T190000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Southern
+LOCATION:South Bend\, IN\, Notre Dame
+URL:https://fightingirish.com/sports/wbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/wbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:24e159dd53@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261118T193000
+DURATION:PT3H
+SUMMARY:Goshen vs Indiana Wesleyan University
+LOCATION:Ruth Gunden Gymnasium\, Goshen
+URL:https://goleafs.net/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Goshen College Maple Leafs. Times and tickets: https
+ ://goleafs.net/sports/mens-basketball/schedule\nMore nights out in the va
+ lley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:723d5e40e1@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261118T193000
+DURATION:PT3H
+SUMMARY:IU South Bend vs Moody Bible
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/mens-basketball/schedule\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:d20b6bd98c@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261120T190000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Milwaukee
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/womens-basketball/schedule\nMore nights out in the
+  valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:681ad68ae5@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261121T130000
+DURATION:PT3H
+SUMMARY:Saint Mary's College Vs Webster
+LOCATION:Angela Athletic & Wellness Complex\, Notre Dame
+URL:https://belles.saintmarys.edu/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Saint Mary's Belles. Times and tickets: https://bell
+ es.saintmarys.edu/sports/womens-basketball/schedule\nMore nights out in t
+ he valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:98e69b67db@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261121T150000
+DURATION:PT3H
+SUMMARY:Bethel University (Ind) Vs Goshen College (Ind.)
+LOCATION:Gates Gymnasium\, Mishawaka
+URL:https://bupilots.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Bethel Pilots. Times and tickets: https://bupilots.c
+ om/sports/mens-basketball/schedule\nMore nights out in the valley: https:
+ //projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:3abb33b775@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261121T193000
+DURATION:PT3H
+SUMMARY:Notre Dame vs SMU
+LOCATION:Notre Dame Stadium\, Notre Dame
+URL:https://fightingirish.com/sports/football/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/football/schedule/\nMore nights out in the val
+ ley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:cb5ad14d79@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261124T000000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Miami University (OH)
+LOCATION:Stafford-Smith Field at Waldo Stadium\, Kalamazoo
+URL:https://wmubroncos.com/sports/football/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/football/schedule\nMore nights out in the valley: 
+ https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:95bdf1217c@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261124T170000
+DURATION:PT3H
+SUMMARY:Bethel University (Ind) Vs Indiana University at South Bend
+LOCATION:Gates Gymnasium\, Mishawaka
+URL:https://bupilots.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Bethel Pilots. Times and tickets: https://bupilots.c
+ om/sports/womens-basketball/schedule\nMore nights out in the valley: http
+ s://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:2da25ad895@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261124T183000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Bowling Green
+LOCATION:Notre Dame\, IN | Compton Family Ice Arena\, Notre Dame
+URL:https://fightingirish.com/sports/mhockey/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mhockey/schedule/\nMore nights out in the vall
+ ey: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:54c876287e@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261124T183000
+DURATION:PT3H
+SUMMARY:Saint Mary's College Vs Anderson
+LOCATION:Angela Athletic & Wellness Complex\, Notre Dame
+URL:https://belles.saintmarys.edu/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Saint Mary's Belles. Times and tickets: https://bell
+ es.saintmarys.edu/sports/womens-basketball/schedule\nMore nights out in t
+ he valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:fab5d41541@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261124T190000
+DURATION:PT3H
+SUMMARY:Bethel University (Ind) Vs Governors State University
+LOCATION:Gates Gymnasium\, Mishawaka
+URL:https://bupilots.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Bethel Pilots. Times and tickets: https://bupilots.c
+ om/sports/mens-basketball/schedule\nMore nights out in the valley: https:
+ //projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:53555b90b3@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261124T200000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Central Michigan
+LOCATION:Purcell Pavilion\, Notre Dame
+URL:https://fightingirish.com/sports/mbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:0eb009db0e@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261125T140000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Grace Christian
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-basketball/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:466a8f8e1e@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261127T150000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Boston College
+LOCATION:Notre Dame\, IN | Compton Family Ice Arena\, Notre Dame
+URL:https://fightingirish.com/sports/mhockey/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mhockey/schedule/\nMore nights out in the vall
+ ey: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:8f211b73b8@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261128T200000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Stonehill
+LOCATION:Purcell Pavilion\, Notre Dame
+URL:https://fightingirish.com/sports/mbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:d6f01b66ca@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261202T190000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Buffalo
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-basketball/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:fea78baf52@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261202T191500
+DURATION:PT3H
+SUMMARY:Notre Dame vs Vanderbilt
+LOCATION:South Bend\, IN (Purcell Pavilion)\, Notre Dame
+URL:https://fightingirish.com/sports/mbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:9a3ce292ed@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261202T193000
+DURATION:PT3H
+SUMMARY:Goshen vs Marian University (Ind.)
+LOCATION:Ruth Gunden Gymnasium\, Goshen
+URL:https://goleafs.net/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Goshen College Maple Leafs. Times and tickets: https
+ ://goleafs.net/sports/mens-basketball/schedule\nMore nights out in the va
+ lley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:04e343c00c@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261202T193000
+DURATION:PT3H
+SUMMARY:IU South Bend vs Holy Cross
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/mens-basketball/schedule\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:c8985bb619@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261204T190000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Miami University (OH)
+LOCATION:Lawson Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-ice-hockey/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-ice-hockey/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:b30b162407@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261204T190000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Minnesota
+LOCATION:Notre Dame\, IN | Compton Family Ice Arena\, Notre Dame
+URL:https://fightingirish.com/sports/mhockey/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mhockey/schedule/\nMore nights out in the vall
+ ey: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:240b38cc22@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261205T130000
+DURATION:PT3H
+SUMMARY:IU South Bend vs St. Francis (Ill.)
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/womens-basketball/schedule\nMore nights out in the val
+ ley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:481847e143@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261205T140000
+DURATION:PT3H
+SUMMARY:Notre Dame vs TCU
+LOCATION:Purcell Pavilion\, Notre Dame
+URL:https://fightingirish.com/sports/mbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:ae2190de1e@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261205T150000
+DURATION:PT3H
+SUMMARY:Goshen vs Taylor University
+LOCATION:Ruth Gunden Gymnasium\, Goshen
+URL:https://goleafs.net/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Goshen College Maple Leafs. Times and tickets: https
+ ://goleafs.net/sports/mens-basketball/schedule\nMore nights out in the va
+ lley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:80f6f46e73@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261205T150000
+DURATION:PT3H
+SUMMARY:Bethel University (Ind) Vs University of Saint Francis (Ind.)
+LOCATION:Gates Gymnasium\, Mishawaka
+URL:https://bupilots.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Bethel Pilots. Times and tickets: https://bupilots.c
+ om/sports/mens-basketball/schedule\nMore nights out in the valley: https:
+ //projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:004cb75c23@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261205T170000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Minnesota
+LOCATION:Notre Dame\, IN | Compton Family Ice Arena\, Notre Dame
+URL:https://fightingirish.com/sports/mhockey/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mhockey/schedule/\nMore nights out in the vall
+ ey: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:c741179275@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261205T180000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Miami University (OH)
+LOCATION:Lawson Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-ice-hockey/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-ice-hockey/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:dab9401a1a@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261206T120000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Florida State
+LOCATION:South Bend\, IN\, Notre Dame
+URL:https://fightingirish.com/sports/wbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/wbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:25a809d7a3@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261208T190000
+DURATION:PT3H
+SUMMARY:Notre Dame vs LIU
+LOCATION:Purcell Pavilion\, Notre Dame
+URL:https://fightingirish.com/sports/mbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:c09247a3a6@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261209T190000
+DURATION:PT3H
+SUMMARY:Notre Dame vs UConn
+LOCATION:South Bend\, IN\, Notre Dame
+URL:https://fightingirish.com/sports/wbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/wbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:fe5e4187f2@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261210T190000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Madonna University (Mich.)
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/womens-basketball/schedule\nMore nights out in the
+  valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:15fc150066@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261212T130000
+DURATION:PT3H
+SUMMARY:IU South Bend vs Olivet Nazarene
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/womens-basketball/schedule\nMore nights out in the val
+ ley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:001420c3ea@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261212T130000
+DURATION:PT3H
+SUMMARY:Saint Mary's College Vs Adrian
+LOCATION:Angela Athletic & Wellness Complex\, Notre Dame
+URL:https://belles.saintmarys.edu/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Saint Mary's Belles. Times and tickets: https://bell
+ es.saintmarys.edu/sports/womens-basketball/schedule\nMore nights out in t
+ he valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:9352d120cb@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261212T140000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Toledo
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-basketball/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:ba84788b39@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261212T143000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Ohio State
+LOCATION:Purcell Pavilion\, Notre Dame
+URL:https://fightingirish.com/sports/mbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:6b2a2f6660@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261212T150000
+DURATION:PT3H
+SUMMARY:IU South Bend vs IU Northwest
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/mens-basketball/schedule\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:d3fc0934bb@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261213T120000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Bowling Green
+LOCATION:South Bend\, IN\, Notre Dame
+URL:https://fightingirish.com/sports/wbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/wbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:8943ddf327@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261215T170000
+DURATION:PT3H
+SUMMARY:Bethel University (Ind) Vs Cornerstone University (Mich.)
+LOCATION:Gates Gymnasium\, Mishawaka
+URL:https://bupilots.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Bethel Pilots. Times and tickets: https://bupilots.c
+ om/sports/womens-basketball/schedule\nMore nights out in the valley: http
+ s://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:aaf3276dd2@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261218T190000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Great Lakes Christian
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-basketball/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:627425a931@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261219T130000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Oakland University
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/womens-basketball/schedule\nMore nights out in the
+  valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:45823bea06@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261219T150000
+DURATION:PT3H
+SUMMARY:IU South Bend vs Governors State
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/mens-basketball/schedule\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:d8bc08c157@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261221T140000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Le Moyne
+LOCATION:Purcell Pavilion\, Notre Dame
+URL:https://fightingirish.com/sports/mbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:8f54f8808e@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261229T190000
+DURATION:PT3H
+SUMMARY:IU South Bend vs IU East
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/mens-basketball/schedule\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:5e75d98a5e@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261230T140000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Stanford
+LOCATION:Purcell Pavilion\, Notre Dame
+URL:https://fightingirish.com/sports/mbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:bcfb0c0ac4@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261230T160000
+DURATION:PT3H
+SUMMARY:Bethel University (Ind) Vs Rochester Christian University
+LOCATION:Gates Gymnasium\, Mishawaka
+URL:https://bupilots.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Bethel Pilots. Times and tickets: https://bupilots.c
+ om/sports/mens-basketball/schedule\nMore nights out in the valley: https:
+ //projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:c6186b304b@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261230T190000
+DURATION:PT3H
+SUMMARY:IU South Bend vs IU Kokomo
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/mens-basketball/schedule\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:1e9af21bad@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20261231T170000
+DURATION:PT3H
+SUMMARY:Notre Dame vs California
+LOCATION:South Bend\, IN\, Notre Dame
+URL:https://fightingirish.com/sports/wbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/wbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:68b4c7f1b2@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270101T180000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Stonehill
+LOCATION:Notre Dame\, IN | Compton Family Ice Arena\, Notre Dame
+URL:https://fightingirish.com/sports/mhockey/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mhockey/schedule/\nMore nights out in the vall
+ ey: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:5feb3b0ba6@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270102T130000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Eastern Michigan University
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/womens-basketball/schedule\nMore nights out in the
+  valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:da3637a7b7@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270102T130000
+DURATION:PT3H
+SUMMARY:Saint Mary's College Vs Trine
+LOCATION:Angela Athletic & Wellness Complex\, Notre Dame
+URL:https://belles.saintmarys.edu/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Saint Mary's Belles. Times and tickets: https://bell
+ es.saintmarys.edu/sports/womens-basketball/schedule\nMore nights out in t
+ he valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:2b1f53055e@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270102T160000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Stonehill
+LOCATION:Notre Dame\, IN | Compton Family Ice Arena\, Notre Dame
+URL:https://fightingirish.com/sports/mhockey/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mhockey/schedule/\nMore nights out in the vall
+ ey: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:f3ff22baa6@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270105T190000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Eastern Michigan
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-basketball/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:0cf8ce540a@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270106T190000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Ohio University
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/womens-basketball/schedule\nMore nights out in the
+  valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:8cb45b5428@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270106T190000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Virginia Tech
+LOCATION:Purcell Pavilion\, Notre Dame
+URL:https://fightingirish.com/sports/mbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:3ed4979044@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270106T190000
+DURATION:PT3H
+SUMMARY:Bethel University (Ind) Vs Spring Arbor University (Mich.)
+LOCATION:Gates Gymnasium\, Mishawaka
+URL:https://bupilots.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Bethel Pilots. Times and tickets: https://bupilots.c
+ om/sports/mens-basketball/schedule\nMore nights out in the valley: https:
+ //projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:893a72c5ce@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270106T193000
+DURATION:PT3H
+SUMMARY:Goshen vs Huntington University (Ind.)
+LOCATION:Ruth Gunden Gymnasium\, Goshen
+URL:https://goleafs.net/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Goshen College Maple Leafs. Times and tickets: https
+ ://goleafs.net/sports/mens-basketball/schedule\nMore nights out in the va
+ lley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:a076ff4594@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270108T190000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs University of Denver
+LOCATION:Lawson Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-ice-hockey/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-ice-hockey/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:4be7a25d6d@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270109T130000
+DURATION:PT3H
+SUMMARY:Saint Mary's College Vs Albion
+LOCATION:Angela Athletic & Wellness Complex\, Notre Dame
+URL:https://belles.saintmarys.edu/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Saint Mary's Belles. Times and tickets: https://bell
+ es.saintmarys.edu/sports/womens-basketball/schedule\nMore nights out in t
+ he valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:e7373a6680@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270109T140000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Kent State
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-basketball/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:e74d33fc91@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270109T150000
+DURATION:PT3H
+SUMMARY:IU South Bend vs Viterbo
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/mens-basketball/schedule\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:924a881aa3@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270109T180000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs University of Denver
+LOCATION:Lawson Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-ice-hockey/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-ice-hockey/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:4d7bb5c531@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270110T120000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Duke
+LOCATION:South Bend\, IN\, Notre Dame
+URL:https://fightingirish.com/sports/wbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/wbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:f8af2024d3@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270113T173000
+DURATION:PT3H
+SUMMARY:IU South Bend vs Mount Mary
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/womens-basketball/schedule\nMore nights out in the val
+ ley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:dd58350985@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270113T190000
+DURATION:PT3H
+SUMMARY:Bethel University (Ind) Vs Grace College (Ind.)
+LOCATION:Gates Gymnasium\, Mishawaka
+URL:https://bupilots.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Bethel Pilots. Times and tickets: https://bupilots.c
+ om/sports/mens-basketball/schedule\nMore nights out in the valley: https:
+ //projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:e55052d269@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270113T193000
+DURATION:PT3H
+SUMMARY:Goshen vs Mount Vernon Nazarene University (Ohio)
+LOCATION:Ruth Gunden Gymnasium\, Goshen
+URL:https://goleafs.net/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Goshen College Maple Leafs. Times and tickets: https
+ ://goleafs.net/sports/mens-basketball/schedule\nMore nights out in the va
+ lley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:07b1c143c0@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270113T193000
+DURATION:PT3H
+SUMMARY:IU South Bend vs Saint Xavier
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/mens-basketball/schedule\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:0161788c52@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270114T190000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Georgia Tech
+LOCATION:South Bend\, IN\, Notre Dame
+URL:https://fightingirish.com/sports/wbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/wbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:259f9ff082@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270115T190000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs University of Nebraska at Omaha
+LOCATION:Lawson Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-ice-hockey/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-ice-hockey/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:9077347aac@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270115T190000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Michigan
+LOCATION:Notre Dame\, IN | Compton Family Ice Arena\, Notre Dame
+URL:https://fightingirish.com/sports/mhockey/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mhockey/schedule/\nMore nights out in the vall
+ ey: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:4c67ac7be4@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Notre Dame vs Michigan
+LOCATION:Notre Dame\, IN | Compton Family Ice Arena\, Notre Dame
+URL:https://fightingirish.com/sports/mhockey/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mhockey/schedule/\nMore nights out in the vall
+ ey: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:399c2f7b0e@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270116T120000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs University of Toledo
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/womens-basketball/schedule\nMore nights out in the
+  valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:002eccbe48@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270116T130000
+DURATION:PT3H
+SUMMARY:Saint Mary's College Vs Hope
+LOCATION:Angela Athletic & Wellness Complex\, Notre Dame
+URL:https://belles.saintmarys.edu/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Saint Mary's Belles. Times and tickets: https://bell
+ es.saintmarys.edu/sports/womens-basketball/schedule\nMore nights out in t
+ he valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:c3a08abda9@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270116T140000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Cal
+LOCATION:Purcell Pavilion\, Notre Dame
+URL:https://fightingirish.com/sports/mbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:031bcea5ee@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270116T143000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Ball State
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-basketball/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:a2f732206d@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270116T180000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs University of Nebraska at Omaha
+LOCATION:Lawson Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-ice-hockey/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-ice-hockey/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:72939ddf25@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270120T190000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Pitt
+LOCATION:Purcell Pavilion\, Notre Dame
+URL:https://fightingirish.com/sports/mbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:cfdfc28259@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270123T130000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Ball State University
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/womens-basketball/schedule\nMore nights out in the
+  valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:30d23586cf@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270123T150000
+DURATION:PT3H
+SUMMARY:Bethel University (Ind) Vs Marian University (Ind.)
+LOCATION:Gates Gymnasium\, Mishawaka
+URL:https://bupilots.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Bethel Pilots. Times and tickets: https://bupilots.c
+ om/sports/mens-basketball/schedule\nMore nights out in the valley: https:
+ //projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:b667d7af03@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270126T190000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Bowling Green
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-basketball/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:5e51ddecc4@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270127T173000
+DURATION:PT3H
+SUMMARY:IU South Bend vs Saint Xavier
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/womens-basketball/schedule\nMore nights out in the val
+ ley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:73c44514b5@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270127T193000
+DURATION:PT3H
+SUMMARY:Goshen vs Bethel University (Ind.)
+LOCATION:Ruth Gunden Gymnasium\, Goshen
+URL:https://goleafs.net/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Goshen College Maple Leafs. Times and tickets: https
+ ://goleafs.net/sports/mens-basketball/schedule\nMore nights out in the va
+ lley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:49f68c9c32@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270127T193000
+DURATION:PT3H
+SUMMARY:IU South Bend vs Calumet College of St. Joseph
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/mens-basketball/schedule\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:4addec502f@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270129T190000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Penn State
+LOCATION:Notre Dame\, IN | Compton Family Ice Arena\, Notre Dame
+URL:https://fightingirish.com/sports/mhockey/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mhockey/schedule/\nMore nights out in the vall
+ ey: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:bf424622b5@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Notre Dame vs Penn State
+LOCATION:Notre Dame\, IN | Compton Family Ice Arena\, Notre Dame
+URL:https://fightingirish.com/sports/mhockey/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mhockey/schedule/\nMore nights out in the vall
+ ey: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:9d07caf97a@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270130T000000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs University of Michigan
+LOCATION:Stafford-Smith Field at Waldo Stadium\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-ice-hockey/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-ice-hockey/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:f415281c1a@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270130T123000
+DURATION:PT3H
+SUMMARY:Notre Dame vs SMU
+LOCATION:Purcell Pavilion\, Notre Dame
+URL:https://fightingirish.com/sports/mbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:9543749ff1@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270130T130000
+DURATION:PT3H
+SUMMARY:Saint Mary's College Vs Calvin
+LOCATION:Angela Athletic & Wellness Complex\, Notre Dame
+URL:https://belles.saintmarys.edu/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Saint Mary's Belles. Times and tickets: https://bell
+ es.saintmarys.edu/sports/womens-basketball/schedule\nMore nights out in t
+ he valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:c8db555df5@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270130T150000
+DURATION:PT3H
+SUMMARY:Bethel University (Ind) Vs Taylor University
+LOCATION:Gates Gymnasium\, Mishawaka
+URL:https://bupilots.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Bethel Pilots. Times and tickets: https://bupilots.c
+ om/sports/mens-basketball/schedule\nMore nights out in the valley: https:
+ //projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:3f51c16575@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270131T130000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Stanford
+LOCATION:South Bend\, IN\, Notre Dame
+URL:https://fightingirish.com/sports/wbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/wbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:14226904f6@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270202T190000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Akron
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-basketball/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:5461d82f4e@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270202T190000
+DURATION:PT3H
+SUMMARY:Notre Dame vs North Carolina
+LOCATION:Purcell Pavilion\, Notre Dame
+URL:https://fightingirish.com/sports/mbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:279c7c9d54@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270203T190000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs University of Akron
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/womens-basketball/schedule\nMore nights out in the
+  valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:08adc42d0e@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270203T190000
+DURATION:PT3H
+SUMMARY:Saint Mary's College Vs Kalamazoo
+LOCATION:Angela Athletic & Wellness Complex\, Notre Dame
+URL:https://belles.saintmarys.edu/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Saint Mary's Belles. Times and tickets: https://bell
+ es.saintmarys.edu/sports/womens-basketball/schedule\nMore nights out in t
+ he valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:53c69a94b3@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270204T200000
+DURATION:PT3H
+SUMMARY:Notre Dame vs SMU
+LOCATION:South Bend\, IN\, Notre Dame
+URL:https://fightingirish.com/sports/wbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/wbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:b4e5145bca@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270205T190000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs St. Cloud State University
+LOCATION:Lawson Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-ice-hockey/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-ice-hockey/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:7fb12768e7@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270205T190000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Ohio State
+LOCATION:Notre Dame\, IN | Compton Family Ice Arena\, Notre Dame
+URL:https://fightingirish.com/sports/mhockey/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mhockey/schedule/\nMore nights out in the vall
+ ey: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:bf2839dbc6@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270206T140000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs TBD
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-basketball/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:24d91d364a@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270206T150000
+DURATION:PT3H
+SUMMARY:Goshen vs University of Saint Francis (Ind.)
+LOCATION:Ruth Gunden Gymnasium\, Goshen
+URL:https://goleafs.net/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Goshen College Maple Leafs. Times and tickets: https
+ ://goleafs.net/sports/mens-basketball/schedule\nMore nights out in the va
+ lley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:464ac106df@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270206T150000
+DURATION:PT3H
+SUMMARY:Bethel University (Ind) Vs Huntington University (Ind.)
+LOCATION:Gates Gymnasium\, Mishawaka
+URL:https://bupilots.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Bethel Pilots. Times and tickets: https://bupilots.c
+ om/sports/mens-basketball/schedule\nMore nights out in the valley: https:
+ //projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:f97b9bf1dd@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270206T150000
+DURATION:PT3H
+SUMMARY:IU South Bend vs Judson
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/mens-basketball/schedule\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:2c07ce93d1@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270206T170000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Ohio State
+LOCATION:Notre Dame\, IN | Compton Family Ice Arena\, Notre Dame
+URL:https://fightingirish.com/sports/mhockey/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mhockey/schedule/\nMore nights out in the vall
+ ey: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:1e8b152a1f@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270206T180000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs St. Cloud State University
+LOCATION:Lawson Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-ice-hockey/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-ice-hockey/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:f10f999a13@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270209T190000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Ohio
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-basketball/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:3e054c166c@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270210T173000
+DURATION:PT3H
+SUMMARY:IU South Bend vs Governors State
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/womens-basketball/schedule\nMore nights out in the val
+ ley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:6e2e0d19ab@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270211T180000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Virginia
+LOCATION:South Bend\, IN\, Notre Dame
+URL:https://fightingirish.com/sports/wbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/wbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:bbe9d71290@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270213T130000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs University of Massachusetts
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/womens-basketball/schedule\nMore nights out in the
+  valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:7bb12b0967@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270213T130000
+DURATION:PT3H
+SUMMARY:Saint Mary's College Vs Alma
+LOCATION:Angela Athletic & Wellness Complex\, Notre Dame
+URL:https://belles.saintmarys.edu/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Saint Mary's Belles. Times and tickets: https://bell
+ es.saintmarys.edu/sports/womens-basketball/schedule\nMore nights out in t
+ he valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:46779ff75b@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270213T150000
+DURATION:PT3H
+SUMMARY:Goshen vs Spring Arbor University (Mich.)
+LOCATION:Ruth Gunden Gymnasium\, Goshen
+URL:https://goleafs.net/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Goshen College Maple Leafs. Times and tickets: https
+ ://goleafs.net/sports/mens-basketball/schedule\nMore nights out in the va
+ lley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:5f933d0a6d@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270213T150000
+DURATION:PT3H
+SUMMARY:Bethel University (Ind) Vs Mount Vernon Nazarene University (Ohio)
+LOCATION:Gates Gymnasium\, Mishawaka
+URL:https://bupilots.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Bethel Pilots. Times and tickets: https://bupilots.c
+ om/sports/mens-basketball/schedule\nMore nights out in the valley: https:
+ //projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:37b24a97d6@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270213T150000
+DURATION:PT3H
+SUMMARY:IU South Bend vs Olivet Nazarene
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/mens-basketball/schedule\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:5a8c7ad9b8@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270214T140000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Wake Forest
+LOCATION:South Bend\, IN\, Notre Dame
+URL:https://fightingirish.com/sports/wbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/wbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:0c7f890180@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270217T173000
+DURATION:PT3H
+SUMMARY:IU South Bend vs Calumet College of St. Joseph
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/womens-basketball/schedule\nMore nights out in the val
+ ley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:671bb7d210@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270217T193000
+DURATION:PT3H
+SUMMARY:IU South Bend vs St. Francis (Ill.)
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/mens-basketball/schedule\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:ae60e88e05@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270217T210000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Wake Forest
+LOCATION:Purcell Pavilion\, Notre Dame
+URL:https://fightingirish.com/sports/mbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:9d1f4d31d2@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270219T190000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs University of Minnesota Duluth
+LOCATION:Lawson Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-ice-hockey/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-ice-hockey/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:0a278bbdd1@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270220T120000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Central Michigan University
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/womens-basketball/schedule\nMore nights out in the
+  valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:e554f58baa@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270220T130000
+DURATION:PT3H
+SUMMARY:IU South Bend vs Viterbo
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/womens-basketball/schedule\nMore nights out in the val
+ ley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:755ac1c630@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270220T130000
+DURATION:PT3H
+SUMMARY:Saint Mary's College Vs Olivet
+LOCATION:Angela Athletic & Wellness Complex\, Notre Dame
+URL:https://belles.saintmarys.edu/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Saint Mary's Belles. Times and tickets: https://bell
+ es.saintmarys.edu/sports/womens-basketball/schedule\nMore nights out in t
+ he valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:be3e5949a4@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270220T143000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs UMass
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-basketball/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:aa74021e24@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270220T150000
+DURATION:PT3H
+SUMMARY:Goshen vs Grace College (Ind.)
+LOCATION:Ruth Gunden Gymnasium\, Goshen
+URL:https://goleafs.net/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Goshen College Maple Leafs. Times and tickets: https
+ ://goleafs.net/sports/mens-basketball/schedule\nMore nights out in the va
+ lley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:f617fb1544@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270220T150000
+DURATION:PT3H
+SUMMARY:Bethel University (Ind) Vs Indiana Wesleyan University
+LOCATION:Gates Gymnasium\, Mishawaka
+URL:https://bupilots.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Bethel Pilots. Times and tickets: https://bupilots.c
+ om/sports/mens-basketball/schedule\nMore nights out in the valley: https:
+ //projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:6dda328c15@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270220T180000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs University of Minnesota Duluth
+LOCATION:Lawson Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-ice-hockey/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-ice-hockey/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:bf01259e2f@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270223T000000
+DURATION:PT3H
+SUMMARY:IU South Bend vs CCAC Tournament Quarterfinals
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/mens-basketball/schedule\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:fd187a071e@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270224T190000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Kent State University
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/womens-basketball/schedule\nMore nights out in the
+  valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:702254864e@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270225T000000
+DURATION:PT3H
+SUMMARY:IU South Bend vs CCAC Tournament Semifinals
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/mens-basketball/schedule\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:3919010396@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270227T000000
+DURATION:PT3H
+SUMMARY:IU South Bend vs CCAC Tournament Championship
+LOCATION:Student Activities Center\, South Bend
+URL:https://iusbtitans.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by IU South Bend Titans. Times and tickets: https://ius
+ btitans.com/sports/mens-basketball/schedule\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:e589a32827@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270227T170000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Central Michigan
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-basketball/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:7c60bf7e4e@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270227T200000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Syracuse
+LOCATION:Purcell Pavilion\, Notre Dame
+URL:https://fightingirish.com/sports/mbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:034dc81abd@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270228T120000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Louisville
+LOCATION:South Bend\, IN\, Notre Dame
+URL:https://fightingirish.com/sports/wbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/wbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:5d3fd4fd03@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270302T190000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Miami
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/mens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/mens-basketball/schedule\nMore nights out in the v
+ alley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:dcc5f6f50d@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270303T190000
+DURATION:PT3H
+SUMMARY:Western Michigan University Vs Miami University (OH)
+LOCATION:University Arena\, Kalamazoo
+URL:https://wmubroncos.com/sports/womens-basketball/schedule
+DESCRIPTION:Listed by Western Michigan Broncos. Times and tickets: https:/
+ /wmubroncos.com/sports/womens-basketball/schedule\nMore nights out in the
+  valley: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:2b58469208@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270304T190000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Wisconsin
+LOCATION:Notre Dame\, IN | Compton Family Ice Arena\, Notre Dame
+URL:https://fightingirish.com/sports/mhockey/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mhockey/schedule/\nMore nights out in the vall
+ ey: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:9b7a2547f8@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270305T190000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Wisconsin
+LOCATION:Notre Dame\, IN | Compton Family Ice Arena\, Notre Dame
+URL:https://fightingirish.com/sports/mhockey/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mhockey/schedule/\nMore nights out in the vall
+ ey: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:771650ad32@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270306T140000
+DURATION:PT3H
+SUMMARY:Notre Dame vs Boston College
+LOCATION:Purcell Pavilion\, Notre Dame
+URL:https://fightingirish.com/sports/mbball/schedule/
+DESCRIPTION:Listed by Notre Dame Fighting Irish. Times and tickets: https:
+ //fightingirish.com/sports/mbball/schedule/\nMore nights out in the valle
+ y: https://projectscroll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:2a4887259a@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270406T190500
+DURATION:PT3H
+SUMMARY:Peoria Chiefs at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:68c199d8ee@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270407T190500
+DURATION:PT3H
+SUMMARY:Peoria Chiefs at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:00fbe1926b@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270408T190500
+DURATION:PT3H
+SUMMARY:Peoria Chiefs at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:88e5aa495c@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270409T190500
+DURATION:PT3H
+SUMMARY:Peoria Chiefs at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:21797e57a8@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270410T160500
+DURATION:PT3H
+SUMMARY:Peoria Chiefs at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:6e4052bc25@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270411T140500
+DURATION:PT3H
+SUMMARY:Peoria Chiefs at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:f64725562a@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270420T180500
+DURATION:PT3H
+SUMMARY:Quad Cities River Bandits at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:16bcbd6955@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270421T110500
+DURATION:PT3H
+SUMMARY:Quad Cities River Bandits at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:2d304ba6d2@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270422T190500
+DURATION:PT3H
+SUMMARY:Quad Cities River Bandits at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:13ab5287f8@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270423T190500
+DURATION:PT3H
+SUMMARY:Quad Cities River Bandits at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:89133e18d4@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270424T160500
+DURATION:PT3H
+SUMMARY:Quad Cities River Bandits at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:4cf1ccc6fa@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270425T140500
+DURATION:PT3H
+SUMMARY:Quad Cities River Bandits at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:8667b7f796@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270511T180500
+DURATION:PT3H
+SUMMARY:Wisconsin Timber Rattlers at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:b903089fd1@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270512T110500
+DURATION:PT3H
+SUMMARY:Wisconsin Timber Rattlers at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:e22b339927@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270513T190500
+DURATION:PT3H
+SUMMARY:Wisconsin Timber Rattlers at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:00d4c5e282@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270514T190500
+DURATION:PT3H
+SUMMARY:Wisconsin Timber Rattlers at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:e6472c07a2@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270515T160500
+DURATION:PT3H
+SUMMARY:Wisconsin Timber Rattlers at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:c9d79846f4@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270516T140500
+DURATION:PT3H
+SUMMARY:Wisconsin Timber Rattlers at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:ffd464918e@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270525T180500
+DURATION:PT3H
+SUMMARY:Lansing Lugnuts at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:1f2e386cb5@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270526T110500
+DURATION:PT3H
+SUMMARY:Lansing Lugnuts at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:fe31881334@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270527T190500
+DURATION:PT3H
+SUMMARY:Lansing Lugnuts at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:f6bd65bc3f@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270528T190500
+DURATION:PT3H
+SUMMARY:Lansing Lugnuts at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:92fb0f2d5e@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270529T160500
+DURATION:PT3H
+SUMMARY:Lansing Lugnuts at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:336d56186a@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270530T190500
+DURATION:PT3H
+SUMMARY:Lansing Lugnuts at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc79979b6@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270608T190500
+DURATION:PT3H
+SUMMARY:Cedar Rapids Kernels at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:8b1714d7e0@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270609T190500
+DURATION:PT3H
+SUMMARY:Cedar Rapids Kernels at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:d907735532@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270610T190500
+DURATION:PT3H
+SUMMARY:Cedar Rapids Kernels at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:8bf917a59e@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270611T190500
+DURATION:PT3H
+SUMMARY:Cedar Rapids Kernels at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:f189649b94@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270612T190500
+DURATION:PT3H
+SUMMARY:Cedar Rapids Kernels at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:11fad92c42@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270613T140500
+DURATION:PT3H
+SUMMARY:Cedar Rapids Kernels at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:2060cbd6e2@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270622T190500
+DURATION:PT3H
+SUMMARY:Lake County Captains at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:49b07f2884@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270623T190500
+DURATION:PT3H
+SUMMARY:Lake County Captains at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:e89fc98ba6@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270624T190500
+DURATION:PT3H
+SUMMARY:Lake County Captains at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:9323cd5cd1@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270625T190500
+DURATION:PT3H
+SUMMARY:Lake County Captains at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:d925b84117@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270626T190500
+DURATION:PT3H
+SUMMARY:Lake County Captains at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:a70624dc06@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270627T140500
+DURATION:PT3H
+SUMMARY:Lake County Captains at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:e259ffc1f3@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270629T190500
+DURATION:PT3H
+SUMMARY:Fort Wayne TinCaps at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:58d31dab99@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270630T190500
+DURATION:PT3H
+SUMMARY:Fort Wayne TinCaps at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:5e7bbf40c6@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270701T190500
+DURATION:PT3H
+SUMMARY:Fort Wayne TinCaps at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:29d86d7d6a@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270702T190500
+DURATION:PT3H
+SUMMARY:Fort Wayne TinCaps at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:8b46e24ec6@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270703T190500
+DURATION:PT3H
+SUMMARY:Fort Wayne TinCaps at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:27abbe1174@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270704T190500
+DURATION:PT3H
+SUMMARY:Fort Wayne TinCaps at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:1e8c8b49e2@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270720T190500
+DURATION:PT3H
+SUMMARY:Beloit Sky Carp at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:cab45d087e@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270721T120700
+DURATION:PT3H
+SUMMARY:Beloit Sky Carp at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:92e56987c1@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270722T190500
+DURATION:PT3H
+SUMMARY:Beloit Sky Carp at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:e5be6f59b0@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270723T190500
+DURATION:PT3H
+SUMMARY:Beloit Sky Carp at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:5cbae2b65e@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270724T190500
+DURATION:PT3H
+SUMMARY:Beloit Sky Carp at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:ba40837aef@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270725T140500
+DURATION:PT3H
+SUMMARY:Beloit Sky Carp at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:c4ee996c4c@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270803T190500
+DURATION:PT3H
+SUMMARY:Dayton Dragons at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:db63b7fa9e@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270804T190500
+DURATION:PT3H
+SUMMARY:Dayton Dragons at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:7b3d538876@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270805T190500
+DURATION:PT3H
+SUMMARY:Dayton Dragons at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:720d051e3e@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270806T190500
+DURATION:PT3H
+SUMMARY:Dayton Dragons at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a4940672@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270807T190500
+DURATION:PT3H
+SUMMARY:Dayton Dragons at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:68c866b558@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270808T140500
+DURATION:PT3H
+SUMMARY:Dayton Dragons at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:1f2a104d50@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270817T190500
+DURATION:PT3H
+SUMMARY:Cedar Rapids Kernels at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:4a9a500650@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270818T190500
+DURATION:PT3H
+SUMMARY:Cedar Rapids Kernels at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:6e2a6bf5f9@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270819T190500
+DURATION:PT3H
+SUMMARY:Cedar Rapids Kernels at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:b95c015a76@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270820T190500
+DURATION:PT3H
+SUMMARY:Cedar Rapids Kernels at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:d5f32ec502@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270821T190500
+DURATION:PT3H
+SUMMARY:Cedar Rapids Kernels at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:31fb83b122@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270822T140500
+DURATION:PT3H
+SUMMARY:Cedar Rapids Kernels at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:c84a0962c7@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270824T190500
+DURATION:PT3H
+SUMMARY:Wisconsin Timber Rattlers at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:4388607cf6@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270825T190500
+DURATION:PT3H
+SUMMARY:Wisconsin Timber Rattlers at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:22586dad7c@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270826T190500
+DURATION:PT3H
+SUMMARY:Wisconsin Timber Rattlers at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:3b4259f7a8@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270827T190500
+DURATION:PT3H
+SUMMARY:Wisconsin Timber Rattlers at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:0df13db90f@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270828T190500
+DURATION:PT3H
+SUMMARY:Wisconsin Timber Rattlers at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:61f33034ad@valley-live.projectscroll.com
+DTSTAMP:20261111T223122Z
+DTSTART;TZID=America/Detroit:20270829T140500
+DURATION:PT3H
+SUMMARY:Wisconsin Timber Rattlers at South Bend Cubs
+LOCATION:Four Winds Field\, South Bend
+URL:https://www.milb.com/south-bend/schedule
+DESCRIPTION:Listed by South Bend Cubs. Times and tickets: https://www.milb
+ .com/south-bend/schedule\nMore nights out in the valley: https://projects
+ croll.com/sports/?p=feed
+END:VEVENT
+END:VCALENDAR
