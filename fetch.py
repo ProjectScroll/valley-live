@@ -1,7 +1,7 @@
 """Reads every source in sources.json and writes nights.json (the shows ahead) and status.json (what each source gave).
 Run nightly by .github/workflows/nightly.yml. Only what a venue publishes itself is kept: name, date, venue, link.
 Standard library only."""
-import json, re, datetime, urllib.request, html, hashlib
+import json, re, time, datetime, urllib.request, html, hashlib
 from zoneinfo import ZoneInfo
 TZ = ZoneInfo('America/Detroit'); NOW = datetime.datetime.now(TZ); TODAY = NOW.date()
 UA = 'Mozilla/5.0 (compatible; ProjectScrollValleyLive/1.0; +https://projectscroll.com/)'
@@ -66,6 +66,17 @@ def main():
         try:
             page = get(s['url'])
             got = (from_ics if s['method'] == 'ics' else from_jsonld)(s, page)
+            if not got and s.get('follow'):
+                # the list page names the shows; each show's own page carries its date (at most 40 pages, a second apart)
+                base = re.match(r'https?://[^/]+', s['url']).group(0)
+                links = []
+                for h in re.findall(r'href=["\']([^"\'#]+)', page):
+                    u = h if h.startswith('http') else base + ('' if h.startswith('/') else '/') + h
+                    if re.search(s['follow'], u) and u not in links: links.append(u)
+                for u in links[:40]:
+                    try: got += from_jsonld(dict(s, url=u), get(u))
+                    except Exception: pass
+                    time.sleep(1)
             kept = 0
             for g in got:
                 d = datetime.datetime.fromisoformat(g['start'])
