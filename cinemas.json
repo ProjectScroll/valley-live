@@ -1,0 +1,486 @@
+{
+"updated": "2026-11-11T23:53Z",
+"source": "OpenStreetMap contributors (ODbL), amenity=cinema",
+"cinemas": [
+{
+"id": "w266916517",
+"name": "M-89 Cinema",
+"ll": [
+42.44785,
+-85.66803
+],
+"county": "Allegan",
+"town": "",
+"address": "",
+"zip": "",
+"url": "https://m89cinema.mooretheatres.com/",
+"drive_in": false,
+"brand": "",
+"screens": ""
+},
+{
+"id": "w761576669",
+"name": "Old Regent Theatre",
+"ll": [
+42.52844,
+-85.84989
+],
+"county": "Allegan",
+"town": "Allegan",
+"address": "211 Trowbridge Street",
+"zip": "49010",
+"url": "",
+"drive_in": false,
+"brand": "",
+"screens": "1"
+},
+{
+"id": "w220290865",
+"name": "Celebration! Cinema Benton Harbor",
+"ll": [
+42.07644,
+-86.42264
+],
+"county": "Berrien",
+"town": "Benton Harbor",
+"address": "1468 Cinema Way",
+"zip": "49022",
+"url": "https://celebrationcinema.com/cinemas/Celebration-Cinema-Benton",
+"drive_in": false,
+"brand": "",
+"screens": "14"
+},
+{
+"id": "w499102846",
+"name": "Loma Theater",
+"ll": [
+42.18815,
+-86.30592
+],
+"county": "Berrien",
+"town": "Coloma",
+"address": "221 North Paw Paw Street",
+"zip": "49038",
+"url": "https://lomatheatre.mooretheatres.com/",
+"drive_in": false,
+"brand": "",
+"screens": "3"
+},
+{
+"id": "w761560113",
+"name": "Vickers Theatre",
+"ll": [
+41.80122,
+-86.6101
+],
+"county": "Berrien",
+"town": "Three Oaks",
+"address": "6 North Elm Street",
+"zip": "49128",
+"url": "",
+"drive_in": false,
+"brand": "",
+"screens": "1"
+},
+{
+"id": "w738229177",
+"name": "Wonderland Cinema",
+"ll": [
+41.83206,
+-86.25912
+],
+"county": "Berrien",
+"town": "Niles",
+"address": "402 Front Street",
+"zip": "49120",
+"url": "",
+"drive_in": false,
+"brand": "",
+"screens": "6"
+},
+{
+"id": "w744434150",
+"name": "Capri Drive-In Theater",
+"ll": [
+41.93413,
+-85.06051
+],
+"county": "Branch",
+"town": "Coldwater",
+"address": "119 West Chicago Road",
+"zip": "49036",
+"url": "https://capridrive-in.com/",
+"drive_in": true,
+"brand": "",
+"screens": "2"
+},
+{
+"id": "w740421715",
+"name": "Coldwater Cinemas",
+"ll": [
+41.94372,
+-84.97191
+],
+"county": "Branch",
+"town": "Coldwater",
+"address": "414 North Willowbrook Road",
+"zip": "49036",
+"url": "https://ncgmovies.com/coldwater/",
+"drive_in": false,
+"brand": "",
+"screens": ""
+},
+{
+"id": "n4434589311",
+"name": "Bogar Movie Theater",
+"ll": [
+42.27222,
+-84.95692
+],
+"county": "Calhoun",
+"town": "",
+"address": "",
+"zip": "",
+"url": "",
+"drive_in": false,
+"brand": "",
+"screens": ""
+},
+{
+"id": "w171581280",
+"name": "Bohm Theater",
+"ll": [
+42.24454,
+-84.75267
+],
+"county": "Calhoun",
+"town": "",
+"address": "201 S Superior St",
+"zip": "49224",
+"url": "https://www.bohmtheatre.org/",
+"drive_in": false,
+"brand": "",
+"screens": ""
+},
+{
+"id": "n6893533157",
+"name": "GQT Lakeview 10",
+"ll": [
+42.26286,
+-85.18593
+],
+"county": "Calhoun",
+"town": "Battle Creek",
+"address": "5775 Beckley Road",
+"zip": "49015",
+"url": "https://www.gqtmovies.com/gqt-lakeview-10",
+"drive_in": false,
+"brand": "Goodrich Quality Theaters",
+"screens": "10"
+},
+{
+"id": "w737425398",
+"name": "JC Cinema",
+"ll": [
+42.29519,
+-85.23922
+],
+"county": "Calhoun",
+"town": "Battle Creek",
+"address": "15375 South Helmer Road",
+"zip": "49015",
+"url": "https://jccinema.mooretheatres.com/",
+"drive_in": false,
+"brand": "Moore Theatres",
+"screens": "7"
+},
+{
+"id": "w755065207",
+"name": "West Columbia 7",
+"ll": [
+42.29832,
+-85.24773
+],
+"county": "Calhoun",
+"town": "",
+"address": "",
+"zip": "",
+"url": "https://www.gqtmovies.com/michigan/w-columbia-7",
+"drive_in": false,
+"brand": "",
+"screens": "7"
+},
+{
+"id": "w343337341",
+"name": "Linway Cinema",
+"ll": [
+41.58502,
+-85.84357
+],
+"county": "Elkhart",
+"town": "Goshen",
+"address": "514 West Lincoln Avenue",
+"zip": "46526",
+"url": "https://www.spotlighttheatres.com/spotlight-linway",
+"drive_in": false,
+"brand": "",
+"screens": "14"
+},
+{
+"id": "w375247909",
+"name": "Nappanee Theater",
+"ll": [
+41.44326,
+-86.00168
+],
+"county": "Elkhart",
+"town": "Nappanee",
+"address": "154 North Main Street",
+"zip": "46550",
+"url": "",
+"drive_in": false,
+"brand": "",
+"screens": ""
+},
+{
+"id": "w252184246",
+"name": "Celebration! Cinema Crossroads & IMAX",
+"ll": [
+42.221,
+-85.59814
+],
+"county": "Kalamazoo",
+"town": "Portage",
+"address": "6600 Ring Road",
+"zip": "49024",
+"url": "https://www.celebrationcinema.com/",
+"drive_in": false,
+"brand": "",
+"screens": ""
+},
+{
+"id": "w259265561",
+"name": "Goodrich Kalamazoo 10",
+"ll": [
+42.29863,
+-85.65688
+],
+"county": "Kalamazoo",
+"town": "Kalamazoo",
+"address": "820 Maple Hill Drive",
+"zip": "49009",
+"url": "https://www.gqtmovies.com/michigan/kalamazoo-10",
+"drive_in": false,
+"brand": "",
+"screens": "10"
+},
+{
+"id": "w261573301",
+"name": "KP Cinemas",
+"ll": [
+42.29049,
+-85.58114
+],
+"county": "Kalamazoo",
+"town": "Kalamazoo",
+"address": "180 Portage Street",
+"zip": "49007",
+"url": "https://www.kpcinemas.com/",
+"drive_in": false,
+"brand": "",
+"screens": "10"
+},
+{
+"id": "n9334252525",
+"name": "Kalamazoo Film Society",
+"ll": [
+42.21995,
+-85.59151
+],
+"county": "Kalamazoo",
+"town": "Portage",
+"address": "6600 Ring Road",
+"zip": "49002",
+"url": "",
+"drive_in": false,
+"brand": "",
+"screens": ""
+},
+{
+"id": "w494079998",
+"name": "AMC Showplace Michigan City 14",
+"ll": [
+41.67344,
+-86.88746
+],
+"county": "LaPorte",
+"town": "",
+"address": "100 Meijer Drive",
+"zip": "46360",
+"url": "https://www.amctheatres.com/movie-theatres/gary/amc-classic-michigan-city-14",
+"drive_in": false,
+"brand": "AMC",
+"screens": ""
+},
+{
+"id": "w769534261",
+"name": "Marquette Theatre",
+"ll": [
+41.6834,
+-86.90057
+],
+"county": "LaPorte",
+"town": "",
+"address": "",
+"zip": "",
+"url": "",
+"drive_in": false,
+"brand": "",
+"screens": ""
+},
+{
+"id": "w761304557",
+"name": "Strand Theater",
+"ll": [
+41.44197,
+-85.26485
+],
+"county": "Noble",
+"town": "Kendallville",
+"address": "221 South Main Street",
+"zip": "46755",
+"url": "",
+"drive_in": false,
+"brand": "",
+"screens": "2"
+},
+{
+"id": "w129593189",
+"name": "AMC South Bend 16",
+"ll": [
+41.63317,
+-86.25596
+],
+"county": "St. Joseph",
+"town": "",
+"address": "450",
+"zip": "",
+"url": "https://www.amctheatres.com/movie-theatres/south-bend/amc-south-bend-16",
+"drive_in": false,
+"brand": "AMC",
+"screens": "16"
+},
+{
+"id": "w478345226",
+"name": "Cinemark Movies 14",
+"ll": [
+41.69682,
+-86.19446
+],
+"county": "St. Joseph",
+"town": "Mishawaka",
+"address": "910 West Edison Road",
+"zip": "46545",
+"url": "https://www.cinemark.com/theatres/in-mishawaka/cinemark-movies-14",
+"drive_in": false,
+"brand": "Cinemark",
+"screens": "14"
+},
+{
+"id": "w203970098",
+"name": "Riviera Theatre",
+"ll": [
+41.94504,
+-85.63442
+],
+"county": "St. Joseph",
+"town": "Three Rivers",
+"address": "50 North Main Street",
+"zip": "49093",
+"url": "https://www.trriviera.com/",
+"drive_in": false,
+"brand": "",
+"screens": "1"
+},
+{
+"id": "n4706047194",
+"name": "The Strand",
+"ll": [
+41.79936,
+-85.42068
+],
+"county": "St. Joseph",
+"town": "",
+"address": "",
+"zip": "",
+"url": "https://strand4.com/",
+"drive_in": false,
+"brand": "",
+"screens": ""
+},
+{
+"id": "w206804323",
+"name": "Three Rivers 6",
+"ll": [
+41.96878,
+-85.63347
+],
+"county": "St. Joseph",
+"town": "",
+"address": "120 Enterprise Drive",
+"zip": "49093",
+"url": "https://www.gqti.com/theaters.aspx?theaterid=1458",
+"drive_in": false,
+"brand": "",
+"screens": ""
+},
+{
+"id": "w744463862",
+"name": "Brokaw Movie House",
+"ll": [
+41.63533,
+-84.99989
+],
+"county": "Steuben",
+"town": "Angola",
+"address": "200 Public Square",
+"zip": "46703",
+"url": "http://www.thebrokaw.com/",
+"drive_in": false,
+"brand": "",
+"screens": "2"
+},
+{
+"id": "w304612084",
+"name": "Michigan Theatre",
+"ll": [
+42.40422,
+-86.2744
+],
+"county": "Van Buren",
+"town": "South Haven",
+"address": "210 Center Street",
+"zip": "",
+"url": "https://michigantheatre.mooretheatres.com/",
+"drive_in": false,
+"brand": "Moore Theatres",
+"screens": "3"
+},
+{
+"id": "r8705347",
+"name": "The Strand",
+"ll": [
+42.21797,
+-85.89189
+],
+"county": "Van Buren",
+"town": "Paw Paw",
+"address": "115 East Michigan Avenue",
+"zip": "49079",
+"url": "http://pawpawstrand.com/",
+"drive_in": false,
+"brand": "",
+"screens": ""
+}
+]
+}
