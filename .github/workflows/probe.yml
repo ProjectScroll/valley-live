@@ -1,0 +1,13 @@
+name: Look at the source pages
+on: { workflow_dispatch: {} }
+permissions: { contents: write }
+jobs:
+  probe:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 probe.py
+      - run: |
+          git config user.name "Project Scroll"; git config user.email "research@projectscroll.com"
+          git add probe.json; git commit -m "Probe $(date -u +%F)" || true; git push
