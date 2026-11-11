@@ -266,6 +266,7 @@ if __name__ == '__main__':
         c = {}
         for n in json.load(open(path))[key]:
             if home and not n.get('home'): continue
+            if not home and len(n['start']) > 10 and datetime.datetime.fromisoformat(n['start']).astimezone(TZ).hour < 16: continue   # shows: the night's only (from 4 pm)
             d = n['start'][:10] if len(n['start']) == 10 else datetime.datetime.fromisoformat(n['start']).astimezone(TZ).date().isoformat()
             if TODAY.isoformat() <= d <= (TODAY + datetime.timedelta(days=14)).isoformat(): c[d] = c.get(d, 0) + 1
         return dict(sorted(c.items()))
