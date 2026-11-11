@@ -37,24 +37,24 @@
    "https://fonts.googleapis.com",
    "https://fonts.googleapis.com/css2"
   ],
-  "snip": " </div> </div> </div> <!-- end Mobile Nav --> </div> <!-- End Main Nav --> <div class=\"cin-container-carousel\"> <div class=\"cin-container\"> <div class=\"mb-4\"><div class=\"relative\"> <link rel=\"stylesheet\" href=\"/css/flickity.css\" /> <script src=\"/js/flickity.pkgd.min.js\"></script> <style> /* position dots in carousel */ .flickity-page-dots { bottom: 5px; } /* white circles */ .flickity-page-dots .dot { width: 12px; height: 12px; opacity: 1; margin: 0 5px; background: white; border: 2px solid white; opacity: 0.5; } /* fill-in selected dot */ .flickity-page-dots .dot.is-selected { background: white; opacity: 1; } ; /* smaller, dark, rounded square */ </style> <div class=\"cin-carousel-wrapper\"> <div class=\"main-carousel\" data-flickity='{ \"percentPosition\": \"100%\", \"pageDots\": false, \"cellAlign\": \"center\", \"contain\": true, \"autoPlay\": 7000, \"adaptiveHeight\": true, \"prevNextButtons\": true, \"imagesLoaded\": true, \"wrapAround\": true }'> <div class=\"carousel-cell cin-carousel-cell \"> <a href=\"https://www.kpcinemas.com/movie/27652\" class=\"cin-carousel-cell-link\"> <picture> <source media=\"(min-width: 500px)\" srcset=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/kVw6K3uLIatkVHhWHa2sdC10dVNxKd7URgEU5NU4.webp\" /> <source srcset=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/ayNRnQ6ZRDZ40ZN1kn5tJfve3Rar41yC27dzIvDr.webp\" /> <img src=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/ayNRnQ6ZRDZ40ZN1kn5tJfve3Rar41yC27dzIvDr.webp\" alt=\"Ebenezer\" class=\"h-auto w-full\" /> </picture> </a> </div> <div class=\"carousel-cell cin-carousel-cell \"> <a href=\"https://www.kpcinemas.com/rewards\" class=\"cin-carousel-cell-link\"> <picture> <source media=\"(min-width: 500px)\" srcset=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/w3uF1nQF5uGRLdk3CXvF2v0bwyBeLtJSpOxqx9H5.webp\" /> <source srcset=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/DWd",
+  "snip": " </div> </div> </div> <!-- end Mobile Nav --> </div> <!-- End Main Nav --> <div class=\"cin-container-carousel\"> <div class=\"cin-container\"> <div class=\"mb-4\"><div class=\"relative\"> <link rel=\"stylesheet\" href=\"/css/flickity.css\" /> <script src=\"/js/flickity.pkgd.min.js\"></script> <style> /* position dots in carousel */ .flickity-page-dots { bottom: 5px; } /* white circles */ .flickity-page-dots .dot { width: 12px; height: 12px; opacity: 1; margin: 0 5px; background: white; border: 2px solid white; opacity: 0.5; } /* fill-in selected dot */ .flickity-page-dots .dot.is-selected { background: white; opacity: 1; } ; /* smaller, dark, rounded square */ </style> <div class=\"cin-carousel-wrapper\"> <div class=\"main-carousel\" data-flickity='{ \"percentPosition\": \"100%\", \"pageDots\": false, \"cellAlign\": \"center\", \"contain\": true, \"autoPlay\": 7000, \"adaptiveHeight\": true, \"prevNextButtons\": true, \"imagesLoaded\": true, \"wrapAround\": true }'> <div class=\"carousel-cell cin-carousel-cell \"> <a href=\"https://www.kpcinemas.com/movie/27652\" class=\"cin-carousel-cell-link\"> <picture> <source media=\"(min-width: 500px)\" srcset=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/kVw6K3uLIatkVHhWHa2sdC10dVNxKd7URgEU5NU4.webp\" /> <source srcset=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/ayNRnQ6ZRDZ40ZN1kn5tJfve3Rar41yC27dzIvDr.webp\" /> <img src=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/ayNRnQ6ZRDZ40ZN1kn5tJfve3Rar41yC27dzIvDr.webp\" alt=\"Ebenezer\" class=\"h-auto w-full\" /> </picture> </a> </div> <div class=\"carousel-cell cin-carousel-cell \"> <a href=\"https://www.kpcinemas.com/rewards\" class=\"cin-carousel-cell-link\"> <picture> <source media=\"(min-width: 500px)\" srcset=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/w3uF1nQF5uGRLdk3CXvF2v0bwyBeLtJSpOxqx9H5.webp\" /> <source srcset=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/DWdlDyYsLgHOKuVIjMavxaYkfVjU8MS4kUGSlyyD.webp\" /> <img src=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/DWdlDyYsLgHOKuVIjMavxaYkfVjU8MS4kUGSlyyD.webp\" alt=\"KP Rewards\" class=\"h-auto w-full\" /> </picture> </a> </div> <div class=\"carousel-cell cin-carousel-cell \"> <a href=\"https://www.kpcinemas.com/events\" class=\"cin-carousel-cell-link\"> <picture> <source media=\"(min-width: 500px)\" srcset=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/zQzrozIOlsndUCVATZTASWOEP4xcHobzoiuFwwif.webp\" /> <source srcset=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/uSV9XzQw6HOzlX2GDmQmNkj7xjXs2mDL85zfd15x.webp\" /> <img src=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/uSV9XzQw6HOzlX2GDmQmNkj7xjXs2mDL85zfd15x.webp\" alt=\"KP Cinemas - Events and Parties\" class=\"h-auto w-full\" /> </picture> </a> </div> <div class=\"carousel-cell cin-carousel-cell \"> <a href=\"https://www.kpcinemas.com/movie/27655\" class=\"cin-carousel-cell-link\"> <picture> <source media=\"(min-width: 500px)\" srcset=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/rVtvjTCIK3qgiwdD9oP8EwIDqRkdEJHzpnmWYoSv.webp\" /> <source srcset=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/839IT7AyCo8i7oO5SdYl6aZZIQRtOc2kl6KExEe5.webp\" /> <img src=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/839IT7AyCo8i7oO5SdYl6aZZIQRtOc2kl6KExEe5.webp\" alt=\"Hunger Games\" class=\"h-auto w-full\" /> </picture> </a> </div> <div class=\"carousel-cell cin-carousel-cell \"> <a href=\"https://www.kpcinemas.com/movie/27671\" class=\"cin-carousel-cell-link\"> <picture> <source media=\"(min-width: 500px)\" srcset=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/EcXuJw3Vne99CgJk8xYEKMIGrQNddOSIv6b3KYmX.webp\" /> <source srcset=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/FZjyt9APSc3ODxMrnFgqUZYxi1sj7yLn12GyxDtH.webp\" /> <img src=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/FZjyt9APSc3ODxMrnFgqUZYxi1sj7yLn12GyxDtH.webp\" alt=\"How to Rob a Bank\" class=\"h-auto w-full\" /> </picture> </a> </div> <div class=\"carousel-cell cin-carousel-cell \"> <a href=\"https://www.kpcinemas.com/movie/27869\" class=\"cin-carousel-cell-link\"> <picture> <source media=\"(min-width: 500px)\" srcset=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/B2u6W5xBQLQKctNOfVDm3n3OIBCeH7polmxKGXJS.webp\" /> <source srcset=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/70CGbCsJ4ABJlN6ESIhzJmM9J9cD8g19B65SJdvQ.webp\" /> <img src=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/banners/70CGbCsJ4ABJlN6ESIhzJmM9J9cD8g19B65SJdvQ.webp\" alt=\"I Play Rocky\" class=\"h-auto w-full\" /> </picture> ",
   "head": "",
   "types_json": null,
   "title": "Showtimes - KP Cinemas | Kalamazoo, MI"
  },
- "https://www.gqtmovies.com/gqt-lakeview-10": {
+ "https://www.gqtmovies.com/gqt-kalamazoo-10": {
   "status": 200,
-  "final": "https://www.gqtmovies.com/gqt-lakeview-10",
-  "bytes": 116845,
+  "final": "https://www.gqtmovies.com/gqt-kalamazoo-10",
+  "bytes": 148112,
   "ld_types": {},
   "links": [
    [
-    "https://www.gqtmovies.com/gqt-lakeview-N/movie/N",
-    50
+    "https://www.gqtmovies.com/gqt-kalamazoo-N/movie/N",
+    75
    ],
    [
-    "https://www.gqtmovies.com/gqt-lakeview-N/tickets/N",
-    8
+    "https://www.gqtmovies.com/gqt-kalamazoo-N/tickets/N",
+    16
    ],
    [
     "https://www.gqtmovies.com/movie/N",
@@ -77,7 +77,7 @@
     2
    ],
    [
-    "https://www.gqtmovies.com/gqt-lakeview-N",
+    "https://www.gqtmovies.com/gqt-kalamazoo-N",
     1
    ],
    [
@@ -89,7 +89,7 @@
     1
    ],
    [
-    "/gqt-lakeview-N/advance-tickets",
+    "/gqt-kalamazoo-N/advance-tickets",
     1
    ],
    [
@@ -116,150 +116,197 @@
    "https://fonts.googleapis.com",
    "https://fonts.googleapis.com/css2"
   ],
-  "snip": " <!DOCTYPE html> <html lang=\"en\" class=\"scroll-smooth \"> <head> <meta charset=\"UTF-8\" /> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /> <title>Showtimes - GQT Lakeview 10 | Battle Creek, MI</title> <link rel=\"canonical\" href=\"https://www.gqtmovies.com/gqt-lakeview-10\" /> <meta name=\"csrf-token\" content=\"mhj9yt0n9NdjKl1ZAe3XCG85A5QQRjAA7AkOlnSC\" /> <meta name=\"keywords\" content=\"GQT Lakeview 10, MI, Battle Creek, screens, movie screens, showtimes, tickets, movie tickets\" /> <meta name=\"description\" content=\"Movie Showtimes at GQT Lakeview 10, Battle Creek, MI\" /> <!-- Google Tag Manager --> <script> (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ \"gtm.start\": new Date().getTime(), event: \"gtm.js\" }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != \"dataLayer\" ? \"&l=\" + l : \"\"; j.async = true; j.src = \"https://www.googletagmanager.com/gtm.js?id=\" + i + dl; f.parentNode.insertBefore(j, f); })(window, document, \"script\", \"dataLayer\", \"GTM-WR9HV5TD\"); </script> <!-- End Google Tag Manager --> <link rel=\"icon\" type=\"image/png\" href=\"https://images.cinemaplus.com/hosted/goodrich-quality-theater/exhibitor/icons/gqt-favicon-16x16-v1.png\" sizes=\"16x16\" /> <link rel=\"icon\" type=\"image/png\" href=\"https://images.cinemaplus.com/hosted/goodrich-quality-theater/exhibitor/icons/gqt-favicon-32x32-v1.png\" sizes=\"32x32\" /> <link rel=\"icon\" type=\"image/png\" href=\"https://images.cinemaplus.com/hosted/goodrich-quality-theater/exhibitor/icons/gqt-favicon-48",
+  "snip": "",
   "head": "",
   "types_json": null,
-  "title": "Showtimes - GQT Lakeview 10 | Battle Creek, MI"
+  "title": "Showtimes - GQT Kalamazoo 10 | Kalamazoo, MI"
  },
- "https://www.linwaycinema.com/": {
+ "https://www.gqtmovies.com/gqt-three-rivers-6": {
   "status": 200,
-  "final": "https://www.linwaycinema.com/",
-  "bytes": 112942,
+  "final": "https://www.gqtmovies.com/gqt-three-rivers-6",
+  "bytes": 105756,
   "ld_types": {},
   "links": [
    [
-    "https://www.linwaycinema.com/movie/N",
-    27
+    "https://www.gqtmovies.com/gqt-three-rivers-N/movie/N",
+    30
    ],
    [
-    "https://www.linwaycinema.com/tickets/N",
-    9
+    "https://www.gqtmovies.com/movie/N",
+    5
    ],
    [
-    "/summer-film-series",
-    3
+    "https://www.gqtmovies.com/gqt-three-rivers-N/tickets/N",
+    5
+   ],
+   [
+    "https://www.gqtmovies.com/build/assets/cinemaplus-vN-DqYfP_XL.css",
+    2
+   ],
+   [
+    "https://www.gqtmovies.com/build/assets/gqt-vN-CNCBCeY.css",
+    2
+   ],
+   [
+    "https://www.gqtmovies.com/register",
+    2
+   ],
+   [
+    "https://www.gqtmovies.com/build/assets/tippy-instances-BHHNrdGj.css",
+    2
+   ],
+   [
+    "https://www.gqtmovies.com/gqt-three-rivers-N",
+    1
+   ],
+   [
+    "https://www.gqtmovies.com/login",
+    1
+   ],
+   [
+    "https://www.gqtmovies.com/rewards",
+    1
+   ],
+   [
+    "/gqt-three-rivers-N/advance-tickets",
+    1
+   ],
+   [
+    "https://www.gqtmovies.com/suggest-a-movie",
+    1
+   ],
+   [
+    "https://www.gqtmovies.com/build/assets/cinemaplus-BhNXhXeu.js",
+    1
+   ],
+   [
+    "https://www.gqtmovies.com/build/assets/index-qFyJwsfU.js",
+    1
+   ],
+   [
+    "https://www.gqtmovies.com/build/assets/cart-CAVz-xtN.js",
+    1
    ]
   ],
   "ics": [],
   "feeds": [],
-  "dates": [
-   "November 11, 2026"
-  ],
+  "dates": [],
   "apis": [
    "https://fonts.googleapis.com",
    "https://fonts.googleapis.com/css2"
   ],
-  "snip": "ment</a> </div> </div> </div> </div> <!-- end Mobile Nav --> </nav> </div> <!-- End Main Nav --> <!-- Theater Header --> <div class=\"relative w-full bg-primary bg-cover bg-center bg-no-repeat\" style=\"background-image: url('https://images.cinemaplus.com/ticketing/heroart/f4efa1d8f3196d872587fc6808eade5e.webp')\"> <div class=\"absolute inset-0\" style=\"background-image: linear-gradient(rgb(100, 100, 100, 0.2), rgba(0, 0, 0, 0.8))\"></div> <div class=\"relative mx-auto grid h-screen-75 max-h-96 max-w-7xl grid-cols-16 gap-4 py-16 text-white md:h-auto md:max-h-full md:pt-32 xl:gap-8\"> <div class=\"col-span-14 col-start-2 self-end\"> <div class=\"grid grid-cols-12 gap-4 xl:gap-8\"> <div class=\"col-span-12 font-roboto text-sm font-bold uppercase md:text-xl\">Now Playing</div> <img class=\"col-span-2 hidden rounded-sm shadow-sm md:block\" src=\"https://images.cinemaplus.com/ticketing/posters/c63b878040fcdf42123927df84bf0cfd.webp\" alt=\"RAMAYANA PT 1 Poster\" /> <div class=\"col-span-12 md:col-span-9 md:-mt-2 xl:col-span-10\"> <div class=\"font-roboto text-4xl leading-2 font-bold tracking-tighter uppercase md:text-7xl\">RAMAYANA PT 1</div> <a href=\"https://www.linwaycinema.com/movie/28002\" class=\"btn btn-primary mt-2 inline-block tracking-normal\"> Get Tickets </a> </div> <div class=\"font-open-sans col-span-9 hidden text-lg md:block\"> <div x-data=\"{ showFullText: false }\"> <div :class=\"{ 'line-clamp-3': !showFullText }\">An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.</div> <button @click=\"showFullText = !showFullText\" class=\"hover:text-cobalt active:text-cobalt-300 font-roboto font-bold uppercase focus:outline-hidden\"> <span x-show=\"showFullText\">Less</span> <span x-show=\"!showFullText\">More</span> </button> </div> </div> <div class=\"md:flex-no-wrap col-span-12 flex flex-wrap items-center md:col-span-9\"> <div class=\"-mt-1 mr-8 md:shrink-0\"> <div class=\"whitespace-no-wrap -mt-0.5 flex items-center justify-center rounded-xs bg-gray-100 px-2 text-center font-roboto text-xs text-gray-900\">PG13</div> </div> <div class=\"order-first mb-4 flex w-full shrink-0 md:order-0 md:mb-0 md:w-auto md:shrink\"> <div class=\"mr-4 flex flex-wrap items-start justify-start font-roboto text-xs leadi",
+  "snip": "",
   "head": "",
   "types_json": null,
-  "title": "Showtimes - Linway Cinema 14 | Goshen, IN"
+  "title": "Showtimes - GQT Three Rivers 6 | Three Rivers, MI"
  },
- "https://trriviera.com/": {
+ "https://www.gqtmovies.com/gqt-west-columbia-7": {
   "status": 200,
-  "final": "https://trriviera.com/",
-  "bytes": 96186,
+  "final": "https://www.gqtmovies.com/gqt-west-columbia-7",
+  "bytes": 121719,
   "ld_types": {},
   "links": [
    [
-    "https://trriviera.com/event/phoenyx-trivia-N/",
-    7
+    "https://www.gqtmovies.com/gqt-west-columbia-N/movie/N",
+    45
    ],
    [
-    "https://trriviera.com/event/jacob-neild/",
-    6
+    "https://www.gqtmovies.com/gqt-west-columbia-N/tickets/N",
+    11
    ],
    [
-    "https://trriviera.com/event/watershed-voice-presents-spotlight/",
-    6
+    "https://www.gqtmovies.com/movie/N",
+    5
    ],
    [
-    "https://trriviera.com/events/",
-    4
+    "https://www.gqtmovies.com/build/assets/cinemaplus-vN-DqYfP_XL.css",
+    2
    ],
    [
-    "https://trriviera.com/wp-json/tribe/tickets/vN/",
+    "https://www.gqtmovies.com/build/assets/gqt-vN-CNCBCeY.css",
+    2
+   ],
+   [
+    "https://www.gqtmovies.com/register",
+    2
+   ],
+   [
+    "https://www.gqtmovies.com/build/assets/tippy-instances-BHHNrdGj.css",
+    2
+   ],
+   [
+    "https://www.gqtmovies.com/gqt-west-columbia-N",
     1
    ],
    [
-    "https://trriviera.com/wp-json/tribe/events/vN/",
+    "https://www.gqtmovies.com/login",
+    1
+   ],
+   [
+    "https://www.gqtmovies.com/rewards",
+    1
+   ],
+   [
+    "/gqt-west-columbia-N/advance-tickets",
+    1
+   ],
+   [
+    "https://www.gqtmovies.com/suggest-a-movie",
+    1
+   ],
+   [
+    "https://www.gqtmovies.com/build/assets/cinemaplus-BhNXhXeu.js",
+    1
+   ],
+   [
+    "https://www.gqtmovies.com/build/assets/index-qFyJwsfU.js",
+    1
+   ],
+   [
+    "https://www.gqtmovies.com/build/assets/cart-CAVz-xtN.js",
     1
    ]
   ],
   "ics": [],
-  "feeds": [
-   "https://trriviera.com/feed/",
-   "https://trriviera.com/events/?ical=1",
-   "https://trriviera.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftrriviera.com%2F",
-   "https://trriviera.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftrriviera.com%2F&#038;format=xml",
-   "https://trriviera.com/wp-json/",
-   "https://trriviera.com/wp-json/wp/v2/pages/3562",
-   "https://trriviera.com/wp-json/tribe/tickets/v1/",
-   "https://trriviera.com/wp-json/tribe/events/v1/"
-  ],
+  "feeds": [],
   "dates": [],
   "apis": [
-   "https://api.w.org/"
+   "https://fonts.googleapis.com",
+   "https://fonts.googleapis.com/css2"
   ],
   "snip": "",
   "head": "",
   "types_json": null,
-  "title": "TR Riviera Theatre &#8211; Historic Theatre in Three Rivers, MI"
+  "title": "Showtimes - GQT West Columbia 7 | Battle Creek, MI"
  },
- "https://www.strand4.com/": {
-  "status": 200,
-  "final": "https://www.strand4.com/",
-  "bytes": 117878,
-  "ld_types": {},
-  "links": [],
-  "ics": [],
-  "feeds": [],
-  "dates": [
-   "Jul 17 2026"
-  ],
-  "apis": [],
-  "snip": "\"><div data-contents=\"true\"><span class=\"textAlign-center\" data-block=\"true\" data-editor=\"e44pl\" data-offset-key=\"590j1-0-0\" contenteditable=\"false\"><span data-offset-key=\"590j1-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" style=\"font-size:65em;text-align:center;font-family:Chango, sans-serif;font-weight:400;line-height:1.8\"><span><span style=\"color:rgb(255, 255, 255)\" data-style=\"{&quot;color&quot;:&quot;rgb(255, 255, 255)&quot;}\"><span data-offset-key=\"590j1-0-0\" style=\"font-weight:bold\"><span data-text=\"true\">O</span></span></span><span style=\"color:rgb(var(--preColor_textAlt))\" data-style=\"{&quot;color&quot;:&quot;rgb(var(--preColor_textAlt))&quot;}\"><span data-offset-key=\"590j1-1-0\"><span data-text=\"true\">riginal </span></span><span data-offset-key=\"590j1-1-1\" style=\"font-weight:bold\"><span data-text=\"true\">M</span></span><span data-offset-key=\"590j1-1-2\"><span data-text=\"true\">ovie </span></span><span data-offset-key=\"590j1-1-3\" style=\"font-weight:bold\"><span data-text=\"true\">P</span></span><span data-offset-key=\"590j1-1-4\"><span data-text=\"true\">osters</span></span></span></span></span></span></div></div></div></div></div><div class=\"section__title header-four\"><div class=\"DraftEditor-root\"><div class=\"DraftEditor-editorContainer\"><div class=\"public-DraftEditor-content\" contenteditable=\"false\" spellcheck=\"false\" style=\"outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word\"><div data-contents=\"true\"><h4 class=\"textAlign-center\" data-block=\"true\" data-editor=\"bcikp\" data-offset-key=\"d8851-0-0\" contenteditable=\"false\"><span data-offset-key=\"d8851-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" style=\"text-align:center;font-family:&#x27;Titillium Web&#x27;, sans-serif;font-weight:400\"><span><a class=\"\" href=\"/__static/jdj5jdewjgfqevrymurzcljrbuq0bdjv/Poster-Inventory-7-17(2).xlsx\" download=\"Poster-Inventory-7-17(2).xlsx\" data-style=\"{}\" rel=\"noreferrer\"><span data-offset-key=\"d8851-0-0\"><span data-text=\"true\">Poster </span></span></a><a class=\"\" href=\"/__static/jdj5jdewjgfqevrymurzcljrbuq0bdjv/Poster-Inventory-7-17(2).xlsx\" download=\"Poster-Inventory-7-17(2).xlsx\" data-style=\"{}\" rel=\"noreferrer\"><span data-offset-key=\"d8851-1-0\"><span data-text=\"true\">Inventory </span></span></a><a class=\"\" href=\"/__static/jdj5jdewjgfqevrymurzcljrbuq0bdjv/Poster-Inventory-7-17(2).xlsx\" download=\"Poster-Inventory-7-17(2).xlsx\" data-style=\"{}\" rel=\"noreferrer\"><span data-offset-key=\"d8851-2-0\"><span data-text=\"true\">lINK </span></span></a><a class=\"\" href=\"/__static/jdj5jdewjgfqevrymurzcljrbuq0bdjv/Poster-Inventory-7-17(2).xlsx\" download=\"Poster-Inventory-7-17(2).xlsx\" style=\"color:rgb(255, 193, 7)\" data-style=\"{&quot;color&quot;:&quot;rgb(255, 193, 7)&quot;}\" rel=\"noreferrer\"><span data-offset-key=\"d8851-3-0\"><span data-text=\"true\">(Updated 7.17)</span></span></a></span></span></h4></div></div></div></div></div><div class=\"section__text\"><div class=\"DraftEditor-root",
-  "head": "",
-  "types_json": null,
-  "title": ""
+ "https://www.gqtmovies.com/theaters": {
+  "error": "HTTP Error 404: Not Found"
  },
- "https://www.thebrokaw.com/movies--showtimes.html": {
+ "https://www.kpcinemas.com/tickets/1": {
   "status": 200,
-  "final": "https://www.thebrokaw.com/movies--showtimes",
-  "bytes": 96703,
+  "final": "https://www.kpcinemas.com/error",
+  "bytes": 21173,
   "ld_types": {},
   "links": [
    [
-    "/movies--showtimes.html",
-    2
-   ],
-   [
-    "/upcoming-movies--events.html",
-    2
-   ],
-   [
-    "https://www.fandango.com/brokaw-movie-house-aaxub/theater-page",
-    2
-   ],
-   [
-    "//www.thebrokaw.com/movies--showtimes/movie-showtimes-N-N",
+    "/page/events",
     1
    ],
    [
-    "https://www.google.com/search",
-    1
-   ],
-   [
-    "/movies--showtimes/previous/N",
+    "https://www.kpcinemas.com/showtimes",
     1
    ]
   ],
   "ics": [],
   "feeds": [],
   "dates": [],
-  "apis": [],
-  "snip": "\"> <a href=\"/advertise.html\" class=\"wsite-menu-item\" > Advertise </a> </li> <li id=\"pg916450496259036212\" class=\"wsite-menu-item-wrap\"> <a href=\"/contact.html\" class=\"wsite-menu-item\" > Contact </a> <div class=\"wsite-menu-wrap\" style=\"display:none\"> <ul class=\"wsite-menu\"> <li id=\"wsite-nav-632093978528749483\" class=\"wsite-menu-subitem-wrap \" > <a href=\"/employment.html\" class=\"wsite-menu-subitem\" > <span class=\"wsite-menu-title\"> Employment </span> </a> </li> </ul> </div> </li> <li id=\"pg445658763694601449\" class=\"wsite-menu-item-wrap\"> <a href=\"/history.html\" class=\"wsite-menu-item\" > History </a> </li> </ul> </div> </div><!-- end .container --> </div><!-- end .header --> <div class=\"banner-wrap\"> <div class=\"wsite-elements wsite-not-footer wsite-header-elements\"> <div class=\"wsite-section-wrap\"> <div class=\"wsite-section wsite-header-section wsite-section-bg-image\" style=\"height: auto;vertical-align: middle;background-image: url(&quot;/uploads/8/6/7/3/86738218/background-images/2106933365.jpg&quot;) ;background-repeat: no-repeat ;background-position: 51.60% 7.69% ;background-size: 100% ;background-color: transparent ;background-size: cover;\" > <div class=\"wsite-section-content\"> <div class=\"container\"> <div class=\"banner\"> <div class=\"wsite-section-elements\"> <div class=\"wsite-spacer\" style=\"height:51px;\"></div> <h2 class=\"wsite-content-title\"><font size=\"7\">Movies &amp; Showtimes</font></h2> </div> </div> </div> </div> <div class=\"\"></div> </div> </div> </div> <!-- <span id=\"contentArrow\"><span></span></span> --> </div> <div class=\"main-wrap\"> <div class=\"wsite-section-content\"> <div class=\"container\"><div class=\"wsite-elements wsite-not-footer\"> <table id=\"blogTable\" class=\"wsite-not-footer\" style=\"border: 0; width: 100%; table-layout: fixed\" > <tr> <td valign=\"top\"> <div id=\"496879240314363592-blog\" class=\"blog-body\" style=\"float: left;\"> <div id=\"wsite-content\"> <div id=\"blog-post-807362548586135785\" class=\"blog-post\"> <div class=\"blog-header\"> <h2 class=\"blog-title\"> <a class=\"blog-title-link blog-link\" href=\"//www.thebrokaw.com/movies--showtimes/movie-showtimes-1127-1203\">MOVIE SHOWTIMES 11/9 - 11/15</a> </h2> <p class=\"blog-date\"> <span class=\"date-text\"> 11/2/2026 </span> </p> <p class=\"blog-comments\"> </p> </div> <div class=\"blog-separator\">&nbsp;</div> <div class=\"blog-content\"> <div><div class=\"wsite-image wsite-image-border-none \" style=\"padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center\"> <a> <img src=\"/uploads/8/6/7/3/86738218/cathat-vert-main-2764x4096-dom-1_orig.jpg\" alt=\"Picture\" style=\"width:auto;max-width:100%\" /> </a> <div style=\"display:block;font-size:90%\"></div> </div></div> <h2 class=\"wsite-content-tit",
-  "head": "",
+  "apis": [
+   "https://fonts.googleapis.com",
+   "https://fonts.googleapis.com/css2"
+  ],
+  "snip": "pe=\"image/png\" href=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/kp-favicon-64x64-v1.png\" sizes=\"64x64\" /> <link rel=\"icon\" type=\"image/png\" href=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/kp-favicon-192x192-v1.png\" sizes=\"192x192\" /> <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\" /> <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin /> <link href=\"https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap\" rel=\"stylesheet\" /> <link rel=\"preload\" as=\"style\" href=\"https://www.kpcinemas.com/build/assets/cinemaplus-v2-DqYfP_XL.css\" /><link rel=\"stylesheet\" href=\"https://www.kpcinemas.com/build/assets/cinemaplus-v2-DqYfP_XL.css\" /> <link rel=\"preload\" as=\"style\" href=\"https://www.kpcinemas.com/build/assets/kp-cinemas-compact-CiKIJEQj.css\" /><link rel=\"stylesheet\" href=\"https://www.kpcinemas.com/build/assets/kp-cinemas-compact-CiKIJEQj.css\" /> </head> <body class=\" bg-black bg-contain\" style=\" background-image: url('/poster-default.png') \"> <div class=\"cin-base-wrapper\"> <div class=\"w-full flex-1\" style=\" \"> <div class=\"relative\"> <!-- Main Nav --> <div x-data=\"navigationSetup()\" x-init=\"{ activePage: 'showtimes' }\" @scroll.window=\"navbarStuck = getNavbarStickyState(navbarOffset)\" class=\"transition-all\" > <div class=\"cin-wrapper cin-wrapper-header\"> <div class=\"cin-container-topnav\"> <div class=\"cin-container cin-topnav\"> <a href=\"/page/about\" class=\"cin-topnav-link\"> About KP Cinemas </a> <a class=\"cin-topnav-link\" rel=\"noopener noreferrer nofollow\" target=\"_blank\" href=\"https://www.facebook.com/kpcinemas?mibextid=LQQJ4d\"> <span class=\"inline-block h-4 w-4 align-middle\"> <svg fill=\"none\" class=\"current-color\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 114 113\"> <path d=\"M114 56.846c0 28.42-20.916 52.03-48.267 56.154V73.35h13.33l2.53-16.504h-15.86V46.3c0-4.581 2.299-8.936 9.422-8.936h7.128V23.383s-6.439-1.148-12.873-1.148c-12.868 0-21.374 8.022-21.374 22.234v12.377H33.558V73.35h14.478V113C20.689 108.876 0 85.267 0 56.846.004 25.445 25.514 0 57 0s57 25.44 57 56.846Z\" fill=\"currentColor\" /> </svg> </span> <span class=\"sr-only\">Facebook</span> </a> <a class=\"cin-topnav-login-link \" href=\"https://www.kpcinemas.com/login\">Login</a> <a class=\"cin-topnav-signup-link \" href=\"https://www.kpcinemas.com/register\">Sign Up</a> </div> </div> <div class=\"cin-container-header cin-container\"> <div class=\"cin-header-brand\"> <a class=\"cin-logo-link\" href=\"/\" title=\"KP Cinemas Home Page\"> <img src=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/logos/logo-primary-v1.png\" class=\"cin-header-logo\" alt=\"KP Cinemas Logo\" /> </a> </div> <div class=\"cin-container-mainnav\"> <ul class=\"cin-mainnav-list\"> <li class=\"cin-mainnav-list-item\"> <a href=\"/\" class=\"cin-mainnav-list-item-link \"> Showtimes </a> </li> <li class=\"cin-mainnav-list-item\"> <a href=\"/rewards\" class=\"cin-mainnav-list-item-link \"> Rewards </a> </li> <li class=\"cin-mainnav-list-item\"> <a href=\"/gift-cards\" class=\"cin-mainnav-list-item-link \"> Gift Cards </a> </li> <li class=\"cin-mainnav-list-item\"> <a href=\"/flashback-cinema\" class=\"cin-mainnav-list-item-link \"> Flashback<span class=\"md:hidden lg:inline\"> Cinema</span> </a> </li> <li class=\"cin-mainnav-list-item\"> <a href=\"/page/events\" class=\"cin-mainnav-list-item-link \"> Events </a> </li> <li class=\"cin-mainnav-list-item\"> <a href=\"/pricing\" class=\"cin-mainnav-list-item-link \"> Pricing </a> </li> <li class=\"cin-mainnav-list-item\"> <a href=\"/contact\" class=\"cin-mainnav-list-item-link \"> Contact </a> </li> </ul> <!-- Mobile menu hamburger button--> <div class=\"cin-container-hamburger\" :class=\"menuOpen && 'open'\"> <button x-show=\"!menuOpen\" class=\"cin-header-menu-btn\" aria-label=\"Main menu\" aria-expanded=\"false\" @click=\"openNav()\"> <div><svg class=\"h-6 w-6\" viewBox=\"0 0 22 14\" stroke=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"> <path stroke-width=\"2\" d=\"M0 13h22M0 7h22M0 1h22\" /> </svg> </div> </button> <button x-show=\"menuOpen\" class=\"inline-flex items-center justify-center rounded-md p-2 text-white transition duration-150 ease-in-out hover:bg-gray-100/25 hover:text-white focus:bg-gray-100/25 focus:text-white focus:outline-hidden\" aria-label=\"Main menu\" aria-expanded=\"false\" @click=\"closeNav()\"> <!-- Icon when menu is open. --> <div><svg class=\"h-6 w-6\" stroke=\"currentColor\" fill=\"none\" viewBox=\"0 0 24 24\"> <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M6 18L18 6M6 6l12 12\" /> </svg> </div> </button> </div> </div> </div> </div> <!-- Mobile Nav --> <div x-show.transition=\"menuOpen\" @click.away=\"closeNav()\" class=\"fixed inset-0 z-10 overflow-y-auto md:hidden\" style=\"display: none\"> <div class=\"relative z-10 h-screen\"> <div class=\"cin-mobilemenu-container fixed inset-0 z-0 w-full bg-cover bg-center bg-no-repeat\"></div> <div class=\"relative z-10 flex h-full flex-col items-center justify-between px-4 py-8\"> <div class=\"block\"> <a href=\"/\" title=\"KP Cinemas Home Page\"> <img class=\"cin-mobile-nav-logo\" src=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/logos/logo-primary-v1.png\" alt=\"KP Cinemas Logo\" /> </a> </div> <div class=\"cin-mobilenav\"> <a class=\"cin-mobilenav-link text-4xl\" href=\"/login\">Login</a> <a class=\"cin-mobilenav-link text-4xl\" href=\"https://www.kpcinemas.com/register\">Signup</a> <a href=\"/\" class=\"block p-0 font-roboto text-4xl tracking-tighter text-white uppercase transition duration-150 ease-in-out hover:text-primary focus:bg-gray-700 focus:text-white focus:outline-hidden\">Showtimes</a> <a href=\"/rewards\" class=\"block p-0 font-roboto text-4xl tracking-tighter text-white uppercase transition duration-150 ease-in-out hover:text-primary focus:text-secondary focus:outline-hidden\">Rewards</a> <a href=\"/gift-cards\" class=\"block p-0 font-roboto text-4xl tracking-tighter text-white uppercase transition duration-150 ease-in-out hover:text-primary focus:text-secondary focus:outline-hidden\">Gift Cards</a> <a href=\"/flashback-cinema\" class=\"block p-0 font-roboto text",
+  "head": "\n\n\n\n<!DOCTYPE html>\n<html lang=\"en\" class=\"scroll-smooth \">\n<head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>Error! | KP Cinemas</title>\n        <meta name=\"csrf-token\" content=\"\" />\n\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\n\n                                        \n\n            <link rel=\"icon\" type=\"image/png\" href=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/kp-favicon-16x16-v1.png\" sizes=\"16x16\" />\n            <link rel=\"icon\" type=\"image/png\" href=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/kp-favicon-32x32-v1.png\" sizes=\"32x32\" />\n            <link rel=\"icon\" type=\"image/png\" href=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/kp-favicon-48x48-v1.png\" sizes=\"48x48\" />\n            <link rel=\"icon\" type=\"image/png\" href=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/kp-favicon-64x64-v1.png\" sizes=\"64x64\" />\n            <link rel=\"icon\" type=\"image/png\" href=\"https://images.cinemaplus.com/hosted/kp-cinemas/exhibitor/kp-favicon-192x192-v1.png\" sizes=\"192x192\" />\n    \n\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\" />\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin />\n    <link href=\"https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap\" rel=\"stylesheet\" />\n\n\n<link rel=\"preload\" as=\"style\" href=\"https://www.kpcinemas.com/build/assets/cinemaplus-v2-DqYfP_XL.css\" /><link rel=\"stylesheet\" href=\"https://www.kpcinemas.com/build/assets/cinemaplus-v2-DqYfP_XL.css\" />\n\n    <link rel=\"preload\" as=\"style\" href=\"https://www.kpcinemas.com/build/assets/kp-cinemas-compact-CiKIJEQj.css\" /><link rel=\"stylesheet\" href=\"https://www.kpcinemas.com/build/assets/kp-cinemas-compact-CiKIJEQj.css\" />\n\n        </head>\n<body class=\" bg-black  bg-contain\" style=\" background-image: url('/poster-default.png') \">\n    \n    \n    <div class=\"cin-base-wrapper\">\n                <div class=\"w-full flex-1\" style=\" \">\n                        <div class=\"relative\">\n                                                    <!-- Main Nav -->\n<div\n    x-data=\"navigationSetup()\"\n    x-init=\"{\n                            activePage: 'showtimes'\n            }\"\n    @scroll.window=\"navbarStuck = getNavbarStickyState(navbarOffset)\"\n    \n    class=\"transition-all\"\n>\n    <div class=\"cin-wrappe",
   "types_json": null,
-  "title": "Brokaw Movie House - Angola, Indiana - Movies &amp; Showtimes"
+  "title": "Error! | KP Cinemas"
  }
 }
