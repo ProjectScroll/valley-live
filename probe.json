@@ -1,0 +1,1089 @@
+{
+ "https://performingarts.nd.edu/events/": {
+  "status": 200,
+  "final": "https://performingarts.nd.edu/events/",
+  "bytes": 210924,
+  "ld_types": {
+   "WebPage": 1,
+   "ReadAction": 1,
+   "ImageObject": 2,
+   "BreadcrumbList": 1,
+   "ListItem": 2,
+   "WebSite": 1,
+   "SearchAction": 1,
+   "EntryPoint": 1,
+   "PropertyValueSpecification": 1,
+   "Organization": 1
+  },
+  "links": [
+   [
+    "https://performingarts.nd.edu/events/",
+    20
+   ],
+   [
+    "/event/N/symphonic-band-winds",
+    6
+   ],
+   [
+    "/event/N/university-band",
+    6
+   ],
+   [
+    "https://performingarts.nd.edu/wp-content/uploads/N/N/cropped-icon-NxN.png",
+    3
+   ],
+   [
+    "https://dpactickets.nd.edu/events",
+    3
+   ],
+   [
+    "https://performingarts.nd.edu/presenting-series/",
+    3
+   ],
+   [
+    "https://performingarts.nd.edu/season-tickets/",
+    3
+   ],
+   [
+    "https://performingarts.nd.edu/film-series/",
+    3
+   ],
+   [
+    "https://performingarts.nd.edu/directions-parking/",
+    3
+   ],
+   [
+    "https://performingarts.nd.edu/category/news-announcements/",
+    3
+   ],
+   [
+    "https://performingarts.nd.edu/podcasts/",
+    3
+   ],
+   [
+    "https://performingarts.nd.edu/our-story/",
+    3
+   ],
+   [
+    "https://performingarts.nd.edu/contact/",
+    3
+   ],
+   [
+    "/event/N/compagnie-herv-koubi-sol-invictus",
+    3
+   ],
+   [
+    "/event/N/franz-N",
+    3
+   ]
+  ],
+  "ics": [],
+  "feeds": [
+   "https://performingarts.nd.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fperformingarts.nd.edu%2Fevents%2F",
+   "https://performingarts.nd.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fperformingarts.nd.edu%2Fevents%2F&#038;format=xml",
+   "https://performingarts.nd.edu/wp-json/",
+   "https://performingarts.nd.edu/wp-json/wp/v2/pages/45"
+  ],
+  "dates": [
+   "November 11, 2026",
+   "November 12, 2026",
+   "November 12, 2026",
+   "November 12, 2026",
+   "November 13, 2026",
+   "November 15, 2026"
+  ],
+  "apis": [
+   "https://api.tiles.mapbox.com",
+   "https://api.tiles.mapbox.com/mapbox-gl-js/v0.45.0/mapbox-gl.css",
+   "https://api.tiles.mapbox.com/mapbox-gl-js/v0.45.0/mapbox-gl.js",
+   "https://api.w.org/"
+  ],
+  "title": "Events | DeBartolo Performing Arts Center"
+ },
+ "https://dpactickets.nd.edu/events": {
+  "status": 200,
+  "final": "https://dpactickets.nd.edu/events",
+  "bytes": 1025,
+  "ld_types": {},
+  "links": [],
+  "ics": [],
+  "feeds": [],
+  "dates": [],
+  "apis": [],
+  "title": ""
+ },
+ "https://events.nd.edu/events/calendar/performing-arts/": {
+  "status": 200,
+  "final": "https://events.nd.edu/events/calendar/performing-arts/",
+  "bytes": 87025,
+  "ld_types": {
+   "WebPage": 1,
+   "ImageObject": 3,
+   "WebSite": 1,
+   "SearchAction": 1,
+   "Organization": 1,
+   "ContactPoint": 1,
+   "CollegeOrUniversity": 1,
+   "Place": 1,
+   "PostalAddress": 1
+  },
+  "links": [
+   [
+    "/events/N/N/N/compagnie-herve-koubi-sol-invictus/",
+    2
+   ],
+   [
+    "/events/N/N/N/the-gesualdo-six/",
+    2
+   ],
+   [
+    "https://events.nd.edu/events/calendar/performing-arts/",
+    1
+   ],
+   [
+    "/submit-an-event",
+    1
+   ],
+   [
+    "/events/",
+    1
+   ],
+   [
+    "/events/N/N/N/mozart/",
+    1
+   ],
+   [
+    "/events/N/N/N/ndcc-benefit-concert-songs-of-the-mary-poppins-movie/",
+    1
+   ],
+   [
+    "/events/N/N/N/liederabend-N/",
+    1
+   ],
+   [
+    "/events/N/N/N/the-met-opera-live-in-hd-samson-et-dalila-saint-saens/",
+    1
+   ],
+   [
+    "/events/N/N/N/the-met-opera-live-in-hd-the-magic-flute-mozart-N/",
+    1
+   ],
+   [
+    "/events/N/N/N/the-met-opera-live-in-hd-la-fanciulla-del-west-puccini/",
+    1
+   ],
+   [
+    "/events/calendar/performing-arts/past/",
+    1
+   ],
+   [
+    "mailto:calendar@nd.edu",
+    1
+   ],
+   [
+    "https://events.nd.edu/",
+    1
+   ],
+   [
+    "/events/calendar/architecture/",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [
+   "/manifest.json"
+  ],
+  "dates": [
+   "Nov 11, 2026",
+   "Nov 12, 2026",
+   "Nov 12, 2026",
+   "Nov 15, 2026",
+   "Nov 17, 2026",
+   "Nov 18, 2026"
+  ],
+  "apis": [],
+  "title": "Performing  Arts | Events | Notre Dame Events | University of Notre Dame"
+ },
+ "https://events.nd.edu/": {
+  "status": 200,
+  "final": "https://events.nd.edu/",
+  "bytes": 106211,
+  "ld_types": {
+   "WebPage": 1,
+   "ImageObject": 3,
+   "WebSite": 1,
+   "SearchAction": 1,
+   "Organization": 1,
+   "ContactPoint": 1,
+   "CollegeOrUniversity": 1,
+   "Place": 1,
+   "PostalAddress": 1
+  },
+  "links": [
+   [
+    "https://events.nd.edu/",
+    2
+   ],
+   [
+    "/events/N/N/N/veterans-day-observance/",
+    2
+   ],
+   [
+    "/events/N/N/N/franz-N/",
+    2
+   ],
+   [
+    "/events/N/N/N/coppola-family-real-estate-speaker-series-kurt-ramirez/",
+    2
+   ],
+   [
+    "/events/",
+    2
+   ],
+   [
+    "/events/calendar/architecture/",
+    2
+   ],
+   [
+    "/events/calendar/arts-and-entertainment/",
+    2
+   ],
+   [
+    "/events/calendar/literary-events/",
+    2
+   ],
+   [
+    "/events/calendar/performing-arts/",
+    2
+   ],
+   [
+    "/events/calendar/snite-museum-of-art/",
+    2
+   ],
+   [
+    "/events/calendar/visual-arts/",
+    2
+   ],
+   [
+    "/events/calendar/arts-and-letters/",
+    2
+   ],
+   [
+    "/events/calendar/building-a-beloved-community/",
+    2
+   ],
+   [
+    "/events/calendar/business/",
+    2
+   ],
+   [
+    "/events/calendar/centers-and-institutes/",
+    2
+   ]
+  ],
+  "ics": [],
+  "feeds": [
+   "/manifest.json"
+  ],
+  "dates": [
+   "Nov 11, 2026",
+   "Nov 11, 2026",
+   "Nov 13, 2026",
+   "Nov 11, 2026",
+   "Nov 11, 2026",
+   "Nov 11, 2026"
+  ],
+  "apis": [],
+  "title": "Notre Dame Events | University of Notre Dame"
+ },
+ "https://und.com/notre-dame-stadium/": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://purcellpavilion.nd.edu/": {
+  "error": "<urlopen error [Errno -2] Name or service not known>"
+ },
+ "https://kazoostate.com/": {
+  "status": 200,
+  "final": "https://state-theatre.org/",
+  "bytes": 54957,
+  "ld_types": {},
+  "links": [],
+  "ics": [],
+  "feeds": [
+   "https://state-theatre.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstate-theatre.org%2F",
+   "https://state-theatre.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstate-theatre.org%2F&#038;format=xml",
+   "https://state-theatre.org/wp-json/",
+   "https://state-theatre.org/wp-json/wp/v2/pages/9"
+  ],
+  "dates": [],
+  "apis": [
+   "https://api.w.org/",
+   "https://fonts.googleapis.com",
+   "https://fonts.googleapis.com/css2"
+  ],
+  "title": "The State Theatre &#8211; Kalamazoo, Michigan"
+ },
+ "https://kazoostate.com/events/": {
+  "status": 200,
+  "final": "https://state-theatre.org/",
+  "bytes": 54957,
+  "ld_types": {},
+  "links": [],
+  "ics": [],
+  "feeds": [
+   "https://state-theatre.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstate-theatre.org%2F",
+   "https://state-theatre.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstate-theatre.org%2F&#038;format=xml",
+   "https://state-theatre.org/wp-json/",
+   "https://state-theatre.org/wp-json/wp/v2/pages/9"
+  ],
+  "dates": [],
+  "apis": [
+   "https://api.w.org/",
+   "https://fonts.googleapis.com",
+   "https://fonts.googleapis.com/css2"
+  ],
+  "title": "The State Theatre &#8211; Kalamazoo, Michigan"
+ },
+ "https://millerauditorium.com/": {
+  "status": 200,
+  "final": "https://www.millerauditorium.com/",
+  "bytes": 165118,
+  "ld_types": {},
+  "links": [
+   [
+    "/themes/custom/wmu_miller_auditorium/dist/icons.svg",
+    19
+   ],
+   [
+    "/shows",
+    5
+   ],
+   [
+    "/shows-events/calendar",
+    2
+   ],
+   [
+    "/box-office/wmu-faculty-and-staff-tickets",
+    2
+   ],
+   [
+    "/box-office/ticketing-policies",
+    2
+   ],
+   [
+    "/news/six-new-shows",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [],
+  "dates": [
+   "Nov 20, 2026",
+   "Dec 11, 2026",
+   "Feb 13, 2027",
+   "Feb 25, 2027",
+   "Mar 14, 2027",
+   "Apr 6, 2027"
+  ],
+  "apis": [
+   "https://fonts.googleapis.com/css2"
+  ],
+  "title": "Home | Miller Auditorium"
+ },
+ "https://www.millerauditorium.com/events": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://wmich.edu/millerauditorium": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://www.thelerner.com/": {
+  "status": 200,
+  "final": "https://thelerner.com/",
+  "bytes": 449567,
+  "ld_types": {
+   "WebPage": 1,
+   "ReadAction": 1,
+   "BreadcrumbList": 1,
+   "ListItem": 1,
+   "WebSite": 1,
+   "SearchAction": 1,
+   "EntryPoint": 1,
+   "PropertyValueSpecification": 1,
+   "Organization": 1,
+   "ImageObject": 1,
+   "Event": 29,
+   "Place": 29,
+   "PostalAddress": 29,
+   "Person": 19,
+   "Offer": 22
+  },
+  "links": [
+   [
+    "https://thelerner.com/events/",
+    12
+   ],
+   [
+    "https://thelerner.com/events/list/",
+    7
+   ],
+   [
+    "https://thelerner.com/event/premier-arts-joseph-and-the-amazing-technicolor-dreamcoat-N-N-N/",
+    6
+   ],
+   [
+    "https://thelerner.com/event/elkhart-county-symphony-N-N-N-show-package/",
+    3
+   ],
+   [
+    "https://thelerner.com/event/premier-arts-N-season-package/",
+    3
+   ],
+   [
+    "https://thelerner.com/event/bored-teachers-is-it-friday-yet-comedy-tour/",
+    3
+   ],
+   [
+    "https://www.ticketmaster.com/the-lerner-theatre-tickets-elkhart/venue/N",
+    2
+   ],
+   [
+    "https://travel.ticketmaster.com/en-US/venue/N",
+    2
+   ],
+   [
+    "https://www.linkedin.com/shareArticle",
+    2
+   ],
+   [
+    "https://thelerner.com/event/south-bend-lyric-opera-french-masters-operatic-arias-and-duets/",
+    2
+   ],
+   [
+    "https://thelerner.com/event/elkhart-county-symphony-duel-viNlity/",
+    2
+   ],
+   [
+    "https://thelerner.com/event/friends-of-the-lerner-presents-mike-super-magic-illusion/",
+    2
+   ],
+   [
+    "https://thelerner.com/event/sir-charles-jones-friends-pour-me-a-drank-southern-soul-tour/",
+    2
+   ],
+   [
+    "https://thelerner.com/event/charlie-berens-the-lost-and-found-tour/",
+    2
+   ],
+   [
+    "https://thelerner.com/event/the-nutcracker-free-community-performance/",
+    2
+   ]
+  ],
+  "ics": [],
+  "feeds": [
+   "https://thelerner.com/feed/",
+   "https://thelerner.com/comments/feed/",
+   "https://thelerner.com/events/?ical=1",
+   "https://thelerner.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthelerner.com%2F",
+   "https://thelerner.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthelerner.com%2F&#038;format=xml",
+   "https://thelerner.com/wp-json/",
+   "https://thelerner.com/wp-json/wp/v2/pages/29665",
+   "https://thelerner.com/wp-json/tribe/events/v1/"
+  ],
+  "dates": [
+   "Nov. 15, 2026",
+   "Feb. 14, 2027",
+   "March 14, 2027",
+   "May 16, 2027",
+   "May 16, 2027",
+   "November 12, 2026"
+  ],
+  "apis": [
+   "https://api.w.org/",
+   "https://fonts.googleapis.com",
+   "https://fonts.googleapis.com/css",
+   "https://travel.ticketmaster.com/en-US/venue/22937",
+   "https://www.ticketmaster.com/the-lerner-theatre-tickets-elkhart/venue/42116"
+  ],
+  "title": "The Lerner Theatre, Elkhart, Indiana"
+ },
+ "https://thelerner.com/events/": {
+  "status": 200,
+  "final": "https://thelerner.com/events/",
+  "bytes": 372029,
+  "ld_types": {
+   "CollectionPage": 1,
+   "ImageObject": 2,
+   "BreadcrumbList": 1,
+   "ListItem": 2,
+   "WebSite": 1,
+   "SearchAction": 1,
+   "EntryPoint": 1,
+   "PropertyValueSpecification": 1,
+   "Organization": 1,
+   "Event": 29,
+   "Place": 29,
+   "PostalAddress": 29,
+   "Person": 19,
+   "Offer": 22
+  },
+  "links": [
+   [
+    "https://thelerner.com/events/",
+    8
+   ],
+   [
+    "https://thelerner.com/events/list/",
+    7
+   ],
+   [
+    "https://thelerner.com/event/premier-arts-joseph-and-the-amazing-technicolor-dreamcoat-N-N-N/",
+    6
+   ],
+   [
+    "https://thelerner.com/event/elkhart-county-symphony-N-N-N-show-package/",
+    2
+   ],
+   [
+    "https://thelerner.com/event/premier-arts-N-season-package/",
+    2
+   ],
+   [
+    "https://thelerner.com/event/bored-teachers-is-it-friday-yet-comedy-tour/",
+    2
+   ],
+   [
+    "https://thelerner.com/event/south-bend-lyric-opera-french-masters-operatic-arias-and-duets/",
+    2
+   ],
+   [
+    "https://thelerner.com/event/elkhart-county-symphony-duel-viNlity/",
+    2
+   ],
+   [
+    "https://thelerner.com/event/friends-of-the-lerner-presents-mike-super-magic-illusion/",
+    2
+   ],
+   [
+    "https://thelerner.com/event/sir-charles-jones-friends-pour-me-a-drank-southern-soul-tour/",
+    2
+   ],
+   [
+    "https://thelerner.com/event/charlie-berens-the-lost-and-found-tour/",
+    2
+   ],
+   [
+    "https://thelerner.com/event/the-nutcracker-free-community-performance/",
+    2
+   ],
+   [
+    "https://thelerner.com/event/the-nutcracker-at-the-lerner-theatre-N/",
+    2
+   ],
+   [
+    "https://thelerner.com/event/the-lerner-loves-you-home-alone/",
+    2
+   ],
+   [
+    "https://thelerner.com/event/elkhart-municipal-band-presents-the-north-pole-radio-hour-N/",
+    2
+   ]
+  ],
+  "ics": [],
+  "feeds": [
+   "https://thelerner.com/feed/",
+   "https://thelerner.com/comments/feed/",
+   "https://thelerner.com/events/?ical=1",
+   "https://thelerner.com/events/feed/",
+   "https://thelerner.com/wp-json/",
+   "https://thelerner.com/wp-json/tribe/events/v1/",
+   "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fthelerner.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
+   "webcal://thelerner.com/?post_type=tribe_events&#038;ical=1&#038;eventDisplay=list"
+  ],
+  "dates": [
+   "May 16, 2027",
+   "Nov. 15, 2026",
+   "Feb. 14, 2027",
+   "March 14, 2027",
+   "May 16, 2027",
+   "May 16, 2027"
+  ],
+  "apis": [
+   "https://api.w.org/",
+   "https://fonts.googleapis.com",
+   "https://fonts.googleapis.com/css"
+  ],
+  "title": "Events from Tuesday, September 22 &#8211; Sunday, May 16, 2027 &#8211; The Lerner Theatre"
+ },
+ "https://www.fourwindscasino.com/entertainment": {
+  "status": 200,
+  "final": "https://fourwindscasino.com/entertainment/",
+  "bytes": 237344,
+  "ld_types": {
+   "WebPage": 1,
+   "ReadAction": 1,
+   "BreadcrumbList": 1,
+   "ListItem": 2,
+   "WebSite": 1,
+   "SearchAction": 1,
+   "EntryPoint": 1,
+   "Organization": 1,
+   "ImageObject": 1
+  },
+  "links": [
+   [
+    "https://reservationsN.fourwindscasino.com/ReservationCalendar.action",
+    3
+   ],
+   [
+    "/newbuffalo/entertainment/event-calendar",
+    1
+   ],
+   [
+    "/newbuffalo/entertainment/event-center",
+    1
+   ],
+   [
+    "/newbuffalo/meeting-and-events/meeting-spaces",
+    1
+   ],
+   [
+    "/newbuffalo/meeting-and-events/request-proposal",
+    1
+   ],
+   [
+    "/southbend/entertainment/event-calendar",
+    1
+   ],
+   [
+    "/southbend/meeting-and-events/meeting-spaces",
+    1
+   ],
+   [
+    "/southbend/meeting-and-events/request-proposal",
+    1
+   ],
+   [
+    "https://fourwindscasino.com/southbend/entertainment/event-calendar/",
+    1
+   ],
+   [
+    "https://fourwindscasino.com/newbuffalo/entertainment/event-center/",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [
+   "https://fourwindscasino.com/feed/",
+   "https://fourwindscasino.com/comments/feed/",
+   "https://fourwindscasino.com/wp-json/",
+   "https://fourwindscasino.com/wp-json/wp/v2/pages/4498",
+   "https://fourwindscasino.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffourwindscasino.com%2Fsouthbend%2Fentertainment%2F",
+   "https://fourwindscasino.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffourwindscasino.com%2Fsouthbend%2Fentertainment%2F&#038;format=xml"
+  ],
+  "dates": [],
+  "apis": [
+   "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js",
+   "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+   "https://api.w.org/"
+  ],
+  "title": "Entertainment Southbend - Four Winds Casinos"
+ },
+ "https://www.fourwindscasino.com/new-buffalo/entertainment": {
+  "status": 200,
+  "final": "https://fourwindscasino.com/newbuffalo/entertainment/",
+  "bytes": 239680,
+  "ld_types": {
+   "WebPage": 1,
+   "ReadAction": 1,
+   "BreadcrumbList": 1,
+   "ListItem": 2,
+   "WebSite": 1,
+   "SearchAction": 1,
+   "EntryPoint": 1,
+   "Organization": 1,
+   "ImageObject": 1
+  },
+  "links": [
+   [
+    "https://reservationsN.fourwindscasino.com/ReservationCalendar.action",
+    3
+   ],
+   [
+    "/newbuffalo/entertainment/event-calendar",
+    1
+   ],
+   [
+    "/newbuffalo/entertainment/event-center",
+    1
+   ],
+   [
+    "/newbuffalo/meeting-and-events/meeting-spaces",
+    1
+   ],
+   [
+    "/newbuffalo/meeting-and-events/request-proposal",
+    1
+   ],
+   [
+    "/southbend/entertainment/event-calendar",
+    1
+   ],
+   [
+    "/southbend/meeting-and-events/meeting-spaces",
+    1
+   ],
+   [
+    "/southbend/meeting-and-events/request-proposal",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [
+   "https://fourwindscasino.com/feed/",
+   "https://fourwindscasino.com/comments/feed/",
+   "https://fourwindscasino.com/wp-json/",
+   "https://fourwindscasino.com/wp-json/wp/v2/pages/2587",
+   "https://fourwindscasino.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffourwindscasino.com%2Fnewbuffalo%2Fentertainment%2F",
+   "https://fourwindscasino.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffourwindscasino.com%2Fnewbuffalo%2Fentertainment%2F&#038;format=xml"
+  ],
+  "dates": [],
+  "apis": [
+   "https://ajax.googleapis.com",
+   "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js",
+   "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+   "https://api.w.org/"
+  ],
+  "title": "entertainment - Four Winds Casinos"
+ },
+ "https://howard.andrews.edu/": {
+  "status": 200,
+  "final": "https://howard.andrews.edu/",
+  "bytes": 59366,
+  "ld_types": {},
+  "links": [
+   [
+    "",
+    26
+   ],
+   [
+    "https://www.tix.com/ticket-sales/howard/N/event/N",
+    8
+   ],
+   [
+    "/events/index.html",
+    2
+   ],
+   [
+    "https://www.tix.com/ticket-sales/howard/N",
+    2
+   ],
+   [
+    "/events",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [],
+  "dates": [
+   "December 23, 2021",
+   "January 2, 2022",
+   "January 3, 2022",
+   "November 15, 2026",
+   "January 24, 2027",
+   "April 4, 2027"
+  ],
+  "apis": [],
+  "title": "Andrews University ::  - Howard Performing Arts Center"
+ },
+ "https://www.andrews.edu/services/howard/": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://www.lmc.edu/mendel/": {
+  "status": 200,
+  "final": "https://www.lmc.edu/mendel/",
+  "bytes": 28365,
+  "ld_types": {},
+  "links": [
+   [
+    "https://leesmcrae.campusgroups.com/calendar",
+    2
+   ],
+   [
+    "https://www.lmcbobcats.com/calendar",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [
+   "https://vr2.verticalresponse.com/s/websitesignupform43980465122824"
+  ],
+  "dates": [],
+  "apis": [],
+  "title": "File Not Found File Not Found"
+ },
+ "https://www.goshen.edu/music-center/": {
+  "status": 200,
+  "final": "https://www.goshen.edu/events-office/music-center-rental/",
+  "bytes": 59735,
+  "ld_types": {
+   "WebPage": 1,
+   "ReadAction": 1,
+   "BreadcrumbList": 1,
+   "ListItem": 3,
+   "WebSite": 1,
+   "SearchAction": 1,
+   "EntryPoint": 1,
+   "PropertyValueSpecification": 1,
+   "Organization": 1,
+   "ImageObject": 1
+  },
+  "links": [
+   [
+    "https://www.goshen.edu/news-events/",
+    3
+   ],
+   [
+    "https://www.goshen.edu/events-office/music-center-rental/",
+    2
+   ],
+   [
+    "https://www.goshen.edu/events-office/",
+    2
+   ],
+   [
+    "https://es.goshen.edu/events-office/music-center-rental/",
+    1
+   ],
+   [
+    "https://fr.goshen.edu/events-office/music-center-rental/",
+    1
+   ],
+   [
+    "https://pt.goshen.edu/events-office/music-center-rental/",
+    1
+   ],
+   [
+    "https://zh-CN.goshen.edu/events-office/music-center-rental/",
+    1
+   ],
+   [
+    "https://www.goshen.edu/news-events/in-the-news/",
+    1
+   ],
+   [
+    "https://www.goshen.edu/events/",
+    1
+   ],
+   [
+    "https://gcmusiccenter.org/N-N-performing-arts-series/",
+    1
+   ],
+   [
+    "https://goleafs.net/calendar",
+    1
+   ],
+   [
+    "https://merrylea.goshen.edu/category/events/",
+    1
+   ],
+   [
+    "https://www.goshen.edu/news-events/lectures/",
+    1
+   ],
+   [
+    "https://www.goshen.edu/news-events/graduation/",
+    1
+   ],
+   [
+    "https://gconline.goshen.edu/public/prod/eventcal/bin/",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [
+   "https://www.goshen.edu/website-feedback/"
+  ],
+  "dates": [],
+  "apis": [],
+  "title": "Music Center Venue Rental for Weddings | Goshen College"
+ },
+ "https://www.saintmarys.edu/moreau": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://www.wmich.edu/events": {
+  "status": 200,
+  "final": "https://wmich.edu/events",
+  "bytes": 110440,
+  "ld_types": {
+   "Organization": 1
+  },
+  "links": [
+   [
+    "https://wmich.edu/theatre/events/kinky-boots",
+    2
+   ],
+   [
+    "https://wmich.edu/events",
+    1
+   ],
+   [
+    "https://wmich.edu/music/events/campus-choir",
+    1
+   ],
+   [
+    "https://wmich.edu/psaw/events/board-meeting-N-N-N",
+    1
+   ],
+   [
+    "https://wmich.edu/business/events/frame-N",
+    1
+   ],
+   [
+    "https://wmich.edu/walkerinstitute/events/lnl-nielsen-N",
+    1
+   ],
+   [
+    "https://wmich.edu/global/events/fulbright-info-table",
+    1
+   ],
+   [
+    "https://wmich.edu/global/events/welcome-here",
+    1
+   ],
+   [
+    "https://wmich.edu/international/events/conversation-circles",
+    1
+   ],
+   [
+    "https://wmich.edu/business/events/planning-N",
+    1
+   ],
+   [
+    "https://wmich.edu/education/events/cecpN",
+    1
+   ],
+   [
+    "https://wmich.edu/politics/events/post-election-discussion",
+    1
+   ],
+   [
+    "https://wmich.edu/global/events/museum-visit",
+    1
+   ],
+   [
+    "https://wmich.edu/music/events/big-band-swing-N",
+    1
+   ],
+   [
+    "https://wmich.edu/westhills/events/N-fitness-launch",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [],
+  "dates": [
+   "Nov 11, 2026",
+   "Nov 12, 2026",
+   "Nov 13, 2026"
+  ],
+  "apis": [
+   "https://fonts.googleapis.com",
+   "https://fonts.googleapis.com/css2"
+  ],
+  "title": "Events calendar | Western Michigan University"
+ },
+ "https://www.southbendcubs.com/schedule": {
+  "status": 200,
+  "final": "https://www.mlb.com/milb/south-bend",
+  "bytes": 520510,
+  "ld_types": {
+   "SportsTeam": 1,
+   "SportsOrganization": 1
+  },
+  "links": [
+   [
+    "https://www.milb.com/south-bend/events/holiday",
+    4
+   ],
+   [
+    "https://www.milb.com/south-bend/tickets/",
+    1
+   ],
+   [
+    "https://www.milb.com/south-bend/tickets/seasonseats",
+    1
+   ],
+   [
+    "https://www.milb.com/south-bend/tickets/halfseasonseats",
+    1
+   ],
+   [
+    "https://www.milb.com/south-bend/tickets/Ngameplan",
+    1
+   ],
+   [
+    "https://www.milb.com/south-bend/tickets/offers",
+    1
+   ],
+   [
+    "https://www.milb.com/south-bend/tickets/group-areas",
+    1
+   ],
+   [
+    "https://www.milb.com/south-bend/tickets/fieldofdreams",
+    1
+   ],
+   [
+    "https://www.milb.com/south-bend/tickets/birthdays",
+    1
+   ],
+   [
+    "https://mlb.tickets.com/",
+    1
+   ],
+   [
+    "https://www.milb.com/south-bend/tickets/help",
+    1
+   ],
+   [
+    "https://www.milb.com/south-bend/tickets/single-game-tickets",
+    1
+   ],
+   [
+    "https://www.milb.com/south-bend/tickets/promotions",
+    1
+   ],
+   [
+    "https://www.milb.com/south-bend/ballpark/upcoming-events/",
+    1
+   ],
+   [
+    "https://www.milb.com/south-bend/ballpark/holidayevents",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [],
+  "dates": [],
+  "apis": [
+   "https://dapi-milb.mlbinfra.com/v2/content"
+  ],
+  "title": "Official South Bend Cubs Website"
+ },
+ "https://www.cityofsouthbend.com/": {
+  "status": 200,
+  "final": "https://www.cityofsouthbend.com/",
+  "bytes": 114,
+  "ld_types": {},
+  "links": [],
+  "ics": [],
+  "feeds": [],
+  "dates": [],
+  "apis": [],
+  "title": ""
+ },
+ "https://kalamazoogrowlers.com/schedule/": {
+  "error": "<urlopen error [Errno 111] Connection refused>"
+ }
+}
