@@ -21,14 +21,3 @@ jobs:
           git add nights.json status.json games.json sports_status.json nights.ics games.ics cards/
           git diff --cached --quiet || git commit -m "Nights read $(date -u +%F)"
           git pull --rebase -q && git push
-      # Facebook keeps a page's card until asked to read it again: ask it each morning for the two pages whose card changes daily.
-      # Needs the repository secret FB_APP_TOKEN (the same "<app id>|<app secret>" as projectscroll's); without it, nothing happens.
-      - name: Tell Facebook the cards changed
-        env:
-          FB: ${{ secrets.FB_APP_TOKEN }}
-        run: |
-          [ -n "$FB" ] || { echo "no FB_APP_TOKEN secret"; exit 0; }
-          sleep 120   # raw.githubusercontent.com keeps a copy for up to five minutes
-          for u in https://projectscroll.com/scroll-bar/ https://projectscroll.com/sports/; do
-            curl -sS -o /dev/null -w "$u %{http_code}\n" -X POST https://graph.facebook.com/v19.0/ --data-urlencode "id=$u" -d scrape=true --data-urlencode "access_token=$FB" || true
-          done
