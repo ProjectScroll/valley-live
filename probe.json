@@ -1,192 +1,28 @@
 {
- "https://www.aucardinals.com/": {
-  "error": "HTTP Error 405: Not Allowed"
- },
- "https://www.aucardinals.com/sports/mens-basketball/schedule": {
-  "error": "HTTP Error 405: Not Allowed"
- },
- "https://silverharborbrewing.com/event/sunday-brunch-2/": {
+ "https://cafe.bellsbeer.com/event/welshly-arms-with-the-astronomers/bells-brewery-tours/": {
   "status": 200,
-  "final": "https://silverharborbrewing.com/event/sunday-brunch-2/",
-  "bytes": 91235,
+  "final": "https://cafe.bellsbeer.com/event/welshly-arms-with-the-astronomers/bells-brewery-tours/",
+  "bytes": 237066,
   "ld_types": {},
   "links": [
    [
-    "https://silverharborbrewing.com/group-events/",
-    7
-   ],
-   [
-    "https://silverharborbrewing.com/events/",
+    "https://bellsbeer.com/host-a-private-event/",
     5
    ],
    [
-    "https://silverharborbrewing.com/wp-json/oembed/N.N/embed",
+    "https://events.bellsbeer.com",
+    4
+   ],
+   [
+    "https://cafe.bellsbeer.com/wp-json/oembed/N.N/embed",
     2
-   ],
-   [
-    "https://silverharborbrewing.com/wp-json/wp/vN/event/N",
-    1
-   ],
-   [
-    "https://silverharborbrewing.com/event/sunday-brunch-N/",
-    1
-   ],
-   [
-    "https://silverharborbrewing.com/events",
-    1
-   ]
-  ],
-  "ics": [],
-  "feeds": [
-   "https://silverharborbrewing.com/feed/",
-   "https://silverharborbrewing.com/comments/feed/",
-   "https://silverharborbrewing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsilverharborbrewing.com%2Fevent%2Fsunday-brunch-2%2F",
-   "https://silverharborbrewing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsilverharborbrewing.com%2Fevent%2Fsunday-brunch-2%2F&#038;format=xml",
-   "https://silverharborbrewing.com/wp-json/",
-   "https://silverharborbrewing.com/wp-json/wp/v2/event/3562"
-  ],
-  "dates": [
-   "December 6, 2026",
-   "December 6, 2026"
-  ],
-  "apis": [
-   "https://api.w.org/"
-  ],
-  "snip": "t--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list\" data-id=\"4e2ae46\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"icon-list.default\"> <div class=\"elementor-widget-container\"> <ul class=\"elementor-icon-list-items\"> <li class=\"elementor-icon-list-item\"> <a href=\"https://silverharborbrewing.com/events\"> <span class=\"elementor-icon-list-icon\"> <i aria-hidden=\"true\" class=\"fas fa-long-arrow-alt-left\"></i> </span> <span class=\"elementor-icon-list-text\">Events</span> </a> </li> </ul> </div> </div> <div class=\"elementor-element elementor-element-8f9ba11 elementor-widget elementor-widget-heading\" data-id=\"8f9ba11\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h1 class=\"elementor-heading-title elementor-size-default\">Sunday Brunch</h1> </div> </div> <div class=\"elementor-element elementor-element-a74f604 e-con-full e-flex e-con e-child\" data-id=\"a74f604\" data-element_type=\"container\" data-e-type=\"container\"> <div class=\"elementor-element elementor-element-a23ebf2 elementor-widget elementor-widget-heading\" data-id=\"a23ebf2\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <p class=\"elementor-heading-title elementor-size-default\">December 6, 2026</p> </div> </div> <div class=\"elementor-element elementor-element-1463642 elementor-widget elementor-widget-heading\" data-id=\"1463642\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <p class=\"elementor-heading-title elementor-size-default\">- December 6, 2026</p> </div> </div> </div> <div class=\"elementor-element elementor-element-58d0d45 elementor-widget elementor-widget-heading\" data-id=\"58d0d45\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <p class=\"elementor-heading-title elementor-size-default\">Miracle on Pleasant Street @ SHBC</p> </div> </div> <div class=\"elementor-element elementor-element-ba5abbc elementor-widget elementor-widget-theme-post-content\" data-id=\"ba5abbc\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"theme-post-content.default\"> <div class=\"elementor-widget-container\"> <p data-pm-slice=\"1 1 []\">Celebrate the season with a festive Christmas brunch at our holiday pop-up bar! Enjoy a delicious food buffet, seasonal drinks for adults and kids, and a magical Christmas atmosphere filled with holiday cheer. Gather your family and friends for a merry morning of great food, festive sips, and Christmas memories!</p> <p data-pm-slice=\"1 1 []\">Reservations Coming Soon!</p> </div> </div> </div> </di",
-  "head": "",
-  "types_json": null,
-  "title": "Sunday Brunch &#8211; Silver Harbor Brewing Company"
- },
- "https://cafe.bellsbeer.com/events/": {
-  "status": 200,
-  "final": "https://cafe.bellsbeer.com/events/",
-  "bytes": 392027,
-  "ld_types": {},
-  "links": [
-   [
-    "https://cafe.bellsbeer.com/event/kalamazoo-academy-of-rock-N/bells-brewery-tours/",
-    9
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/kait-rose-co-presents-fleetwood-magic-N/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://bellsbeer.com/host-a-private-event/",
-    5
-   ],
-   [
-    "https://events.bellsbeer.com",
-    4
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/kait-rose-co-presents-fleetwood-magic-N-day-package/bells-brewery-tours/",
-    3
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/lions-game-brunch/bells-brewery-tours/",
-    3
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/welshly-arms-with-the-astronomers/bells-brewery-tours/",
-    3
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/rev-peytons-big-damn-band-wsg-adrian-and-meredith-band/bells-brewery-tours/",
-    3
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/small-brown-bike-with-criteria-and-bronson-arm/bells-brewery-tours/",
-    3
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/lee-emi-emilee-petersmark-of-the-crane-wives-with-cal-in-red/bells-brewery-tours/",
-    3
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/wreath-making/bells-brewery-tours/",
-    3
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/dwts-finale-watch-party-N/bells-brewery-tours/",
-    3
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/black-friday-kickback-featuring-dc-yolonda-wsg-dj-conscious/bells-brewery-tours/",
-    3
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/lower-leisure-class-with-no-bails-and-krass-kringle/bells-brewery-tours/",
-    3
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/holiday-bizarre-bazaar-N/bells-brewery-tours/",
-    3
-   ]
-  ],
-  "ics": [],
-  "feeds": [
-   "https://cafe.bellsbeer.com/feed/",
-   "https://cafe.bellsbeer.com/comments/feed/",
-   "https://cafe.bellsbeer.com/events/feed/",
-   "https://cafe.bellsbeer.com/wp-json/"
-  ],
-  "dates": [],
-  "apis": [
-   "https://api.w.org/",
-   "https://fonts.googleapis.com/css",
-   "https://fonts.googleapis.com/css2",
-   "https://www.etix.com/ticket/k/18927895/kait-rose-co-presentsfleetwood-magic-2-day-package-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/32988076/lions-game-brunch-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/33024783/kso-craft-presentscarnival-of-the-animals-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/35099062/vintage-music-market-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/42297221/berthagrateful-drag-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/44383712/kso-craft-presentscarnival-of-the-animals-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/46283742/kalamazoo-academy-of-rock-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/48804859/revpeytons-big-damn-band-wsg-adrian-and-meredith-band-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/51587494/sicard-hollow-kalamazoo-bells-eccentric-cafe"
-  ],
-  "snip": "<!doctype html> <html lang=\"en-US\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"> <link rel=\"profile\" href=\"https://gmpg.org/xfn/11\"> <title> Events | Cafe - Bell&#039;s Brewery </title> <title>Events &#8211; Cafe &#8211; Bell&#039;s Brewery</title> <meta name='robots' content='max-image-preview:large' /> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Cafe - Bell&#039;s Brewery &raquo; Feed\" href=\"https://cafe.bellsbeer.com/feed/\" /> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Cafe - Bell&#039;s Brewery &raquo; Comments Feed\" href=\"https://cafe.bellsbeer.com/comments/feed/\" /> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Cafe - Bell&#039;s Brewery &raquo; Events Feed\" href=\"https://cafe.bellsbeer.com/events/feed/\" /> <style id=\"wp-img-auto-sizes-contain-inline-css\"> img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px} /*# sourceURL=wp-img-auto-sizes-contain-inline-css */ </style> <link rel='stylesheet' id='wp-block-library-css' href='https://cafe.bellsbeer.com/wp-includes/css/dist/block-library/style.min.css?ver=0c2c3e111437b9e8c03dfe991d01eb86' media='all' /> <style id=\"global-styles-inline-css\"> :root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,",
-  "head": "",
-  "types_json": null,
-  "title": "Events | Cafe - Bell&#039;s Brewery"
- },
- "https://cafe.bellsbeer.com/event-genres/rock/": {
-  "status": 200,
-  "final": "https://cafe.bellsbeer.com/event-genres/rock/",
-  "bytes": 242706,
-  "ld_types": {},
-  "links": [
-   [
-    "https://cafe.bellsbeer.com/event/kalamazoo-academy-of-rock-N/bells-brewery-tours/",
-    12
-   ],
-   [
-    "https://bellsbeer.com/host-a-private-event/",
-    5
-   ],
-   [
-    "https://events.bellsbeer.com",
-    4
    ],
    [
     "https://events.bellsbeer.com/",
     2
    ],
    [
-    "https://cafe.bellsbeer.com/event/prince-daddy-the-hyena-wsg-combat-and-walter-etc-with-cinema-stare/bells-brewery-tours/",
-    2
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/small-brown-bike-with-criteria-and-bronson-arm/bells-brewery-tours/",
-    2
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/basic-doug-mccombs-of-tortoise-chris-forsyth/bells-brewery-tours/",
-    2
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/g-love-special-sauce-with-wayne-baker-brooks/bells-brewery-tours/",
+    "https://www.etix.com/ticket/p/N/welshly-arms-with-the-astronomers-kalamazoo-bells-eccentric-cafe",
     2
    ],
    [
@@ -194,11 +30,7 @@
     2
    ],
    [
-    "https://cafe.bellsbeer.com/event-genres/rock/feed/",
-    1
-   ],
-   [
-    "https://cafe.bellsbeer.com/event-genres/rock/page/N/",
+    "https://cafe.bellsbeer.com/event/welshly-arms-with-the-astronomers/bells-brewery-tours/",
     1
    ]
   ],
@@ -206,20 +38,35 @@
   "feeds": [
    "https://cafe.bellsbeer.com/feed/",
    "https://cafe.bellsbeer.com/comments/feed/",
-   "https://cafe.bellsbeer.com/event-genres/rock/feed/",
+   "https://cafe.bellsbeer.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcafe.bellsbeer.com%2Fevent%2Fwelshly-arms-with-the-astronomers%2Fbells-brewery-tours%2F",
+   "https://cafe.bellsbeer.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcafe.bellsbeer.com%2Fevent%2Fwelshly-arms-with-the-astronomers%2Fbells-brewery-tours%2F&#038;format=xml",
    "https://cafe.bellsbeer.com/wp-json/"
   ],
-  "dates": [
-   "June 12, 2026"
-  ],
+  "dates": [],
   "apis": [
    "https://api.w.org/",
    "https://fonts.googleapis.com/css",
-   "https://fonts.googleapis.com/css2"
+   "https://fonts.googleapis.com/css2",
+   "https://www.etix.com/ticket/p/96080198/welshly-arms-with-the-astronomers-kalamazoo-bells-eccentric-cafe"
   ],
-  "snip": "entor-element elementor-element-2af1cad9 e-con-full e-flex e-con e-child\" data-id=\"2af1cad9\" data-element_type=\"container\" data-e-type=\"container\"> <div class=\"elementor-element elementor-element-52df4f66 elementor-view-default elementor-widget elementor-widget-icon\" data-id=\"52df4f66\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"icon.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-icon-wrapper\"> <a class=\"elementor-icon\" href=\"#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjY4MjUwIiwidG9nZ2xlIjpmYWxzZX0%3D\" aria-label=\"click here to open the mobile menu\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"800px\" height=\"800px\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#FFB100\"><g id=\"SVGRepo_bgCarrier\" stroke-width=\"0\"></g><g id=\"SVGRepo_tracerCarrier\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></g><g id=\"SVGRepo_iconCarrier\"><path d=\"M4 18L20 18\" stroke=\"#FFB100\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M4 12L20 12\" stroke=\"#FFB100\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M4 6L20 6\" stroke=\"#FFB100\" stroke-width=\"2\" stroke-linecap=\"round\"></path></g></svg> </a> </div> </div> </div> </div> </div> </div> </header> <main id=\"content\" class=\"site-main\"> <div class=\"page-header\"> <h1 class=\"entry-title\">Genre: <span>Rock</span></h1> </div> <div class=\"page-content\"> <article class=\"post\"> <h2 class=\"entry-title\"><a href=\"https://cafe.bellsbeer.com/event/kalamazoo-academy-of-rock-25/bells-brewery-tours/\">Kalamazoo Academy Of Rock</a></h2><a href=\"https://cafe.bellsbeer.com/event/kalamazoo-academy-of-rock-25/bells-brewery-tours/\"><img loading=\"lazy\" width=\"800\" height=\"534\" src=\"https://cafe.bellsbeer.com/wp-content/uploads/2025/01/etix-Kalamazoo_3160801736085163.jfif\" class=\"attachment-large size-large wp-post-image\" alt=\"\" decoding=\"async\" /></a><p>This is an all-ages event Advance tickets may also be purchased in person at the General Store by card only (no cash) Kalamazoo Academy of Rock is back at Bell&#8217;s! These youth bands have been wow-ing audiences for years &#8211; come on down for a show like no other! For more information about KAR visit www.kzoorock.com</p> </article> <article class=\"post\"> <h2 class=\"entry-title\"><a href=\"https://cafe.bellsbeer.com/event/kalamazoo-academy-of-rock-26/bells-brewery-tours/\">Kalamazoo Academy Of Rock</a></h2><a href=\"https://cafe.bellsbeer.com/event/kalamazoo-academy-of-rock-26/bells-brewery-tours/\"><img loading=\"lazy\" width=\"800\" height=\"534\" src=\"https://cafe.bellsbeer.com/wp-content/uploads/2025/01/etix-Kalamazoo_3160801736085163.jfif\" class=\"attachment-large size-large wp-post-image\" alt=\"\" decoding=\"async\" /></a><p>This is an all-ages event Advance tickets may also be purchased in person at the General Store by card only (no cash) Kalamazoo Academy of Rock is back at Bell&#8217;s! These youth bands have been wow-ing audience",
+  "snip": "div> </div><!-- end headerBox--> <!-- CTA below Headliner --> <div class = \"eventImgBox col-12 p-0 d-block d-lg-none px-md-0\"> <div class = \"rhp-events-event-image position-relative z-index-0\"> <img src=\"https://cafe.bellsbeer.com/wp-content/uploads/2026/08/welshly-arms.jpeg\" title=\"Welshly Arms with The Astronomers\" alt='Welshly Arms with The Astronomers' /> </div> </div> <div class = \"col-12 p-0 ctaBox d-lg-none d-md-block d-none px-md-0\"> <span id=\"ctaspan-367734\" class=\"rhp-event-cta on-sale\"><a class=\"btn btn-primary btn-md d-block w-100\" target=\"_blank\" rel=\"external\" title=\"Buy Tickets\" href=\"https://www.etix.com/ticket/p/96080198/welshly-arms-with-the-astronomers-kalamazoo-bells-eccentric-cafe?partner_id=100\" >Buy Tickets</a></span> <div class=\"multiple_ctas d-block\"> </div> </div><!-- end events CTA --> <div class = \"contentBox px-4 px-md-0 pt-1 pb-4\"> <div class=\"col-12 p-0\"> <div class = \"row g-0\"> <div class = \"col-sm-12\"> <div class = \"d-block EventsDateBox\"> <span class = \"eventStDate text-uppercase\">Wednesday, November 18</span> </div><!-- end event start date --> <div class=\"row g-0\"> </div> <div class = \"eventsColor eventDoorStartDate d-flex align-items-center\"> <i class=\"rhp-events-icon clock me-1\"></i> <span class = \"font0Med75\"> Show: 8 pm </span> </div><!-- end event doors date --> <div class = \"d-flex align-items-center eventsColor eventCost pt-2\"> <i class=\"rhp-events-icon ticket me-1\"></i> <span class=\"\"> $28.76 </span> </div><!-- end event cost --> </div><!-- end col-sm-12 --> </div><!-- end row --> </div> <!-- col-12--> <div class = \"col-12\"",
   "head": "",
   "types_json": null,
-  "title": "Rock &#8211; Cafe &#8211; Bell&#039;s Brewery"
+  "title": "Welshly Arms with The Astronomers &#8211; Cafe &#8211; Bell&#039;s Brewery"
+ },
+ "https://silverharborbrewing.com/wp-json/wp/v2/event?per_page=3": {
+  "status": 200,
+  "final": "https://silverharborbrewing.com/wp-json/wp/v2/event?per_page=3",
+  "bytes": 7189,
+  "ld_types": {},
+  "links": [],
+  "ics": [],
+  "feeds": [],
+  "dates": [],
+  "apis": [],
+  "snip": "[{\"id\":3562,\"date\":\"2026-10-11T19:40:11\",\"date_gmt\":\"2026-10-11T19:40:11\",\"guid\":{\"rendered\":\"https:\\/\\/silverharborbrewing.com\\/?post_type=event&#038;p=3562\"},\"modified\":\"2026-10-11T19:40:11\",\"modified_gmt\":\"2026-10-11T19:40:11\",\"slug\":\"sunday-brunch-2\",\"status\":\"publish\",\"type\":\"event\",\"link\":\"https:\\/\\/silverharborbrewing.com\\/event\\/sunday-brunch-2\\/\",\"title\":{\"rendered\":\"Sunday Brunch\"},\"content\":{\"rendered\":\"<p data-pm-slice=\\\"1 1 []\\\">Celebrate the season with a festive Christmas brunch at our holiday pop-up bar! Enjoy a delicious food buffet, seasonal drinks for adults and kids, and a magical Christmas atmosphere filled with holiday cheer. Gather your family and friends for a merry morning of great food, festive sips, and Christmas memories!<\\/p>\\n<p data-pm-slice=\\\"1 1 []\\\">Reservations Coming Soon!<\\/p>\\n\",\"protected\":false},\"excerpt\":{\"rendered\":\"<p>Celebrate the season with a festive Christmas brunch at our holiday pop-up bar! Enjoy a delicious food buffet, seasonal drinks for adults and kids, and a magical Christmas atmosphere filled with holiday cheer. Gather your family and friends for a merry morning of great food, festive sips, and Christmas memories! Reservations Coming Soon!<\\/p>\\n\",\"protected\":false},\"featured_media\":3564,\"template\":\"\",\"meta\":{\"_acf_changed\":false,\"footnotes\":\"\"},\"tags\":[],\"class_list\":[\"post-3562\",\"event\",\"type-event\",\"status-publish\",\"has-post-thumbnail\",\"hentry\"],\"acf\":[],\"_links\":{\"self\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\\",
+  "head": "[{\"id\":3562,\"date\":\"2026-10-11T19:40:11\",\"date_gmt\":\"2026-10-11T19:40:11\",\"guid\":{\"rendered\":\"https:\\/\\/silverharborbrewing.com\\/?post_type=event&#038;p=3562\"},\"modified\":\"2026-10-11T19:40:11\",\"modified_gmt\":\"2026-10-11T19:40:11\",\"slug\":\"sunday-brunch-2\",\"status\":\"publish\",\"type\":\"event\",\"link\":\"https:\\/\\/silverharborbrewing.com\\/event\\/sunday-brunch-2\\/\",\"title\":{\"rendered\":\"Sunday Brunch\"},\"content\":{\"rendered\":\"<p data-pm-slice=\\\"1 1 []\\\">Celebrate the season with a festive Christmas brunch at our holiday pop-up bar! Enjoy a delicious food buffet, seasonal drinks for adults and kids, and a magical Christmas atmosphere filled with holiday cheer. Gather your family and friends for a merry morning of great food, festive sips, and Christmas memories!<\\/p>\\n<p data-pm-slice=\\\"1 1 []\\\">Reservations Coming Soon!<\\/p>\\n\",\"protected\":false},\"excerpt\":{\"rendered\":\"<p>Celebrate the season with a festive Christmas brunch at our holiday pop-up bar! Enjoy a delicious food buffet, seasonal drinks for adults and kids, and a magical Christmas atmosphere filled with holiday cheer. Gather your family and friends for a merry morning of great food, festive sips, and Christmas memories! Reservations Coming Soon!<\\/p>\\n\",\"protected\":false},\"featured_media\":3564,\"template\":\"\",\"meta\":{\"_acf_changed\":false,\"footnotes\":\"\"},\"tags\":[],\"class_list\":[\"post-3562\",\"event\",\"type-event\",\"status-publish\",\"has-post-thumbnail\",\"hentry\"],\"acf\":[],\"_links\":{\"self\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\\/3562\",\"targetHints\":{\"allow\":[\"GET\"]}}],\"collection\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\"}],\"about\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/types\\/event\"}],\"version-history\":[{\"count\":3,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\\/3562\\/revisions\"}],\"predecessor-version\":[{\"id\":3570,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\\/3562\\/revisions\\/3570\"}],\"wp:featuredmedia\":[{\"embeddable\":true,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/media\\/3564\"}],\"wp:attachment\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/media?parent=3562\"}],\"wp:term\":[{\"taxonomy\":\"post_tag\",\"embeddable\":true,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/tags?post=3562\"}],\"curies\":[{\"name\":\"wp\",\"href\":\"https:\\/\\/api.w.org\\/{rel}\",\"templated\":true}]}},{\"id\":3566,\"date\":\"2026-10-11T19:38:51\",\"date_gmt\":\"2026-10-11T19:38:51\",\"guid\":{\"rendered\":\"https:\\/\\/silverharborbrewing.com\\/?post_type=event&#038;p=3566\"},\"modified\":\"2026-10-11T19:38:51\",\"modified_gmt\":\"2026-10-11T19:38:51\",\"slug\":\"sunday-brunch\",\"status\":\"publish\",\"type\":\"event\",\"link\":\"https:\\/\\/silverharborbrewing.com\\/event\\/sunday-brunch\\/\",\"title\":{\"rendered\":\"Sunday Brunch\"},\"content\":{\"rendered\":\"<p data-pm-slice=\\\"1 1 []\\\">Celebrate the season with a festive Christmas brunch at our holiday pop-up bar! Enjoy a delicious food buffet, seasonal drinks for adults and kids, and a magical Christmas atmosphere filled with holiday cheer. Gather your family and friends for a merry morning of great food, festive sips, and Christmas memories!<\\/p>\\n<p data-pm-slice=\\\"1 1 []\\\">\\n<p data-pm-slice=\\\"1 1 []\\\">Reservations Coming Soon!<\\/p>\\n\",\"protected\":false},\"excerpt\":{\"rendered\":\"<p>Celebrate the season with a festive Christmas brunch at our holiday pop-up bar! Enjoy a delicious food buffet, seasonal drinks for adults and kids, and a magical Christmas atmosphere filled with holiday cheer. Gather your family and friends for a merry morning of great food, festive sips, and Christmas memories! Reservations Coming Soon!<\\/p>\\n\",\"protected\":false},\"featured_media\":3567,\"template\":\"\",\"meta\":{\"_acf_changed\":false,\"footnotes\":\"\"},\"tags\":[],\"class_list\":[\"post-3566\",\"event\",\"type-event\",\"status-publish\",\"has-post-thumbnail\",\"hentry\"],\"acf\":[],\"_links\":{\"self\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\\/3566\",\"targetHints\":{\"allow\":[\"GET\"]}}],\"collection\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\"}],\"about\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/types\\/event\"}],\"version-history\":[{\"count\":2,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\\/3566\\/revisions\"}],\"predecessor-version\":[{\"id\":3569,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\\/3566\\/revisions\\/3569\"}],\"wp:featuredmedia\":[{\"embeddable\":true,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/media\\/3567\"}],\"wp:attachment\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/media?parent=3566\"}],\"wp:term\":[{\"taxonomy\":\"post_tag\",\"embeddable\":true,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/tags?post=3566\"}],\"curies\":[{\"name\":\"wp\",\"href\":\"https:\\/\\/api.w.org\\/{rel}\",\"templated\":true}]}},{\"id\":3558,\"date\":\"2026-10-11T19:26:09\",\"date_gmt\":\"2026-10-11T19:26:09\",\"guid\":{\"rendered\":\"https:\\/\\/silverharborbrewing.com\\/?post_type=event&#038;p=3558\"},\"modified\":\"2026-10-18T16:26:27\",\"modified_gmt\":\"2026-10-18T16:26:27\",\"slug\":\"grinch-brunch\",\"status\":\"publish\",\"type\":\"event\",\"link\":\"https:\\/\\/silverharborbrewing.com\\/event\\/grinch-brunch\\/\",\"title\":{\"rendered\":\"Grinch Brunch\"},\"content\":{\"rendered\":\"<p>Celebrate the season with a little holiday cheer and just the right amount of mischief. Enjoy a delicious food buffet and special festive drinks for both adults and kids. We hear an appearance from the Grinch himself is on the way while you enjoy our pop-up Christmas experience. It\\u2019s a morning of fun, laughter, and great food for the whole family.<\\/p>\\n<p>&nbsp;<\\/p>\\n<p>&nbsp;<\\/p>\\n\",\"protected\":false},\"excerpt\":{\"rendered\":\"<p>Celebrate the season with a little holiday cheer and just the right amount of mischief. Enjoy a delicious food buffet and special festive drinks for both adults and kids. We hear an appearance from the Grinch himself is on the way while you enjoy our pop-up Christmas experience. It\\u2019s a morning of fun, laughter, and [&hellip;]<\\/p>\\n\",\"protected\":false},\"featured_media\":3559,\"template\":\"\",\"meta\":{\"_acf_changed\":false,\"footnotes\":\"\"},\"tags\":[],\"class_list\":[\"post-3558\",\"event\",\"type-event\",\"status-publish\",\"has-post-thumbnail\",\"hentry\"],\"acf\":[],\"_links\":{\"self\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\\/3558\",\"targetHints\":{\"allow\":[\"GET\"]}}],\"collection\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\"}],\"about\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/types\\/event\"}],\"version-history\":[{\"count\":5,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\\/3558\\/revisions\"}],\"predecessor-version\":[{\"id\":3586,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/event\\/3558\\/revisions\\/3586\"}],\"wp:featuredmedia\":[{\"embeddable\":true,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/media\\/3559\"}],\"wp:attachment\":[{\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/media?parent=3558\"}],\"wp:term\":[{\"taxonomy\":\"post_tag\",\"embeddable\":true,\"href\":\"https:\\/\\/silverharborbrewing.com\\/wp-json\\/wp\\/v2\\/tags?post=3558\"}],\"curies\":[{\"name\":\"wp\",\"href\":\"https:\\/\\/api.w.org\\/{rel}\",\"templated\":true}]}}]",
+  "types_json": null,
+  "title": ""
  }
 }
