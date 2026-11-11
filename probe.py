@@ -17,7 +17,7 @@ for u in URLS:
                   'dates': re.findall(r'(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.? \d{1,2},? \d{4}', h)[:6],
                   'apis': sorted(set(re.findall(r'https?://[a-z0-9.-]*(?:api|tixr|etix|ticketmaster|eventbrite|localist|ludus|showclix|seatgeek|axs|spektrix|tessitura|ovationtix|audienceview|calendarwiz|trumba)[a-z0-9./-]*', h, re.I)))[:12],
                   'snip': (lambda m: re.sub(r'\s+',' ',h[max(0,m.start()-1500):m.start()+1500]) if m else '')(re.search(pat or r'(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.? \d{1,2},? \d{4}|\d{4}-\d{2}-\d{2}T', h)),
-                  'head': h[:600] if len(h) < 3000 else '',
+                  'head': h[:2500] if len(h) < 30000 else '',
                   'types_json': (lambda: (list(json.loads(h).keys())[:40] if h.strip().startswith('{') else None))() ,
                   'title': (re.findall(r'<title>(.*?)</title>', h, re.S) or [''])[0].strip()[:100]}
     except Exception as e:
