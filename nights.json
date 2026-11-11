@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11T17:56-05:00",
+"updated": "2026-11-11T18:00-05:00",
 "nights": [
 {
 "id": "3272d48be4",
@@ -1237,6 +1237,21 @@
 "free": true
 },
 {
+"id": "a60981dbf3",
+"title": "Bourbon Caramel Pumpkin Pie – To-Go",
+"start": "2026-11-25T11:00:00-05:00",
+"allday": false,
+"venue": "Journeyman Distillery",
+"room": null,
+"town": "Three Oaks",
+"kind": "cocktails",
+"campus": null,
+"url": "https://www.journeyman.com/events/pumpkin-pie-to-go-three-oaks-mi/",
+"source": "https://www.journeyman.com/events/",
+"read": "2026-11-11",
+"tags": []
+},
+{
 "id": "a706908fcb",
 "title": "Johnny and I",
 "start": "2026-11-25T19:00:00-05:00",
@@ -1295,6 +1310,24 @@
 "source": "https://cafe.bellsbeer.com/events/",
 "read": "2026-11-11",
 "tags": [
+"music"
+]
+},
+{
+"id": "de13ee8d55",
+"title": "Comedy on the Rocks",
+"start": "2026-11-27T20:00:00-05:00",
+"allday": false,
+"venue": "Journeyman Distillery",
+"room": null,
+"town": "Three Oaks",
+"kind": "cocktails",
+"campus": null,
+"url": "https://www.journeyman.com/events/comedy-on-the-rocks-three-oaks-mi/",
+"source": "https://www.journeyman.com/events/",
+"read": "2026-11-11",
+"tags": [
+"comedy",
 "music"
 ]
 },
@@ -2359,6 +2392,21 @@
 "tags": []
 },
 {
+"id": "ccb1ce1c71",
+"title": "Burns Night",
+"start": "2027-01-23T18:00:00-05:00",
+"allday": false,
+"venue": "Journeyman Distillery",
+"room": null,
+"town": "Three Oaks",
+"kind": "cocktails",
+"campus": null,
+"url": "https://www.journeyman.com/events/burns-night-three-oaks-mi/",
+"source": "https://www.journeyman.com/events/",
+"read": "2026-11-11",
+"tags": []
+},
+{
 "id": "b3fbeecbe9",
 "title": "Sunday Music Series: Ketevan Badridze",
 "start": "2027-01-24T16:00:00-05:00",
@@ -2988,6 +3036,21 @@
 "tags": [
 "music"
 ]
+},
+{
+"id": "db2714acf9",
+"title": "Spring Artisan Market",
+"start": "2027-04-10T10:00:00-04:00",
+"allday": false,
+"venue": "Journeyman Distillery",
+"room": null,
+"town": "Three Oaks",
+"kind": "cocktails",
+"campus": null,
+"url": "https://www.journeyman.com/events/spring-artisan-market-three-oaks-27/",
+"source": "https://www.journeyman.com/events/",
+"read": "2026-11-11",
+"tags": []
 },
 {
 "id": "9bcf7eaf81",
