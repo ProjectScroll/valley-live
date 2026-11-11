@@ -39,7 +39,7 @@ def from_jsonld(src, page):
             d = when(e.get('startDate'))
             if not d: continue
             loc = e.get('location'); loc = loc[0] if isinstance(loc, list) and loc else loc
-            out.append({'title': html.unescape(str(e.get('name', '')).strip()), 'start': d.isoformat(),
+            out.append({'title': re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '', html.unescape(str(e.get('name', ''))))).strip(), 'start': d.isoformat(),
                         'url': e.get('url') or src['url'], 'place': (loc or {}).get('name') if isinstance(loc, dict) else None})
     return out
 
