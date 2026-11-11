@@ -1,6 +1,22 @@
 {
- "_about": "Each venue's own public events page or calendar feed. method: jsonld = the schema.org Event data the page carries for Google; ics = a calendar feed. Checked by fetch.py every night; a source that fails is listed in status.json for the Monday update.",
+ "_about": "Each venue's own public events page or calendar feed. method: jsonld = the schema.org Event data the page carries for Google; ics = a calendar feed. Checked by fetch.py every night; a source that fails is listed in status.json for the Monday update. Other methods: html (each event page's printed title and date), cards (a list page of cards), tm (Ticketmaster links on the venue's own calendar).",
  "sources": [
+  {
+   "id": "morris",
+   "name": "Morris Performing Arts Center",
+   "town": "South Bend",
+   "kind": "concerts",
+   "url": "https://morriscenter.org/events/",
+   "method": "jsonld"
+  },
+  {
+   "id": "lerner",
+   "name": "The Lerner Theatre",
+   "town": "Elkhart",
+   "kind": "concerts",
+   "url": "https://thelerner.com/events/",
+   "method": "jsonld"
+  },
   {
    "id": "nd-dpac",
    "name": "DeBartolo Performing Arts Center",
@@ -8,18 +24,11 @@
    "kind": "concerts",
    "campus": "University of Notre Dame",
    "url": "https://performingarts.nd.edu/events/",
-   "method": "jsonld",
-   "follow": "performingarts\\.nd\\.edu/event/\\d+/"
-  },
-  {
-   "id": "nd-dpac-tickets",
-   "name": "DeBartolo Performing Arts Center",
-   "town": "Notre Dame",
-   "kind": "concerts",
-   "campus": "University of Notre Dame",
-   "url": "https://dpactickets.nd.edu/events",
-   "method": "jsonld",
-   "follow": "dpactickets\\.nd\\.edu/(events|event)/[^/]+"
+   "method": "html",
+   "follow": "performingarts\\.nd\\.edu/event/\\d+/",
+   "title_re": "<h1>(.*?)</h1>",
+   "date_re": "class=\"event-date\">(.*?)</div>",
+   "room_re": "class=\"event-date\">.*?</div>\\s*<p><a[^>]*>(.*?)</a>"
   },
   {
    "id": "nd-events-arts",
@@ -29,23 +38,17 @@
    "campus": "University of Notre Dame",
    "url": "https://events.nd.edu/events/calendar/performing-arts/",
    "method": "jsonld",
-   "follow": "events\\.nd\\.edu/events/\\d{4}/"
+   "follow": "events\\.nd\\.edu/events/\\d{4}/\\d{2}/\\d{2}/"
   },
   {
-   "id": "morris",
-   "name": "Morris Performing Arts Center",
-   "town": "South Bend",
+   "id": "nd-events-ent",
+   "name": "University of Notre Dame",
+   "town": "Notre Dame",
    "kind": "concerts",
-   "url": "https://www.morriscenter.org/events",
-   "method": "jsonld"
-  },
-  {
-   "id": "lerner",
-   "name": "The Lerner Theatre",
-   "town": "Elkhart",
-   "kind": "concerts",
-   "url": "https://www.thelerner.com/events",
-   "method": "jsonld"
+   "campus": "University of Notre Dame",
+   "url": "https://events.nd.edu/events/calendar/arts-and-entertainment/",
+   "method": "jsonld",
+   "follow": "events\\.nd\\.edu/events/\\d{4}/\\d{2}/\\d{2}/"
   },
   {
    "id": "miller",
@@ -53,26 +56,31 @@
    "town": "Kalamazoo",
    "kind": "concerts",
    "campus": "Western Michigan University",
-   "url": "https://millerauditorium.com/events",
-   "method": "jsonld"
-  },
-  {
-   "id": "kazoo-state",
-   "name": "Kalamazoo State Theatre",
-   "town": "Kalamazoo",
-   "kind": "concerts",
-   "url": "https://kazoostate.com/events/",
-   "method": "jsonld",
-   "follow": "kazoostate\\.com/(events?|shows?)/[a-z0-9-]+/?$"
+   "url": "https://www.millerauditorium.com/shows",
+   "method": "cards",
+   "block_re": "class=\"card-show",
+   "title_re": "<h3[^>]*>(.*?)</h3>",
+   "date_re": "<p class=\"date\">(.*?)</p>",
+   "link_re": "href=\"(/shows/[^\"]+)\""
   },
   {
    "id": "four-winds",
    "name": "Four Winds",
    "town": "New Buffalo",
    "kind": "concerts",
-   "url": "https://www.fourwindscasino.com/entertainment",
+   "url": "https://fourwindscasino.com/newbuffalo/entertainment/event-calendar/",
+   "method": "tm",
+   "strip_re": "-new-buffalo-(michigan|mi)$"
+  },
+  {
+   "id": "goshen-college",
+   "name": "Goshen College",
+   "town": "Goshen",
+   "kind": "concerts",
+   "campus": "Goshen College",
+   "url": "https://www.goshen.edu/events/",
    "method": "jsonld",
-   "follow": "fourwindscasino\\.com/entertainment/[a-z0-9-]+"
+   "follow": "goshen\\.edu/events/[a-z0-9-]+/$"
   },
   {
    "id": "howard",
@@ -80,9 +88,8 @@
    "town": "Berrien Springs",
    "kind": "concerts",
    "campus": "Andrews University",
-   "url": "https://howard.andrews.edu/events",
-   "method": "jsonld",
-   "follow": "howard\\.andrews\\.edu/events?/[a-z0-9-]+"
+   "url": "https://howard.andrews.edu/events/index.html",
+   "method": "jsonld"
   }
  ]
 }
