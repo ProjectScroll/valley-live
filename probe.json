@@ -1,101 +1,4 @@
 {
- "https://cafe.bellsbeer.com/wp-json/tribe/events/v1/events?per_page=5": {
-  "error": "HTTP Error 404: Not Found"
- },
- "https://cafe.bellsbeer.com/events/?ical=1": {
-  "status": 200,
-  "final": "https://cafe.bellsbeer.com/events/?ical=1",
-  "bytes": 392027,
-  "ld_types": {},
-  "links": [
-   [
-    "https://cafe.bellsbeer.com/event/kalamazoo-academy-of-rock-N/bells-brewery-tours/",
-    9
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/kait-rose-co-presents-fleetwood-magic-N/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://bellsbeer.com/host-a-private-event/",
-    5
-   ],
-   [
-    "https://events.bellsbeer.com",
-    4
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/kait-rose-co-presents-fleetwood-magic-N-day-package/bells-brewery-tours/",
-    3
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/lions-game-brunch/bells-brewery-tours/",
-    3
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/welshly-arms-with-the-astronomers/bells-brewery-tours/",
-    3
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/rev-peytons-big-damn-band-wsg-adrian-and-meredith-band/bells-brewery-tours/",
-    3
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/small-brown-bike-with-criteria-and-bronson-arm/bells-brewery-tours/",
-    3
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/lee-emi-emilee-petersmark-of-the-crane-wives-with-cal-in-red/bells-brewery-tours/",
-    3
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/wreath-making/bells-brewery-tours/",
-    3
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/dwts-finale-watch-party-N/bells-brewery-tours/",
-    3
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/black-friday-kickback-featuring-dc-yolonda-wsg-dj-conscious/bells-brewery-tours/",
-    3
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/lower-leisure-class-with-no-bails-and-krass-kringle/bells-brewery-tours/",
-    3
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/holiday-bizarre-bazaar-N/bells-brewery-tours/",
-    3
-   ]
-  ],
-  "ics": [],
-  "feeds": [
-   "https://cafe.bellsbeer.com/feed/",
-   "https://cafe.bellsbeer.com/comments/feed/",
-   "https://cafe.bellsbeer.com/events/feed/",
-   "https://cafe.bellsbeer.com/wp-json/"
-  ],
-  "dates": [],
-  "apis": [
-   "https://api.w.org/",
-   "https://fonts.googleapis.com/css",
-   "https://fonts.googleapis.com/css2",
-   "https://www.etix.com/ticket/k/18927895/kait-rose-co-presentsfleetwood-magic-2-day-package-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/32988076/lions-game-brunch-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/33024783/kso-craft-presentscarnival-of-the-animals-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/35099062/vintage-music-market-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/42297221/berthagrateful-drag-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/44383712/kso-craft-presentscarnival-of-the-animals-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/46283742/kalamazoo-academy-of-rock-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/48804859/revpeytons-big-damn-band-wsg-adrian-and-meredith-band-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/51587494/sicard-hollow-kalamazoo-bells-eccentric-cafe"
-  ],
-  "snip": "<!doctype html> <html lang=\"en-US\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"> <link rel=\"profile\" href=\"https://gmpg.org/xfn/11\"> <title> Events | Cafe - Bell&#039;s Brewery </title> <title>Events &#8211; Cafe &#8211; Bell&#039;s Brewery</title> <meta name='robots' content='max-image-preview:large' /> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Cafe - Bell&#039;s Brewery &raquo; Feed\" href=\"https://cafe.bellsbeer.com/feed/\" /> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Cafe - Bell&#039;s Brewery &raquo; Comments Feed\" href=\"https://cafe.bellsbeer.com/comments/feed/\" /> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Cafe - Bell&#039;s Brewery &raquo; Events Feed\" href=\"https://cafe.bellsbeer.com/events/feed/\" /> <style id=\"wp-img-auto-sizes-contain-inline-css\"> img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px} /*# sourceURL=wp-img-auto-sizes-contain-inline-css */ </style> <link rel='stylesheet' id='wp-block-library-css' href='https://cafe.bellsbeer.com/wp-includes/css/dist/block-library/style.min.css?ver=0c2c3e111437b9e8c03dfe991d01eb86' media='all' /> <style id=\"global-styles-inline-css\"> :root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset-",
-  "head": "",
-  "types_json": null,
-  "title": "Events | Cafe - Bell&#039;s Brewery"
- },
  "https://cafe.bellsbeer.com/events/": {
   "status": 200,
   "final": "https://cafe.bellsbeer.com/events/",
@@ -185,17 +88,14 @@
    "https://www.etix.com/ticket/p/48804859/revpeytons-big-damn-band-wsg-adrian-and-meredith-band-kalamazoo-bells-eccentric-cafe",
    "https://www.etix.com/ticket/p/51587494/sicard-hollow-kalamazoo-bells-eccentric-cafe"
   ],
-  "snip": "<!doctype html> <html lang=\"en-US\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"> <link rel=\"profile\" href=\"https://gmpg.org/xfn/11\"> <title> Events | Cafe - Bell&#039;s Brewery </title> <title>Events &#8211; Cafe &#8211; Bell&#039;s Brewery</title> <meta name='robots' content='max-image-preview:large' /> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Cafe - Bell&#039;s Brewery &raquo; Feed\" href=\"https://cafe.bellsbeer.com/feed/\" /> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Cafe - Bell&#039;s Brewery &raquo; Comments Feed\" href=\"https://cafe.bellsbeer.com/comments/feed/\" /> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Cafe - Bell&#039;s Brewery &raquo; Events Feed\" href=\"https://cafe.bellsbeer.com/events/feed/\" /> <style id=\"wp-img-auto-sizes-contain-inline-css\"> img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px} /*# sourceURL=wp-img-auto-sizes-contain-inline-css */ </style> <link rel='stylesheet' id='wp-block-library-css' href='https://cafe.bellsbeer.com/wp-includes/css/dist/block-library/style.min.css?ver=0c2c3e111437b9e8c03dfe991d01eb86' media='all' /> <style id=\"global-styles-inline-css\"> :root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset-",
+  "snip": "",
   "head": "",
   "types_json": null,
   "title": "Events | Cafe - Bell&#039;s Brewery"
  },
- "https://silverharborbrewing.com/wp-json/tribe/events/v1/events?per_page=5": {
-  "error": "HTTP Error 404: Not Found"
- },
- "https://silverharborbrewing.com/events/?ical=1": {
+ "https://silverharborbrewing.com/events/": {
   "status": 200,
-  "final": "https://silverharborbrewing.com/events/?ical=1",
+  "final": "https://silverharborbrewing.com/events/",
   "bytes": 138994,
   "ld_types": {},
   "links": [
@@ -278,18 +178,15 @@
   "apis": [
    "https://api.w.org/"
   ],
-  "snip": "<!doctype html> <html lang=\"en-US\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"> <link rel=\"profile\" href=\"https://gmpg.org/xfn/11\"> <title>Events &#8211; Silver Harbor Brewing Company</title> <meta name='robots' content='max-image-preview:large' /> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Silver Harbor Brewing Company &raquo; Feed\" href=\"https://silverharborbrewing.com/feed/\" /> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Silver Harbor Brewing Company &raquo; Comments Feed\" href=\"https://silverharborbrewing.com/comments/feed/\" /> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Silver Harbor Brewing Company &raquo; Events Feed\" href=\"https://silverharborbrewing.com/events/?feed=rss2\" /> <link rel=\"stylesheet\" type=\"text/css\" href=\"https://use.typekit.net/rms1kur.css\"><style id=\"wp-img-auto-sizes-contain-inline-css\"> img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px} /*# sourceURL=wp-img-auto-sizes-contain-inline-css */ </style> <link rel='stylesheet' id='wp-block-library-css' href='https://silverharborbrewing.com/wp-includes/css/dist/block-library/style.min.css?ver=7.1.4' media='all' /> <style id=\"global-styles-inline-css\"> :root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color",
+  "snip": "px;}.elementor-3216 .elementor-element.elementor-element-2d6c1aa > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-3216 .elementor-element.elementor-element-2d6c1aa .elementor-heading-title{color:var( --e-global-color-secondary );}.elementor-3216 .elementor-element.elementor-element-2d6c1aa .elementor-heading-title a:hover, .elementor-3216 .elementor-element.elementor-element-2d6c1aa .elementor-heading-title a:focus{color:var( --e-global-color-secondary );}.elementor-3216 .elementor-element.elementor-element-5646c3d > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-3216 .elementor-element.elementor-element-5646c3d .elementor-heading-title{color:var( --e-global-color-secondary );}.elementor-3216 .elementor-element.elementor-element-5646c3d .elementor-heading-title a:hover, .elementor-3216 .elementor-element.elementor-element-5646c3d .elementor-heading-title a:focus{color:var( --e-global-color-secondary );}.elementor-3216 .elementor-element.elementor-element-34f73fe > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-3216 .elementor-element.elementor-element-34f73fe .elementor-heading-title{font-family:\"oswald\", Sans-serif;font-size:13px;font-weight:500;text-transform:uppercase;color:var( --e-global-color-secondary );}.elementor-3216 .elementor-element.elementor-element-7d43079 .elementor-widget-container{font-family:\"Roboto\", Sans-serif;font-size:13px;font-weight:400;line-height:17px;color:var( --e-global-color-secondary );}</style> <div data-elementor-type=\"loop-item\" data-elementor-id=\"3216\" class=\"elementor elementor-3216 e-loop-item e-loop-item-3562 post-3562 event type-event status-publish has-post-thumbnail hentry\" data-elementor-post-type=\"elementor_library\" data-custom-edit-handle=\"1\"> <a class=\"elementor-element elementor-element-5fdc6b5 e-flex e-con-boxed e-con e-parent\" data-id=\"5fdc6b5\" data-element_type=\"container\" data-e-type=\"container\" href=\"https://silverharborbrewing.com/event/sunday-brunch-2/\"> <div class=\"e-con-inner\"> <div class=\"elementor-element elementor-element-c0d1317 loop-thumb elementor-widget elementor-widget-image\" data-id=\"c0d1317\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"image.default\"> <div class=\"elementor-widget-container\"> <img fetchpriority=\"high\" width=\"800\" height=\"667\" src=\"https://silverharborbrewing.com/wp-content/uploads/2026/10/Screenshot-2026-10-11-at-3.31.34-PM-1024x854.png\" class=\"attachment-large size-large wp-image-3564\" alt=\"\" srcset=\"https://silverharborbrewing.com/wp-content/uploads/2026/10/Screenshot-2026-10-11-at-3.31.34-PM-1024x854.png 1024w, https://silverharborbrewing.com/wp-content/uploads/2026/10/Screenshot-2026-10-11-at-3.31.34-PM-300x250.png 300w, https://silverharborbrewing.com/wp-content/uploads/2026/10/Screenshot-2026-10-11-at-3.31.34-PM-768x641.png 768w, https://silverharborbrewing.com/wp-content/uploads/2026/10/Screenshot-2026-10-11-at-3.31.34-PM-600x501.png 600w, https://silverharbor",
   "head": "",
   "types_json": null,
   "title": "Events &#8211; Silver Harbor Brewing Company"
  },
- "https://www.journeyman.com/wp-json/tribe/events/v1/events?per_page=5": {
-  "error": "HTTP Error 404: Not Found"
- },
- "https://www.journeyman.com/events/?ical=1": {
+ "https://www.journeyman.com/events/": {
   "status": 200,
-  "final": "https://www.journeyman.com/events/?ical=1",
-  "bytes": 81898,
+  "final": "https://www.journeyman.com/events/",
+  "bytes": 128342,
   "ld_types": {
    "WebPage": 1,
    "ReadAction": 1,
@@ -368,87 +265,10 @@
   "feeds": [],
   "dates": [],
   "apis": [],
-  "snip": "er),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:\"_checkPassiveOption\",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener(\"test\",null,options),window.removeEventListener(\"test\",null,options)}catch(err){self.passiveSupported=!1}}},{key:\"initRequestIdleCallback\",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:\"isDataSaverModeOn\",value:function(){return\"connection\"in navigator&&!0===navigator.connection.saveData}},{key:\"supportsLinkPrefetch\",value:function(){var elem=document.createElement(\"link\");return elem.relList&&elem.relList.supports&&elem.relList.supports(\"prefetch\")&&window.IntersectionObserver&&\"isIntersecting\"in IntersectionObserverEntry.prototype}},{key:\"isSlowConnection\",value:function(){return\"connection\"in navigator&&\"effectiveType\"in navigator.connection&&(\"2g\"===navigator.connection.effectiveType||\"slow-2g\"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}(); //# sourceURL=rocket-browser-checker-js-after </script> <script id=\"rocket-preload-links-js-extra\"> var RocketPreloadLinksConfig = {\"excludeUris\":\"/(?:.+/)?feed(?:/(?:.+/?)?)?$|/(?:.+/)?embed/|/(index.php/)?(.*)wp-json(/.*|$)|/refer/|/go/|/recommend/|/recommends/\",\"usesTrailingSlash\":\"1\",\"imageExt\":\"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php\",\"fileExt\":\"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm\",\"siteUrl\":\"https://www.journeyman.com\",\"onHoverDelay\":\"100\",\"rateThrottle\":\"3\"}; //# sourceURL=rocket-preload-links-js-extra </script> <script id=\"rocket-preload-links-js-after\"> (function() { \"use strict\";var r=\"function\"==typeof Symbol&&\"symbol\"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&\"function\"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?\"symbol\":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,\"value\"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError(\"Cannot call a class as a function\")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:\"init\",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,\"i\"),images:RegExp(\".(\"+this.config.imageExt+\")$\",\"i\"),fileExt:Reg",
+  "snip": "r /> Eastern Time</em></a></h5> <h5><a class=\"\" href=\"https://www.opentable.com/r/journeyman-reservations-three-oaks?restref=1412371&amp;lang=en-US&amp;ot_source=Restaurant%20website\">RESERVE NOW</a><br /> <a class=\"\" href=\"https://www.toasttab.com/journeyman-distillery/giftcards?utm_source=undefined&amp;utm_content=online--journeyman-distillery&amp;utm_medium=toast_sites&amp;utm_campaign=giftcards\">GIFT CARDS</a></h5> </div> <div class=\"submenu_item submenu--col-1-2\"> <h3><a class=\"\" href=\"https://www.journeyman.com/unionhall/\">UNION HALL</a></h3> <h4><a class=\"\" href=\"https://www.journeyman.com/unionhall/\">RESTAURANT</a></h4> <h5><a class=\"\" href=\"https://www.journeyman.com/unionhall/\">VALPARAISO, IN<em><br /> Central Time</em></a></h5> <h5><a class=\"\" href=\"https://www.opentable.com/r/journeyman-at-american-factory-valparaiso-in-reservations-valparaiso?restref=1412377&amp;lang=en-US&amp;ot_source=Restaurant%20website\" target=\"_blank\" rel=\"noopener\">RESERVE NOW</a><br /> <a class=\"\" href=\"https://www.toasttab.com/journeyman-distillery-union-hall-valpo/giftcards\">GIFT CARDS</a></h5> </div> </div> </div> </div> --> </div> </div> </header> <div id=\"content\" class=\"site-content\"> <div id=\"primary\" class=\"content-area\"> <main id=\"main\" class=\"site-main\"> <section class=\"events\"> <div class=\"container\"> <h2 class=\"title\">Upcoming Events</h2> <div class=\"upcoming_events__cont\"> <div class=\"upcoming_events__card\"> <a class=\"block_pages__item\" href=\"https://www.journeyman.com/events/trivia-mondays-valparaiso-in/\"> <div class=\"block_pages__image\"> <img width=\"900\" height=\"900\" src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E\" alt=\"Trivia Night &#8211; 1 YEAR ANNIVERSARY | Valparaiso, IN\" data-lazy-src=\"https://www.journeyman.com/wp-content/smush-webp/2025/11/JOU_Trivia_Calendar_1000x1000_V2-900x900.png.webp\" /><noscript><img width=\"900\" height=\"900\" src=\"https://www.journeyman.com/wp-content/uploads/2025/11/JOU_Trivia_Calendar_1000x1000_V2-900x900.png\" alt=\"Trivia Night &#8211; 1 YEAR ANNIVERSARY | Valparaiso, IN\" /></noscript> </div> <div class=\"upcoming_events__uppertitle\">Trivia Night &#8211; 1 YEAR ANNIVERSARY | Valparaiso, IN</div> <div class=\"upcoming_events__date\">11/16/2026</div> <div class=\"upcoming_events__duration\">7:00PM CT</div> <div class=\"upcoming_events__month-year\">11/16/2026</div> </a> </div> <div ",
   "head": "",
   "types_json": null,
   "title": "Events at Journeyman Distillery"
- },
- "https://northwoodsleague.com/kalamazoo-growlers/wp-json/tribe/events/v1/events?per_page=5": {
-  "error": "HTTP Error 404: Not Found"
- },
- "https://northwoodsleague.com/kalamazoo-growlers/events/?ical=1": {
-  "status": 200,
-  "final": "https://northwoodsleague.com/kalamazoo-growlers/events/?ical=1",
-  "bytes": 219606,
-  "ld_types": {
-   "WebPage": 1,
-   "ReadAction": 1,
-   "ImageObject": 1,
-   "BreadcrumbList": 1,
-   "ListItem": 2,
-   "WebSite": 1,
-   "SearchAction": 1,
-   "EntryPoint": 1,
-   "PropertyValueSpecification": 1
-  },
-  "links": [
-   [
-    "https://northwoodsleague.com/kalamazoo-growlers/events/",
-    9
-   ],
-   [
-    "https://northwoodsleague.com/kalamazoo-growlers/wp-json/oembed/N.N/embed",
-    2
-   ],
-   [
-    "https://northwoodsleague.com/kalamazoo-growlers/events/feed/",
-    1
-   ],
-   [
-    "",
-    1
-   ],
-   [
-    "https://www.honorcustadium.com/upcoming-events",
-    1
-   ]
-  ],
-  "ics": [],
-  "feeds": [
-   "https://northwoodsleague.com/kalamazoo-growlers/events/?ical=1",
-   "https://northwoodsleague.com/kalamazoo-growlers/feed/",
-   "https://northwoodsleague.com/kalamazoo-growlers/comments/feed/",
-   "https://northwoodsleague.com/kalamazoo-growlers/events/feed/",
-   "https://northwoodsleague.com/kalamazoo-growlers/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnorthwoodsleague.com%2Fkalamazoo-growlers%2Fevents%2F",
-   "https://northwoodsleague.com/kalamazoo-growlers/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnorthwoodsleague.com%2Fkalamazoo-growlers%2Fevents%2F&amp;format=xml",
-   "https://northwoodsleague.com/kalamazoo-growlers/wp-json/",
-   "https://northwoodsleague.com/kalamazoo-growlers/wp-json/wp/v2/pages/126"
-  ],
-  "dates": [
-   "December 7, 2018"
-  ],
-  "apis": [
-   "https://api.w.org/"
-  ],
-  "snip": "\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://northwoodsleague.com/kalamazoo-growlers/events/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://northwoodsleague.com/kalamazoo-growlers/events/#primaryimage\",\"url\":\"https://assets.northwoodsleague.com/wp-content/uploads/sites/13/2024/11/bells-oberon-oasis-kalamazoo-growlers-scaled.jpg\",\"contentUrl\":\"https://assets.northwoodsleague.com/wp-content/uploads/sites/13/2024/11/bells-oberon-oasis-kalamazoo-growlers-scaled.jpg\",\"width\":2560,\"height\":2560},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://northwoodsleague.com/kalamazoo-growlers/events/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://northwoodsleague.com/kalamazoo-growlers/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://northwoodsleague.com/kalamazoo-growlers/#website\",\"url\":\"https://northwoodsleague.com/kalamazoo-growlers/\",\"name\":\"Kalamazoo Growlers\",\"description\":\"Where Fun Makes a Difference\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://northwoodsleague.com/kalamazoo-growlers/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script> <!-- / Yoast SEO Premium plugin. --> <link rel=\"dns-prefetch\" href=\"//www.google.com\"/> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Kalamazoo Growlers \u00bb Feed\" href=\"https://northwoodsleague.com/kalamazoo-growlers/feed/\"/> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Kalamazoo Growlers \u00bb Comments Feed\" href=\"https://northwoodsleague.com/kalamazoo-growlers/comments/feed/\"/> <link rel=\"icon\" href=\"https://assets.northwoodsleague.com/wp-content/uploads/sites/13/2022/11/AppIcon60x60%402.png\" type=\"image/png\"/> <!-- Apple Touch Icon --> <link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"https://assets.northwoodsleague.com/wp-content/uploads/sites/13/2022/11/iTunesArtwork.png\" type=\"image/png\"/> <!-- Android Icon --> <link rel=\"icon\" sizes=\"192x192\" href=\"https://assets.northwoodsleague.com/wp-content/uploads/sites/13/2022/11/iTunesArtwork.png\" type=\"image/png\"/> <!-- MS Edge Icon --> <meta name=\"msapplication-TileImage\" content=\"https://assets.northwoodsleague.com/wp-content/uploads/sites/13/2022/11/iTunesArtwork.png\" type=\"image/png\"/> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Kalamazoo Growlers \u00bb Events Comments Feed\" href=\"https://northwoodsleague.com/kalamazoo-growlers/events/feed/\"/> <link rel=\"alternate\" title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://northwoodsleague.com/kalamazoo-growlers/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnorthwoodsleague.com%2Fkalamazoo-growlers%2Fevents%2F\"/> <link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://northwoodsleague.com/kalamazoo-growlers/wp-json/oembed/1.0/embe",
-  "head": "",
-  "types_json": null,
-  "title": "Kalamazoo Growlers &amp; Outlier Events Beyond Homer Stryker Field"
- },
- "https://www.andrews.edu/agenda/events/feed/Agenda:%20Athletics/rss": {
-  "status": 200,
-  "final": "https://www.andrews.edu/agenda/events/feed/Agenda:%20Athletics/rss",
-  "bytes": 606,
-  "ld_types": {},
-  "links": [],
-  "ics": [],
-  "feeds": [],
-  "dates": [],
-  "apis": [],
-  "snip": "",
-  "head": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n\n<rss version=\"2.0\"\n xmlns:blogChannel=\"http://backend.userland.com/blogChannelModule\"\n>\n\n<channel>\n<title>Andrews University Agenda</title>\n<link>http://www.andrews.edu/agenda/</link>\n<description>News and Events at Andrews University</description>\n<language>en-us</language>\n<copyright>Copyright 2026, Andrews University</copyright>\n<pubDate>Wed, 11 Nov 2026 17:49:00 +0000</pubDate>\n<lastBuildDate>Wed, 11 Nov 2026 17:49:00 +0000</lastBuildDate>\n<managingEditor>webmaster@andrews.edu</managingEditor>\n<webMaster>webmaster@andrews.edu</webMaster>\n\n</channel>\n</rss>",
-  "types_json": null,
-  "title": "Andrews University Agenda"
  },
  "https://www.andrews.edu/agenda/": {
   "status": 200,
@@ -513,12 +333,29 @@
    "Nov. 5, 2026"
   ],
   "apis": [],
-  "snip": "\"/code/js/cookies.js?_=28\"></script> <script type=\"text/javascript\" src=\"/code/js/global.js?_=28\"></script> <script type=\"text/javascript\" src=\"/code/js/ping2.js?_=28\"></script> <script type=\"text/javascript\" src=\"/code/js/S.js?_=28\"></script> <script type=\"text/javascript\" src=\"/code/js/smoothscroll-anchor-polyfill-1.3.0/dist/index.min.js?_=28\"></script> <script type=\"text/javascript\" src=\"/code/js/jquery/jquery.cycle.all.min.js?_=28\"></script> <script type=\"text/javascript\" src=\"/code/js/jquery/jquery.inview.js?_=28\"></script> <script type=\"text/javascript\" src=\"/code/bootstrap-plugins/datepicker-1.4/js/bootstrap-datepicker.js?_=28\"></script> <script type=\"text/javascript\" src=\"/code/js/quick_search.js?_=28\"></script> <script type=\"text/javascript\" src=\"/code/bootstrap_dropdown_patch.js?_=28\"></script> <script type=\"text/javascript\" src=\"/code/bootstrap_ver_3_3_2/js/bootstrap.js?_=28\"></script> <script type=\"text/javascript\" src=\"/code/js/bootstrap-notify.min.js?_=28\"></script> <script type=\"text/javascript\" src=\"/code/bootstrap-plugins/bootstrap-hover-dropdown-master/bootstrap-hover-dropdown.min.js?_=28\"></script> <script type=\"text/javascript\" src=\"/code/js/expanding-search/js/modernizr-custom.js?_=28\"></script> <script type=\"text/javascript\" src=\"/code/js/expanding-search/js/classie.js?_=28\"></script> <script type=\"text/javascript\" src=\"/code/js/expanding-search/js/uisearch.js?_=28\"></script> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS Feed for Andrews Agenda\" href=\"/agenda/rss/\" /> <!-- $VAR1 = ''; $VAR2 = ''; $VAR3 = ''; --> <script type=\"text/javascript\"> $(function(){ $('.major_update').popover({ html: true }); }); $(function(){ $('body').tooltip({ selector: \".tooltip-left, .tooltip-right, .tooltip-top, .tooltip-bottom\", placement: function(self, tip, element){ var result = $(tip).attr('class').match('tooltip-(left|right|top|bottom)')[1]; return result; } }); }); </script> <script> $(function(){ $('body').tooltip({ selector: \".tooltip-left, .tooltip-right, .tooltip-top, .tooltip-bottom\", placement: function(self, tip, element){ var result = $(tip).attr('class').match('tooltip-(left|right|top|bottom)')[1]; return result; } }); }); </script> <script> $(function(){ if($('#sb-search').length){ new UISearch( document.getElementById( 'sb-search' ), 200 ); } }); </script> <script> bootstrap_dropdown_patch(); </script> <script> $('body').on('login', function () { load_quick_links(); }); </script> <!-- global2 --> <script type=\"text/javascript\" defer></script> <style type=\"text/css\"></style> </head> <body> <div id=\"wrapper\"> <a class=\"in-page-anchors\" title=\"Top\"></a> <header class=\"andrews-global-header \"> <a href=\"#main-content\" class=\"sr-only sr-only-focusable\">Skip to main content</a> <div class=\"container\"> <div class=\"row andrews-global-heade",
+  "snip": "=\"/services/research/faculty_research/\">Faculty Research</a></li> <li><a href=\"/services/research/research_compliance/\">Research Compliance</a></li> <li>&nbsp;</li> <li><a href=\"/services/research/\" class=\"btn-inset btn-blue m-button\">Research Page</a></li> </ul> </nav> </div> </div> </div> <!-- Student Life --> <div class=\"panel panel-default\"> <!-- Heading --> <div class=\"panel-heading\"> <p class=\"panel-title\"> <a class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#m-nav-accordion\" href=\"#student-life\" aria-controls=\"student-life\" role=\"tab\">Student Life <i class=\"fa fa-solid fa-angle-down\"></i></a> </p> </div> <!-- Panel --> <div class=\"panel-collapse collapse\" id=\"student-life\" aria-label=\"student-life\" role=\"tabpanel\"> <div class=\"panel-body m-sub-panel\"> <nav class=\"col-xs-12 m-sub-panel-nav\"> <!-- <h4>Popular Resources</h4> --> <ul> <li><a href=\"/faith/\">Faith Engagement</a></li> <li><a href=\"/life/living/housing/\">Housing options</a></li> <li><a href=\"/services/dining/\">Dining at Andrews</a></li> <li><a href=\"/life/involvement/co-curricular-education\">Cocurricular Education</a></li> <li><a href=\"/services/iss/\">International Student Services &amp; Programs</a></li> <li><a href=\"/admres/jobs/show/student\">Student Jobs through HR</a></li> <li><a href=\"/services/safety/\">Campus Safety</a></li> <li><a href=\"https://www.aucardinals.com/\" target=\"_blank\">Intercollegiate Athletics</a></li> <li><a href=\"https://www.aucardinals.com/\" target=\"_blank\">Intramural Sports</a></li> <li><a href=\"/agenda/events/\" target=\"_blank\">Campus Calendar</a></li> <li><a href=\"/services/ctcenter/\" target=\"_blank\">Counseling &amp; Testing Center</a></li> <li>&nbsp;</li> <li><a href=\"/life/\" class=\"m-button btn-inset btn-blue\">Division of Student Life</a></li> </ul> </nav> </div> </div> </div> <!-- About Andrews --> <div class=\"panel panel-default\"> <div class=\"panel-heading\"> <p class=\"panel-title\"> <a data-parent=\"#m-nav-accordion\" href=\"/about\">About Andrews</a> </p> </div> </div> <!-- Faith Engagement --> <div class=\"panel panel-default\"> <div class=\"panel-heading\"> <p class=\"panel-title\"> <a data-parent=\"#m-nav-accordion\" href=\"/faith\">Faith Engagement</a> </p> </div> </div> </div> </div> <div id=\"main-content\"><!--This is for the screen reader to focus on--></div> <main> <!-- TIMER: 6 agenda wrapper start 4.1315 --> <style> .btn-gray {color: white !important;} </style> <div class=\"header\"> <div class=\"container\"> <div class=\"row\"> <nav class=\"navbar-default\" role=\"navigation\"> <div class=\"navbar-header col-xs-12 col-sm-6\"> <a href=\"https://www.andrews.edu/agenda/\"><span class=\"header-title\">Andrews Agenda</span></a><br> <a href=\"https://www.andrews.edu/agenda/\"><span class=\"pr",
   "head": "",
   "types_json": null,
   "title": "Agenda - Andrews Agenda :: Andrews University"
  },
- "https://theuscaa.com/sports/mbkb-2/2026-27/teams/andrews?view=gamelog": {
-  "error": "HTTP Error 405: Not Allowed"
+ "https://www.andrews.edu/agenda/rss/": {
+  "status": 200,
+  "final": "https://www.andrews.edu/agenda/rss/",
+  "bytes": 11005,
+  "ld_types": {},
+  "links": [],
+  "ics": [],
+  "feeds": [],
+  "dates": [
+   "Oct. 29, 2026",
+   "Jan. 12, 1927",
+   "April 25, 1954",
+   "Nov. 5, 2026"
+  ],
+  "apis": [],
+  "snip": "",
+  "head": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n\n<rss version=\"2.0\"\n xmlns:blogChannel=\"http://backend.userland.com/blogChannelModule\"\n>\n\n<channel>\n<title>Andrews University Agenda</title>\n<link>http://www.andrews.edu/agenda/</link>\n<description>News and Events at Andrews University</description>\n<language>en-us</language>\n<copyright>Copyright 2026, Andrews University</copyright>\n<pubDate>Wed, 11 Nov 2026 17:50:00 +0000</pubDate>\n<lastBuildDate>Wed, 11 Nov 2026 17:50:00 +0000</lastBuildDate>\n<managingEditor>webmaster@andrews.edu</managingEditor>\n<webMaster>webmaster@andrews.edu</webMaster>\n\n<item>\n<title>Death of Doris Helm</title>\n<link>http://www.andrews.edu/agenda/70519</link>\n<description>&#x3C;p&#x3E;\r\n\tDoris D. Helm, a loving, kind, and faith-filled Christian, passed away peacefully of natural causes on Oct. 29, 2026, in St. Joseph, Michigan, at the age of 99.&#x3C;/p&#x3E;\r\n&#x3C;p&#x3E;\r\n\tShe was born on Jan. 12, 1927, in New Paris, Indiana, to the late Perl and Gladys (Keck) Covert. Doris was the 4th of 5 children and was always close to her siblings. Her parents instilled the values of faith in God, hard work, devotion, and family that would guide her throughout her long and meaningful life.&#x3C;/p&#x3E;\r\n&#x3C;p&#x3E;\r\n\tOn April 25, 1954, she married Herbert W. Helm in Michigan City, Indiana. This bond remained strong for 52 years. Together they created a home centered on love and faith for their four children. Her family was the heart of her world. As a Mom, she delighted in playing with her children and birthdays were always a special time. After the children were all in school, she worked as a librarian for the James White Library at Andrews University for about twenty-five years. Her time in the circulation department brought fulfillment through helping others and forming good friendships with those she worked with.&#x3C;/p&#x3E;\r\n&#x3C;p&#x3E;\r\n\tDoris was a member of Pioneer Memorial Seventh-day Adventist Church and cherished her roles as a Cradle Roll leader and later as a greeter. She was an active and generous presence in her community and enjoyed volunteering for Neighbor to Neighbor, Your Story Hour, and Adventist Frontier Missions. She found joy in simple pleasures and treasured the moments that brought people together. She enjoyed playing games with friends, sewing, taking vacations, playing the piano, and had a special taste for anything chocolate. A special family tradition of spending warm Friday evenings at the beach started when the chi",
+  "types_json": null,
+  "title": "Andrews University Agenda"
  }
 }
