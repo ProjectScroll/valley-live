@@ -40,7 +40,9 @@ def from_jsonld(src, page):
             if not d: continue
             loc = e.get('location'); loc = loc[0] if isinstance(loc, list) and loc else loc
             nm = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '', html.unescape(str(e.get('name', ''))))).strip()
-            out.append({'title': nm, 'home': (' Vs ' in nm or ' vs. ' in nm) if 'Sports' in str(e.get('@type')) else None, 'start': d.isoformat(),
+            of = e.get('offers'); of = of[0] if isinstance(of, list) and of else of
+            free = bool(e.get('isAccessibleForFree')) or (isinstance(of, dict) and str(of.get('price', '')).strip() in ('0', '0.0', '0.00'))
+            out.append({'title': nm, 'free': free, 'home': (' Vs ' in nm or ' vs. ' in nm) if 'Sports' in str(e.get('@type')) else None, 'start': d.isoformat(),
                         'url': e.get('url') or src['url'], 'place': (loc or {}).get('name') if isinstance(loc, dict) else None})
     return out
 
@@ -107,6 +109,26 @@ def from_mlb(src, page):
                         'url': src.get('link') or src['url'], 'place': (g.get('venue') or {}).get('name'), 'home': h == src['name']})
     return out
 
+def from_ndapi(src, page):
+    """Notre Dame's own schedule service (fightingirish.com/website-api): the sport's current schedule, every game in it"""
+    sid = next(x['schedule_id'] for x in json.loads(page)['data'] if x['slug'] == src['slug'])
+    out, p = [], 1
+    while p and p < 10:
+        j = json.loads(get(f'https://fightingirish.com/website-api/schedule-events?filter%5Bschedule_id%5D={sid}&per_page=100&page={p}'))
+        for g in j['data']:
+            if g.get('status') in ('canceled', 'cancelled', 'postponed'): continue
+            opp = g.get('opponent_name') or ''
+            vt = g.get('venue_type') or ''
+            t = f"Notre Dame {'vs' if vt != 'away' else 'at'} {opp}".strip()
+            st = g['datetime'][:10] if (g.get('tba') or g.get('is_all_day')) else g['datetime']
+            if 'T' in st: st = datetime.datetime.fromisoformat(st.replace('Z', '+00:00').replace('.000000', '')).astimezone(TZ).isoformat()
+            else:   # a time to be announced: the valley's own date of the listed moment
+                st = datetime.datetime.fromisoformat(g['datetime'].replace('Z', '+00:00').replace('.000000', '')).astimezone(TZ).date().isoformat()
+            out.append({'title': t, 'start': st, 'url': f"https://fightingirish.com/sports/{src['slug']}/schedule",
+                        'place': g.get('venue') or g.get('location'), 'home': vt == 'home'})
+        p = j['meta']['current_page'] + 1 if j['meta']['current_page'] < j['meta']['last_page'] else None
+    return out
+
 def from_ics(src, page):
     out = []; page = re.sub(r'\r?\n[ \t]', '', page)
     for ev in re.findall(r'BEGIN:VEVENT(.*?)END:VEVENT', page, re.S):
@@ -123,6 +145,60 @@ def from_ics(src, page):
                     'url': f.get('URL', ('', src['url']))[1], 'place': f.get('LOCATION', ('', ''))[1].replace('\\,', ',') or None})
     return out
 
+TAGS = [   # what a show is, read from its own title (first match per kind; a show may have several)
+    ('comedy',    r'comed|stand-?up|comedian|improv|laugh'),
+    ('classical', r'symphon|orchestra|philharmonic|recital|quartet|chamber|sonata|chorale|choral|concerto|organ'),
+    ('music',     r'concert|symphon|orchestra|band\b|jazz|choir|chorale|quartet|\btour\b|live music|singer|bluegrass|tribute|recital|ensemble|philharmonic|unplugged|acoustic|blues|rock|country|songwriter|\bdj\b|music'),
+    ('theatre',   r'musical|\bplay\b|theat(?:re|er)|broadway|opera|stage|shakespeare'),
+    ('dance',     r'ballet|dance|nutcracker'),
+    ('film',      r'\bfilm|movie|screening|cinema'),
+    ('family',    r'\bkids?\b|family|children|junior|youth|sesame|paw patrol|puppet|storytime'),
+    ('holiday',   r'christmas|holiday|nutcracker|santa|noel|messiah|new year'),
+    ('talk',      r'lecture|\btalk\b|conversation|author|speaker|podcast|panel'),
+    ('trivia',    r'trivia|quiz'),
+]
+def tags(t):
+    t = (t or '').lower()
+    return [k for k, r in TAGS if re.search(r, t)]
+def flags(g):
+    t = (g['title'] or '').lower()
+    f = {}
+    if g.get('free') or re.search(r'\bfree\b(?! ?(?:will|state))|no cover|no charge', t): f['free'] = True
+    if g.get('allages') or re.search(r'all[- ]ages|\bfamily\b|\bkids?\b|children', t): f['allages'] = True
+    return f
+
+def ics(items, name, path, desc):
+    """a calendar people subscribe to: name, date, place and a link to the venue's own page (no text of theirs)"""
+    esc = lambda x: str(x or '').replace('\\', '\\\\').replace(';', '\\;').replace(',', '\\,').replace('\n', '\\n')
+    L = ['BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//Project Scroll//Valley Live//EN', 'CALSCALE:GREGORIAN', 'METHOD:PUBLISH',
+         'X-WR-CALNAME:' + esc(name), 'X-WR-TIMEZONE:America/Detroit', 'X-WR-CALDESC:' + esc(desc), 'REFRESH-INTERVAL;VALUE=DURATION:PT12H',
+         'BEGIN:VTIMEZONE', 'TZID:America/Detroit', 'BEGIN:STANDARD', 'DTSTART:19701101T020000', 'RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU',
+         'TZOFFSETFROM:-0400', 'TZOFFSETTO:-0500', 'TZNAME:EST', 'END:STANDARD', 'BEGIN:DAYLIGHT', 'DTSTART:19700308T020000',
+         'RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU', 'TZOFFSETFROM:-0500', 'TZOFFSETTO:-0400', 'TZNAME:EDT', 'END:DAYLIGHT', 'END:VTIMEZONE']
+    stamp = NOW.astimezone(ZoneInfo('UTC')).strftime('%Y%m%dT%H%M%SZ')
+    for n in items:
+        L += ['BEGIN:VEVENT', f"UID:{n['id']}@valley-live.projectscroll.com", 'DTSTAMP:' + stamp]
+        if n['allday']:
+            d = datetime.date.fromisoformat(n['start'][:10])
+            L += ['DTSTART;VALUE=DATE:' + d.strftime('%Y%m%d'), 'DTEND;VALUE=DATE:' + (d + datetime.timedelta(days=1)).strftime('%Y%m%d')]
+        else:
+            d = datetime.datetime.fromisoformat(n['start']).astimezone(TZ)
+            L += ['DTSTART;TZID=America/Detroit:' + d.strftime('%Y%m%dT%H%M%S'), 'DURATION:PT2H' if n['kind'] != 'sports' else 'DURATION:PT3H']
+        where = ', '.join(x for x in (n.get('room'), n['venue'] if n['kind'] != 'sports' else None, n['town']) if x)
+        L += ['SUMMARY:' + esc(n['title']), 'LOCATION:' + esc(where), 'URL:' + n['url'],
+              'DESCRIPTION:' + esc(f"Listed by {n['venue']}. Times and tickets: {n['url']}\nMore nights out in the valley: https://projectscroll.com/{'sports' if n['kind'] == 'sports' else 'scroll-bar'}/?p=feed"),
+              'END:VEVENT']
+    L.append('END:VCALENDAR')
+    out = []
+    for line in L:   # folded at 75 octets, as the standard asks
+        b = line.encode()
+        while len(b) > 74:
+            cut = 74
+            while (b[cut] & 0xC0) == 0x80: cut -= 1
+            out.append(b[:cut].decode()); b = b' ' + b[cut:]
+        out.append(b.decode())
+    open(path, 'w', newline='').write('\r\n'.join(out) + '\r\n')
+
 def main(SRC='sources.json', OUT='nights.json', KEY='nights', STAT='status.json'):
     S = json.load(open(SRC))['sources']
     nights, status, seen = [], {}, set()
@@ -133,7 +209,7 @@ def main(SRC='sources.json', OUT='nights.json', KEY='nights', STAT='status.json'
                 tm = next(t for t in T if t['name'] == s['name'])
                 s = dict(s, url=s['url'].replace('__TEAMID__', str(tm['id'])).replace('__SPORTID__', str(tm['sport']['id'])))
             page = get(s['url'].replace('__TODAY__', TODAY.isoformat()).replace('__PLUS300__', (TODAY + datetime.timedelta(days=300)).isoformat()))
-            M = {'ics': from_ics, 'jsonld': from_jsonld, 'html': from_html, 'cards': from_cards, 'tm': from_tm, 'mlb': from_mlb}
+            M = {'ics': from_ics, 'jsonld': from_jsonld, 'html': from_html, 'cards': from_cards, 'tm': from_tm, 'mlb': from_mlb, 'ndapi': from_ndapi}
             got = M[s['method']](s, page)
             if not got and s.get('follow'):
                 # the list page names the shows; each show's own page carries its date (at most 40 pages, a second apart)
@@ -156,13 +232,16 @@ def main(SRC='sources.json', OUT='nights.json', KEY='nights', STAT='status.json'
                 nights.append({'id': hashlib.sha1(repr(key).encode()).hexdigest()[:10], 'title': g['title'], 'start': g['start'], 'allday': 'T' not in g['start'],
                                'venue': s['name'], 'room': g['place'] if g['place'] and g['place'] != s['name'] else None,
                                'town': s['town'], 'kind': s['kind'], 'campus': s.get('campus'), 'url': g['url'],
-                               'source': s['url'], 'read': TODAY.isoformat(), **({'home': g['home'], 'team': s.get('team'), 'sport': s.get('sport')} if 'home' in g and g['home'] is not None else {})})
+                               'source': s['url'], 'read': TODAY.isoformat(), 'tags': tags(g['title']) if s['kind'] != 'sports' else [], **flags(g),
+                               **({'tickets': s['tickets']} if s.get('tickets') else {}), **({'home': g['home'], 'team': s.get('team'), 'sport': s.get('sport')} if 'home' in g and g['home'] is not None else {})})
             status[s['id']] = {'ok': True, 'found': len(got), 'kept': kept, 'read': NOW.isoformat(timespec='minutes')}
         except Exception as e:
             status[s['id']] = {'ok': False, 'error': str(e)[:200], 'read': NOW.isoformat(timespec='minutes')}
     nights.sort(key=lambda n: n['start'])
     json.dump({'updated': NOW.isoformat(timespec='minutes'), KEY: nights}, open(OUT, 'w'), ensure_ascii=False, indent=0)
     json.dump(status, open(STAT, 'w'), ensure_ascii=False, indent=1)
+    if KEY == 'nights': ics(nights, 'The Scroll Bar: shows in the valley', 'nights.ics', 'Concerts, comedy and stage shows in the St. Joseph River valley, from each venue\'s own calendar. Project Scroll.')
+    else: ics([n for n in nights if n.get('home')], 'Game Day: home games in the valley', 'games.ics', 'Home games of the valley\'s teams, from each club\'s own schedule. Project Scroll.')
     print(f"{len(nights)} nights from {sum(v['ok'] for v in status.values())} of {len(S)} sources")
     for k, v in status.items(): print(k, v)
 

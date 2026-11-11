@@ -9,7 +9,8 @@
    "town": "Kalamazoo",
    "kind": "sports",
    "url": "https://wmubroncos.com/sports/football/schedule",
-   "method": "jsonld"
+   "method": "jsonld",
+   "tickets": "https://wmubroncos.com/tickets"
   },
   {
    "id": "wmu-mbb",
@@ -19,7 +20,8 @@
    "town": "Kalamazoo",
    "kind": "sports",
    "url": "https://wmubroncos.com/sports/mens-basketball/schedule",
-   "method": "jsonld"
+   "method": "jsonld",
+   "tickets": "https://wmubroncos.com/tickets"
   },
   {
    "id": "wmu-wbb",
@@ -29,7 +31,8 @@
    "town": "Kalamazoo",
    "kind": "sports",
    "url": "https://wmubroncos.com/sports/womens-basketball/schedule",
-   "method": "jsonld"
+   "method": "jsonld",
+   "tickets": "https://wmubroncos.com/tickets"
   },
   {
    "id": "wmu-hockey",
@@ -39,7 +42,8 @@
    "town": "Kalamazoo",
    "kind": "sports",
    "url": "https://wmubroncos.com/sports/mens-ice-hockey/schedule",
-   "method": "jsonld"
+   "method": "jsonld",
+   "tickets": "https://wmubroncos.com/tickets"
   },
   {
    "id": "sb-cubs",
@@ -50,7 +54,128 @@
    "kind": "sports",
    "url": "https://statsapi.mlb.com/api/v1/schedule?sportId=__SPORTID__&teamId=__TEAMID__&startDate=__TODAY__&endDate=__PLUS300__",
    "link": "https://www.milb.com/south-bend/schedule",
-   "method": "mlb"
+   "method": "mlb",
+   "tickets": "https://www.milb.com/south-bend/tickets"
+  },
+  {
+   "kind": "sports",
+   "id": "nd-football",
+   "name": "Notre Dame Fighting Irish",
+   "team": "Notre Dame",
+   "sport": "Football",
+   "town": "Notre Dame",
+   "url": "https://fightingirish.com/website-api/sports?per_page=100",
+   "slug": "football",
+   "method": "ndapi",
+   "tickets": "https://fightingirish.com/tickets/"
+  },
+  {
+   "kind": "sports",
+   "id": "nd-mbball",
+   "name": "Notre Dame Fighting Irish",
+   "team": "Notre Dame",
+   "sport": "Men's basketball",
+   "town": "Notre Dame",
+   "url": "https://fightingirish.com/website-api/sports?per_page=100",
+   "slug": "mbball",
+   "method": "ndapi",
+   "tickets": "https://fightingirish.com/tickets/"
+  },
+  {
+   "kind": "sports",
+   "id": "nd-wbball",
+   "name": "Notre Dame Fighting Irish",
+   "team": "Notre Dame",
+   "sport": "Women's basketball",
+   "town": "Notre Dame",
+   "url": "https://fightingirish.com/website-api/sports?per_page=100",
+   "slug": "wbball",
+   "method": "ndapi",
+   "tickets": "https://fightingirish.com/tickets/"
+  },
+  {
+   "kind": "sports",
+   "id": "nd-mhockey",
+   "name": "Notre Dame Fighting Irish",
+   "team": "Notre Dame",
+   "sport": "Hockey",
+   "town": "Notre Dame",
+   "url": "https://fightingirish.com/website-api/sports?per_page=100",
+   "slug": "mhockey",
+   "method": "ndapi",
+   "tickets": "https://fightingirish.com/tickets/"
+  },
+  {
+   "kind": "sports",
+   "id": "goshen-mbb",
+   "name": "Goshen College Maple Leafs",
+   "team": "Goshen",
+   "sport": "Men's basketball",
+   "town": "Goshen",
+   "url": "https://goleafs.net/sports/mens-basketball/schedule",
+   "method": "jsonld",
+   "tickets": "https://www.goshen.edu/tickets"
+  },
+  {
+   "kind": "sports",
+   "id": "goshen-wbb",
+   "name": "Goshen College Maple Leafs",
+   "team": "Goshen",
+   "sport": "Women's basketball",
+   "town": "Goshen",
+   "url": "https://goleafs.net/sports/womens-basketball/schedule",
+   "method": "jsonld",
+   "tickets": "https://www.goshen.edu/tickets"
+  },
+  {
+   "kind": "sports",
+   "id": "bethel-mbb",
+   "name": "Bethel Pilots",
+   "team": "Bethel",
+   "sport": "Men's basketball",
+   "town": "Mishawaka",
+   "url": "https://bupilots.com/sports/mens-basketball/schedule",
+   "method": "jsonld"
+  },
+  {
+   "kind": "sports",
+   "id": "bethel-wbb",
+   "name": "Bethel Pilots",
+   "team": "Bethel",
+   "sport": "Women's basketball",
+   "town": "Mishawaka",
+   "url": "https://bupilots.com/sports/womens-basketball/schedule",
+   "method": "jsonld"
+  },
+  {
+   "kind": "sports",
+   "id": "iu-south-bend-mbb",
+   "name": "IU South Bend Titans",
+   "team": "IU South Bend",
+   "sport": "Men's basketball",
+   "town": "South Bend",
+   "url": "https://iusbtitans.com/sports/mens-basketball/schedule",
+   "method": "jsonld"
+  },
+  {
+   "kind": "sports",
+   "id": "iu-south-bend-wbb",
+   "name": "IU South Bend Titans",
+   "team": "IU South Bend",
+   "sport": "Women's basketball",
+   "town": "South Bend",
+   "url": "https://iusbtitans.com/sports/womens-basketball/schedule",
+   "method": "jsonld"
+  },
+  {
+   "kind": "sports",
+   "id": "smc-wbb",
+   "name": "Saint Mary's Belles",
+   "team": "Saint Mary's",
+   "sport": "Women's basketball",
+   "town": "Notre Dame",
+   "url": "https://belles.saintmarys.edu/sports/womens-basketball/schedule",
+   "method": "jsonld"
   }
  ]
 }
