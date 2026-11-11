@@ -1,4 +1,62 @@
 {
+ "https://www.aucardinals.com/": {
+  "error": "HTTP Error 405: Not Allowed"
+ },
+ "https://www.aucardinals.com/sports/mens-basketball/schedule": {
+  "error": "HTTP Error 405: Not Allowed"
+ },
+ "https://silverharborbrewing.com/event/sunday-brunch-2/": {
+  "status": 200,
+  "final": "https://silverharborbrewing.com/event/sunday-brunch-2/",
+  "bytes": 91235,
+  "ld_types": {},
+  "links": [
+   [
+    "https://silverharborbrewing.com/group-events/",
+    7
+   ],
+   [
+    "https://silverharborbrewing.com/events/",
+    5
+   ],
+   [
+    "https://silverharborbrewing.com/wp-json/oembed/N.N/embed",
+    2
+   ],
+   [
+    "https://silverharborbrewing.com/wp-json/wp/vN/event/N",
+    1
+   ],
+   [
+    "https://silverharborbrewing.com/event/sunday-brunch-N/",
+    1
+   ],
+   [
+    "https://silverharborbrewing.com/events",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [
+   "https://silverharborbrewing.com/feed/",
+   "https://silverharborbrewing.com/comments/feed/",
+   "https://silverharborbrewing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsilverharborbrewing.com%2Fevent%2Fsunday-brunch-2%2F",
+   "https://silverharborbrewing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsilverharborbrewing.com%2Fevent%2Fsunday-brunch-2%2F&#038;format=xml",
+   "https://silverharborbrewing.com/wp-json/",
+   "https://silverharborbrewing.com/wp-json/wp/v2/event/3562"
+  ],
+  "dates": [
+   "December 6, 2026",
+   "December 6, 2026"
+  ],
+  "apis": [
+   "https://api.w.org/"
+  ],
+  "snip": "t--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list\" data-id=\"4e2ae46\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"icon-list.default\"> <div class=\"elementor-widget-container\"> <ul class=\"elementor-icon-list-items\"> <li class=\"elementor-icon-list-item\"> <a href=\"https://silverharborbrewing.com/events\"> <span class=\"elementor-icon-list-icon\"> <i aria-hidden=\"true\" class=\"fas fa-long-arrow-alt-left\"></i> </span> <span class=\"elementor-icon-list-text\">Events</span> </a> </li> </ul> </div> </div> <div class=\"elementor-element elementor-element-8f9ba11 elementor-widget elementor-widget-heading\" data-id=\"8f9ba11\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h1 class=\"elementor-heading-title elementor-size-default\">Sunday Brunch</h1> </div> </div> <div class=\"elementor-element elementor-element-a74f604 e-con-full e-flex e-con e-child\" data-id=\"a74f604\" data-element_type=\"container\" data-e-type=\"container\"> <div class=\"elementor-element elementor-element-a23ebf2 elementor-widget elementor-widget-heading\" data-id=\"a23ebf2\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <p class=\"elementor-heading-title elementor-size-default\">December 6, 2026</p> </div> </div> <div class=\"elementor-element elementor-element-1463642 elementor-widget elementor-widget-heading\" data-id=\"1463642\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <p class=\"elementor-heading-title elementor-size-default\">- December 6, 2026</p> </div> </div> </div> <div class=\"elementor-element elementor-element-58d0d45 elementor-widget elementor-widget-heading\" data-id=\"58d0d45\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <p class=\"elementor-heading-title elementor-size-default\">Miracle on Pleasant Street @ SHBC</p> </div> </div> <div class=\"elementor-element elementor-element-ba5abbc elementor-widget elementor-widget-theme-post-content\" data-id=\"ba5abbc\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"theme-post-content.default\"> <div class=\"elementor-widget-container\"> <p data-pm-slice=\"1 1 []\">Celebrate the season with a festive Christmas brunch at our holiday pop-up bar! Enjoy a delicious food buffet, seasonal drinks for adults and kids, and a magical Christmas atmosphere filled with holiday cheer. Gather your family and friends for a merry morning of great food, festive sips, and Christmas memories!</p> <p data-pm-slice=\"1 1 []\">Reservations Coming Soon!</p> </div> </div> </div> </di",
+  "head": "",
+  "types_json": null,
+  "title": "Sunday Brunch &#8211; Silver Harbor Brewing Company"
+ },
  "https://cafe.bellsbeer.com/events/": {
   "status": 200,
   "final": "https://cafe.bellsbeer.com/events/",
@@ -88,274 +146,80 @@
    "https://www.etix.com/ticket/p/48804859/revpeytons-big-damn-band-wsg-adrian-and-meredith-band-kalamazoo-bells-eccentric-cafe",
    "https://www.etix.com/ticket/p/51587494/sicard-hollow-kalamazoo-bells-eccentric-cafe"
   ],
-  "snip": "",
+  "snip": "<!doctype html> <html lang=\"en-US\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"> <link rel=\"profile\" href=\"https://gmpg.org/xfn/11\"> <title> Events | Cafe - Bell&#039;s Brewery </title> <title>Events &#8211; Cafe &#8211; Bell&#039;s Brewery</title> <meta name='robots' content='max-image-preview:large' /> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Cafe - Bell&#039;s Brewery &raquo; Feed\" href=\"https://cafe.bellsbeer.com/feed/\" /> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Cafe - Bell&#039;s Brewery &raquo; Comments Feed\" href=\"https://cafe.bellsbeer.com/comments/feed/\" /> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Cafe - Bell&#039;s Brewery &raquo; Events Feed\" href=\"https://cafe.bellsbeer.com/events/feed/\" /> <style id=\"wp-img-auto-sizes-contain-inline-css\"> img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px} /*# sourceURL=wp-img-auto-sizes-contain-inline-css */ </style> <link rel='stylesheet' id='wp-block-library-css' href='https://cafe.bellsbeer.com/wp-includes/css/dist/block-library/style.min.css?ver=0c2c3e111437b9e8c03dfe991d01eb86' media='all' /> <style id=\"global-styles-inline-css\"> :root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,",
   "head": "",
   "types_json": null,
   "title": "Events | Cafe - Bell&#039;s Brewery"
  },
- "https://silverharborbrewing.com/events/": {
+ "https://cafe.bellsbeer.com/event-genres/rock/": {
   "status": 200,
-  "final": "https://silverharborbrewing.com/events/",
-  "bytes": 138994,
+  "final": "https://cafe.bellsbeer.com/event-genres/rock/",
+  "bytes": 242706,
   "ld_types": {},
   "links": [
    [
-    "https://silverharborbrewing.com/group-events/",
-    7
+    "https://cafe.bellsbeer.com/event/kalamazoo-academy-of-rock-N/bells-brewery-tours/",
+    12
    ],
    [
-    "https://silverharborbrewing.com/events/",
-    6
+    "https://bellsbeer.com/host-a-private-event/",
+    5
    ],
    [
-    "https://silverharborbrewing.com/event/sunday-brunch-N/",
+    "https://events.bellsbeer.com",
+    4
+   ],
+   [
+    "https://events.bellsbeer.com/",
+    2
+   ],
+   [
+    "https://cafe.bellsbeer.com/event/prince-daddy-the-hyena-wsg-combat-and-walter-etc-with-cinema-stare/bells-brewery-tours/",
+    2
+   ],
+   [
+    "https://cafe.bellsbeer.com/event/small-brown-bike-with-criteria-and-bronson-arm/bells-brewery-tours/",
+    2
+   ],
+   [
+    "https://cafe.bellsbeer.com/event/basic-doug-mccombs-of-tortoise-chris-forsyth/bells-brewery-tours/",
+    2
+   ],
+   [
+    "https://cafe.bellsbeer.com/event/g-love-special-sauce-with-wayne-baker-brooks/bells-brewery-tours/",
+    2
+   ],
+   [
+    "https://help.bellsbeer.com/portal/en/newticket",
+    2
+   ],
+   [
+    "https://cafe.bellsbeer.com/event-genres/rock/feed/",
     1
    ],
    [
-    "https://silverharborbrewing.com/event/wreath-making-class/",
-    1
-   ],
-   [
-    "https://silverharborbrewing.com/event/holiday-movie-trivia/",
-    1
-   ],
-   [
-    "https://silverharborbrewing.com/event/grinch-brunch/",
-    1
-   ],
-   [
-    "https://silverharborbrewing.com/event/christmas-trivia-night/",
-    1
-   ],
-   [
-    "https://silverharborbrewing.com/event/sunday-brunch/",
-    1
-   ],
-   [
-    "https://silverharborbrewing.com/event/harry-potter-trivia/",
-    1
-   ],
-   [
-    "https://silverharborbrewing.com/event/oktoberfest-N/",
-    1
-   ],
-   [
-    "https://silverharborbrewing.com/event/mothers-day-brunch/",
-    1
-   ],
-   [
-    "https://silverharborbrewing.com/event/easter-brunch/",
-    1
-   ],
-   [
-    "https://silverharborbrewing.com/event/N-year-anniversary-brewers-dinner/",
-    1
-   ],
-   [
-    "https://silverharborbrewing.com/event/taste-toast-a-girls-dinner-experience/",
-    1
-   ],
-   [
-    "https://silverharborbrewing.com/event/savor-the-shoreline/",
+    "https://cafe.bellsbeer.com/event-genres/rock/page/N/",
     1
    ]
   ],
   "ics": [],
   "feeds": [
-   "https://silverharborbrewing.com/feed/",
-   "https://silverharborbrewing.com/comments/feed/",
-   "https://silverharborbrewing.com/events/?feed=rss2",
-   "https://silverharborbrewing.com/wp-json/"
+   "https://cafe.bellsbeer.com/feed/",
+   "https://cafe.bellsbeer.com/comments/feed/",
+   "https://cafe.bellsbeer.com/event-genres/rock/feed/",
+   "https://cafe.bellsbeer.com/wp-json/"
   ],
   "dates": [
-   "December 6, 2026",
-   "December 6, 2026",
-   "December 7, 2026",
-   "December 7, 2026",
-   "December 8, 2026",
-   "December 8, 2026"
+   "June 12, 2026"
   ],
   "apis": [
-   "https://api.w.org/"
+   "https://api.w.org/",
+   "https://fonts.googleapis.com/css",
+   "https://fonts.googleapis.com/css2"
   ],
-  "snip": "px;}.elementor-3216 .elementor-element.elementor-element-2d6c1aa > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-3216 .elementor-element.elementor-element-2d6c1aa .elementor-heading-title{color:var( --e-global-color-secondary );}.elementor-3216 .elementor-element.elementor-element-2d6c1aa .elementor-heading-title a:hover, .elementor-3216 .elementor-element.elementor-element-2d6c1aa .elementor-heading-title a:focus{color:var( --e-global-color-secondary );}.elementor-3216 .elementor-element.elementor-element-5646c3d > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-3216 .elementor-element.elementor-element-5646c3d .elementor-heading-title{color:var( --e-global-color-secondary );}.elementor-3216 .elementor-element.elementor-element-5646c3d .elementor-heading-title a:hover, .elementor-3216 .elementor-element.elementor-element-5646c3d .elementor-heading-title a:focus{color:var( --e-global-color-secondary );}.elementor-3216 .elementor-element.elementor-element-34f73fe > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-3216 .elementor-element.elementor-element-34f73fe .elementor-heading-title{font-family:\"oswald\", Sans-serif;font-size:13px;font-weight:500;text-transform:uppercase;color:var( --e-global-color-secondary );}.elementor-3216 .elementor-element.elementor-element-7d43079 .elementor-widget-container{font-family:\"Roboto\", Sans-serif;font-size:13px;font-weight:400;line-height:17px;color:var( --e-global-color-secondary );}</style> <div data-elementor-type=\"loop-item\" data-elementor-id=\"3216\" class=\"elementor elementor-3216 e-loop-item e-loop-item-3562 post-3562 event type-event status-publish has-post-thumbnail hentry\" data-elementor-post-type=\"elementor_library\" data-custom-edit-handle=\"1\"> <a class=\"elementor-element elementor-element-5fdc6b5 e-flex e-con-boxed e-con e-parent\" data-id=\"5fdc6b5\" data-element_type=\"container\" data-e-type=\"container\" href=\"https://silverharborbrewing.com/event/sunday-brunch-2/\"> <div class=\"e-con-inner\"> <div class=\"elementor-element elementor-element-c0d1317 loop-thumb elementor-widget elementor-widget-image\" data-id=\"c0d1317\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"image.default\"> <div class=\"elementor-widget-container\"> <img fetchpriority=\"high\" width=\"800\" height=\"667\" src=\"https://silverharborbrewing.com/wp-content/uploads/2026/10/Screenshot-2026-10-11-at-3.31.34-PM-1024x854.png\" class=\"attachment-large size-large wp-image-3564\" alt=\"\" srcset=\"https://silverharborbrewing.com/wp-content/uploads/2026/10/Screenshot-2026-10-11-at-3.31.34-PM-1024x854.png 1024w, https://silverharborbrewing.com/wp-content/uploads/2026/10/Screenshot-2026-10-11-at-3.31.34-PM-300x250.png 300w, https://silverharborbrewing.com/wp-content/uploads/2026/10/Screenshot-2026-10-11-at-3.31.34-PM-768x641.png 768w, https://silverharborbrewing.com/wp-content/uploads/2026/10/Screenshot-2026-10-11-at-3.31.34-PM-600x501.png 600w, https://silverharbor",
+  "snip": "entor-element elementor-element-2af1cad9 e-con-full e-flex e-con e-child\" data-id=\"2af1cad9\" data-element_type=\"container\" data-e-type=\"container\"> <div class=\"elementor-element elementor-element-52df4f66 elementor-view-default elementor-widget elementor-widget-icon\" data-id=\"52df4f66\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"icon.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-icon-wrapper\"> <a class=\"elementor-icon\" href=\"#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjY4MjUwIiwidG9nZ2xlIjpmYWxzZX0%3D\" aria-label=\"click here to open the mobile menu\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"800px\" height=\"800px\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#FFB100\"><g id=\"SVGRepo_bgCarrier\" stroke-width=\"0\"></g><g id=\"SVGRepo_tracerCarrier\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></g><g id=\"SVGRepo_iconCarrier\"><path d=\"M4 18L20 18\" stroke=\"#FFB100\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M4 12L20 12\" stroke=\"#FFB100\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M4 6L20 6\" stroke=\"#FFB100\" stroke-width=\"2\" stroke-linecap=\"round\"></path></g></svg> </a> </div> </div> </div> </div> </div> </div> </header> <main id=\"content\" class=\"site-main\"> <div class=\"page-header\"> <h1 class=\"entry-title\">Genre: <span>Rock</span></h1> </div> <div class=\"page-content\"> <article class=\"post\"> <h2 class=\"entry-title\"><a href=\"https://cafe.bellsbeer.com/event/kalamazoo-academy-of-rock-25/bells-brewery-tours/\">Kalamazoo Academy Of Rock</a></h2><a href=\"https://cafe.bellsbeer.com/event/kalamazoo-academy-of-rock-25/bells-brewery-tours/\"><img loading=\"lazy\" width=\"800\" height=\"534\" src=\"https://cafe.bellsbeer.com/wp-content/uploads/2025/01/etix-Kalamazoo_3160801736085163.jfif\" class=\"attachment-large size-large wp-post-image\" alt=\"\" decoding=\"async\" /></a><p>This is an all-ages event Advance tickets may also be purchased in person at the General Store by card only (no cash) Kalamazoo Academy of Rock is back at Bell&#8217;s! These youth bands have been wow-ing audiences for years &#8211; come on down for a show like no other! For more information about KAR visit www.kzoorock.com</p> </article> <article class=\"post\"> <h2 class=\"entry-title\"><a href=\"https://cafe.bellsbeer.com/event/kalamazoo-academy-of-rock-26/bells-brewery-tours/\">Kalamazoo Academy Of Rock</a></h2><a href=\"https://cafe.bellsbeer.com/event/kalamazoo-academy-of-rock-26/bells-brewery-tours/\"><img loading=\"lazy\" width=\"800\" height=\"534\" src=\"https://cafe.bellsbeer.com/wp-content/uploads/2025/01/etix-Kalamazoo_3160801736085163.jfif\" class=\"attachment-large size-large wp-post-image\" alt=\"\" decoding=\"async\" /></a><p>This is an all-ages event Advance tickets may also be purchased in person at the General Store by card only (no cash) Kalamazoo Academy of Rock is back at Bell&#8217;s! These youth bands have been wow-ing audience",
   "head": "",
   "types_json": null,
-  "title": "Events &#8211; Silver Harbor Brewing Company"
- },
- "https://www.journeyman.com/events/": {
-  "status": 200,
-  "final": "https://www.journeyman.com/events/",
-  "bytes": 128342,
-  "ld_types": {
-   "WebPage": 1,
-   "ReadAction": 1,
-   "BreadcrumbList": 1,
-   "ListItem": 2,
-   "WebSite": 1,
-   "SearchAction": 1,
-   "EntryPoint": 1,
-   "PropertyValueSpecification": 1,
-   "Organization": 1,
-   "ImageObject": 1
-  },
-  "links": [
-   [
-    "https://www.journeyman.com/events/",
-    2
-   ],
-   [
-    "https://www.journeyman.com/events-form/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/trivia-mondays-valparaiso-in/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/autumn-artisan-market-valparaiso-N/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/thanksgivingathome-chef-prepared-dinner-valparaiso-in/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/pumpkin-pie-to-go-three-oaks-mi/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/thanksgiving-valparaiso-in/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/comedy-on-the-rocks-three-oaks-mi/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/jazz-sessions-valparaiso-in-N/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/comedy-on-the-rocks-valparaiso-in/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/santa-brunch-valparaiso-in/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/rotten-tooth-valparaiso-in/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/burns-night-three-oaks-mi/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/winter-artisan-market-N/",
-    1
-   ],
-   [
-    "https://www.journeyman.com/events/spring-artisan-market-three-oaks-N/",
-    1
-   ]
-  ],
-  "ics": [],
-  "feeds": [],
-  "dates": [],
-  "apis": [],
-  "snip": "r /> Eastern Time</em></a></h5> <h5><a class=\"\" href=\"https://www.opentable.com/r/journeyman-reservations-three-oaks?restref=1412371&amp;lang=en-US&amp;ot_source=Restaurant%20website\">RESERVE NOW</a><br /> <a class=\"\" href=\"https://www.toasttab.com/journeyman-distillery/giftcards?utm_source=undefined&amp;utm_content=online--journeyman-distillery&amp;utm_medium=toast_sites&amp;utm_campaign=giftcards\">GIFT CARDS</a></h5> </div> <div class=\"submenu_item submenu--col-1-2\"> <h3><a class=\"\" href=\"https://www.journeyman.com/unionhall/\">UNION HALL</a></h3> <h4><a class=\"\" href=\"https://www.journeyman.com/unionhall/\">RESTAURANT</a></h4> <h5><a class=\"\" href=\"https://www.journeyman.com/unionhall/\">VALPARAISO, IN<em><br /> Central Time</em></a></h5> <h5><a class=\"\" href=\"https://www.opentable.com/r/journeyman-at-american-factory-valparaiso-in-reservations-valparaiso?restref=1412377&amp;lang=en-US&amp;ot_source=Restaurant%20website\" target=\"_blank\" rel=\"noopener\">RESERVE NOW</a><br /> <a class=\"\" href=\"https://www.toasttab.com/journeyman-distillery-union-hall-valpo/giftcards\">GIFT CARDS</a></h5> </div> </div> </div> </div> --> </div> </div> </header> <div id=\"content\" class=\"site-content\"> <div id=\"primary\" class=\"content-area\"> <main id=\"main\" class=\"site-main\"> <section class=\"events\"> <div class=\"container\"> <h2 class=\"title\">Upcoming Events</h2> <div class=\"upcoming_events__cont\"> <div class=\"upcoming_events__card\"> <a class=\"block_pages__item\" href=\"https://www.journeyman.com/events/trivia-mondays-valparaiso-in/\"> <div class=\"block_pages__image\"> <img width=\"900\" height=\"900\" src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E\" alt=\"Trivia Night &#8211; 1 YEAR ANNIVERSARY | Valparaiso, IN\" data-lazy-src=\"https://www.journeyman.com/wp-content/smush-webp/2025/11/JOU_Trivia_Calendar_1000x1000_V2-900x900.png.webp\" /><noscript><img width=\"900\" height=\"900\" src=\"https://www.journeyman.com/wp-content/uploads/2025/11/JOU_Trivia_Calendar_1000x1000_V2-900x900.png\" alt=\"Trivia Night &#8211; 1 YEAR ANNIVERSARY | Valparaiso, IN\" /></noscript> </div> <div class=\"upcoming_events__uppertitle\">Trivia Night &#8211; 1 YEAR ANNIVERSARY | Valparaiso, IN</div> <div class=\"upcoming_events__date\">11/16/2026</div> <div class=\"upcoming_events__duration\">7:00PM CT</div> <div class=\"upcoming_events__month-year\">11/16/2026</div> </a> </div> <div ",
-  "head": "",
-  "types_json": null,
-  "title": "Events at Journeyman Distillery"
- },
- "https://www.andrews.edu/agenda/": {
-  "status": 200,
-  "final": "https://www.andrews.edu/agenda/",
-  "bytes": 90930,
-  "ld_types": {},
-  "links": [
-   [
-    "/agenda/events/feed/Agenda: Campus Announcements/",
-    8
-   ],
-   [
-    "/agenda/events",
-    3
-   ],
-   [
-    "/go/academiccalendar",
-    2
-   ],
-   [
-    "/alumni/events/",
-    2
-   ],
-   [
-    "/agenda/events/",
-    2
-   ],
-   [
-    "/agenda/events/feed/Social Work/",
-    2
-   ],
-   [
-    "/go/academiccalendar/",
-    1
-   ],
-   [
-    "/admres/jobs/show/student",
-    1
-   ],
-   [
-    "/academics/calendar/",
-    1
-   ]
-  ],
-  "ics": [],
-  "feeds": [
-   "/agenda/rss/",
-   "https://andrews.edu/feedback",
-   "https://andrews.edu/feedback",
-   "/agenda/feed/Agenda: Campus News/",
-   "/agenda/feed/Agenda: Campus Announcements/",
-   "/agenda/feed/Agenda: Community Announcements/",
-   "/agenda/feed/Agenda: Andrews in the News/",
-   "/agenda/feed/Agenda: Life Stories/"
-  ],
-  "dates": [
-   "November 5, 2026",
-   "Oct. 29, 2026",
-   "November 5, 2026",
-   "November 5, 2026",
-   "November 5, 2026",
-   "Nov. 5, 2026"
-  ],
-  "apis": [],
-  "snip": "=\"/services/research/faculty_research/\">Faculty Research</a></li> <li><a href=\"/services/research/research_compliance/\">Research Compliance</a></li> <li>&nbsp;</li> <li><a href=\"/services/research/\" class=\"btn-inset btn-blue m-button\">Research Page</a></li> </ul> </nav> </div> </div> </div> <!-- Student Life --> <div class=\"panel panel-default\"> <!-- Heading --> <div class=\"panel-heading\"> <p class=\"panel-title\"> <a class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#m-nav-accordion\" href=\"#student-life\" aria-controls=\"student-life\" role=\"tab\">Student Life <i class=\"fa fa-solid fa-angle-down\"></i></a> </p> </div> <!-- Panel --> <div class=\"panel-collapse collapse\" id=\"student-life\" aria-label=\"student-life\" role=\"tabpanel\"> <div class=\"panel-body m-sub-panel\"> <nav class=\"col-xs-12 m-sub-panel-nav\"> <!-- <h4>Popular Resources</h4> --> <ul> <li><a href=\"/faith/\">Faith Engagement</a></li> <li><a href=\"/life/living/housing/\">Housing options</a></li> <li><a href=\"/services/dining/\">Dining at Andrews</a></li> <li><a href=\"/life/involvement/co-curricular-education\">Cocurricular Education</a></li> <li><a href=\"/services/iss/\">International Student Services &amp; Programs</a></li> <li><a href=\"/admres/jobs/show/student\">Student Jobs through HR</a></li> <li><a href=\"/services/safety/\">Campus Safety</a></li> <li><a href=\"https://www.aucardinals.com/\" target=\"_blank\">Intercollegiate Athletics</a></li> <li><a href=\"https://www.aucardinals.com/\" target=\"_blank\">Intramural Sports</a></li> <li><a href=\"/agenda/events/\" target=\"_blank\">Campus Calendar</a></li> <li><a href=\"/services/ctcenter/\" target=\"_blank\">Counseling &amp; Testing Center</a></li> <li>&nbsp;</li> <li><a href=\"/life/\" class=\"m-button btn-inset btn-blue\">Division of Student Life</a></li> </ul> </nav> </div> </div> </div> <!-- About Andrews --> <div class=\"panel panel-default\"> <div class=\"panel-heading\"> <p class=\"panel-title\"> <a data-parent=\"#m-nav-accordion\" href=\"/about\">About Andrews</a> </p> </div> </div> <!-- Faith Engagement --> <div class=\"panel panel-default\"> <div class=\"panel-heading\"> <p class=\"panel-title\"> <a data-parent=\"#m-nav-accordion\" href=\"/faith\">Faith Engagement</a> </p> </div> </div> </div> </div> <div id=\"main-content\"><!--This is for the screen reader to focus on--></div> <main> <!-- TIMER: 6 agenda wrapper start 4.1315 --> <style> .btn-gray {color: white !important;} </style> <div class=\"header\"> <div class=\"container\"> <div class=\"row\"> <nav class=\"navbar-default\" role=\"navigation\"> <div class=\"navbar-header col-xs-12 col-sm-6\"> <a href=\"https://www.andrews.edu/agenda/\"><span class=\"header-title\">Andrews Agenda</span></a><br> <a href=\"https://www.andrews.edu/agenda/\"><span class=\"pr",
-  "head": "",
-  "types_json": null,
-  "title": "Agenda - Andrews Agenda :: Andrews University"
- },
- "https://www.andrews.edu/agenda/rss/": {
-  "status": 200,
-  "final": "https://www.andrews.edu/agenda/rss/",
-  "bytes": 11005,
-  "ld_types": {},
-  "links": [],
-  "ics": [],
-  "feeds": [],
-  "dates": [
-   "Oct. 29, 2026",
-   "Jan. 12, 1927",
-   "April 25, 1954",
-   "Nov. 5, 2026"
-  ],
-  "apis": [],
-  "snip": "",
-  "head": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n\n<rss version=\"2.0\"\n xmlns:blogChannel=\"http://backend.userland.com/blogChannelModule\"\n>\n\n<channel>\n<title>Andrews University Agenda</title>\n<link>http://www.andrews.edu/agenda/</link>\n<description>News and Events at Andrews University</description>\n<language>en-us</language>\n<copyright>Copyright 2026, Andrews University</copyright>\n<pubDate>Wed, 11 Nov 2026 17:50:00 +0000</pubDate>\n<lastBuildDate>Wed, 11 Nov 2026 17:50:00 +0000</lastBuildDate>\n<managingEditor>webmaster@andrews.edu</managingEditor>\n<webMaster>webmaster@andrews.edu</webMaster>\n\n<item>\n<title>Death of Doris Helm</title>\n<link>http://www.andrews.edu/agenda/70519</link>\n<description>&#x3C;p&#x3E;\r\n\tDoris D. Helm, a loving, kind, and faith-filled Christian, passed away peacefully of natural causes on Oct. 29, 2026, in St. Joseph, Michigan, at the age of 99.&#x3C;/p&#x3E;\r\n&#x3C;p&#x3E;\r\n\tShe was born on Jan. 12, 1927, in New Paris, Indiana, to the late Perl and Gladys (Keck) Covert. Doris was the 4th of 5 children and was always close to her siblings. Her parents instilled the values of faith in God, hard work, devotion, and family that would guide her throughout her long and meaningful life.&#x3C;/p&#x3E;\r\n&#x3C;p&#x3E;\r\n\tOn April 25, 1954, she married Herbert W. Helm in Michigan City, Indiana. This bond remained strong for 52 years. Together they created a home centered on love and faith for their four children. Her family was the heart of her world. As a Mom, she delighted in playing with her children and birthdays were always a special time. After the children were all in school, she worked as a librarian for the James White Library at Andrews University for about twenty-five years. Her time in the circulation department brought fulfillment through helping others and forming good friendships with those she worked with.&#x3C;/p&#x3E;\r\n&#x3C;p&#x3E;\r\n\tDoris was a member of Pioneer Memorial Seventh-day Adventist Church and cherished her roles as a Cradle Roll leader and later as a greeter. She was an active and generous presence in her community and enjoyed volunteering for Neighbor to Neighbor, Your Story Hour, and Adventist Frontier Missions. She found joy in simple pleasures and treasured the moments that brought people together. She enjoyed playing games with friends, sewing, taking vacations, playing the piano, and had a special taste for anything chocolate. A special family tradition of spending warm Friday evenings at the beach started when the chi",
-  "types_json": null,
-  "title": "Andrews University Agenda"
+  "title": "Rock &#8211; Cafe &#8211; Bell&#039;s Brewery"
  }
 }
