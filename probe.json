@@ -1,355 +1,390 @@
 {
- "https://bellsbeer.com/eccentric-cafe/": {
-  "status": 200,
-  "final": "https://cafe.bellsbeer.com/",
-  "bytes": 470187,
-  "ld_types": {},
-  "links": [
-   [
-    "https://cafe.bellsbeer.com/event/kait-rose-co-presents-fleetwood-magic-N/bells-brewery-tours/",
-    12
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/kalamazoo-academy-of-rock-N/bells-brewery-tours/",
-    12
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/kait-rose-co-presents-fleetwood-magic-N-day-package/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/lions-game-brunch/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/welshly-arms-with-the-astronomers/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/rev-peytons-big-damn-band-wsg-adrian-and-meredith-band/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/small-brown-bike-with-criteria-and-bronson-arm/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/lee-emi-emilee-petersmark-of-the-crane-wives-with-cal-in-red/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/wreath-making/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/dwts-finale-watch-party-N/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/black-friday-kickback-featuring-dc-yolonda-wsg-dj-conscious/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/lower-leisure-class-with-no-bails-and-krass-kringle/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/holiday-bizarre-bazaar-N/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://bellsbeer.com/host-a-private-event/",
-    5
-   ],
-   [
-    "https://events.bellsbeer.com",
-    4
-   ]
-  ],
-  "ics": [],
-  "feeds": [
-   "https://cafe.bellsbeer.com/feed/",
-   "https://cafe.bellsbeer.com/comments/feed/",
-   "https://cafe.bellsbeer.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcafe.bellsbeer.com%2F",
-   "https://cafe.bellsbeer.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcafe.bellsbeer.com%2F&#038;format=xml",
-   "https://cafe.bellsbeer.com/wp-json/",
-   "https://cafe.bellsbeer.com/wp-json/wp/v2/pages/44"
-  ],
-  "dates": [
-   "November 10, 2026",
-   "November 10, 2026",
-   "September 27, 2026"
-  ],
-  "apis": [
-   "https://api.w.org/",
-   "https://fonts.googleapis.com/css",
-   "https://fonts.googleapis.com/css2",
-   "https://www.etix.com/ticket/k/18927895/kait-rose-co-presentsfleetwood-magic-2-day-package-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/32988076/lions-game-brunch-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/46283742/kalamazoo-academy-of-rock-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/48804859/revpeytons-big-damn-band-wsg-adrian-and-meredith-band-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/58523298/lower-leisure-class-with-no-bails-and-krass-kringle-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/58807367/lee-emi-emilee-petersmark-of-the-crane-wiveswith-cal-in-red-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/59491578/holiday-bizarre-bazaar-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/64959567/wreath-making-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/66822849/kait-rose-co-presentsfleetwood-magic-kalamazoo-bells-eccentric-cafe"
-  ],
-  "snip": "-in-links\" title=\"https://bellsbeer.com/beers/special-double-cream-stout/\" href=\"https://bellsbeer.com/beers/special-double-cream-stout/\" target=\"_blank\" rel=\"noreferrer noopener\" data-auth=\"NotApplicable\" data-ogsc=\"\" data-outlook-id=\"bd6b7038-223d-4330-9c7f-47fbe1c92eb3\" data-linkindex=\"0\" data-olk-copy-source=\"MessageBody\">Special <span class=\"markz4fngxwop\" data-markjs=\"true\" data-ogac=\"\" data-ogab=\"\" data-ogsc=\"\" data-ogsb=\"\" data-ogsbtc=\"\" data-ogsbrc=\"\" data-ogsbbc=\"\" data-ogsblc=\"\">Double</span> <span class=\"markg93oxmkxh\" data-markjs=\"true\" data-ogac=\"\" data-ogab=\"\" data-ogsc=\"\" data-ogsb=\"\" data-ogsbtc=\"\" data-ogsbrc=\"\" data-ogsbbc=\"\" data-ogsblc=\"\">Cream</span> Stout</a> | 4 | 8<br />6.1% ABV &#8211; Named for its velvety smooth, <span class=\"markg93oxmkxh\" data-markjs=\"true\" data-ogac=\"\" data-ogab=\"\" data-ogsc=\"\" data-ogsb=\"\" data-ogsbtc=\"\" data-ogsbrc=\"\" data-ogsbbc=\"\" data-ogsblc=\"\">cream</span>y texture, this incredibly rich stout is brewed with 10 different specialty roasted malts chosen that impart notes of rich mocha and espresso.</p> <div dir=\"auto\" data-ogsc=\"rgb(33, 33, 33)\"> </div></div> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-e6ceb1e elementor-widget elementor-widget-text-editor\" data-id=\"e6ceb1e\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\"> <div class=\"elementor-widget-container\"> <p style=\"text-align: left;\">*Last Updated:<em><strong> November 10, 2026</strong></em></p> <p style=\"text-align: left;\">Not current enough? <br />Check the Tap Camera snapshot for an almost-real-time report during <a role=\"link\" href=\"https://bellsbeer.com/eccentric-cafe/#cafehours\">cafe hours.</a></p> <p>Don\u2019t forget to visit our General Store next door to check out the rotating variety of Kalamazoo Exclusive Beers, as well as packaged Bell&#8217;s Flagship Beers!</p> </div> </div> </div> </div> <div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2b1d874\" data-id=\"2b1d874\" data-element_type=\"column\" data-e-type=\"column\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\"> <div class=\"elementor-widget-wrap elementor-element-populated\"> <div class=\"elementor-element elementor-element-7215a71 elementor-widget elementor-widget-template\" data-id=\"7215a71\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"template.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-template\"> <div data-elementor-type=\"section\" data-elementor-id=\"67132\" class=\"elementor elementor-67132\" data-elementor-settings=\"{&quot;ha_cmc_init_switcher&quot;:&quot;no&quot;}\" data-elementor-post-type=\"elementor_library\"> <section class=\"elementor-section elementor-top-section elementor-element elementor-element-aabae42 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" d",
-  "head": "",
-  "types_json": null,
-  "title": "Cafe &#8211; Bell&#039;s Brewery"
+ "https://saintmarysathletics.com/sports/mens-basketball/schedule": {
+  "error": "<urlopen error [Errno -2] Name or service not known>"
  },
- "https://cafe.bellsbeer.com/": {
-  "status": 200,
-  "final": "https://cafe.bellsbeer.com/",
-  "bytes": 470187,
-  "ld_types": {},
-  "links": [
-   [
-    "https://cafe.bellsbeer.com/event/kait-rose-co-presents-fleetwood-magic-N/bells-brewery-tours/",
-    12
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/kalamazoo-academy-of-rock-N/bells-brewery-tours/",
-    12
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/kait-rose-co-presents-fleetwood-magic-N-day-package/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/lions-game-brunch/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/welshly-arms-with-the-astronomers/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/rev-peytons-big-damn-band-wsg-adrian-and-meredith-band/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/small-brown-bike-with-criteria-and-bronson-arm/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/lee-emi-emilee-petersmark-of-the-crane-wives-with-cal-in-red/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/wreath-making/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/dwts-finale-watch-party-N/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/black-friday-kickback-featuring-dc-yolonda-wsg-dj-conscious/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/lower-leisure-class-with-no-bails-and-krass-kringle/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://cafe.bellsbeer.com/event/holiday-bizarre-bazaar-N/bells-brewery-tours/",
-    6
-   ],
-   [
-    "https://bellsbeer.com/host-a-private-event/",
-    5
-   ],
-   [
-    "https://events.bellsbeer.com",
-    4
-   ]
-  ],
-  "ics": [],
-  "feeds": [
-   "https://cafe.bellsbeer.com/feed/",
-   "https://cafe.bellsbeer.com/comments/feed/",
-   "https://cafe.bellsbeer.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcafe.bellsbeer.com%2F",
-   "https://cafe.bellsbeer.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcafe.bellsbeer.com%2F&#038;format=xml",
-   "https://cafe.bellsbeer.com/wp-json/",
-   "https://cafe.bellsbeer.com/wp-json/wp/v2/pages/44"
-  ],
-  "dates": [
-   "November 10, 2026",
-   "November 10, 2026",
-   "September 27, 2026"
-  ],
-  "apis": [
-   "https://api.w.org/",
-   "https://fonts.googleapis.com/css",
-   "https://fonts.googleapis.com/css2",
-   "https://www.etix.com/ticket/k/18927895/kait-rose-co-presentsfleetwood-magic-2-day-package-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/32988076/lions-game-brunch-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/46283742/kalamazoo-academy-of-rock-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/48804859/revpeytons-big-damn-band-wsg-adrian-and-meredith-band-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/58523298/lower-leisure-class-with-no-bails-and-krass-kringle-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/58807367/lee-emi-emilee-petersmark-of-the-crane-wiveswith-cal-in-red-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/59491578/holiday-bizarre-bazaar-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/64959567/wreath-making-kalamazoo-bells-eccentric-cafe",
-   "https://www.etix.com/ticket/p/66822849/kait-rose-co-presentsfleetwood-magic-kalamazoo-bells-eccentric-cafe"
-  ],
-  "snip": "-in-links\" title=\"https://bellsbeer.com/beers/special-double-cream-stout/\" href=\"https://bellsbeer.com/beers/special-double-cream-stout/\" target=\"_blank\" rel=\"noreferrer noopener\" data-auth=\"NotApplicable\" data-ogsc=\"\" data-outlook-id=\"bd6b7038-223d-4330-9c7f-47fbe1c92eb3\" data-linkindex=\"0\" data-olk-copy-source=\"MessageBody\">Special <span class=\"markz4fngxwop\" data-markjs=\"true\" data-ogac=\"\" data-ogab=\"\" data-ogsc=\"\" data-ogsb=\"\" data-ogsbtc=\"\" data-ogsbrc=\"\" data-ogsbbc=\"\" data-ogsblc=\"\">Double</span> <span class=\"markg93oxmkxh\" data-markjs=\"true\" data-ogac=\"\" data-ogab=\"\" data-ogsc=\"\" data-ogsb=\"\" data-ogsbtc=\"\" data-ogsbrc=\"\" data-ogsbbc=\"\" data-ogsblc=\"\">Cream</span> Stout</a> | 4 | 8<br />6.1% ABV &#8211; Named for its velvety smooth, <span class=\"markg93oxmkxh\" data-markjs=\"true\" data-ogac=\"\" data-ogab=\"\" data-ogsc=\"\" data-ogsb=\"\" data-ogsbtc=\"\" data-ogsbrc=\"\" data-ogsbbc=\"\" data-ogsblc=\"\">cream</span>y texture, this incredibly rich stout is brewed with 10 different specialty roasted malts chosen that impart notes of rich mocha and espresso.</p> <div dir=\"auto\" data-ogsc=\"rgb(33, 33, 33)\"> </div></div> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-e6ceb1e elementor-widget elementor-widget-text-editor\" data-id=\"e6ceb1e\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\"> <div class=\"elementor-widget-container\"> <p style=\"text-align: left;\">*Last Updated:<em><strong> November 10, 2026</strong></em></p> <p style=\"text-align: left;\">Not current enough? <br />Check the Tap Camera snapshot for an almost-real-time report during <a role=\"link\" href=\"https://bellsbeer.com/eccentric-cafe/#cafehours\">cafe hours.</a></p> <p>Don\u2019t forget to visit our General Store next door to check out the rotating variety of Kalamazoo Exclusive Beers, as well as packaged Bell&#8217;s Flagship Beers!</p> </div> </div> </div> </div> <div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2b1d874\" data-id=\"2b1d874\" data-element_type=\"column\" data-e-type=\"column\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\"> <div class=\"elementor-widget-wrap elementor-element-populated\"> <div class=\"elementor-element elementor-element-7215a71 elementor-widget elementor-widget-template\" data-id=\"7215a71\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"template.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-template\"> <div data-elementor-type=\"section\" data-elementor-id=\"67132\" class=\"elementor elementor-67132\" data-elementor-settings=\"{&quot;ha_cmc_init_switcher&quot;:&quot;no&quot;}\" data-elementor-post-type=\"elementor_library\"> <section class=\"elementor-section elementor-top-section elementor-element elementor-element-aabae42 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" d",
-  "head": "",
-  "types_json": null,
-  "title": "Cafe &#8211; Bell&#039;s Brewery"
+ "https://smcbelles.com/sports/womens-basketball/schedule": {
+  "error": "<urlopen error [Errno -2] Name or service not known>"
  },
- "https://www.silverharborbrewing.com/": {
-  "status": 200,
-  "final": "https://silverharborbrewing.com/",
-  "bytes": 152690,
-  "ld_types": {},
-  "links": [
-   [
-    "https://silverharborbrewing.com/group-events/",
-    8
-   ],
-   [
-    "https://silverharborbrewing.com/events/",
-    5
-   ]
-  ],
-  "ics": [],
-  "feeds": [
-   "https://silverharborbrewing.com/feed/",
-   "https://silverharborbrewing.com/comments/feed/",
-   "https://silverharborbrewing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsilverharborbrewing.com%2F",
-   "https://silverharborbrewing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsilverharborbrewing.com%2F&#038;format=xml",
-   "https://silverharborbrewing.com/wp-json/",
-   "https://silverharborbrewing.com/wp-json/wp/v2/pages/35"
-  ],
-  "dates": [],
-  "apis": [
-   "https://api.w.org/"
-  ],
-  "snip": "",
-  "head": "",
-  "types_json": null,
-  "title": "Silver Harbor Brewing Company &#8211; St. Joseph Michigan Brewery"
+ "https://andrewscardinals.com/sports/mens-basketball/schedule": {
+  "error": "<urlopen error [Errno -2] Name or service not known>"
  },
- "https://www.journeyman.com/featherbone/": {
+ "https://bupilots.com/sports/mens-basketball/schedule": {
   "status": 200,
-  "final": "https://www.journeyman.com/featherbone/",
-  "bytes": 115454,
+  "final": "https://bupilots.com/sports/mens-basketball/schedule",
+  "bytes": 807412,
   "ld_types": {
-   "WebPage": 1,
-   "ReadAction": 1,
-   "BreadcrumbList": 1,
-   "ListItem": 2,
-   "WebSite": 1,
-   "SearchAction": 1,
-   "EntryPoint": 1,
-   "PropertyValueSpecification": 1,
-   "Organization": 1,
-   "ImageObject": 1
+   "SportsTeam": 56,
+   "Place": 28,
+   "PostalAddress": 28,
+   "ImageObject": 28,
+   "SportsEvent": 28
   },
   "links": [
    [
-    "https://www.journeyman.com/events/",
+    "https://events.hometownticketing.com/boxoffice/betheluniversity/LNVtYmVkLNFsbA%ND%ND",
+    23
+   ],
+   [
+    "/showcase",
+    22
+   ],
+   [
+    "/calendar",
     1
    ],
    [
-    "https://www.journeyman.com/events-form/",
-    1
-   ],
-   [
-    "https://ar.pinterest.com/journeymanevents/_created/",
+    "https://bxout.com/p/nukgjeoN-ticket-info",
     1
    ]
   ],
   "ics": [],
   "feeds": [],
-  "dates": [],
-  "apis": [],
-  "snip": "/cdn.sitesearch360.com\" rel=\"dns-prefetch\"> <link data-rocket-prefetch href=\"https://js.peek.com\" rel=\"dns-prefetch\"> <link data-rocket-prefetch href=\"https://static.hotjar.com\" rel=\"dns-prefetch\"> <link data-rocket-prefetch href=\"https://script.hotjar.com\" rel=\"dns-prefetch\"> <link data-rocket-prefetch href=\"https://googleads.g.doubleclick.net\" rel=\"dns-prefetch\"> <link data-rocket-prefetch href=\"https://www.google.com\" rel=\"dns-prefetch\"> <link crossorigin data-rocket-preload as=\"font\" href=\"https://www.journeyman.com/wp-content/themes/journeyman/fonts/BebasNeue-webfont.woff2\" rel=\"preload\"> <link crossorigin data-rocket-preload as=\"font\" href=\"https://www.journeyman.com/wp-content/themes/journeyman/fonts/Acumin-Pro-Semibold.ttf\" rel=\"preload\"><link rel=\"preload\" data-rocket-preload as=\"image\" href=\"https://www.journeyman.com/wp-content/smush-webp/2023/11/journeyman-distillery-american-factory-001-600x600-1.jpg.webp\" fetchpriority=\"high\"> <link rel=\"canonical\" href=\"https://www.journeyman.com/featherbone/\" /> <meta property=\"og:locale\" content=\"en_US\" /> <meta property=\"og:type\" content=\"article\" /> <meta property=\"og:title\" content=\"The Featherbone Factory - Journeyman Distillery\" /> <meta property=\"og:url\" content=\"https://www.journeyman.com/featherbone/\" /> <meta property=\"og:site_name\" content=\"Journeyman Distillery\" /> <meta property=\"article:publisher\" content=\"https://www.facebook.com/journeyman.distillery/\" /> <meta property=\"article:modified_time\" content=\"2026-09-17T15:10:23+00:00\" /> <meta name=\"twitter:card\" content=\"summary_large_image\" /> <script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.journeyman.com\\/featherbone\\/\",\"url\":\"https:\\/\\/www.journeyman.com\\/featherbone\\/\",\"name\":\"The Featherbone Factory - Journeyman Distillery\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.journeyman.com\\/#website\"},\"datePublished\":\"2023-10-06T20:47:35+00:00\",\"dateModified\":\"2026-09-17T15:10:23+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.journeyman.com\\/featherbone\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.journeyman.com\\/featherbone\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.journeyman.com\\/featherbone\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.journeyman.com\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"The Featherbone Factory\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.journeyman.com\\/#website\",\"url\":\"https:\\/\\/www.journeyman.com\\/\",\"name\":\"Journeyman Distillery\",\"description\":\"\",\"publisher\":{\"@id\":\"https:\\/\\/www.journeyman.com\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.journeyman.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organ",
+  "dates": [
+   "October 27, 2026",
+   "October 27, 2026",
+   "October 27, 2026",
+   "October 27, 2026",
+   "October 27, 2026",
+   "November 3, 2026"
+  ],
+  "apis": [
+   "https://fonts.googleapis.com/css2"
+  ],
+  "snip": "rqyrr690.cloudfront.net/sidearm.nextgen.sites/bethelind.sidearmsports.com';window.cdn_path = 'https://dbukjj6eu5tsf.cloudfront.net/';window.custom_cdn_url = '';window.urlArgs = '639027948221581342';window.cbs_school = false;window.has_alerts = false;window.disable_ad_blocker_check = false;</script><style type='text/css'>.sidearm-schedule-template-default .sidearm-schedule-tournament>p {color: #fff}</style><script>window.associated_sport = {\"id\":4,\"title\":\"Men's Basketball\",\"abbreviation\":\"MBB\",\"shortname\":\"mbball\",\"short_title\":\"Men's Basketball\",\"global_sport_id\":3,\"non_sport\":false,\"show_at_vs\":false,\"global_sport_shortname\":null,\"gender\":\"m\",\"youtube\":\"PLzInxdxe6y1CBzOWwTZ6qPMebZPXWBgy9\",\"facebook\":\"https://www.facebook.com/bupilotsmbb\",\"twitter\":\"bupilotsmbb\",\"instagram\":\"bupilotsmbb\",\"pinterest\":\"\",\"tickets\":\"\",\"global_sport_name_slug\":\"mens-basketball\",\"url\":null,\"ranking\":null,\"game_synonym\":null};</script><meta property=\"og:determiner\" content=\"the\"><meta property=\"og:locale\" content=\"en_US\"><meta property=\"og:site_name\" content=\"Bethel University (Ind)\"><meta property=\"og:url\" content=\"https://bupilots.com/sports/mens-basketball/schedule\"><script type=\"application/ld+json\">[{\"@context\":\"https://schema.org/\",\"name\":\"Bethel University (Ind) Vs Indiana University at South Bend\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Bethel University (Ind)\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Indiana University at South Bend\"},\"startDate\":\"2026-10-27T19:00:00\",\"endDate\":\"2026-10-27T19:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Gates Gymnasium\",\"address\":{\"streetAddress\":\"Mishawaka, Ind.\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\"Bethel University (Ind) Vs Indiana University at South Bend on 10/27/2026 7:00:00 PM\",\"image\":{\"url\":\"https://bupilots.com/images/logos/site/site.png\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Bethel University (Ind) At Judson University\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Bethel University (Ind)\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Judson University\"},\"startDate\":\"2026-12-10T20:30:00\",\"endDate\":\"2026-12-10T20:30:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Elgin, Ill. / Linder Fitness Center\",\"address\":{\"streetAddress\":\"Elgin, Ill. / Linder Fitness Center\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\"Bethel University (Ind) At Judson University on 12/10/2026 8:30:00 PM\",\"image\":{\"url\":\"https://bupilots.com/images/logos/site/site.png\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Bethel Univ",
   "head": "",
   "types_json": null,
-  "title": "The Featherbone Factory - Journeyman Distillery"
+  "title": "2026-27 Men's Basketball Schedule - Bethel University (Ind)"
  },
- "https://www.goshenbrewing.com/": {
+ "https://goleafs.net/sports/mens-basketball/schedule": {
   "status": 200,
-  "final": "https://goshenbrewing.com/",
-  "bytes": 310592,
-  "ld_types": {},
+  "final": "https://goleafs.net/sports/mens-basketball/schedule",
+  "bytes": 626133,
+  "ld_types": {
+   "SportsTeam": 60,
+   "Place": 30,
+   "PostalAddress": 30,
+   "ImageObject": 30,
+   "SportsEvent": 30
+  },
   "links": [
    [
-    "https://goshenbrewing.com/events/",
-    4
+    "https://www.ticketsmarter.com/goshen-maple-leafs",
+    1
    ],
    [
-    "https://goshenbrewing.com/wp-json/tribe/events/vN/",
+    "/calendar",
+    1
+   ],
+   [
+    "https://www.goshen.edu/tickets",
     1
    ]
   ],
   "ics": [],
   "feeds": [
-   "https://goshenbrewing.com/events/?ical=1",
-   "https://goshenbrewing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgoshenbrewing.com%2F",
-   "https://goshenbrewing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgoshenbrewing.com%2F&#038;format=xml",
-   "https://goshenbrewing.com/wp-json/",
-   "https://goshenbrewing.com/wp-json/wp/v2/pages/730",
-   "https://goshenbrewing.com/wp-json/tribe/events/v1/"
+   "/rss"
   ],
-  "dates": [],
+  "dates": [
+   "August 6, 2025",
+   "August 6, 2025",
+   "August 6, 2025",
+   "October 24, 2026",
+   "October 24, 2026",
+   "October 24, 2026"
+  ],
   "apis": [
-   "https://api.w.org/",
-   "https://fonts.googleapis.com/css"
+   "https://fonts.googleapis.com/css2"
   ],
-  "snip": "",
+  "snip": " clearTimeout(makeTopLevelTimeout) } }) } window.s3_bucket_path = 'https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/goleafs.net';window.cdn_path = 'https://dbukjj6eu5tsf.cloudfront.net/';window.custom_cdn_url = '';window.urlArgs = '639027949127083109';window.cbs_school = false;window.has_alerts = false;window.disable_ad_blocker_check = false;</script><script>window.associated_sport = {\"id\":3,\"title\":\"Men's Basketball\",\"abbreviation\":\"MBB\",\"shortname\":\"mbball\",\"short_title\":\"MBB\",\"global_sport_id\":3,\"non_sport\":false,\"show_at_vs\":false,\"global_sport_shortname\":null,\"gender\":\"m\",\"youtube\":\"PLcxf7rq8I22SEjyITzv4C3yiR_wJpcMar\",\"facebook\":\"https://www.facebook.com/GCMapleLeafsMBB\",\"twitter\":\"GCMapleLeafs_MB\",\"instagram\":\"GCMapleLeafs_MB\",\"pinterest\":\"\",\"tickets\":\"\",\"global_sport_name_slug\":\"mens-basketball\",\"url\":null,\"ranking\":null,\"game_synonym\":null};</script><meta property=\"og:determiner\" content=\"the\"><meta property=\"og:locale\" content=\"en_US\"><meta property=\"og:site_name\" content=\"Goshen College\"><meta property=\"og:url\" content=\"https://goleafs.net/sports/mens-basketball/schedule\"><script type=\"application/ld+json\">[{\"@context\":\"https://schema.org/\",\"name\":\" Vs Warner University (Fla.)\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Warner University (Fla.)\"},\"startDate\":\"2026-10-24T15:00:00\",\"endDate\":\"2026-10-24T15:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Ruth Gunden Gymnasium\",\"address\":{\"streetAddress\":\"\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\" Vs Warner University (Fla.) on 10/24/2026 3:00:00 PM\",\"image\":{\"url\":\"https://goleafs.net/images/logos/site/site.png\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\" Vs Judson University\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Judson University\"},\"startDate\":\"2026-10-28T19:00:00\",\"endDate\":\"2026-10-28T19:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Ruth Gunden Gymnasium\",\"address\":{\"streetAddress\":\"\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\" Vs Judson University on 10/28/2026 7:00:00 PM\",\"image\":{\"url\":\"https://goleafs.net/images/logos/site/site.png\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\" At University of Northwestern Ohio\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"University",
   "head": "",
   "types_json": null,
-  "title": "Goshen Brewing Company, Goshen, Indiana"
+  "title": "2026-27 Men's Basketball Schedule - Goshen College"
  },
- "https://www.sbbrewwerks.com/": {
-  "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1000)>"
- },
- "https://www.roundbarn.com/": {
+ "https://iusbtitans.com/sports/mens-basketball/schedule": {
   "status": 200,
-  "final": "https://roundbarn.com/",
-  "bytes": 6607,
+  "final": "https://iusbtitans.com/sports/mens-basketball/schedule",
+  "bytes": 696789,
+  "ld_types": {
+   "SportsTeam": 66,
+   "Place": 33,
+   "PostalAddress": 33,
+   "ImageObject": 33,
+   "SportsEvent": 33
+  },
+  "links": [
+   [
+    "/sports/N/N/N/titan-home-event-live-stats.aspx",
+    1
+   ],
+   [
+    "https://iusbtitans.com/calendar",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [],
+  "dates": [
+   "October 23, 2026",
+   "October 23, 2026",
+   "October 23, 2026",
+   "October 27, 2026",
+   "October 27, 2026",
+   "October 27, 2026"
+  ],
+  "apis": [
+   "https://fonts.googleapis.com/css2"
+  ],
+  "snip": ", function(ev) { if (ev.data === 'sidearm-iframe-request-allow') { clearTimeout(makeTopLevelTimeout) } }) } window.s3_bucket_path = 'https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/iusbtitans.com';window.cdn_path = 'https://dbukjj6eu5tsf.cloudfront.net/';window.custom_cdn_url = '';window.urlArgs = '639027945600747786';window.cbs_school = false;window.has_alerts = false;window.disable_ad_blocker_check = false;</script><script>window.associated_sport = {\"id\":3,\"title\":\"Men's Basketball\",\"abbreviation\":\"MBB\",\"shortname\":\"mbball\",\"short_title\":\"MBB\",\"global_sport_id\":3,\"non_sport\":false,\"show_at_vs\":false,\"global_sport_shortname\":null,\"gender\":\"m\",\"youtube\":\"\",\"facebook\":\"\",\"twitter\":\"\",\"instagram\":\"\",\"pinterest\":\"\",\"tickets\":\"\",\"global_sport_name_slug\":\"mens-basketball\",\"url\":null,\"ranking\":null,\"game_synonym\":null};</script><meta property=\"og:determiner\" content=\"the\"><meta property=\"og:locale\" content=\"en_US\"><meta property=\"og:site_name\" content=\"Indiana University South Bend\"><meta property=\"og:url\" content=\"https://iusbtitans.com/sports/mens-basketball/schedule\"><script type=\"application/ld+json\">[{\"@context\":\"https://schema.org/\",\"name\":\" Vs Warner\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Warner\"},\"startDate\":\"2026-10-23T19:00:00\",\"endDate\":\"2026-10-23T19:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Student Activities Center\",\"address\":{\"streetAddress\":\"South Bend\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\" Vs Warner on 10/23/2026 7:00:00 PM\",\"image\":{\"url\":\"https://iusbtitans.com\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\" At Bethel\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Bethel\"},\"startDate\":\"2026-10-27T19:00:00\",\"endDate\":\"2026-10-27T19:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Mishawaka, IN\",\"address\":{\"streetAddress\":\"Mishawaka, IN\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\" At Bethel on 10/27/2026 7:00:00 PM\",\"image\":{\"url\":\"https://iusbtitans.com\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\" Vs Saint Mary-of-the-Woods\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Saint Mary-of-the-Woods\"},\"startDate\":\"2026-10-30T15:00:00\",\"endDate\":\"2026-10-30T15:00:00\",\"event",
+  "head": "",
+  "types_json": null,
+  "title": "2026-27 Men's Basketball Schedule - Indiana University South Bend"
+ },
+ "https://www.kalamazoogrowlers.com/": {
+  "error": "<urlopen error [Errno 111] Connection refused>"
+ },
+ "https://www.lmdockhounds.com/schedule": {
+  "error": "<urlopen error [Errno -2] Name or service not known>"
+ },
+ "https://lmdockhounds.com/": {
+  "error": "<urlopen error [Errno -2] Name or service not known>"
+ },
+ "https://fightingirish.com/sports/football/schedule/_payload.json": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://fightingirish.com/website-api/schedule-events?filter%5Bschedule.sport_id%5D=1": {
+  "status": 200,
+  "final": "https://fightingirish.com/website-api/schedule-events?filter%5Bschedule.sport_id%5D=1",
+  "bytes": 693,
   "ld_types": {},
   "links": [],
   "ics": [],
-  "feeds": [
-   "/assets/icns/manifest.json"
-  ],
+  "feeds": [],
   "dates": [],
+  "apis": [],
+  "snip": "",
+  "head": "{\"data\":[],\"links\":{\"first\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule.sport_id%5D=1&page=1\",\"last\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule.sport_id%5D=1&page=1\",\"prev\":null,\"next\":null},\"meta\":{\"current_page\":1,\"from\":null,\"last_page\":1,\"links\":[{\"url\":null,\"label\":\"&laquo; Previous\",\"page\":null,\"active\":false},{\"url\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule.sport_id%5D=1&page=1\",\"label\":\"1\",\"page\":1,\"active\":true},{\"url\":null,\"label\":\"Next &raquo;\",\"page\":null,\"active\":false}],\"path\":\"h",
+  "types_json": [
+   "data",
+   "links",
+   "meta"
+  ],
+  "title": ""
+ },
+ "https://fightingirish.com/sports/mbball/schedule": {
+  "status": 200,
+  "final": "https://fightingirish.com/sports/mbball/schedule",
+  "bytes": 550693,
+  "ld_types": {
+   "WebSite": 1,
+   "SearchAction": 1,
+   "EntryPoint": 1,
+   "WebPage": 1,
+   "ReadAction": 1
+  },
+  "links": [
+   [
+    "/_nuxt/EventsList.CCha-AIc.css",
+    1
+   ],
+   [
+    "/tickets/fbtickets/",
+    1
+   ],
+   [
+    "/tickets/mbbtickets/",
+    1
+   ],
+   [
+    "/tickets/wbbtickets/",
+    1
+   ],
+   [
+    "/tickets/hkytickets/",
+    1
+   ],
+   [
+    "/tickets/premium-experiences/",
+    1
+   ],
+   [
+    "https://seatgeek.com/notre-dame-fighting-irish-football-tickets",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [],
+  "dates": [
+   "February 15, 2026",
+   "May 14, 2016",
+   "May 10, 2023",
+   "March 17, 2023",
+   "September 30, 2017",
+   "September 28, 2019"
+  ],
+  "apis": [
+   "https://seatgeek.com/notre-dame-fighting-irish-football-tickets",
+   "https://storage.googleapis.com/fightingirish-com/2026/10/15/Cvas4yI2cPam9GUQ2S7cbCKzp0LamfzUjhttY6VZ.pdf"
+  ],
+  "snip": "BioTabTop\",component:\"FightingirishReviveAdBanner\"},{placement:\"playerBioPageRelatedTabTop\",component:\"FightingirishReviveAdBanner\"},{placement:\"playerBioPageStatsTabTop\",component:\"FightingirishReviveAdBanner\"},{placement:\"playerBioPageBottom\",component:\"FightingirishReviveAdBanner\"},{placement:\"podcastPageBeforeList\",component:\"FightingirishReviveAdBanner\"},{placement:\"podcastPageAfterList\",component:\"FightingirishReviveAdBanner\"},{placement:\"podcastEpisodePageBeforeList\",component:\"FightingirishReviveAdBanner\"},{placement:\"podcastEpisodePageAfterList\",component:\"FightingirishReviveAdBanner\"},{placement:\"staffBioPageBioTabTop\",component:\"FightingirishReviveAdBanner\"},{placement:\"staffBioPageBottom\",component:\"FightingirishReviveAdBanner\"},{placement:\"scheduleAfterHeroBanner\",component:\"FightingirishReviveAdBanner\"},{placement:\"scheduleAfterEventsList\",component:\"FightingirishReviveAdBanner\"},{placement:\"staffDirectoryBeforeList\",component:\"FightingirishReviveAdBanner\"},{placement:\"staffDirectoryAfterDepartment\",component:\"FightingirishReviveAdBanner\"},{placement:\"newsPageAfterList\",component:\"FightingirishReviveAdBanner\"},{placement:\"featuredArticlesSliderWithAdditionalItemsContentBlock\",component:\"FightingirishReviveAdBanner\",props:{desktopSquare:true}},{placement:\"postEventSummary\",component:\"FightingirishReviveAdBanner\",props:{desktopSquare:true}},{placement:\"preEventSummary\",component:\"FightingirishReviveAdBanner\",props:{desktopSquare:true}}],apiBaseUrl:\"/\",apiPrefix:\"/website-api\",bypassCookieName:\"sc_u1n3kiignuupzffz\",dashboardApiPrefix:\"/api\",dashboardUrl:\"\",dropdown:{defaultIconModifiers:[],selectedIcon:\"\",triggerIcon:\"fluent:chevron-down-12-regular\",triggerIconByModifier:{}},googleProgrammableSearchId:\"\",isPersistentPlayer:false,preventRejectionUrls:[\"/check\"],redirectBaseUrl:\"https://redirects.fightingirish.com\",schedule:{eventTime:{allDayLabelScheduledOnly:false,dateFormat:\"short\",showEndTime:true,showTime:true,showVenueLabel:false,timeFormat:\"periods\",weekdayFormat:\"short\",weekdaySeparator:\",\"}},videoWmtBaseUrl:\"https://video.wmt.media/embed\",leanstreamProxyBaseUrl:\"https://us-central1-lyrical-amulet-150218.cloudfunctions.net/wmt-leanstream-proxy-v2\",integrations:{tintup:{dataId:\"\",dataPersonalizationId:\"\"},onefield:{siteId:\"\"}}},sentry:{dsn:\"https://bb631ff5a00dd2b3f36af274097fa196@sentry.wmt.dev/330\",release:\"89d2f1817d40dad4dd1e61561e04bbd8654bf1c6\",environment:\"production\",sampleRate:.5,tracesSampleRate:.01,replaysSessionSampleRate:.3,replaysOnErrorSampleRate:1,profilesSampleRate:0},\"nuxt-scripts\":{version:\"\",defaultScriptOptions:{trigger:\"onNuxtReady\"}}},app:{baseURL:\"/\",buildId:\"29704e11-692c-4fb3-9d49-14548e4be49b\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script><script type=\"application/ld+json\" data-nuxt-schema-org=\"true\" data-hid=\"schema-org-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://fightingirish.com/#website\",\"@type\":\"WebSite\",\"description\":\"The Official Athletic Site of The Fighting Irish. The most c",
+  "head": "",
+  "types_json": null,
+  "title": "Men&#x27;s Basketball 2026-27 - Notre Dame Fighting Irish - Official Athletics Website"
+ },
+ "https://wmubroncos.com/sports/football/schedule": {
+  "status": 200,
+  "final": "https://wmubroncos.com/sports/football/schedule",
+  "bytes": 601063,
+  "ld_types": {
+   "SportsTeam": 28,
+   "Place": 14,
+   "PostalAddress": 14,
+   "ImageObject": 14,
+   "SportsEvent": 14
+  },
+  "links": [
+   [
+    "https://www.statbroadcast.com/events/statbroadcast.php",
+    6
+   ],
+   [
+    "http://www.wmuevents.com/",
+    2
+   ],
+   [
+    "/calendar",
+    1
+   ],
+   [
+    "wmubroncos.com/tickets",
+    1
+   ],
+   [
+    "/sports/N/N/N/group-ticket-sales-N.aspx",
+    1
+   ],
+   [
+    "https://wmubroncos.com/studenttickets",
+    1
+   ],
+   [
+    "https://wmubroncos.com/calendar",
+    1
+   ],
+   [
+    "/sports/N/N/N/football-ticket-game-day-information",
+    1
+   ],
+   [
+    "http://www.statbroadcast.com/events/statmonitr.php",
+    1
+   ],
+   [
+    "https://wmualumni.org/w/calendar-of-events",
+    1
+   ],
+   [
+    "/news/N/N/N/football-hosts-bowling-green-for-halloween-showdown.aspx",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [],
+  "dates": [
+   "April 25, 2026",
+   "April 25, 2026",
+   "April 25, 2026",
+   "September 5, 2026",
+   "September 5, 2026",
+   "September 5, 2026"
+  ],
   "apis": [
    "https://fonts.googleapis.com/css2"
   ],
   "snip": "",
   "head": "",
   "types_json": null,
-  "title": "Round Barn Winery, Brewery &amp; Distillery | Southwest Michigan | Round Barn Winery &amp; Estate"
+  "title": "2026 Football Schedule - Western Michigan University Athletics"
  },
- "https://www.greenbushbrewing.com/": {
+ "https://www.milb.com/south-bend/schedule": {
   "status": 200,
-  "final": "https://www.greenbushbrewing.com/",
-  "bytes": 133336,
-  "ld_types": {
-   "WebSite": 1,
-   "Organization": 1,
-   "LocalBusiness": 1
-  },
-  "links": [],
+  "final": "https://www.milb.com/south-bend/schedule",
+  "bytes": 453366,
+  "ld_types": {},
+  "links": [
+   [
+    "/south-bend/tickets/promotions",
+    40
+   ],
+   [
+    "",
+    37
+   ],
+   [
+    "/south-bend/events/holiday",
+    4
+   ],
+   [
+    "/south-bend/tickets/",
+    2
+   ],
+   [
+    "/south-bend/tickets/seasonseats",
+    2
+   ],
+   [
+    "/south-bend/tickets/halfseasonseats",
+    2
+   ],
+   [
+    "/south-bend/tickets/Ngameplan",
+    2
+   ],
+   [
+    "/south-bend/tickets/offers",
+    2
+   ],
+   [
+    "/south-bend/tickets/group-areas",
+    2
+   ],
+   [
+    "/south-bend/tickets/fieldofdreams",
+    2
+   ],
+   [
+    "/south-bend/tickets/birthdays",
+    2
+   ],
+   [
+    "https://mlb.tickets.com/",
+    2
+   ],
+   [
+    "https://www.milb.com/south-bend/tickets/help",
+    2
+   ],
+   [
+    "/south-bend/ballpark/upcoming-events/",
+    2
+   ],
+   [
+    "/south-bend/ballpark/holidayevents",
+    2
+   ]
+  ],
   "ics": [],
   "feeds": [],
   "dates": [],
-  "apis": [],
-  "snip": "",
+  "apis": [
+   "http://statsapi.mlb.com",
+   "https://dapi-milb.mlbinfra.com/v2/content",
+   "https://dapi.mlbinfra.com/v2/content",
+   "https://search-api.milb.com",
+   "https://statsapi.mlb.com"
+  ],
+  "snip": "nor League Baseball web site includes features, news, rosters, statistics, schedules, teams, live game radio broadcasts, and video clips.\" /> <meta property=\"description\" content=\"The Official Site of Minor League Baseball web site includes features, news, rosters, statistics, schedules, teams, live game radio broadcasts, and video clips.\" /> <meta name=\"build\" content=\"true\" /> <meta name=\"server_url\" content=\"https://www.milb.com\" /> <meta name=\"service_url\" content=\"\" /> <meta name=\"suggest_url\" content=\"\" /> <meta name=\"uistatic_url\" content=\"//builds.mlbstatic.com/milb.com\" /> <meta name=\"context-url-prefix\" content=\"/south-bend\" /> <meta name=\"bamcontent_client_url\" content=\"https://milb.bamcontent.com\" /> <meta name=\"control_plane_url\" content=\"\" /> <meta name=\"control_plane_client_token\" content=\"\" /> <meta name=\"recon_rest\" content=\"https://www.milb.com\" /> <meta name=\"recon_ws\" content=\"wss://www.milb.com\" /> <meta name=\"msapplication-config\" content=\"none\"/> <meta name=\"locale\" content=\"en\" /> <meta name=\"timezone\" content=\"America/Indiana/Indianapolis\" /> <meta name=\"siteKey\" content=\"team\"> <meta name=\"team-id\" content=\"550\"> <meta name=\"siteName\" content=\"South Bend Cubs\"> <meta name=\"club\" content=\"south-bend\"> <meta name=\"flipTime\" content=\"10:00\" /> <meta name=\"flipTimeZoneOffset\" content=\"+00:00\" /> <meta name=\"serverTime\" content=\"2026-11-11T22:21:56+00:00\" /> <meta name=\"siteCoreBuildPath\" content=\"//builds.mlbstatic.com/milb.com/builds/site-core/\" /> <meta name=\"siteCoreBuildVersion\" content=\"1778007237970\" /> <meta name=\"siteCoreLocation\" content=\"//builds.mlbstatic.com/milb.com/builds/site-core/1778007237970\" /> <meta name=\"sectionBuildVersion\" content=\"aac43d8491322c8864da984512bda216c8305fe6_1733248995\" /> <meta name=\"siteAssetsUri\" content=\"undefined/site-core\" /> <meta name=\"sectionAssetsUri\" content=\"//builds.mlbstatic.com/milb.com/sections/club-schedule/builds/aac43d8491322c8864da984512bda216c8305fe6_1733248995\" /> <meta name=\"omniturePageName\" content=\"Schedule\" /> <meta name=\"omniturePageProps\" content=\"%7B%22pageName%22%3A%22Schedule%22%2C%22registrationPoints%22%3A%22Schedule%22%7D\"/> <meta name=\"paywall\" content=\"true\"/> <meta name=\"apple-mobile-web-app-title\" content=\"MiLB.com\"> <link rel=\"shortcut icon\" href=\"https://images.ctfassets.net/iiozhi00a8lc/t550_faviconcut_png/81e3b63dbed4a522fd1165b281083af2/t550_favicon\"> <link rel=\"apple-touch-icon\" href=\"https://images.ctfassets.net/iiozhi00a8lc/t550_faviconcut_png/81e3b63dbed4a522fd1165b281083af2/t550_favicon\"> <!-- feature flags --> <script type=\"text/javascript\"> const featureFlags = {\"useMidfield\":false} // to check which feature flag we are using console.info(`[MiLB Feature Flag] useMidfield: ${featureFlags.useMi",
   "head": "",
   "types_json": null,
-  "title": "Greenbush Brewing Co."
- },
- "https://www.tapistrybrewing.com/": {
-  "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tapistrybrewing.com'. (_ssl.c:1000)>"
- },
- "https://www.iechydda.com/": {
-  "error": "<urlopen error [Errno -2] Name or service not known>"
+  "title": "South Bend Cubs Schedule | Schedule | Cubs"
  }
 }
