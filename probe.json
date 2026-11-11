@@ -1,34 +1,166 @@
 {
- "https://wmubroncos.com/tickets": {
-  "error": "HTTP Error 403: Forbidden"
- },
- "https://fightingirish.com/tickets/": {
+ "https://goleafs.net/": {
   "status": 200,
-  "final": "https://fightingirish.com/tickets",
-  "bytes": 557428,
+  "final": "https://goleafs.net/",
+  "bytes": 607063,
+  "ld_types": {
+   "ImageObject": 1,
+   "Organization ": 1
+  },
+  "links": [
+   [
+    "https://www.ticketsmarter.com/goshen-maple-leafs",
+    1
+   ],
+   [
+    "/calendar",
+    1
+   ],
+   [
+    "https://www.goshen.edu/tickets",
+    1
+   ],
+   [
+    "",
+    1
+   ],
+   [
+    "/calendar.aspx",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [
+   "/rss"
+  ],
+  "dates": [
+   "August 6, 2025",
+   "August 6, 2025",
+   "August 6, 2025"
+  ],
+  "apis": [
+   "https://fonts.googleapis.com/css2"
+  ],
+  "snip": "earm_v2/2024-09-30-644885/sidearm_font_v2.css\"><link rel=\"preload\" as=\"style\" href=\"https://fonts.sidearmsports.com/sidearm/2020-05-12-535576/sidearm_font.css\"><link rel=\"preload\" as=\"script\" href=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js\"><link rel=\"preload\" as=\"script\" href=\"https://cdnjs.cloudflare.com/ajax/libs/require.js/2.2.0/require.min.js\"><link rel=\"preload\" as=\"script\" href=\"https://dbukjj6eu5tsf.cloudfront.net/assets.sidearmsports.com/responsive/js/bundle.1790780934610.js\"><link rel=\"preconnect\" href=\"https://cdnjs.cloudflare.com\"><link rel=\"preconnect\" href=\"https://dbukjj6eu5tsf.cloudfront.net/\"><link rel=\"preconnect\" href=\"http://s3.amazonaws.com\"><link rel=\"preconnect\" href=\"https://s3.amazonaws.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\"><link rel=\"stylesheet\" href=\"https://htlbid.com/stage/v3/goleafs.net/htlbid.css\"><link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.css\"><link rel=\"stylesheet\" href=\"https://fonts.sidearmsports.com/sidearm/2020-05-12-535576/sidearm_font.css\"><link rel=\"stylesheet\" href=\"https://fonts.sidearmsports.com/sidearm_v2/2024-09-30-644885/sidearm_font_v2.css\"><link rel=\"stylesheet\" href=\"/less/sidearm-responsive-grid.less?_=639125348242059761\"><link rel=\"apple-touch-icon\" href=\"/images/logos/site/site.png\"><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, user-scalable=yes\"> <meta name=\"theme-color\" content=\"#49176D\"> <link href=\"https://fonts.googleapis.com/css2?family=Montserrat:wght@400;900&family=Roboto:ital,wght@0,400;0,500;0,700;1,400&family=Teko:wght@300;400;500;600;700&display=swap\" rel=\"stylesheet\"> <link href=\"/site/site.less?_=637284359764149075 \" rel='stylesheet' type='text/css'> <script src=\"//cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js\"></script><script>var require = {\"config\":{\"options\":{\"sport_id\":0,\"dummy_ads\":false,\"all_ads\":[]}}}; var isSameOrigin = false; try { isSameOrigin = window.top.location.hostname === window.self.location.hostname; } catch(err) {}; if (!isSameOrigin && window.top != window.self) { var makeTopLevelTimeout = setTimeout(function() { window.top.location = window.self.location; }, 250) window.top.postMessage('sidearm-iframe-interrogation', '*') window.addEventListener('message', function(ev) { if (ev.data === 'sidearm-iframe-request-allow') { clearTimeout(makeTopLevelTimeout) } }) } window.s3_bucket_path = 'https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/g",
+  "head": "",
+  "types_json": null,
+  "title": "Goshen College - Official Athletics Website"
+ },
+ "https://bupilots.com/": {
+  "status": 200,
+  "final": "https://bupilots.com/",
+  "bytes": 638260,
+  "ld_types": {
+   "ImageObject": 1,
+   "Organization ": 1
+  },
+  "links": [
+   [
+    "https://events.hometownticketing.com/boxoffice/betheluniversity/LNVtYmVkLNFsbA%ND%ND",
+    1
+   ],
+   [
+    "/calendar",
+    1
+   ],
+   [
+    "https://bxout.com/p/nukgjeoN-ticket-info",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [],
+  "dates": [],
+  "apis": [
+   "https://fonts.googleapis.com/css2"
+  ],
+  "snip": "href=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js\"><link rel=\"preload\" as=\"script\" href=\"https://cdnjs.cloudflare.com/ajax/libs/require.js/2.2.0/require.min.js\"><link rel=\"preload\" as=\"script\" href=\"https://dbukjj6eu5tsf.cloudfront.net/assets.sidearmsports.com/responsive/js/bundle.1790780934610.js\"><link rel=\"preconnect\" href=\"https://cdnjs.cloudflare.com\"><link rel=\"preconnect\" href=\"https://dbukjj6eu5tsf.cloudfront.net/\"><link rel=\"preconnect\" href=\"http://s3.amazonaws.com\"><link rel=\"preconnect\" href=\"https://s3.amazonaws.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\"><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Bitter:wght@700&amp;family=Montserrat:ital,wght@0,400;0,500;0,700;1,400;1,700&amp;family=Rubik:wght@600;700;800&amp;display=swap\"><link rel=\"stylesheet\" href=\"https://htlbid.com/stage/v3/bupilots.com/htlbid.css\"><link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.css\"><link rel=\"stylesheet\" href=\"https://fonts.sidearmsports.com/sidearm/2020-05-12-535576/sidearm_font.css\"><link rel=\"stylesheet\" href=\"https://fonts.sidearmsports.com/sidearm_v2/2024-09-30-644885/sidearm_font_v2.css\"><link rel=\"stylesheet\" href=\"/less/sidearm-responsive-grid.less?_=639130518164100802\"><link rel=\"apple-touch-icon\" href=\"/images/logos/site/site.png\"><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, user-scalable=yes\"> <meta name=\"theme-color\" content=\"#fff\"> <link href=\"/site/site.less?_=639165279126793099 \" rel='stylesheet' type='text/css'> <meta name=\"apple-itunes-app\" content=\"app-id=1630145762\"><script src=\"//cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js\"></script><script>var require = {\"config\":{\"options\":{\"sport_id\":0,\"dummy_ads\":false,\"all_ads\":[]}}}; var isSameOrigin = false; try { isSameOrigin = window.top.location.hostname === window.self.location.hostname; } catch(err) {}; if (!isSameOrigin && window.top != window.self) { var makeTopLevelTimeout = setTimeout(function() { window.top.location = window.self.location; }, 250) window.top.postMessage('sidearm-iframe-interrogation', '*') window.addEventListener('message', function(ev) { if (ev.data === 'sidearm-iframe-request-allow') { clearTimeout(makeTopLevelTimeout) } }) } window.s3_bucket_path = 'https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/bethelind.sidearmsports.com';window.cdn_path = 'https://dbukjj6eu5tsf.cloudfront.net/';window.custom_cdn_url = '';window.urlArgs = '639027952959983238';window.",
+  "head": "",
+  "types_json": null,
+  "title": "Bethel University (Ind) - Official Athletics Website"
+ },
+ "https://iusbtitans.com/": {
+  "status": 200,
+  "final": "https://iusbtitans.com/",
+  "bytes": 362510,
+  "ld_types": {
+   "ImageObject": 1,
+   "Organization ": 1
+  },
+  "links": [
+   [
+    "/sports/N/N/N/titan-home-event-live-stats.aspx",
+    1
+   ],
+   [
+    "https://iusbtitans.com/calendar",
+    1
+   ],
+   [
+    "/calendar.aspx",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [],
+  "dates": [],
+  "apis": [
+   "https://fonts.googleapis.com/css2"
+  ],
+  "snip": "as=\"style\" href=\"https://fonts.sidearmsports.com/sidearm/2020-05-12-535576/sidearm_font.css\"><link rel=\"preload\" as=\"script\" href=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js\"><link rel=\"preload\" as=\"script\" href=\"https://cdnjs.cloudflare.com/ajax/libs/require.js/2.2.0/require.min.js\"><link rel=\"preload\" as=\"script\" href=\"https://dbukjj6eu5tsf.cloudfront.net/assets.sidearmsports.com/responsive/js/bundle.1790780934610.js\"><link rel=\"preconnect\" href=\"https://cdnjs.cloudflare.com\"><link rel=\"preconnect\" href=\"https://dbukjj6eu5tsf.cloudfront.net/\"><link rel=\"preconnect\" href=\"http://s3.amazonaws.com\"><link rel=\"preconnect\" href=\"https://s3.amazonaws.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\"><link rel=\"stylesheet\" href=\"https://htlbid.com/stage/v3/iusbtitans.com/htlbid.css\"><link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.css\"><link rel=\"stylesheet\" href=\"https://fonts.sidearmsports.com/sidearm/2020-05-12-535576/sidearm_font.css\"><link rel=\"stylesheet\" href=\"https://fonts.sidearmsports.com/sidearm_v2/2024-09-30-644885/sidearm_font_v2.css\"><link rel=\"stylesheet\" href=\"/less/sidearm-responsive-grid.less?_=639125351250371655\"><link rel=\"apple-touch-icon\" href=\"https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/iusbtitans.com/images/logos/site/site.png\"><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, user-scalable=yes\"> <meta name=\"theme-color\" content=\"#990000\"> <link href=\"https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap\" rel=\"stylesheet\"> <link href=\"/site/site.less?_=637339591213527432 \" rel='stylesheet' type='text/css'> <script src=\"//cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js\"></script><script>var require = {\"config\":{\"options\":{\"sport_id\":0,\"dummy_ads\":false,\"all_ads\":[]}}}; var isSameOrigin = false; try { isSameOrigin = window.top.location.hostname === window.self.location.hostname; } catch(err) {}; if (!isSameOrigin && window.top != window.self) { var makeTopLevelTimeout = setTimeout(function() { window.top.location = window.self.location; }, 250) window.top.postMessage('sidearm-iframe-interrogation', '*') window.addEventListener('message', function(ev) { if (ev.data === 'sidearm-iframe-request-allow') { clearTimeout(makeTopLevelTimeout) } }) } window.s3_bucket_path = 'https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/iusbtitans.com';window.cdn_path = 'https://dbukjj6eu5tsf.cloudfront.net/';window.custom_cdn_url = '';window.urlA",
+  "head": "",
+  "types_json": null,
+  "title": "Indiana University South Bend - Official Athletics Website"
+ },
+ "https://belles.saintmarys.edu/": {
+  "status": 200,
+  "final": "https://belles.saintmarys.edu/",
+  "bytes": 409864,
+  "ld_types": {
+   "ImageObject": 1,
+   "Organization ": 1
+  },
+  "links": [],
+  "ics": [],
+  "feeds": [],
+  "dates": [],
+  "apis": [
+   "https://fonts.googleapis.com/css2"
+  ],
+  "snip": "d\" as=\"script\" href=\"https://cdnjs.cloudflare.com/ajax/libs/require.js/2.2.0/require.min.js\"><link rel=\"preload\" as=\"script\" href=\"https://dbukjj6eu5tsf.cloudfront.net/assets.sidearmsports.com/responsive/js/bundle.1790780934610.js\"><link rel=\"preconnect\" href=\"https://cdnjs.cloudflare.com\"><link rel=\"preconnect\" href=\"https://dbukjj6eu5tsf.cloudfront.net/\"><link rel=\"preconnect\" href=\"http://s3.amazonaws.com\"><link rel=\"preconnect\" href=\"https://s3.amazonaws.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\"><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&amp;family=Open+Sans:ital,wght@0,300..800;1,300..800&amp;display=swap\"><link rel=\"stylesheet\" href=\"https://htlbid.com/stage/v3/belles.saintmarys.edu/htlbid.css\"><link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.css\"><link rel=\"stylesheet\" href=\"https://fonts.sidearmsports.com/sidearm/2020-05-12-535576/sidearm_font.css\"><link rel=\"stylesheet\" href=\"https://fonts.sidearmsports.com/sidearm_v2/2024-09-30-644885/sidearm_font_v2.css\"><link rel=\"stylesheet\" href=\"/less/sidearm-responsive-grid.less?_=639125348451811565\"><link rel=\"apple-touch-icon\" href=\"https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/belles.saintmarys.edu/images/logos/site/site.png\"><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, user-scalable=yes\"> <meta name=\"theme-color\" content=\"#fff\"> <link href=\"https://fonts.sidearmsports.com/sidearm_sports/sidearm_sports_font.css\" rel=\"stylesheet\"> <link href=\"/site/site.less?_=639135102526735082 \" rel='stylesheet' type='text/css'> <script src=\"//cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js\"></script><script>var require = {\"config\":{\"options\":{\"sport_id\":0,\"dummy_ads\":false,\"all_ads\":[]}}}; var isSameOrigin = false; try { isSameOrigin = window.top.location.hostname === window.self.location.hostname; } catch(err) {}; if (!isSameOrigin && window.top != window.self) { var makeTopLevelTimeout = setTimeout(function() { window.top.location = window.self.location; }, 250) window.top.postMessage('sidearm-iframe-interrogation', '*') window.addEventListener('message', function(ev) { if (ev.data === 'sidearm-iframe-request-allow') { clearTimeout(makeTopLevelTimeout) } }) } window.s3_bucket_path = 'https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/belles.saintmarys.edu';window.cdn_path = 'https://dbukjj6eu5tsf.cloudfront.net/';window.custom_cdn_url",
+  "head": "",
+  "types_json": null,
+  "title": "Saint Mary's College - Official Athletics Website"
+ },
+ "https://fightingirish.com/": {
+  "status": 200,
+  "final": "https://fightingirish.com/",
+  "bytes": 632941,
   "ld_types": {
    "WebSite": 1,
    "SearchAction": 1,
    "EntryPoint": 1,
    "WebPage": 1,
-   "ReadAction": 1
+   "ReadAction": 1,
+   "NewsArticle": 1,
+   "ImageObject": 1
   },
   "links": [
    [
     "/tickets/fbtickets/",
-    4
+    1
    ],
    [
     "/tickets/mbbtickets/",
-    4
+    1
    ],
    [
     "/tickets/wbbtickets/",
-    4
+    1
    ],
    [
     "/tickets/hkytickets/",
-    4
+    1
    ],
    [
     "/tickets/premium-experiences/",
@@ -37,35 +169,15 @@
    [
     "https://seatgeek.com/notre-dame-fighting-irish-football-tickets",
     1
-   ],
-   [
-    "https://fightingirish.evenue.net/list/GS",
-    1
-   ],
-   [
-    "/mobiletickets/",
-    1
-   ],
-   [
-    "/tickets/student-ticket-information/",
-    1
-   ],
-   [
-    "/tickets/premium-experiences",
-    1
-   ],
-   [
-    "/tickets/group-experiences",
-    1
    ]
   ],
   "ics": [],
   "feeds": [],
   "dates": [
-   "November 5, 2021",
-   "December 20, 2024",
-   "February 17, 2024",
-   "March 1, 2023",
+   "November 11, 2026",
+   "November 11, 2026",
+   "November 11, 2026",
+   "November 11, 2026",
    "February 15, 2026",
    "May 14, 2016"
   ],
@@ -73,70 +185,9 @@
    "https://seatgeek.com/notre-dame-fighting-irish-football-tickets",
    "https://storage.googleapis.com/fightingirish-com/2026/10/15/Cvas4yI2cPam9GUQ2S7cbCKzp0LamfzUjhttY6VZ.pdf"
   ],
-  "snip": "rm_string}\"}],\"query-input\":\"required name=search_term_string\"}]},{\"@id\":\"https://fightingirish.com/tickets#webpage\",\"@type\":\"WebPage\",\"name\":\"Tickets\",\"url\":\"https://fightingirish.com/tickets\",\"isPartOf\":{\"@id\":\"https://fightingirish.com/#website\"},\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://fightingirish.com/tickets\"]}]}]}</script><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"true\" id=\"__NUXT_DATA__\">[[\"ShallowReactive\",1],{\"data\":2,\"state\":290,\"once\":305,\"_errors\":306,\"serverRendered\":16,\"path\":271,\"pinia\":308},[\"ShallowReactive\",3],{\"single-page-tickets\":4,\"i-fluent:add-12-filled\":273,\"i-mdi:close\":276,\"i-octicon:calendar-16\":279,\"i-fluent:chevron-down-12-regular\":282,\"i-material-symbols:chevron-right-rounded\":284,\"i-material-symbols:arrow-forward-rounded\":286,\"i-ic:round-arrow-outward\":288},{\"id\":5,\"title\":6,\"slug\":7,\"show_author\":8,\"parent_id\":9,\"parent\":9,\"template_id\":10,\"template\":11,\"template_menu_id\":9,\"template_menu\":9,\"publication_state\":14,\"order\":15,\"show_ads\":16,\"show_in_xml_sitemap\":16,\"meta_title\":17,\"meta_keywords\":9,\"meta_description\":9,\"meta_image_id\":9,\"meta_image\":9,\"image_id\":9,\"published_at\":18,\"schedule_event_id\":9,\"schedule_event_link\":9,\"author_id\":19,\"author\":9,\"categories\":20,\"content_blocks\":24,\"orderedSports\":270,\"permalink\":271,\"template_variables\":272,\"sports\":270},524,\"Tickets\",\"tickets\",false,null,1,{\"id\":10,\"name\":12,\"value\":13},\"Default\",\"default\",\"published\",0,true,\"Join Us at Notre Dame (Tickets)\",\"2022-04-12T14:43:31.000000Z\",47,[21],{\"id\":22,\"name\":23,\"slug\":23},67,\"internal-fb\",[25,62,106,200,235],{\"id\":26,\"name\":27,\"uuid\":28,\"settings\":29,\"variables\":33,\"order\":15,\"shows_after\":9,\"shows_until\":9},438192,\"Hero Banner Block\",\"47321f74-8609-4518-8449-c2046f3a6727\",[30],{\"name\":31,\"value\":9,\"type\":32},\"background_color\",\"options\",[34,36,40,43,45,53,55],{\"name\":35,\"value\":9,\"type\":35},\"anchor\",{\"name\":37,\"value\":38,\"type\":39},\"title\",\"Join us at Notre Dame\",\"text\",{\"name\":41,\"value\":42,\"type\":39},\"description\",\"Scroll to learn more about ticket offerings for Football, Men's and Women's Basketball, and Hockey!\",{\"name\":44,\"value\":9,\"type\":39},\"promo_message\",{\"name\":46,\"value\":47,\"data\":48,\"type\":46},\"image\",15330,{\"id\":47,\"url\":49,\"caption\":50,\"description\":50,\"alt\":9,\"type\":46,\"mime_type\":51,\"original_name\":52},\"https:\\u002F\\u002Ffightingirish.com\\u002Fimgproxy\\u002FIHEtqbMnwAmehtSdX3K-n36qeo_9vTnQZ25oRd5ldP8\\u002Frs:fit:1980:0:0:0\\u002Fg:ce:0:0\\u002Fq:90\\u002FaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2ZpZ2h0aW5naXJpc2gtY29tLzIwMjQvMDEvQkotMTEuNS4yMS1DYW1wdXMtQWVyaWFsLTE2LmpwZw.jpg\",\"November 5, 2021; Aerial view of campus looking west with athletic fields, Joyce Center and Notre Dame Stadium at dusk. (Photo by Barbara Johnston\\u002FUniversity of Notre Dame)\",\"image\\u002Fjpeg\",\"BJ-11.5.21-Campus-Aerial-16.jpg\",{\"name\":54,\"value\":9,\"data\":9,\"type\":46},\"logo\",{\"name\":56,\"value\":57,\"type\":61},\"presented_by\",[58,59],{\"name\":46,\"value\":9,\"data\":9,\"type\":46},{\"name\":60,\"value",
+  "snip": "",
   "head": "",
   "types_json": null,
-  "title": "Tickets - Notre Dame Fighting Irish - Official Athletics Website"
- },
- "https://www.goshen.edu/tickets": {
-  "status": 200,
-  "final": "https://www.goshen.edu/tickets/",
-  "bytes": 78921,
-  "ld_types": {
-   "WebPage": 1,
-   "ReadAction": 1,
-   "BreadcrumbList": 1,
-   "ListItem": 2,
-   "WebSite": 1,
-   "SearchAction": 1,
-   "EntryPoint": 1,
-   "PropertyValueSpecification": 1,
-   "Organization": 1,
-   "ImageObject": 1
-  },
-  "links": [
-   [
-    "https://www.goshen.edu/news-events/",
-    3
-   ],
-   [
-    "https://www.goshen.edu/tickets/",
-    2
-   ],
-   [
-    "https://es.goshen.edu/tickets/",
-    1
-   ],
-   [
-    "https://fr.goshen.edu/tickets/",
-    1
-   ],
-   [
-    "https://pt.goshen.edu/tickets/",
-    1
-   ],
-   [
-    "https://zh-CN.goshen.edu/tickets/",
-    1
-   ],
-   [
-    "https://gcmusiccenter.org/about/facilities/sauder-concert-hall/",
-    1
-   ],
-   [
-    "https://www.goshen.edu/news-events/lectures/umble-master-class/",
-    1
-   ]
-  ],
-  "ics": [],
-  "feeds": [
-   "https://www.goshen.edu/website-feedback/"
-  ],
-  "dates": [],
-  "apis": [],
-  "snip": "ps://www.goshen.edu\" /> <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' /> <link rel=\"alternate\" hreflang=\"en\" href=\"https://www.goshen.edu/tickets/\" /> <link rel=\"alternate\" hreflang=\"es\" href=\"https://es.goshen.edu/tickets/\" /> <link rel=\"alternate\" hreflang=\"fr\" href=\"https://fr.goshen.edu/tickets/\" /> <link rel=\"alternate\" hreflang=\"pt\" href=\"https://pt.goshen.edu/tickets/\" /> <link rel=\"alternate\" hreflang=\"zh-CN\" href=\"https://zh-CN.goshen.edu/tickets/\" /> <!-- This site is optimized with the Yoast SEO Premium plugin v28.8 (Yoast SEO v28.8) - https://yoast.com/product/yoast-seo-premium-wordpress/ --> <meta name=\"description\" content=\"Buy tickets from the Goshen College Box Office for concerts, theater, student ensembles, athletics and the Performing Arts Series.\" /> <link rel=\"canonical\" href=\"https://www.goshen.edu/tickets/\" /> <meta property=\"og:locale\" content=\"en_US\" /> <meta property=\"og:type\" content=\"article\" /> <meta property=\"og:title\" content=\"Box Office\" /> <meta property=\"og:description\" content=\"Buy tickets from the Goshen College Box Office for concerts, theater, student ensembles, athletics and the Performing Arts Series.\" /> <meta property=\"og:url\" content=\"https://www.goshen.edu/tickets/\" /> <meta property=\"og:site_name\" content=\"Goshen College\" /> <meta property=\"article:publisher\" content=\"https://www.facebook.com/goshencollege\" /> <meta property=\"article:modified_time\" content=\"2026-11-05T13:56:46+00:00\" /> <meta name=\"twitter:card\" content=\"summary_large_image\" /> <meta name=\"twitter:site\" content=\"@GoshenCollege\" /> <meta name=\"twitter:label1\" content=\"Est. reading time\" /> <meta name=\"twitter:data1\" content=\"3 minutes\" /> <script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.goshen.edu\\/tickets\\/\",\"url\":\"https:\\/\\/www.goshen.edu\\/tickets\\/\",\"name\":\"Box Office: Concert & Event Tickets | Goshen College\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.goshen.edu\\/#website\"},\"datePublished\":\"2026-07-22T20:02:15+00:00\",\"dateModified\":\"2026-11-05T13:56:46+00:00\",\"description\":\"Buy tickets from the Goshen College Box Office for concerts, theater, student ensembles, athletics and the Performing Arts Series.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.goshen.edu\\/tickets\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.goshen.edu\\/tickets\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.goshen.edu\\/tickets\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.goshen.edu\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Box Office\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.goshen.edu\\/#website\",\"url\":\"https:\\/\\/www.goshen.edu\\/\",\"name\":\"Goshen College\",\"description\":\"Everything connects at Goshen\",\"publisher\":{\"@id\":\"https:\\/\\/www.goshen.edu\\/#organization\"},\"potentialAction\":[{\"@ty",
-  "head": "",
-  "types_json": null,
-  "title": "Box Office: Concert &amp; Event Tickets | Goshen College"
+  "title": "Home Page - Notre Dame Fighting Irish - Official Athletics Website"
  }
 }
