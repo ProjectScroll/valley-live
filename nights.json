@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11T14:37-05:00",
+"updated": "2026-11-11T14:38-05:00",
 "nights": [
 {
 "id": "34e217a3f7",
@@ -12,6 +12,58 @@
 "campus": null,
 "url": "https://morriscenter.org/event/cinderella-presented-by-united-european-ballet/",
 "source": "https://www.morriscenter.org/events",
+"read": "2026-11-11"
+},
+{
+"id": "76b163a04c",
+"title": "Songs from <em>Mary Poppins</em>: NDCC Benefit Concert",
+"start": "2026-11-15T14:30:00-05:00",
+"venue": "University of Notre Dame",
+"room": null,
+"town": "Notre Dame",
+"kind": "concerts",
+"campus": "University of Notre Dame",
+"url": "https://events.nd.edu/events/2026/11/15/ndcc-benefit-concert-songs-of-the-mary-poppins-movie/",
+"source": "https://events.nd.edu/events/calendar/performing-arts/",
+"read": "2026-11-11"
+},
+{
+"id": "38fa94398b",
+"title": "Concert: The Gesualdo Six",
+"start": "2026-11-17T19:30:00-05:00",
+"venue": "University of Notre Dame",
+"room": null,
+"town": "Notre Dame",
+"kind": "concerts",
+"campus": "University of Notre Dame",
+"url": "https://events.nd.edu/events/2026/11/17/the-gesualdo-six/",
+"source": "https://events.nd.edu/events/calendar/performing-arts/",
+"read": "2026-11-11"
+},
+{
+"id": "1c2151e402",
+"title": "Concert: Liederabend",
+"start": "2026-11-18T17:00:00-05:00",
+"venue": "University of Notre Dame",
+"room": null,
+"town": "Notre Dame",
+"kind": "concerts",
+"campus": "University of Notre Dame",
+"url": "https://events.nd.edu/events/2026/11/18/liederabend-1/",
+"source": "https://events.nd.edu/events/calendar/performing-arts/",
+"read": "2026-11-11"
+},
+{
+"id": "780356d371",
+"title": "Concert: The Gesualdo Six",
+"start": "2026-11-18T19:30:00-05:00",
+"venue": "University of Notre Dame",
+"room": null,
+"town": "Notre Dame",
+"kind": "concerts",
+"campus": "University of Notre Dame",
+"url": "https://events.nd.edu/events/2026/11/18/the-gesualdo-six/",
+"source": "https://events.nd.edu/events/calendar/performing-arts/",
 "read": "2026-11-11"
 },
 {
