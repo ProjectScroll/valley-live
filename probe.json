@@ -1,234 +1,117 @@
 {
- "https://saintmarysathletics.com/sports/mens-basketball/schedule": {
-  "error": "<urlopen error [Errno -2] Name or service not known>"
- },
- "https://smcbelles.com/sports/womens-basketball/schedule": {
-  "error": "<urlopen error [Errno -2] Name or service not known>"
- },
- "https://andrewscardinals.com/sports/mens-basketball/schedule": {
-  "error": "<urlopen error [Errno -2] Name or service not known>"
- },
- "https://bupilots.com/sports/mens-basketball/schedule": {
+ "https://belles.saintmarys.edu/sports/womens-basketball/schedule": {
   "status": 200,
-  "final": "https://bupilots.com/sports/mens-basketball/schedule",
-  "bytes": 807412,
+  "final": "https://belles.saintmarys.edu/sports/womens-basketball/schedule",
+  "bytes": 562678,
   "ld_types": {
-   "SportsTeam": 56,
-   "Place": 28,
-   "PostalAddress": 28,
-   "ImageObject": 28,
-   "SportsEvent": 28
+   "SportsTeam": 54,
+   "Place": 27,
+   "PostalAddress": 27,
+   "ImageObject": 27,
+   "SportsEvent": 27
   },
-  "links": [
-   [
-    "https://events.hometownticketing.com/boxoffice/betheluniversity/LNVtYmVkLNFsbA%ND%ND",
-    23
-   ],
-   [
-    "/showcase",
-    22
-   ],
-   [
-    "/calendar",
-    1
-   ],
-   [
-    "https://bxout.com/p/nukgjeoN-ticket-info",
-    1
-   ]
-  ],
+  "links": [],
   "ics": [],
   "feeds": [],
   "dates": [
-   "October 27, 2026",
-   "October 27, 2026",
-   "October 27, 2026",
-   "October 27, 2026",
-   "October 27, 2026",
-   "November 3, 2026"
+   "November 6, 2026",
+   "November 6, 2026",
+   "November 6, 2026",
+   "November 6, 2026",
+   "November 6, 2026",
+   "November 12, 2026"
   ],
   "apis": [
    "https://fonts.googleapis.com/css2"
   ],
-  "snip": "rqyrr690.cloudfront.net/sidearm.nextgen.sites/bethelind.sidearmsports.com';window.cdn_path = 'https://dbukjj6eu5tsf.cloudfront.net/';window.custom_cdn_url = '';window.urlArgs = '639027948221581342';window.cbs_school = false;window.has_alerts = false;window.disable_ad_blocker_check = false;</script><style type='text/css'>.sidearm-schedule-template-default .sidearm-schedule-tournament>p {color: #fff}</style><script>window.associated_sport = {\"id\":4,\"title\":\"Men's Basketball\",\"abbreviation\":\"MBB\",\"shortname\":\"mbball\",\"short_title\":\"Men's Basketball\",\"global_sport_id\":3,\"non_sport\":false,\"show_at_vs\":false,\"global_sport_shortname\":null,\"gender\":\"m\",\"youtube\":\"PLzInxdxe6y1CBzOWwTZ6qPMebZPXWBgy9\",\"facebook\":\"https://www.facebook.com/bupilotsmbb\",\"twitter\":\"bupilotsmbb\",\"instagram\":\"bupilotsmbb\",\"pinterest\":\"\",\"tickets\":\"\",\"global_sport_name_slug\":\"mens-basketball\",\"url\":null,\"ranking\":null,\"game_synonym\":null};</script><meta property=\"og:determiner\" content=\"the\"><meta property=\"og:locale\" content=\"en_US\"><meta property=\"og:site_name\" content=\"Bethel University (Ind)\"><meta property=\"og:url\" content=\"https://bupilots.com/sports/mens-basketball/schedule\"><script type=\"application/ld+json\">[{\"@context\":\"https://schema.org/\",\"name\":\"Bethel University (Ind) Vs Indiana University at South Bend\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Bethel University (Ind)\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Indiana University at South Bend\"},\"startDate\":\"2026-10-27T19:00:00\",\"endDate\":\"2026-10-27T19:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Gates Gymnasium\",\"address\":{\"streetAddress\":\"Mishawaka, Ind.\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\"Bethel University (Ind) Vs Indiana University at South Bend on 10/27/2026 7:00:00 PM\",\"image\":{\"url\":\"https://bupilots.com/images/logos/site/site.png\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Bethel University (Ind) At Judson University\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Bethel University (Ind)\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Judson University\"},\"startDate\":\"2026-12-10T20:30:00\",\"endDate\":\"2026-12-10T20:30:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Elgin, Ill. / Linder Fitness Center\",\"address\":{\"streetAddress\":\"Elgin, Ill. / Linder Fitness Center\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\"Bethel University (Ind) At Judson University on 12/10/2026 8:30:00 PM\",\"image\":{\"url\":\"https://bupilots.com/images/logos/site/site.png\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Bethel Univ",
+  "snip": " { clearTimeout(makeTopLevelTimeout) } }) } window.s3_bucket_path = 'https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/belles.saintmarys.edu';window.cdn_path = 'https://dbukjj6eu5tsf.cloudfront.net/';window.custom_cdn_url = '';window.urlArgs = '639027948730280889';window.cbs_school = false;window.has_alerts = false;window.disable_ad_blocker_check = false;</script><script>window.associated_sport = {\"id\":4,\"title\":\"Basketball\",\"abbreviation\":\"WBB\",\"shortname\":\"wbball\",\"short_title\":\"BB\",\"global_sport_id\":4,\"non_sport\":false,\"show_at_vs\":false,\"global_sport_shortname\":null,\"gender\":\"f\",\"youtube\":\"\",\"facebook\":\"\",\"twitter\":\"SMC_Basketball\",\"instagram\":\"belles_basketball\",\"pinterest\":\"\",\"tickets\":\"\",\"global_sport_name_slug\":\"womens-basketball\",\"url\":null,\"ranking\":null,\"game_synonym\":null};</script><meta property=\"og:determiner\" content=\"the\"><meta property=\"og:locale\" content=\"en_US\"><meta property=\"og:site_name\" content=\"Saint Mary&#39;s College\"><meta property=\"og:url\" content=\"https://belles.saintmarys.edu/sports/womens-basketball/schedule\"><script type=\"application/ld+json\">[{\"@context\":\"https://schema.org/\",\"name\":\"Saint Mary's College Vs North Central\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Saint Mary's College\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"North Central\"},\"startDate\":\"2026-11-06T18:30:00\",\"endDate\":\"2026-11-06T18:30:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Angela Athletic & Wellness Complex\",\"address\":{\"streetAddress\":\"Angela Athletic & Wellness Complex\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\"Saint Mary's College Vs North Central on 11/6/2026 6:30:00 PM\",\"image\":{\"url\":\"\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Saint Mary's College Vs North Park\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Saint Mary's College\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"North Park\"},\"startDate\":\"2026-11-12T19:00:00\",\"endDate\":\"2026-11-12T19:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Angela Athletic & Wellness Complex\",\"address\":{\"streetAddress\":\"Angela Athletic & Wellness Complex\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\"Saint Mary's College Vs North Park on 11/12/2026 7:00:00 PM\",\"image\":{\"url\":\"\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Saint Mary's College At Concordia Chicago\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Saint Mary's ",
   "head": "",
   "types_json": null,
-  "title": "2026-27 Men's Basketball Schedule - Bethel University (Ind)"
+  "title": "2026-27 Basketball Schedule - Saint Mary's College"
  },
- "https://goleafs.net/sports/mens-basketball/schedule": {
+ "https://northwoodsleague.com/kalamazoo-growlers/schedule/": {
   "status": 200,
-  "final": "https://goleafs.net/sports/mens-basketball/schedule",
-  "bytes": 626133,
+  "final": "https://northwoodsleague.com/kalamazoo-growlers/schedule/",
+  "bytes": 154669,
   "ld_types": {
-   "SportsTeam": 60,
-   "Place": 30,
-   "PostalAddress": 30,
-   "ImageObject": 30,
-   "SportsEvent": 30
+   "WebPage": 1,
+   "ReadAction": 1,
+   "ImageObject": 1,
+   "BreadcrumbList": 1,
+   "ListItem": 2,
+   "WebSite": 1,
+   "SearchAction": 1,
+   "EntryPoint": 1,
+   "PropertyValueSpecification": 1
   },
   "links": [
    [
-    "https://www.ticketsmarter.com/goshen-maple-leafs",
-    1
-   ],
-   [
-    "/calendar",
-    1
-   ],
-   [
-    "https://www.goshen.edu/tickets",
+    "https://northwoodsleague.com/kalamazoo-growlers/events/",
     1
    ]
   ],
   "ics": [],
   "feeds": [
-   "/rss"
+   "https://northwoodsleague.com/kalamazoo-growlers/feed/",
+   "https://northwoodsleague.com/kalamazoo-growlers/comments/feed/",
+   "https://northwoodsleague.com/kalamazoo-growlers/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnorthwoodsleague.com%2Fkalamazoo-growlers%2Fschedule%2F",
+   "https://northwoodsleague.com/kalamazoo-growlers/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnorthwoodsleague.com%2Fkalamazoo-growlers%2Fschedule%2F&amp;format=xml",
+   "https://northwoodsleague.com/kalamazoo-growlers/wp-json/",
+   "https://northwoodsleague.com/kalamazoo-growlers/wp-json/wp/v2/pages/16150"
   ],
   "dates": [
-   "August 6, 2025",
-   "August 6, 2025",
-   "August 6, 2025",
-   "October 24, 2026",
-   "October 24, 2026",
-   "October 24, 2026"
+   "December 7, 2018"
   ],
   "apis": [
-   "https://fonts.googleapis.com/css2"
+   "https://api.w.org/"
   ],
-  "snip": " clearTimeout(makeTopLevelTimeout) } }) } window.s3_bucket_path = 'https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/goleafs.net';window.cdn_path = 'https://dbukjj6eu5tsf.cloudfront.net/';window.custom_cdn_url = '';window.urlArgs = '639027949127083109';window.cbs_school = false;window.has_alerts = false;window.disable_ad_blocker_check = false;</script><script>window.associated_sport = {\"id\":3,\"title\":\"Men's Basketball\",\"abbreviation\":\"MBB\",\"shortname\":\"mbball\",\"short_title\":\"MBB\",\"global_sport_id\":3,\"non_sport\":false,\"show_at_vs\":false,\"global_sport_shortname\":null,\"gender\":\"m\",\"youtube\":\"PLcxf7rq8I22SEjyITzv4C3yiR_wJpcMar\",\"facebook\":\"https://www.facebook.com/GCMapleLeafsMBB\",\"twitter\":\"GCMapleLeafs_MB\",\"instagram\":\"GCMapleLeafs_MB\",\"pinterest\":\"\",\"tickets\":\"\",\"global_sport_name_slug\":\"mens-basketball\",\"url\":null,\"ranking\":null,\"game_synonym\":null};</script><meta property=\"og:determiner\" content=\"the\"><meta property=\"og:locale\" content=\"en_US\"><meta property=\"og:site_name\" content=\"Goshen College\"><meta property=\"og:url\" content=\"https://goleafs.net/sports/mens-basketball/schedule\"><script type=\"application/ld+json\">[{\"@context\":\"https://schema.org/\",\"name\":\" Vs Warner University (Fla.)\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Warner University (Fla.)\"},\"startDate\":\"2026-10-24T15:00:00\",\"endDate\":\"2026-10-24T15:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Ruth Gunden Gymnasium\",\"address\":{\"streetAddress\":\"\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\" Vs Warner University (Fla.) on 10/24/2026 3:00:00 PM\",\"image\":{\"url\":\"https://goleafs.net/images/logos/site/site.png\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\" Vs Judson University\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Judson University\"},\"startDate\":\"2026-10-28T19:00:00\",\"endDate\":\"2026-10-28T19:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Ruth Gunden Gymnasium\",\"address\":{\"streetAddress\":\"\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\" Vs Judson University on 10/28/2026 7:00:00 PM\",\"image\":{\"url\":\"https://goleafs.net/images/logos/site/site.png\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\" At University of Northwestern Ohio\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"University",
+  "snip": "ytics\", \"productAnalytics\", null, true, ['ezaqBaseReady'], false, false, false, true); </script><base href=\"https://northwoodsleague.com/kalamazoo-growlers/schedule/\"/> <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"/> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/> <meta name=\"robots\" content=\"index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1\"/> <!-- This site is optimized with the Yoast SEO Premium plugin v26.5 (Yoast SEO v26.5) - https://yoast.com/wordpress/plugins/seo/ --> <title>Schedule - Kalamazoo Growlers at Homer Stryker Field</title> <meta name=\"description\" content=\"The Growlers play 36 home games from Memorial Day through the 2nd weekend in August every year. Visit GrowlersTickets.com to secure tickets.\"/> <link rel=\"canonical\" href=\"https://northwoodsleague.com/kalamazoo-growlers/schedule/\"/> <meta property=\"og:locale\" content=\"en_US\"/> <meta property=\"og:type\" content=\"article\"/> <meta property=\"og:title\" content=\"Schedule\"/> <meta property=\"og:description\" content=\"The Growlers play 36 home games from Memorial Day through the 2nd weekend in August every year. Visit GrowlersTickets.com to secure tickets.\"/> <meta property=\"og:url\" content=\"https://northwoodsleague.com/kalamazoo-growlers/schedule/\"/> <meta property=\"og:site_name\" content=\"Kalamazoo Growlers\"/> <meta property=\"article:publisher\" content=\"https://www.facebook.com/kzoogrowlers/\"/> <meta property=\"article:modified_time\" content=\"2026-06-05T20:09:20+00:00\"/> <meta property=\"og:image\" content=\"https://assets.northwoodsleague.com/wp-content/uploads/sites/13/2024/10/Schedule-1.jpg\"/> <meta property=\"og:image:width\" content=\"1200\"/> <meta property=\"og:image:height\" content=\"322\"/> <meta property=\"og:image:type\" content=\"image/jpeg\"/> <meta name=\"twitter:card\" content=\"summary_large_image\"/> <meta name=\"twitter:site\" content=\"@kzoogrowlers\"/> <meta name=\"twitter:label1\" content=\"Est. reading time\"/> <meta name=\"twitter:data1\" content=\"1 minute\"/> <script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://northwoodsleague.com/kalamazoo-growlers/schedule/\",\"url\":\"https://northwoodsleague.com/kalamazoo-growlers/schedule/\",\"name\":\"Schedule - Kalamazoo Growlers at Homer Stryker Field\",\"isPartOf\":{\"@id\":\"https://northwoodsleague.com/kalamazoo-growlers/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://northwoodsleague.com/kalamazoo-growlers/schedule/#primaryimage\"},\"image\":{\"@id\":\"https://northwoodsleague.com/kalamazoo-growlers/schedule/#primaryimage\"},\"thumbnailUrl\":\"https://assets.northwoodsleague.com/wp-content/uploads/sites/13/2024/10/Schedule-1.jpg\",\"datePublished\":\"2024-10-01T05:00:47+00:00\",\"dateModified\":\"2026-06-05T20:09:20+00:00\",\"description\":\"The Growlers play 36 home games from Memorial Day through the 2nd weekend in August every year. Visit GrowlersTickets.com to secure tickets.\",\"breadcrumb\":{\"@id\":\"https://north",
   "head": "",
   "types_json": null,
-  "title": "2026-27 Men's Basketball Schedule - Goshen College"
+  "title": "Schedule - Kalamazoo Growlers at Homer Stryker Field"
  },
- "https://iusbtitans.com/sports/mens-basketball/schedule": {
+ "https://northwoodsleague.com/kalamazoo-growlers/": {
   "status": 200,
-  "final": "https://iusbtitans.com/sports/mens-basketball/schedule",
-  "bytes": 696789,
+  "final": "https://northwoodsleague.com/kalamazoo-growlers/",
+  "bytes": 216401,
   "ld_types": {
-   "SportsTeam": 66,
-   "Place": 33,
-   "PostalAddress": 33,
-   "ImageObject": 33,
-   "SportsEvent": 33
-  },
-  "links": [
-   [
-    "/sports/N/N/N/titan-home-event-live-stats.aspx",
-    1
-   ],
-   [
-    "https://iusbtitans.com/calendar",
-    1
-   ]
-  ],
-  "ics": [],
-  "feeds": [],
-  "dates": [
-   "October 23, 2026",
-   "October 23, 2026",
-   "October 23, 2026",
-   "October 27, 2026",
-   "October 27, 2026",
-   "October 27, 2026"
-  ],
-  "apis": [
-   "https://fonts.googleapis.com/css2"
-  ],
-  "snip": ", function(ev) { if (ev.data === 'sidearm-iframe-request-allow') { clearTimeout(makeTopLevelTimeout) } }) } window.s3_bucket_path = 'https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/iusbtitans.com';window.cdn_path = 'https://dbukjj6eu5tsf.cloudfront.net/';window.custom_cdn_url = '';window.urlArgs = '639027945600747786';window.cbs_school = false;window.has_alerts = false;window.disable_ad_blocker_check = false;</script><script>window.associated_sport = {\"id\":3,\"title\":\"Men's Basketball\",\"abbreviation\":\"MBB\",\"shortname\":\"mbball\",\"short_title\":\"MBB\",\"global_sport_id\":3,\"non_sport\":false,\"show_at_vs\":false,\"global_sport_shortname\":null,\"gender\":\"m\",\"youtube\":\"\",\"facebook\":\"\",\"twitter\":\"\",\"instagram\":\"\",\"pinterest\":\"\",\"tickets\":\"\",\"global_sport_name_slug\":\"mens-basketball\",\"url\":null,\"ranking\":null,\"game_synonym\":null};</script><meta property=\"og:determiner\" content=\"the\"><meta property=\"og:locale\" content=\"en_US\"><meta property=\"og:site_name\" content=\"Indiana University South Bend\"><meta property=\"og:url\" content=\"https://iusbtitans.com/sports/mens-basketball/schedule\"><script type=\"application/ld+json\">[{\"@context\":\"https://schema.org/\",\"name\":\" Vs Warner\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Warner\"},\"startDate\":\"2026-10-23T19:00:00\",\"endDate\":\"2026-10-23T19:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Student Activities Center\",\"address\":{\"streetAddress\":\"South Bend\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\" Vs Warner on 10/23/2026 7:00:00 PM\",\"image\":{\"url\":\"https://iusbtitans.com\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\" At Bethel\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Bethel\"},\"startDate\":\"2026-10-27T19:00:00\",\"endDate\":\"2026-10-27T19:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Mishawaka, IN\",\"address\":{\"streetAddress\":\"Mishawaka, IN\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\" At Bethel on 10/27/2026 7:00:00 PM\",\"image\":{\"url\":\"https://iusbtitans.com\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\" Vs Saint Mary-of-the-Woods\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Saint Mary-of-the-Woods\"},\"startDate\":\"2026-10-30T15:00:00\",\"endDate\":\"2026-10-30T15:00:00\",\"event",
-  "head": "",
-  "types_json": null,
-  "title": "2026-27 Men's Basketball Schedule - Indiana University South Bend"
- },
- "https://www.kalamazoogrowlers.com/": {
-  "error": "<urlopen error [Errno 111] Connection refused>"
- },
- "https://www.lmdockhounds.com/schedule": {
-  "error": "<urlopen error [Errno -2] Name or service not known>"
- },
- "https://lmdockhounds.com/": {
-  "error": "<urlopen error [Errno -2] Name or service not known>"
- },
- "https://fightingirish.com/sports/football/schedule/_payload.json": {
-  "error": "HTTP Error 404: Not Found"
- },
- "https://fightingirish.com/website-api/schedule-events?filter%5Bschedule.sport_id%5D=1": {
-  "status": 200,
-  "final": "https://fightingirish.com/website-api/schedule-events?filter%5Bschedule.sport_id%5D=1",
-  "bytes": 693,
-  "ld_types": {},
-  "links": [],
-  "ics": [],
-  "feeds": [],
-  "dates": [],
-  "apis": [],
-  "snip": "",
-  "head": "{\"data\":[],\"links\":{\"first\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule.sport_id%5D=1&page=1\",\"last\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule.sport_id%5D=1&page=1\",\"prev\":null,\"next\":null},\"meta\":{\"current_page\":1,\"from\":null,\"last_page\":1,\"links\":[{\"url\":null,\"label\":\"&laquo; Previous\",\"page\":null,\"active\":false},{\"url\":\"https:\\/\\/fightingirish.com\\/website-api\\/schedule-events?filter%5Bschedule.sport_id%5D=1&page=1\",\"label\":\"1\",\"page\":1,\"active\":true},{\"url\":null,\"label\":\"Next &raquo;\",\"page\":null,\"active\":false}],\"path\":\"h",
-  "types_json": [
-   "data",
-   "links",
-   "meta"
-  ],
-  "title": ""
- },
- "https://fightingirish.com/sports/mbball/schedule": {
-  "status": 200,
-  "final": "https://fightingirish.com/sports/mbball/schedule",
-  "bytes": 550693,
-  "ld_types": {
+   "WebPage": 1,
+   "ReadAction": 1,
+   "BreadcrumbList": 1,
+   "ListItem": 1,
    "WebSite": 1,
    "SearchAction": 1,
    "EntryPoint": 1,
-   "WebPage": 1,
-   "ReadAction": 1
+   "PropertyValueSpecification": 1
   },
   "links": [
    [
-    "/_nuxt/EventsList.CCha-AIc.css",
-    1
-   ],
-   [
-    "/tickets/fbtickets/",
-    1
-   ],
-   [
-    "/tickets/mbbtickets/",
-    1
-   ],
-   [
-    "/tickets/wbbtickets/",
-    1
-   ],
-   [
-    "/tickets/hkytickets/",
-    1
-   ],
-   [
-    "/tickets/premium-experiences/",
-    1
-   ],
-   [
-    "https://seatgeek.com/notre-dame-fighting-irish-football-tickets",
+    "https://northwoodsleague.com/kalamazoo-growlers/events/",
     1
    ]
   ],
   "ics": [],
-  "feeds": [],
+  "feeds": [
+   "https://northwoodsleague.com/kalamazoo-growlers/feed/",
+   "https://northwoodsleague.com/kalamazoo-growlers/comments/feed/",
+   "https://northwoodsleague.com/kalamazoo-growlers/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnorthwoodsleague.com%2Fkalamazoo-growlers%2F",
+   "https://northwoodsleague.com/kalamazoo-growlers/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnorthwoodsleague.com%2Fkalamazoo-growlers%2F&amp;format=xml",
+   "https://northwoodsleague.com/kalamazoo-growlers/wp-json/",
+   "https://northwoodsleague.com/kalamazoo-growlers/wp-json/wp/v2/pages/17996"
+  ],
   "dates": [
-   "February 15, 2026",
-   "May 14, 2016",
-   "May 10, 2023",
-   "March 17, 2023",
-   "September 30, 2017",
-   "September 28, 2019"
+   "December 7, 2018"
   ],
   "apis": [
-   "https://seatgeek.com/notre-dame-fighting-irish-football-tickets",
-   "https://storage.googleapis.com/fightingirish-com/2026/10/15/Cvas4yI2cPam9GUQ2S7cbCKzp0LamfzUjhttY6VZ.pdf"
+   "https://api.w.org/"
   ],
-  "snip": "BioTabTop\",component:\"FightingirishReviveAdBanner\"},{placement:\"playerBioPageRelatedTabTop\",component:\"FightingirishReviveAdBanner\"},{placement:\"playerBioPageStatsTabTop\",component:\"FightingirishReviveAdBanner\"},{placement:\"playerBioPageBottom\",component:\"FightingirishReviveAdBanner\"},{placement:\"podcastPageBeforeList\",component:\"FightingirishReviveAdBanner\"},{placement:\"podcastPageAfterList\",component:\"FightingirishReviveAdBanner\"},{placement:\"podcastEpisodePageBeforeList\",component:\"FightingirishReviveAdBanner\"},{placement:\"podcastEpisodePageAfterList\",component:\"FightingirishReviveAdBanner\"},{placement:\"staffBioPageBioTabTop\",component:\"FightingirishReviveAdBanner\"},{placement:\"staffBioPageBottom\",component:\"FightingirishReviveAdBanner\"},{placement:\"scheduleAfterHeroBanner\",component:\"FightingirishReviveAdBanner\"},{placement:\"scheduleAfterEventsList\",component:\"FightingirishReviveAdBanner\"},{placement:\"staffDirectoryBeforeList\",component:\"FightingirishReviveAdBanner\"},{placement:\"staffDirectoryAfterDepartment\",component:\"FightingirishReviveAdBanner\"},{placement:\"newsPageAfterList\",component:\"FightingirishReviveAdBanner\"},{placement:\"featuredArticlesSliderWithAdditionalItemsContentBlock\",component:\"FightingirishReviveAdBanner\",props:{desktopSquare:true}},{placement:\"postEventSummary\",component:\"FightingirishReviveAdBanner\",props:{desktopSquare:true}},{placement:\"preEventSummary\",component:\"FightingirishReviveAdBanner\",props:{desktopSquare:true}}],apiBaseUrl:\"/\",apiPrefix:\"/website-api\",bypassCookieName:\"sc_u1n3kiignuupzffz\",dashboardApiPrefix:\"/api\",dashboardUrl:\"\",dropdown:{defaultIconModifiers:[],selectedIcon:\"\",triggerIcon:\"fluent:chevron-down-12-regular\",triggerIconByModifier:{}},googleProgrammableSearchId:\"\",isPersistentPlayer:false,preventRejectionUrls:[\"/check\"],redirectBaseUrl:\"https://redirects.fightingirish.com\",schedule:{eventTime:{allDayLabelScheduledOnly:false,dateFormat:\"short\",showEndTime:true,showTime:true,showVenueLabel:false,timeFormat:\"periods\",weekdayFormat:\"short\",weekdaySeparator:\",\"}},videoWmtBaseUrl:\"https://video.wmt.media/embed\",leanstreamProxyBaseUrl:\"https://us-central1-lyrical-amulet-150218.cloudfunctions.net/wmt-leanstream-proxy-v2\",integrations:{tintup:{dataId:\"\",dataPersonalizationId:\"\"},onefield:{siteId:\"\"}}},sentry:{dsn:\"https://bb631ff5a00dd2b3f36af274097fa196@sentry.wmt.dev/330\",release:\"89d2f1817d40dad4dd1e61561e04bbd8654bf1c6\",environment:\"production\",sampleRate:.5,tracesSampleRate:.01,replaysSessionSampleRate:.3,replaysOnErrorSampleRate:1,profilesSampleRate:0},\"nuxt-scripts\":{version:\"\",defaultScriptOptions:{trigger:\"onNuxtReady\"}}},app:{baseURL:\"/\",buildId:\"29704e11-692c-4fb3-9d49-14548e4be49b\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script><script type=\"application/ld+json\" data-nuxt-schema-org=\"true\" data-hid=\"schema-org-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://fightingirish.com/#website\",\"@type\":\"WebSite\",\"description\":\"The Official Athletic Site of The Fighting Irish. The most c",
+  "snip": "{ if(document.readyState === 'loading') { return; } document.removeEventListener('readystatechange', eventFunc, false); analyticsAddScript(xhr.response); }; document.addEventListener('readystatechange', eventFunc, false); }; xhr.setRequestHeader('Content-Type','text/plain'); xhr.send(dataText); } __ez.queue.addFunc(\"productAnalytics\", \"productAnalytics\", null, true, ['ezaqBaseReady'], false, false, false, true); </script><base href=\"https://northwoodsleague.com/kalamazoo-growlers/\"/> <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"/> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/> <meta name=\"robots\" content=\"index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1\"/> <!-- This site is optimized with the Yoast SEO Premium plugin v26.5 (Yoast SEO v26.5) - https://yoast.com/wordpress/plugins/seo/ --> <title>Home Page - Kalamazoo Growlers</title> <link rel=\"canonical\" href=\"https://northwoodsleague.com/kalamazoo-growlers/\"/> <meta property=\"og:locale\" content=\"en_US\"/> <meta property=\"og:type\" content=\"website\"/> <meta property=\"og:title\" content=\"Home Page\"/> <meta property=\"og:url\" content=\"https://northwoodsleague.com/kalamazoo-growlers/\"/> <meta property=\"og:site_name\" content=\"Kalamazoo Growlers\"/> <meta property=\"article:publisher\" content=\"https://www.facebook.com/kzoogrowlers/\"/> <meta property=\"article:modified_time\" content=\"2026-11-11T19:49:33+00:00\"/> <meta name=\"twitter:card\" content=\"summary_large_image\"/> <meta name=\"twitter:site\" content=\"@kzoogrowlers\"/> <script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://northwoodsleague.com/kalamazoo-growlers/\",\"url\":\"https://northwoodsleague.com/kalamazoo-growlers/\",\"name\":\"Home Page - Kalamazoo Growlers\",\"isPartOf\":{\"@id\":\"https://northwoodsleague.com/kalamazoo-growlers/#website\"},\"datePublished\":\"2022-11-23T19:04:18+00:00\",\"dateModified\":\"2026-11-11T19:49:33+00:00\",\"breadcrumb\":{\"@id\":\"https://northwoodsleague.com/kalamazoo-growlers/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://northwoodsleague.com/kalamazoo-growlers/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://northwoodsleague.com/kalamazoo-growlers/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://northwoodsleague.com/kalamazoo-growlers/#website\",\"url\":\"https://northwoodsleague.com/kalamazoo-growlers/\",\"name\":\"Kalamazoo Growlers\",\"description\":\"Where Fun Makes a Difference\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://northwoodsleague.com/kalamazoo-growlers/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script> <!-- / Yoast SEO Premi",
   "head": "",
   "types_json": null,
-  "title": "Men&#x27;s Basketball 2026-27 - Notre Dame Fighting Irish - Official Athletics Website"
+  "title": "Home Page - Kalamazoo Growlers"
+ },
+ "https://www.andrews.edu/life/athletics/": {
+  "error": "HTTP Error 404: Not Found"
  },
  "https://wmubroncos.com/sports/football/schedule": {
   "status": 200,
@@ -300,76 +183,76 @@
   "apis": [
    "https://fonts.googleapis.com/css2"
   ],
-  "snip": "",
+  "snip": "nk\":8,\"column\":3,\"url\":\"https://wmualumni.org/w/calendar-of-events\",\"separator\":false,\"open_in_new_window\":false,\"sport_id_association\":null,\"sport\":{\"id\":0,\"title\":null,\"abbreviation\":null,\"shortname\":null,\"short_title\":null,\"global_sport_id\":null,\"non_sport\":false,\"show_at_vs\":false,\"global_sport_shortname\":null,\"gender\":null,\"youtube\":null,\"facebook\":null,\"twitter\":null,\"instagram\":null,\"pinterest\":null,\"tickets\":null,\"global_sport_name_slug\":null,\"url\":null,\"ranking\":null,\"game_synonym\":null},\"class_name\":null,\"social_media_links\":null,\"schedule_roster_news_links\":null,\"items\":[],\"stats\":null,\"tickets\":null,\"youtube\":null}]}],\"ad\":null},{\"id\":7,\"title\":\"Bronco Athletic Fund\",\"rank\":5,\"url\":\"https://athletics.wmualumni.org/\",\"open_in_new_window\":false,\"include_social_media\":false,\"include_schedule_roster_news\":false,\"include_stats\":false,\"include_tickets\":false,\"include_youtube\":false,\"class_name\":null,\"items\":[],\"columns\":[],\"ad\":null}],\"mode\":\"web\"}; if (!(\"sidearmComponents\" in window)) window.sidearmComponents = []; window.sidearmComponents.push(obj); </script> <navigation-component params=\"{ id: '9504e5af-82ac-484c-9d6e-27527097ef2b' }\"></navigation-component> <!-- ko if: false --> <div class=\"hide\"> <a href=\"/calendar?vtype=list\">Composite Schedule</a> <a href=\"/sports/baseball\">Baseball</a> <a href=\"//x.com/@WMUBaseball\">Baseball: X</a> <a href=\"//instagram.com/wmubaseball\">Baseball: Instagram</a> <a href=\"wmubroncos.com/tickets\">Baseball: Tickets</a> <a href=\"/sports/baseball/schedule\">Baseball: Schedule</a> <a href=\"/sports/baseball/roster\">Baseball: Roster</a> <a href=\"/sports/baseball/archives\">Baseball: News</a> <a href=\"/sports/mens-basketball\">Basketball (M)</a> <a href=\"https://www.facebook.com/WMUMBB\">Basketball (M): Facebook</a> <a href=\"//x.com/@WMUMBB\">Basketball (M): X</a> <a href=\"//instagram.com/wmumbb\">Basketball (M): Instagram</a> <a href=\"/sports/mens-basketball/schedule\">Basketball (M): Schedule</a> <a href=\"/sports/mens-basketball/roster\">Basketball (M): Roster</a> <a href=\"/sports/mens-basketball/archives\">Basketball (M): News</a> <a href=\"/sports/football\">Football</a> <a href=\"https://www.facebook.com/wmufootball\">Football: Facebook</a> <a href=\"//x.com/@WMU_Football\">Football: X</a> <a href=\"//instagram.com/WMU_Football\">Football: Instagram</a> <a href=\"https://wmubroncos.evenue.net/list/GS\">Football: Tickets</a> <a href=\"/sports/football/schedule\">Football: Schedule</a> <a href=\"/sports/football/roster\">Football: Roster</a> <a href=\"/sports/football/archives\">Football: News</a> <a href=\"/sports/mens-ice-hockey\">Hockey</a> <a href=\"https://www.facebook.com/WMUHockey\">Hockey: Facebook</a> <a href=\"//x.com/@WMUHockey\">Hockey: X</a> <a href=\"//instagram.com/wmu_hockey\">Hockey: Instagram</a> <a",
   "head": "",
   "types_json": null,
   "title": "2026 Football Schedule - Western Michigan University Athletics"
  },
- "https://www.milb.com/south-bend/schedule": {
+ "https://www.milb.com/south-bend/tickets": {
   "status": 200,
-  "final": "https://www.milb.com/south-bend/schedule",
-  "bytes": 453366,
+  "final": "https://www.milb.com/south-bend/tickets",
+  "bytes": 326645,
   "ld_types": {},
   "links": [
    [
-    "/south-bend/tickets/promotions",
-    40
-   ],
-   [
     "",
-    37
+    7
    ],
    [
     "/south-bend/events/holiday",
-    4
-   ],
-   [
-    "/south-bend/tickets/",
-    2
+    5
    ],
    [
     "/south-bend/tickets/seasonseats",
-    2
-   ],
-   [
-    "/south-bend/tickets/halfseasonseats",
-    2
-   ],
-   [
-    "/south-bend/tickets/Ngameplan",
-    2
-   ],
-   [
-    "/south-bend/tickets/offers",
-    2
+    4
    ],
    [
     "/south-bend/tickets/group-areas",
-    2
+    4
+   ],
+   [
+    "/south-bend/tickets/halfseasonseats",
+    3
+   ],
+   [
+    "/south-bend/tickets/Ngameplan",
+    3
+   ],
+   [
+    "/south-bend/tickets/offers",
+    3
    ],
    [
     "/south-bend/tickets/fieldofdreams",
-    2
+    3
    ],
    [
     "/south-bend/tickets/birthdays",
-    2
+    3
    ],
    [
     "https://mlb.tickets.com/",
-    2
+    3
    ],
    [
     "https://www.milb.com/south-bend/tickets/help",
-    2
+    3
    ],
    [
-    "/south-bend/ballpark/upcoming-events/",
-    2
+    "https://www.milb.com/south-bend/tickets/seasonseats",
+    3
    ],
    [
-    "/south-bend/ballpark/holidayevents",
-    2
+    "https://www.milb.com/south-bend/tickets/halfseasonseats",
+    3
+   ],
+   [
+    "https://www.milb.com/south-bend/tickets/Ngameplan",
+    3
+   ],
+   [
+    "https://www.milb.com/south-bend/tickets/stadiumclub",
+    3
    ]
   ],
   "ics": [],
@@ -382,9 +265,181 @@
    "https://search-api.milb.com",
    "https://statsapi.mlb.com"
   ],
-  "snip": "nor League Baseball web site includes features, news, rosters, statistics, schedules, teams, live game radio broadcasts, and video clips.\" /> <meta property=\"description\" content=\"The Official Site of Minor League Baseball web site includes features, news, rosters, statistics, schedules, teams, live game radio broadcasts, and video clips.\" /> <meta name=\"build\" content=\"true\" /> <meta name=\"server_url\" content=\"https://www.milb.com\" /> <meta name=\"service_url\" content=\"\" /> <meta name=\"suggest_url\" content=\"\" /> <meta name=\"uistatic_url\" content=\"//builds.mlbstatic.com/milb.com\" /> <meta name=\"context-url-prefix\" content=\"/south-bend\" /> <meta name=\"bamcontent_client_url\" content=\"https://milb.bamcontent.com\" /> <meta name=\"control_plane_url\" content=\"\" /> <meta name=\"control_plane_client_token\" content=\"\" /> <meta name=\"recon_rest\" content=\"https://www.milb.com\" /> <meta name=\"recon_ws\" content=\"wss://www.milb.com\" /> <meta name=\"msapplication-config\" content=\"none\"/> <meta name=\"locale\" content=\"en\" /> <meta name=\"timezone\" content=\"America/Indiana/Indianapolis\" /> <meta name=\"siteKey\" content=\"team\"> <meta name=\"team-id\" content=\"550\"> <meta name=\"siteName\" content=\"South Bend Cubs\"> <meta name=\"club\" content=\"south-bend\"> <meta name=\"flipTime\" content=\"10:00\" /> <meta name=\"flipTimeZoneOffset\" content=\"+00:00\" /> <meta name=\"serverTime\" content=\"2026-11-11T22:21:56+00:00\" /> <meta name=\"siteCoreBuildPath\" content=\"//builds.mlbstatic.com/milb.com/builds/site-core/\" /> <meta name=\"siteCoreBuildVersion\" content=\"1778007237970\" /> <meta name=\"siteCoreLocation\" content=\"//builds.mlbstatic.com/milb.com/builds/site-core/1778007237970\" /> <meta name=\"sectionBuildVersion\" content=\"aac43d8491322c8864da984512bda216c8305fe6_1733248995\" /> <meta name=\"siteAssetsUri\" content=\"undefined/site-core\" /> <meta name=\"sectionAssetsUri\" content=\"//builds.mlbstatic.com/milb.com/sections/club-schedule/builds/aac43d8491322c8864da984512bda216c8305fe6_1733248995\" /> <meta name=\"omniturePageName\" content=\"Schedule\" /> <meta name=\"omniturePageProps\" content=\"%7B%22pageName%22%3A%22Schedule%22%2C%22registrationPoints%22%3A%22Schedule%22%7D\"/> <meta name=\"paywall\" content=\"true\"/> <meta name=\"apple-mobile-web-app-title\" content=\"MiLB.com\"> <link rel=\"shortcut icon\" href=\"https://images.ctfassets.net/iiozhi00a8lc/t550_faviconcut_png/81e3b63dbed4a522fd1165b281083af2/t550_favicon\"> <link rel=\"apple-touch-icon\" href=\"https://images.ctfassets.net/iiozhi00a8lc/t550_faviconcut_png/81e3b63dbed4a522fd1165b281083af2/t550_favicon\"> <!-- feature flags --> <script type=\"text/javascript\"> const featureFlags = {\"useMidfield\":false} // to check which feature flag we are using console.info(`[MiLB Feature Flag] useMidfield: ${featureFlags.useMi",
+  "snip": "description\" content=\"Learn about all the South Bend Cubs ticket deals, groups, suites and plans.\" /> <meta property=\"og:description\" content=\"Learn about all the South Bend Cubs ticket deals, groups, suites and plans.\" /> <meta property=\"description\" content=\"Learn about all the South Bend Cubs ticket deals, groups, suites and plans.\" /> <meta name=\"build\" content=\"true\" /> <meta name=\"server_url\" content=\"https://www.milb.com\" /> <meta name=\"service_url\" content=\"\" /> <meta name=\"suggest_url\" content=\"\" /> <meta name=\"uistatic_url\" content=\"//builds.mlbstatic.com/milb.com\" /> <meta name=\"context-url-prefix\" content=\"/south-bend\" /> <meta name=\"bamcontent_client_url\" content=\"https://milb.bamcontent.com\" /> <meta name=\"control_plane_url\" content=\"\" /> <meta name=\"control_plane_client_token\" content=\"\" /> <meta name=\"recon_rest\" content=\"https://www.milb.com\" /> <meta name=\"recon_ws\" content=\"wss://www.milb.com\" /> <meta name=\"msapplication-config\" content=\"none\"/> <meta name=\"locale\" content=\"en\" /> <meta name=\"timezone\" content=\"America/Indiana/Indianapolis\" /> <meta name=\"siteKey\" content=\"team\"> <meta name=\"team-id\" content=\"550\"> <meta name=\"siteName\" content=\"South Bend Cubs\"> <meta name=\"club\" content=\"south-bend\"> <meta name=\"flipTime\" content=\"10:00\" /> <meta name=\"flipTimeZoneOffset\" content=\"+00:00\" /> <meta name=\"serverTime\" content=\"2026-11-11T22:24:30+00:00\" /> <meta name=\"siteCoreBuildPath\" content=\"//builds.mlbstatic.com/milb.com/builds/site-core/\" /> <meta name=\"siteCoreBuildVersion\" content=\"1778007237970\" /> <meta name=\"siteCoreLocation\" content=\"//builds.mlbstatic.com/milb.com/builds/site-core/1778007237970\" /> <meta name=\"sectionBuildVersion\" content=\"06ccce16f9252c11f1533db0c188aa06987358fa_1778007153\" /> <meta name=\"siteAssetsUri\" content=\"undefined/site-core\" /> <meta name=\"sectionAssetsUri\" content=\"//builds.mlbstatic.com/milb.com/sections/forge-pagebuilder/builds/06ccce16f9252c11f1533db0c188aa06987358fa_1778007153\" /> <meta name=\"omniturePageName\" content=\"South Bend Cubs Tickets\" /> <meta name=\"paywall\" content=\"true\"/> <meta name=\"apple-mobile-web-app-title\" content=\"MiLB.com\"> <link rel=\"shortcut icon\" href=\"https://images.ctfassets.net/iiozhi00a8lc/t550_faviconcut_png/81e3b63dbed4a522fd1165b281083af2/t550_favicon\"> <link rel=\"apple-touch-icon\" href=\"https://images.ctfassets.net/iiozhi00a8lc/t550_faviconcut_png/81e3b63dbed4a522fd1165b281083af2/t550_favicon\"> <!-- feature flags --> <script type=\"text/javascript\"> const featureFlags = {\"useMidfield\":false} // to check which feature flag we are using console.info(`[MiLB Feature Flag] useMidfield: ${featureFlags.useMidfield}`) </script> <!-- device detection --> <!--[if lte IE 9]> <script> window.locat",
   "head": "",
   "types_json": null,
-  "title": "South Bend Cubs Schedule | Schedule | Cubs"
+  "title": "South Bend Cubs Tickets | Cubs"
+ },
+ "https://fightingirish.com/website-api/schedules?filter%5Bsport.slug%5D=football&include=schedule_events": {
+  "status": 200,
+  "final": "https://fightingirish.com/website-api/schedules?filter%5Bsport.slug%5D=football&include=schedule_events",
+  "bytes": 8154,
+  "ld_types": {},
+  "links": [],
+  "ics": [],
+  "feeds": [],
+  "dates": [],
+  "apis": [],
+  "snip": "",
+  "head": "{\"data\":[{\"id\":1,\"name\":\"Women's Lacrosse 2025-26\",\"sport_id\":13,\"season_id\":123,\"statistics_table\":null,\"display_statistics_table\":false,\"schedule_image_id\":null,\"schedule_top_notes\":null,\"meta_title\":null,\"meta_keywords\":null,\"meta_description\":null,\"meta_image_id\":null,\"hide_schedule_page_image\":false,\"pdf_id\":null,\"schedule_events_pdf_id\":null,\"links_title\":null},{\"id\":2,\"name\":\"Softball 2025-26\",\"sport_id\":17,\"season_id\":123,\"statistics_table\":null,\"display_statistics_table\":false,\"schedule_image_id\":null,\"schedule_top_notes\":null,\"meta_title\":null,\"meta_keywords\":null,\"meta_description\":null,\"meta_image_id\":null,\"hide_schedule_page_image\":false,\"pdf_id\":null,\"schedule_events_pdf_id\":null,\"links_title\":null},{\"id\":3,\"name\":\"Baseball 2025-26\",\"sport_id\":3,\"season_id\":123,\"statistics_table\":[],\"display_statistics_table\":false,\"schedule_image_id\":null,\"schedule_top_notes\":null,\"meta_title\":null,\"meta_keywords\":null,\"meta_description\":null,\"meta_image_id\":null,\"hide_schedule_page_image\":false,\"pdf_id\":null,\"schedule_events_pdf_id\":null,\"links_title\":null},{\"id\":4,\"name\":\"Men's Soccer 2025-26\",\"sport_id\":15,\"season_id\":123,\"statistics_table\":null,\"display_statistics_table\":false,\"schedule_image_id\":null,\"schedule_top_notes\":null,\"meta_title\":null,\"meta_keywords\":null,\"meta_description\":null,\"meta_image_id\":null,\"hide_schedule_page_image\":false,\"pdf_id\":null,\"schedule_events_pdf_id\":null,\"links_title\":null},{\"id\":5,\"name\":\"Men's Golf 2025-26\",\"sport_id\":9,\"season_id\":123,\"statistics_table\":null,\"display_statistics_table\":false,\"schedule_image_id\":null,\"schedule_top_notes\":null,\"meta_title\":null,\"meta_keywords\":null,\"meta_description\":null,\"meta_image_id\":null,\"hide_schedule_page_image\":false,\"pdf_id\":null,\"schedule_events_pdf_id\":null,\"links_title\":null},{\"id\":6,\"name\":\"Women's Soccer 2025-26\",\"sport_id\":16,\"season_id\":123,\"statistics_table\":null,\"display_statistics_table\":false,\"schedule_image_id\":null,\"schedule_top_notes\":null,\"meta_title\":null,\"meta_keywords\":null,\"meta_description\":null,\"meta_image_id\":null,\"hide_schedule_page_image\":false,\"pdf_id\":null,\"schedule_events_pdf_id\":null,\"links_title\":null},{\"id\":7,\"name\":\"Men's Tennis 2025-26\",\"sport_id\":19,\"season_id\":123,\"statistics_table\":null,\"display_statistics_table\":false,\"schedule_image_id\":null,\"schedule_top_notes\":null,\"meta_title\":null,\"meta_keywords\":null,\"meta_description\":null,\"meta_image_id\":null,\"hide_schedule_page_image\":false,\"pdf_id\":null,\"schedule_events_pdf_id\":null,\"links_title\":null},",
+  "types_json": [
+   "data",
+   "links",
+   "meta"
+  ],
+  "title": ""
+ },
+ "https://fightingirish.com/website-api/sports": {
+  "status": 200,
+  "final": "https://fightingirish.com/website-api/sports",
+  "bytes": 13892,
+  "ld_types": {},
+  "links": [],
+  "ics": [],
+  "feeds": [],
+  "dates": [],
+  "apis": [],
+  "snip": "",
+  "head": "{\"data\":[{\"id\":1,\"name\":\"General\",\"schedule_id\":null,\"default_roster_id\":null,\"abbreviation\":\"ND\",\"gender\":null,\"slug\":\"general\",\"display_ats_vs_on_calendar\":false,\"hide_from_dropdown\":false,\"hide_schedule_page_image\":false,\"hide_roster_page_image\":false,\"conference_id\":null,\"default_home_game_location\":null,\"display_next_event_on_sports_schedule\":false,\"default_season_id\":null,\"meta_description\":null,\"meta_image_id\":null,\"menu_id\":null,\"schedule_page_image_id\":null,\"roster_page_image_id\":null,\"score_decimal_places\":0,\"static_page_id\":null,\"hero_presented_by_url\":null,\"hero_presented_by_logo_id\":null,\"team_logo_id\":null,\"icon_id\":null,\"remove_overall_score_table\":true,\"calendar_code\":null,\"presented_by_url\":null,\"presented_by_logo_id\":null,\"schedule_top_notes\":null,\"enable_schedules_countdown\":false,\"hide_from_schedule_ticker\":true,\"order\":0},{\"id\":2,\"name\":\"Paris 2024\",\"schedule_id\":null,\"default_roster_id\":null,\"abbreviation\":\"paris-2024\",\"gender\":null,\"slug\":\"paris-2024\",\"display_ats_vs_on_calendar\":true,\"hide_from_dropdown\":true,\"hide_schedule_page_image\":false,\"hide_roster_page_image\":false,\"conference_id\":null,\"default_home_game_location\":null,\"display_next_event_on_sports_schedule\":true,\"default_season_id\":1,\"meta_description\":null,\"meta_image_id\":null,\"menu_id\":null,\"schedule_page_image_id\":11890,\"roster_page_image_id\":11890,\"score_decimal_places\":0,\"static_page_id\":null,\"hero_presented_by_url\":null,\"hero_presented_by_logo_id\":null,\"team_logo_id\":null,\"icon_id\":null,\"remove_overall_score_table\":false,\"calendar_code\":null,\"presented_by_url\":null,\"presented_by_logo_id\":null,\"schedule_top_notes\":null,\"enable_schedules_countdown\":false,\"hide_from_schedule_ticker\":true,\"order\":201},{\"id\":3,\"name\":\"Baseball\",\"schedule_id\":733,\"default_roster_id\":7,\"abbreviation\":\"BASE\",\"gender\":\"male\",\"slug\":\"baseball\",\"display_ats_vs_on_calendar\":true,\"hide_from_dropdown\":false,\"hide_schedule_page_image\":true,\"hide_roster_page_image\":false,\"conference_id\":1,\"default_home_game_location\":\"South Bend, IN\",\"display_next_event_on_sports_schedule\":true,\"default_season_id\":123,\"meta_description\":null,\"meta_image_id\":null,\"menu_id\":34,\"schedule_page_image_id\":169536,\"roster_page_image_id\":167171,\"score_decimal_places\":0,\"static_page_id\":34,\"hero_presented_by_url\":null,\"hero_presented_by_logo_id\":null,\"team_logo_id\":null,\"icon_id\":null,\"remove_overall_score_table\":false,\"calendar_code\":null,\"presented_by_url\":null,\"presented_by_logo_id\":null,\"schedule_top_notes\":null,\"enable_sch",
+  "types_json": [
+   "data",
+   "links",
+   "meta"
+  ],
+  "title": ""
+ },
+ "https://bupilots.com/sports/womens-basketball/schedule": {
+  "status": 200,
+  "final": "https://bupilots.com/sports/womens-basketball/schedule",
+  "bytes": 824978,
+  "ld_types": {
+   "SportsTeam": 58,
+   "Place": 29,
+   "PostalAddress": 29,
+   "ImageObject": 29,
+   "SportsEvent": 29
+  },
+  "links": [
+   [
+    "https://events.hometownticketing.com/boxoffice/betheluniversity/LNVtYmVkLNFsbA%ND%ND",
+    25
+   ],
+   [
+    "/showcase",
+    24
+   ],
+   [
+    "/calendar",
+    1
+   ],
+   [
+    "https://bxout.com/p/nukgjeoN-ticket-info",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [],
+  "dates": [
+   "October 24, 2026",
+   "October 24, 2026",
+   "October 24, 2026",
+   "October 24, 2026",
+   "October 24, 2026",
+   "October 29, 2026"
+  ],
+  "apis": [
+   "https://fonts.googleapis.com/css2"
+  ],
+  "snip": "690.cloudfront.net/sidearm.nextgen.sites/bethelind.sidearmsports.com';window.cdn_path = 'https://dbukjj6eu5tsf.cloudfront.net/';window.custom_cdn_url = '';window.urlArgs = '639027949278877102';window.cbs_school = false;window.has_alerts = false;window.disable_ad_blocker_check = false;</script><style type='text/css'>.sidearm-schedule-template-default .sidearm-schedule-tournament>p {color: #fff}</style><script>window.associated_sport = {\"id\":15,\"title\":\"Women's Basketball\",\"abbreviation\":\"WBB\",\"shortname\":\"wbball\",\"short_title\":\"Women's Basketball\",\"global_sport_id\":4,\"non_sport\":false,\"show_at_vs\":false,\"global_sport_shortname\":null,\"gender\":\"f\",\"youtube\":\"PLzInxdxe6y1BCWinwAcGKcV-BTc9p0VWX\",\"facebook\":\"https://www.facebook.com/bupilotswbb\",\"twitter\":\"BUPilotsWBB\",\"instagram\":\"bupilotswbb\",\"pinterest\":\"\",\"tickets\":\"\",\"global_sport_name_slug\":\"womens-basketball\",\"url\":null,\"ranking\":null,\"game_synonym\":null};</script><meta property=\"og:determiner\" content=\"the\"><meta property=\"og:locale\" content=\"en_US\"><meta property=\"og:site_name\" content=\"Bethel University (Ind)\"><meta property=\"og:url\" content=\"https://bupilots.com/sports/womens-basketball/schedule\"><script type=\"application/ld+json\">[{\"@context\":\"https://schema.org/\",\"name\":\"Bethel University (Ind) At Rochester Christian University\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Bethel University (Ind)\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Rochester Christian University\"},\"startDate\":\"2026-10-24T13:00:00\",\"endDate\":\"2026-10-24T13:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Rochester Hills, Mich. / Garth Pleasant Arena \",\"address\":{\"streetAddress\":\"Rochester Hills, Mich. / Garth Pleasant Arena \",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\"Bethel University (Ind) At Rochester Christian University on 10/24/2026 1:00:00 PM\",\"image\":{\"url\":\"https://bupilots.com/images/logos/site/site.png\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Bethel University (Ind) At Holy Cross College (Ind.)\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Bethel University (Ind)\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Holy Cross College (Ind.)\"},\"startDate\":\"2026-10-29T18:30:00\",\"endDate\":\"2026-10-29T18:30:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Notre Dame, Ind. / McKenna Arena\",\"address\":{\"streetAddress\":\"Notre Dame, Ind. / McKenna Arena\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\"Bethel University (Ind) At Holy Cross College (Ind.) on 10/29/2026 6:30:00 PM\",\"image\":{\"url\":\"https://bupilots.com/images/logos/site/site.png\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"",
+  "head": "",
+  "types_json": null,
+  "title": "2026-27 Women's Basketball Schedule - Bethel University (Ind)"
+ },
+ "https://goleafs.net/sports/womens-basketball/schedule": {
+  "status": 200,
+  "final": "https://goleafs.net/sports/womens-basketball/schedule",
+  "bytes": 622654,
+  "ld_types": {
+   "SportsTeam": 60,
+   "Place": 30,
+   "PostalAddress": 30,
+   "ImageObject": 30,
+   "SportsEvent": 30
+  },
+  "links": [
+   [
+    "https://www.ticketsmarter.com/goshen-maple-leafs",
+    1
+   ],
+   [
+    "/calendar",
+    1
+   ],
+   [
+    "https://www.goshen.edu/tickets",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [
+   "/rss"
+  ],
+  "dates": [
+   "August 6, 2025",
+   "August 6, 2025",
+   "August 6, 2025",
+   "October 30, 2026",
+   "October 30, 2026",
+   "October 30, 2026"
+  ],
+  "apis": [
+   "https://fonts.googleapis.com/css2"
+  ],
+  "snip": "pLevelTimeout) } }) } window.s3_bucket_path = 'https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/goleafs.net';window.cdn_path = 'https://dbukjj6eu5tsf.cloudfront.net/';window.custom_cdn_url = '';window.urlArgs = '639027944976924451';window.cbs_school = false;window.has_alerts = false;window.disable_ad_blocker_check = false;</script><script>window.associated_sport = {\"id\":10,\"title\":\"Women's Basketball\",\"abbreviation\":\"WBB\",\"shortname\":\"wbball\",\"short_title\":\"WBB\",\"global_sport_id\":4,\"non_sport\":false,\"show_at_vs\":false,\"global_sport_shortname\":null,\"gender\":\"f\",\"youtube\":\"PLcxf7rq8I22SEjyITzv4C3yiR_wJpcMar\",\"facebook\":\"https://www.facebook.com/GCWomensHoops\",\"twitter\":\"GCMapleLeafs_WB\",\"instagram\":\"GCW_Hoops\",\"pinterest\":\"\",\"tickets\":\"\",\"global_sport_name_slug\":\"womens-basketball\",\"url\":null,\"ranking\":null,\"game_synonym\":null};</script><meta property=\"og:determiner\" content=\"the\"><meta property=\"og:locale\" content=\"en_US\"><meta property=\"og:site_name\" content=\"Goshen College\"><meta property=\"og:url\" content=\"https://goleafs.net/sports/womens-basketball/schedule\"><script type=\"application/ld+json\">[{\"@context\":\"https://schema.org/\",\"name\":\" Vs University of Michigan-Dearborn (Mich.) \",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"University of Michigan-Dearborn (Mich.) \"},\"startDate\":\"2026-10-30T19:00:00\",\"endDate\":\"2026-10-30T19:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Ruth Gunden Gymnasium\",\"address\":{\"streetAddress\":\"\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\" Vs University of Michigan-Dearborn (Mich.) on 10/30/2026 7:00:00 PM\",\"image\":{\"url\":\"https://goleafs.net/images/logos/site/site.png\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\" Vs Defiance College\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Defiance College\"},\"startDate\":\"2026-10-31T18:30:00\",\"endDate\":\"2026-10-31T18:30:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Ruth Gunden Gymnasium\",\"address\":{\"streetAddress\":\"\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\" Vs Defiance College on 10/31/2026 6:30:00 PM\",\"image\":{\"url\":\"https://goleafs.net/images/logos/site/site.png\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\" Vs Holy Cross College (Ind.)\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Hol",
+  "head": "",
+  "types_json": null,
+  "title": "2026-27 Women's Basketball Schedule - Goshen College"
+ },
+ "https://iusbtitans.com/sports/womens-basketball/schedule": {
+  "status": 200,
+  "final": "https://iusbtitans.com/sports/womens-basketball/schedule",
+  "bytes": 657862,
+  "ld_types": {
+   "SportsTeam": 64,
+   "Place": 32,
+   "PostalAddress": 32,
+   "ImageObject": 32,
+   "SportsEvent": 32
+  },
+  "links": [
+   [
+    "/sports/N/N/N/titan-home-event-live-stats.aspx",
+    1
+   ],
+   [
+    "https://iusbtitans.com/calendar",
+    1
+   ]
+  ],
+  "ics": [],
+  "feeds": [
+   "/news/2026/11/7/womens-basketball-titans-stand-tall-in-physical-battle-pull-away-from-cleary.aspx",
+   "/news/2026/11/7/womens-basketball-titans-stand-tall-in-physical-battle-pull-away-from-cleary.aspx"
+  ],
+  "dates": [
+   "October 24, 2026",
+   "October 24, 2026",
+   "October 24, 2026",
+   "October 31, 2026",
+   "October 31, 2026",
+   "October 31, 2026"
+  ],
+  "apis": [
+   "https://fonts.googleapis.com/css2"
+  ],
+  "snip": " if (ev.data === 'sidearm-iframe-request-allow') { clearTimeout(makeTopLevelTimeout) } }) } window.s3_bucket_path = 'https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/iusbtitans.com';window.cdn_path = 'https://dbukjj6eu5tsf.cloudfront.net/';window.custom_cdn_url = '';window.urlArgs = '639027945159703279';window.cbs_school = false;window.has_alerts = false;window.disable_ad_blocker_check = false;</script><script>window.associated_sport = {\"id\":8,\"title\":\"Women's Basketball\",\"abbreviation\":\"WBB\",\"shortname\":\"wbball\",\"short_title\":\"WBB\",\"global_sport_id\":4,\"non_sport\":false,\"show_at_vs\":false,\"global_sport_shortname\":null,\"gender\":\"f\",\"youtube\":\"\",\"facebook\":\"\",\"twitter\":\"\",\"instagram\":\"\",\"pinterest\":\"\",\"tickets\":\"\",\"global_sport_name_slug\":\"womens-basketball\",\"url\":null,\"ranking\":null,\"game_synonym\":null};</script><meta property=\"og:determiner\" content=\"the\"><meta property=\"og:locale\" content=\"en_US\"><meta property=\"og:site_name\" content=\"Indiana University South Bend\"><meta property=\"og:url\" content=\"https://iusbtitans.com/sports/womens-basketball/schedule\"><script type=\"application/ld+json\">[{\"@context\":\"https://schema.org/\",\"name\":\" Vs Michigan-Dearborn\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Michigan-Dearborn\"},\"startDate\":\"2026-10-24T13:00:00\",\"endDate\":\"2026-10-24T13:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Student Activities Center\",\"address\":{\"streetAddress\":\"South Bend\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\" Vs Michigan-Dearborn on 10/24/2026 1:00:00 PM\",\"image\":{\"url\":\"https://iusbtitans.com\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\" Vs Midway\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Midway\"},\"startDate\":\"2026-10-31T13:00:00\",\"endDate\":\"2026-10-31T13:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Student Activities Center\",\"address\":{\"streetAddress\":\"South Bend\",\"postalCode\":null,\"addressLocality\":null,\"addressRegion\":null,\"addressCountry\":null,\"@type\":\"PostalAddress\"},\"telephone\":null,\"priceRange\":null},\"description\":\" Vs Midway on 10/31/2026 1:00:00 PM\",\"image\":{\"url\":\"https://iusbtitans.com\",\"width\":50,\"height\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\" At Huntington\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Huntington\"},\"startDate\":\"2026-11-04T19:00:00\",\"endDate\":\"2026-11-04T19:00:00\",\"eventStatus",
+  "head": "",
+  "types_json": null,
+  "title": "2026-27 Women's Basketball Schedule - Indiana University South Bend"
  }
 }
