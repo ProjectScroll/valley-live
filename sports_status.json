@@ -3,29 +3,30 @@
   "ok": true,
   "found": 14,
   "kept": 4,
-  "read": "2026-11-11T16:54-05:00"
+  "read": "2026-11-11T16:57-05:00"
  },
  "wmu-mbb": {
   "ok": true,
   "found": 33,
   "kept": 30,
-  "read": "2026-11-11T16:54-05:00"
+  "read": "2026-11-11T16:57-05:00"
  },
  "wmu-wbb": {
   "ok": true,
   "found": 32,
   "kept": 30,
-  "read": "2026-11-11T16:54-05:00"
+  "read": "2026-11-11T16:57-05:00"
  },
  "wmu-hockey": {
   "ok": true,
   "found": 41,
   "kept": 30,
-  "read": "2026-11-11T16:54-05:00"
+  "read": "2026-11-11T16:57-05:00"
  },
  "sb-cubs": {
-  "ok": false,
-  "error": "HTTP Error 400: Bad Request",
-  "read": "2026-11-11T16:54-05:00"
+  "ok": true,
+  "found": 132,
+  "kept": 130,
+  "read": "2026-11-11T16:57-05:00"
  }
 }
