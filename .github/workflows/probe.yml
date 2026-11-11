@@ -13,6 +13,6 @@ jobs:
       - name: Keep the result
         run: |
           git config user.name "Project Scroll"; git config user.email "research@projectscroll.com"
-          git add probe.json
+          git add probe.json; [ -d probe_pages ] && git add probe_pages || true
           git diff --cached --quiet || git commit -m "Probe $(date -u +%F)"
           git pull --rebase -q && git push

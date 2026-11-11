@@ -9,6 +9,8 @@ for u in URLS:
     try:
         r = urllib.request.urlopen(urllib.request.Request(u, headers={'User-Agent': UA, 'Accept': 'text/html,*/*'}), timeout=40)
         h = r.read().decode('utf-8', 'replace')
+        if pat == 'SAVE':
+            import os, hashlib; os.makedirs('probe_pages', exist_ok=True); open('probe_pages/' + hashlib.md5(u.encode()).hexdigest()[:8] + '.html', 'w').write(h); pat = None
         lds = re.findall(r'<script[^>]+ld\+json[^>]*>(.*?)</script>', h, re.S | re.I)
         types = collections.Counter(re.findall(r'"@type"\s*:\s*"([^"]+)"', ' '.join(lds)))
         links = collections.Counter(re.sub(r'\d+', 'N', re.sub(r'[?#].*', '', l)) for l in re.findall(r'href="([^"]+)"', h) if re.search(r'event|show|perform|ticket|concert|calendar|movie|film', l, re.I))
