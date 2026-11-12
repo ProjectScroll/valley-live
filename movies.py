@@ -31,9 +31,10 @@ def cinemaplus(t, day):
         meta = re.findall(r'<div[^>]*>\s*([A-Z0-9-]{1,6}|NR|Not Rated|\d+h \d+m)\s*</div>', b[:2500])
         rating = next((x for x in meta if not re.match(r'\d+h', x)), ''); run = next((x for x in meta if re.match(r'\d+h', x)), '')
         feats = clean((re.search(r'class="cin-attribute">(.*?)</div>', b, re.S) or [None, ''])[1]).replace(' ,', ',')
+        pm = re.search(r'<img[^>]*src="(https://images\.cinemaplus\.com/ticketing/posters/[^"]+)"', page[max(0, page.find('/movie/' + mid) - 1500):page.find('/movie/' + mid) + 600])
         for tk, tm in re.findall(r'<a[^>]*href="([^"]*/tickets/\d+)"[^>]*>\s*([0-9:]+[ap])\b', b, re.S):
             h, mi = (tm[:-1].split(':') + ['0'])[:2]; h = int(h) % 12 + (12 if tm[-1] == 'p' else 0)
-            out.append({'title': title, 'mid': mid, 'rating': rating, 'run': run, 'feat': feats if len(feats) < 80 else '',
+            out.append({'cp': pm.group(1) if pm else '', 'title': title, 'mid': mid, 'rating': rating, 'run': run, 'feat': feats if len(feats) < 80 else '',
                         'start': datetime.datetime.combine(day, datetime.time(h, int(mi)), TZ).isoformat(), 'tickets': tk,
                         'page': t['url'].rstrip('/') + '/movie/' + mid if '/movie/' not in t['url'] else t['url']})
     return out
@@ -56,6 +57,7 @@ for t in T:
                 k = key(s['title']) or s['mid']
                 f = films.setdefault(k, {'k': k, 'title': re.sub(r'\s*\((?:3D|IMAX|Open Caption)\)\s*', ' ', s['title']).strip(), 'rating': s['rating'], 'run': s['run']})
                 if not f['rating'] and s['rating']: f['rating'] = s['rating']
+                if s.get('cp') and not f.get('cp'): f['cp'] = s['cp']; f['cpc'] = t['id']   # the poster the cinema itself shows (used only with the cinema's OK)
                 f['title'] = nicer(f['title'], re.sub(r'\s*\((?:3D|IMAX|Open Caption)\)\s*', ' ', s['title']).strip())
                 shows.append({'f': k, 'c': t['id'], 's': s['start'], 'u': s['tickets'], 'x': s['feat'], 'v': s['title'] if s['title'] != f['title'] else ''}); n += 1
             time.sleep(1)
