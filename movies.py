@@ -38,7 +38,13 @@ def cinemaplus(t, day):
                         'page': t['url'].rstrip('/') + '/movie/' + mid if '/movie/' not in t['url'] else t['url']})
     return out
 
-def key(t): return re.sub(r'[^a-z0-9]+', '', re.sub(r'\(\d{4}\)|\b(3d|imax|screenx|dbox|d-box|4dx|open caption|oc|sensory friendly|fathom|re-release|anniversary)\b', '', t.lower()))
+def key(t):
+    t = re.sub(r'\(\d{4}\)|\b(3d|imax|screenx|dbox|d-box|4dx|open caption|oc|sensory friendly|fathom|re-release)\b', '', t.lower())
+    return re.sub(r'[^a-z0-9]+', '', re.sub(r'^\s*(the|a|an)\s+', '', t))
+def nicer(a, b):   # of two spellings of a title, the one not in capitals, with its article
+    sa, sb = a.isupper(), b.isupper()
+    if sa != sb: return b if sa else a
+    return a if len(a) >= len(b) else b
 
 films, shows, status = {}, [], {}
 for t in T:
@@ -50,6 +56,7 @@ for t in T:
                 k = key(s['title']) or s['mid']
                 f = films.setdefault(k, {'k': k, 'title': re.sub(r'\s*\((?:3D|IMAX|Open Caption)\)\s*', ' ', s['title']).strip(), 'rating': s['rating'], 'run': s['run']})
                 if not f['rating'] and s['rating']: f['rating'] = s['rating']
+                f['title'] = nicer(f['title'], re.sub(r'\s*\((?:3D|IMAX|Open Caption)\)\s*', ' ', s['title']).strip())
                 shows.append({'f': k, 'c': t['id'], 's': s['start'], 'u': s['tickets'], 'x': s['feat'], 'v': s['title'] if s['title'] != f['title'] else ''}); n += 1
             time.sleep(1)
         status[t['id']] = {'ok': True, 'shows': n}
