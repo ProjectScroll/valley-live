@@ -24,7 +24,7 @@ def cinemaplus(t, day):
     page = get(t['url'] + ('?date=' + day.isoformat() if day != TODAY else ''))
     out = []
     for b in re.split(r'<h3[^>]*>\s*<a[^>]*href="[^"]*/movie/', page)[1:]:
-        m = re.match(r'(\d+)">(.*?)</a>', b, re.S)
+        m = re.match(r'(\d+)(?:\?[^"]*)?">(.*?)</a>', b, re.S)
         if not m: continue
         mid, title = m.group(1), clean(m.group(2))
         end = b.find('<h3'); b = b if end < 0 else b[:end]
