@@ -1,17 +1,17 @@
 {
- "https://www.kpcinemas.com/": {
+ "https://www.kpcinemas.com/?date=2026-11-13": {
   "status": 200,
-  "final": "https://www.kpcinemas.com/",
-  "bytes": 107384,
+  "final": "https://www.kpcinemas.com/?date=2026-11-13",
+  "bytes": 116013,
   "ld_types": {},
   "links": [
    [
     "https://www.kpcinemas.com/movie/N",
-    64
+    74
    ],
    [
     "https://www.kpcinemas.com/tickets/N",
-    18
+    49
    ],
    [
     "/page/events",
@@ -41,84 +41,5 @@
   "head": "",
   "types_json": null,
   "title": "Showtimes - KP Cinemas | Kalamazoo, MI"
- },
- "https://www.gqtmovies.com/gqt-kalamazoo-10": {
-  "status": 200,
-  "final": "https://www.gqtmovies.com/gqt-kalamazoo-10",
-  "bytes": 148112,
-  "ld_types": {},
-  "links": [
-   [
-    "https://www.gqtmovies.com/gqt-kalamazoo-N/movie/N",
-    75
-   ],
-   [
-    "https://www.gqtmovies.com/gqt-kalamazoo-N/tickets/N",
-    16
-   ],
-   [
-    "https://www.gqtmovies.com/movie/N",
-    5
-   ],
-   [
-    "https://www.gqtmovies.com/build/assets/cinemaplus-vN-DqYfP_XL.css",
-    2
-   ],
-   [
-    "https://www.gqtmovies.com/build/assets/gqt-vN-CNCBCeY.css",
-    2
-   ],
-   [
-    "https://www.gqtmovies.com/register",
-    2
-   ],
-   [
-    "https://www.gqtmovies.com/build/assets/tippy-instances-BHHNrdGj.css",
-    2
-   ],
-   [
-    "https://www.gqtmovies.com/gqt-kalamazoo-N",
-    1
-   ],
-   [
-    "https://www.gqtmovies.com/login",
-    1
-   ],
-   [
-    "https://www.gqtmovies.com/rewards",
-    1
-   ],
-   [
-    "/gqt-kalamazoo-N/advance-tickets",
-    1
-   ],
-   [
-    "https://www.gqtmovies.com/suggest-a-movie",
-    1
-   ],
-   [
-    "https://www.gqtmovies.com/build/assets/cinemaplus-BhNXhXeu.js",
-    1
-   ],
-   [
-    "https://www.gqtmovies.com/build/assets/index-qFyJwsfU.js",
-    1
-   ],
-   [
-    "https://www.gqtmovies.com/build/assets/cart-CAVz-xtN.js",
-    1
-   ]
-  ],
-  "ics": [],
-  "feeds": [],
-  "dates": [],
-  "apis": [
-   "https://fonts.googleapis.com",
-   "https://fonts.googleapis.com/css2"
-  ],
-  "snip": "",
-  "head": "",
-  "types_json": null,
-  "title": "Showtimes - GQT Kalamazoo 10 | Kalamazoo, MI"
  }
 }
