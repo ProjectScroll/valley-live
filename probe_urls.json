@@ -1,10 +1,4 @@
-[["https://wmubroncos.com/sports/mens-ice-hockey/schedule", "SAVE"],
- ["https://wmubroncos.com/sports/football/schedule", "SAVE"],
- ["https://iusbtitans.com/sports/womens-basketball/schedule", "SAVE"],
- ["https://bupilots.com/sports/mens-basketball/schedule", "SAVE"],
- ["https://goleafs.net/sports/womens-basketball/schedule", "SAVE"],
- ["https://belles.saintmarys.edu/sports/womens-basketball/schedule", "SAVE"],
- ["https://fightingirish.com/website-api/sports?per_page=100", "SAVE"],
- ["https://fightingirish.com/website-api/schedule-events?per_page=3&sort=-datetime", "SAVE"],
- ["https://statsapi.mlb.com/api/v1/teams?sportIds=11,12,13,14,16&season=2026", "SAVE"],
- ["https://statsapi.mlb.com/api/v1/schedule?sportId=14&startDate=2026-09-01&endDate=2026-09-02", "SAVE"]]
+[["https://fightingirish.com/website-api/schedule-events?filter%5Bschedule_id%5D=730&per_page=100&include=zzz", "SAVE"],
+ ["https://fightingirish.com/website-api/schedule-events?filter%5Bschedule_id%5D=730&per_page=100", "SAVE"],
+ ["https://fightingirish.com/sports/football/schedule/", "SAVE"],
+ ["https://fightingirish.com/sports/mbball/schedule/", "SAVE"]]
