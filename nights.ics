@@ -26,141 +26,8 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3272d48be4@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Compagnie Hervé Koubi: Sol Invictus
-LOCATION:Patricia George Decio Theatre\, DeBartolo Performing Arts Center\
- , Notre Dame
-URL:https://performingarts.nd.edu/event/19639/compagnie-herv-koubi-sol-inv
- ictus
-DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
-  https://performingarts.nd.edu/event/19639/compagnie-herv-koubi-sol-invic
- tus\nMore nights out in the valley: https://projectscroll.com/scroll-bar/
- ?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:8a21096d92@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Profundo Carmesí (Deep Crimson) (1996)
-LOCATION:Browning Cinema GA\, DeBartolo Performing Arts Center\, Notre Dam
- e
-URL:https://performingarts.nd.edu/event/20098/profundo-carmes-deep-crimson
- -1996
-DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
-  https://performingarts.nd.edu/event/20098/profundo-carmes-deep-crimson-1
- 996\nMore nights out in the valley: https://projectscroll.com/scroll-bar/
- ?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:9d5c9ffad0@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Mozart!
-LOCATION:Leighton Concert Hall\, DeBartolo Performing Arts Center\, Notre 
- Dame
-URL:https://performingarts.nd.edu/event/20182/mozart
-DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
-  https://performingarts.nd.edu/event/20182/mozart\nMore nights out in the
-  valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:c392ecc02f@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:The Honeymoon Killers (1969)
-LOCATION:Browning Cinema GA\, DeBartolo Performing Arts Center\, Notre Dam
- e
-URL:https://performingarts.nd.edu/event/20148/the-honeymoon-killers-1969
-DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
-  https://performingarts.nd.edu/event/20148/the-honeymoon-killers-1969\nMo
- re nights out in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:3185c0bab4@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261112T180000
-DURATION:PT2H
-SUMMARY:Art on the Aux with DJ PB
-LOCATION:University of Notre Dame\, Notre Dame
-URL:https://events.nd.edu/events/2026/11/12/art-on-the-aux-with-dj-pb-13/
-DESCRIPTION:Listed by University of Notre Dame. Times and tickets: https:/
- /events.nd.edu/events/2026/11/12/art-on-the-aux-with-dj-pb-13/\nMore nigh
- ts out in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:4b272154e2@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261112T183000
-DURATION:PT2H
-SUMMARY:Film: Profundo Carmesí (Deep Crimson) (1996)
-LOCATION:University of Notre Dame\, Notre Dame
-URL:https://events.nd.edu/events/2026/11/12/profundo-carmesi-deep-crimson-
- 1996/
-DESCRIPTION:Listed by University of Notre Dame. Times and tickets: https:/
- /events.nd.edu/events/2026/11/12/profundo-carmesi-deep-crimson-1996/\nMor
- e nights out in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:34e217a3f7@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261112T190000
-DURATION:PT2H
-SUMMARY:Cinderella Presented by United European Ballet
-LOCATION:Morris Performing Arts Center\, South Bend
-URL:https://morriscenter.org/event/cinderella-presented-by-united-european
- -ballet/
-DESCRIPTION:Listed by Morris Performing Arts Center. Times and tickets: ht
- tps://morriscenter.org/event/cinderella-presented-by-united-european-ball
- et/\nMore nights out in the valley: https://projectscroll.com/scroll-bar/
- ?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:fd6d6d68ed@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261112T190000
-DURATION:PT2H
-SUMMARY:Ukrainian Culture Night Film Screening: Malanka and Christmas
-LOCATION:University of Notre Dame\, Notre Dame
-URL:https://events.nd.edu/events/2026/11/12/malanka-and-christmas/
-DESCRIPTION:Listed by University of Notre Dame. Times and tickets: https:/
- /events.nd.edu/events/2026/11/12/malanka-and-christmas/\nMore nights out 
- in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:29ceae22ab@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261112T193000
-DURATION:PT2H
-SUMMARY:Bored Teachers: "Is It Friday Yet?!" Comedy Tour
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/bored-teachers-is-it-friday-yet-comedy-tou
- r/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/bored-teachers-is-it-friday-yet-comedy-tour/\nMore nights 
- out in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:86b120c243@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261112T213000
-DURATION:PT2H
-SUMMARY:Film: The Honeymoon Killers (1969)
-LOCATION:University of Notre Dame\, Notre Dame
-URL:https://events.nd.edu/events/2026/11/12/the-honeymoon-killers-1969/
-DESCRIPTION:Listed by University of Notre Dame. Times and tickets: https:/
- /events.nd.edu/events/2026/11/12/the-honeymoon-killers-1969/\nMore nights
-  out in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:77db96d0ee@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Daniel O'Connell: The Emancipator
@@ -175,7 +42,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:0f6c8a3004@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261113T110000
 DURATION:PT2H
 SUMMARY:Mimmo Paladino: Present into Past Exhibition Tour
@@ -189,7 +56,7 @@ DESCRIPTION:Listed by University of Notre Dame. Times and tickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:16bace58df@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261113T130000
 DURATION:PT2H
 SUMMARY:“Casann an Roth”: A talk by Irish filmmaker Ruán Magan
@@ -203,7 +70,7 @@ DESCRIPTION:Listed by University of Notre Dame. Times and tickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:ff1db78b18@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261113T140000
 DURATION:PT2H
 SUMMARY:Screening: Dissolution Room premiere and reception
@@ -217,7 +84,7 @@ DESCRIPTION:Listed by University of Notre Dame. Times and tickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:45f0ba8f56@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261113T193000
 DURATION:PT2H
 SUMMARY:Fall Main Stage: The Metromaniacs by David Ives
@@ -230,7 +97,7 @@ DESCRIPTION:Listed by Goshen College. Times and tickets: https://www.goshe
 END:VEVENT
 BEGIN:VEVENT
 UID:0d496715b7@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261113T200000
 DURATION:PT2H
 SUMMARY:Kait Rose & Co Presents: Fleetwood Magic
@@ -244,7 +111,7 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
 END:VEVENT
 BEGIN:VEVENT
 UID:21fecec263@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Brahms & Bronfman
@@ -255,23 +122,8 @@ DESCRIPTION:Listed by Miller Auditorium. Times and tickets: https://www.mi
  croll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:49de3c706a@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261114T193000
-DURATION:PT2H
-SUMMARY:South Bend Lyric Opera - French Masters: Operatic Arias and Duets
-LOCATION:The Crystal Ballroom\, 410 South Main Street\, Elkhart\, IN\, 465
- 16\, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/south-bend-lyric-opera-french-masters-oper
- atic-arias-and-duets/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/south-bend-lyric-opera-french-masters-operatic-arias-and-d
- uets/\nMore nights out in the valley: https://projectscroll.com/scroll-ba
- r/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:2af730fc2a@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261114T193000
 DURATION:PT2H
 SUMMARY:Andrews Wind Symphony: A Symphonic Voyage
@@ -283,7 +135,7 @@ DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:63c2c31f9b@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261114T200000
 DURATION:PT2H
 SUMMARY:Kait Rose & Co Presents: Fleetwood Magic
@@ -296,20 +148,8 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
  oll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:22566cf69b@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261114T200000
-DURATION:PT2H
-SUMMARY:Trivia
-LOCATION:Goshen Brewing Company\, Goshen
-URL:https://goshenbrewing.com/event/trivia-8/
-DESCRIPTION:Listed by Goshen Brewing Company. Times and tickets: https://g
- oshenbrewing.com/event/trivia-8/\nMore nights out in the valley: https://
- projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:e5be5c3b43@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Old Yeller (1957)
@@ -322,7 +162,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:a100abf126@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Mary Poppins with the Notre Dame Children's Choir
@@ -337,7 +177,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:11c5b6559d@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:American Doctor (2026)
@@ -350,7 +190,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:3b5cc98a5e@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Cinderella by The United European Ballet Company
@@ -362,7 +202,7 @@ DESCRIPTION:Listed by Miller Auditorium. Times and tickets: https://www.mi
 END:VEVENT
 BEGIN:VEVENT
 UID:9a0763bd2e@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261115T090000
 DURATION:PT2H
 SUMMARY:Lions Game Brunch
@@ -375,7 +215,7 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
 END:VEVENT
 BEGIN:VEVENT
 UID:34f424b269@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261115T130000
 DURATION:PT2H
 SUMMARY:Film: Old Yeller (1957)
@@ -387,7 +227,7 @@ DESCRIPTION:Listed by University of Notre Dame. Times and tickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:8ebcbe27aa@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261115T143000
 DURATION:PT2H
 SUMMARY:Songs from Mary Poppins: NDCC Benefit Concert
@@ -400,21 +240,8 @@ DESCRIPTION:Listed by University of Notre Dame. Times and tickets: https:/
  croll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:a57ec44122@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261115T160000
-DURATION:PT2H
-SUMMARY:Elkhart County Symphony - Duel Vi2lity
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/elkhart-county-symphony-duel-vi2lity/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/elkhart-county-symphony-duel-vi2lity/\nMore nights out in 
- the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:14adf4bbf5@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261115T160000
 DURATION:PT2H
 SUMMARY:Film: American Doctor (2026)
@@ -426,7 +253,7 @@ DESCRIPTION:Listed by University of Notre Dame. Times and tickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:2a4e4948bb@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261115T160000
 DURATION:PT2H
 SUMMARY:Community School of the Arts Winter Choral Showcase
@@ -439,7 +266,7 @@ DESCRIPTION:Listed by Goshen College. Times and tickets: https://www.goshe
 END:VEVENT
 BEGIN:VEVENT
 UID:2c3b8af841@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261115T160000
 DURATION:PT2H
 SUMMARY:Sunday Music Series: Chi Yong Yun
@@ -451,7 +278,7 @@ DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:bc78967b4b@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:True Grit (2010)
@@ -464,7 +291,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:eccf833866@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:The Gesualdo Six and Owain Park\, director
@@ -479,7 +306,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:b9212c5ac2@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261117T190000
 DURATION:PT2H
 SUMMARY:Youth Honors Orchestra Concert
@@ -491,7 +318,7 @@ DESCRIPTION:Listed by Goshen College. Times and tickets: https://www.goshe
 END:VEVENT
 BEGIN:VEVENT
 UID:38fa94398b@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261117T193000
 DURATION:PT2H
 SUMMARY:Concert: The Gesualdo Six
@@ -502,8 +329,20 @@ DESCRIPTION:Listed by University of Notre Dame. Times and tickets: https:/
  e valley: https://projectscroll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
+UID:c7c632dc6f@valley-live.projectscroll.com
+DTSTAMP:20261113T171227Z
+DTSTART;TZID=America/Detroit:20261117T193000
+DURATION:PT2H
+SUMMARY:Film: True Grit (2010)
+LOCATION:University of Notre Dame\, Notre Dame
+URL:https://events.nd.edu/events/2026/11/17/true-grit-2010/
+DESCRIPTION:Listed by University of Notre Dame. Times and tickets: https:/
+ /events.nd.edu/events/2026/11/17/true-grit-2010/\nMore nights out in the 
+ valley: https://projectscroll.com/scroll-bar/?p=feed
+END:VEVENT
+BEGIN:VEVENT
 UID:e7d4de90bc@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:These Shining Lives
@@ -516,7 +355,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:de40237f96@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Sirat (2025)
@@ -529,7 +368,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:1c2151e402@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261118T170000
 DURATION:PT2H
 SUMMARY:Concert: Liederabend
@@ -540,20 +379,22 @@ DESCRIPTION:Listed by University of Notre Dame. Times and tickets: https:/
  alley: https://projectscroll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:d0209d5ff4@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261118T190000
+UID:f3cb19b7c5@valley-live.projectscroll.com
+DTSTAMP:20261113T171227Z
+DTSTART;TZID=America/Detroit:20261118T170000
 DURATION:PT2H
-SUMMARY:Missy Burgess & Travis Gow
-LOCATION:Goshen Brewing Company\, Goshen
-URL:https://goshenbrewing.com/event/missy-burgess-travis-gow/
-DESCRIPTION:Listed by Goshen Brewing Company. Times and tickets: https://g
- oshenbrewing.com/event/missy-burgess-travis-gow/\nMore nights out in the 
- valley: https://projectscroll.com/scroll-bar/?p=feed
+SUMMARY:Ash Baskets\, the Pokagon Band\, and Notre Dame: A Roundtable
+LOCATION:University of Notre Dame\, Notre Dame
+URL:https://events.nd.edu/events/2026/11/18/ash-baskets-the-pokagon-band-a
+ nd-notre-dame-a-roundtable/
+DESCRIPTION:Listed by University of Notre Dame. Times and tickets: https:/
+ /events.nd.edu/events/2026/11/18/ash-baskets-the-pokagon-band-and-notre-d
+ ame-a-roundtable/\nMore nights out in the valley: https://projectscroll.c
+ om/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
 UID:780356d371@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261118T193000
 DURATION:PT2H
 SUMMARY:Concert: The Gesualdo Six
@@ -564,11 +405,25 @@ DESCRIPTION:Listed by University of Notre Dame. Times and tickets: https:/
  e valley: https://projectscroll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:16fb3295fb@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+UID:7b1f857e3c@valley-live.projectscroll.com
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261118T193000
 DURATION:PT2H
-SUMMARY:Beatha Shiorraidh - A Senior Voice Recital
+SUMMARY:Theater—FTT Mainstage: These Shining Lives
+LOCATION:University of Notre Dame\, Notre Dame
+URL:https://events.nd.edu/events/2026/11/18/ftt-mainstage-theatre-these-sh
+ ining-lives-1/
+DESCRIPTION:Listed by University of Notre Dame. Times and tickets: https:/
+ /events.nd.edu/events/2026/11/18/ftt-mainstage-theatre-these-shining-live
+ s-1/\nMore nights out in the valley: https://projectscroll.com/scroll-bar
+ /?p=feed
+END:VEVENT
+BEGIN:VEVENT
+UID:16fb3295fb@valley-live.projectscroll.com
+DTSTAMP:20261113T171227Z
+DTSTART;TZID=America/Detroit:20261118T193000
+DURATION:PT2H
+SUMMARY:Beatha Shiorraidh: A Senior Voice Recital
 LOCATION:Howard Performing Arts Center\, Berrien Springs
 URL:https://howard.andrews.edu/events/index.html
 DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
@@ -577,7 +432,7 @@ DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:eacc9e2faf@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261118T200000
 DURATION:PT2H
 SUMMARY:Welshly Arms with The Astronomers
@@ -591,7 +446,7 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
 END:VEVENT
 BEGIN:VEVENT
 UID:f62feb1ea8@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Cronos (1993)
@@ -604,7 +459,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:7ae803104d@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Mississippi Masala (1991)
@@ -616,8 +471,22 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
  nights out in the valley: https://projectscroll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
+UID:91d2178059@valley-live.projectscroll.com
+DTSTAMP:20261113T171227Z
+DTSTART;TZID=America/Detroit:20261119T193000
+DURATION:PT2H
+SUMMARY:Theater—FTT Mainstage: These Shining Lives
+LOCATION:University of Notre Dame\, Notre Dame
+URL:https://events.nd.edu/events/2026/11/19/ftt-mainstage-theatre-these-sh
+ ining-lives-1/
+DESCRIPTION:Listed by University of Notre Dame. Times and tickets: https:/
+ /events.nd.edu/events/2026/11/19/ftt-mainstage-theatre-these-shining-live
+ s-1/\nMore nights out in the valley: https://projectscroll.com/scroll-bar
+ /?p=feed
+END:VEVENT
+BEGIN:VEVENT
 UID:b266642647@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261119T200000
 DURATION:PT2H
 SUMMARY:Rev. Peyton’s Big Damn Band WSG Adrian and Meredith Band
@@ -631,7 +500,7 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
 END:VEVENT
 BEGIN:VEVENT
 UID:1da2126a98@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lou Holtz: 60 Minutes To Play and A Lifetime To Remember (2026)
@@ -646,7 +515,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:7bcceb84cf@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Quijote (2006)
@@ -659,7 +528,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:20ac51ebe6@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:A Tribute to Earth\, Wind & Fire
@@ -673,7 +542,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:90de8294c8@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Good\, the Bad\, and the Ugly (1966)
@@ -688,7 +557,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:1edb0d65e7@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:NDSO In Concert: New World Symphonies
@@ -703,7 +572,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:22ed4c6852@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:INVINCIBLE: A Glorious Tribute to Michael Jackson
@@ -714,23 +583,22 @@ DESCRIPTION:Listed by Miller Auditorium. Times and tickets: https://www.mi
  croll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:99f9b06ad3@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+UID:0f823c65bc@valley-live.projectscroll.com
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261120T193000
 DURATION:PT2H
-SUMMARY:Friends of The Lerner presents: Mike Super - Magic & Illusion
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/friends-of-the-lerner-presents-mike-super-
- magic-illusion/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/friends-of-the-lerner-presents-mike-super-magic-illusion/\
- nMore nights out in the valley: https://projectscroll.com/scroll-bar/?p=f
- eed
+SUMMARY:Theater—FTT Mainstage: These Shining Lives
+LOCATION:University of Notre Dame\, Notre Dame
+URL:https://events.nd.edu/events/2026/11/20/ftt-mainstage-theatre-these-sh
+ ining-lives-1/
+DESCRIPTION:Listed by University of Notre Dame. Times and tickets: https:/
+ /events.nd.edu/events/2026/11/20/ftt-mainstage-theatre-these-shining-live
+ s-1/\nMore nights out in the valley: https://projectscroll.com/scroll-bar
+ /?p=feed
 END:VEVENT
 BEGIN:VEVENT
 UID:1bcf6a18b1@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261120T193000
 DURATION:PT2H
 SUMMARY:Lavender Jazz Fall Concert
@@ -742,7 +610,7 @@ DESCRIPTION:Listed by Goshen College. Times and tickets: https://www.goshe
 END:VEVENT
 BEGIN:VEVENT
 UID:8ac955c97f@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261120T200000
 DURATION:PT2H
 SUMMARY:Small Brown Bike with CRITERIA and Bronson Arm
@@ -756,7 +624,7 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
 END:VEVENT
 BEGIN:VEVENT
 UID:15b266eba5@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Rick Springfield
@@ -769,26 +637,11 @@ DESCRIPTION:Listed by Four Winds. Times and tickets: https://www.ticketmas
  ar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:aaf1003aac@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261121T183000
-DURATION:PT2H
-SUMMARY:Sir Charles Jones & Friends: Pour Me a Drank - Southern Soul Tour
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/sir-charles-jones-friends-pour-me-a-drank-
- southern-soul-tour/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/sir-charles-jones-friends-pour-me-a-drank-southern-soul-to
- ur/\nMore nights out in the valley: https://projectscroll.com/scroll-bar/
- ?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:1e3cd92eaf@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261121T193000
 DURATION:PT2H
-SUMMARY:Lahing Kayumanggi - AUSO Fall Concert
+SUMMARY:Lahing Kayumanggi: AUSO Fall Concert
 LOCATION:Howard Performing Arts Center\, Berrien Springs
 URL:https://www.tix.com/ticket-sales/howard/6714/event/1472722
 DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
@@ -797,7 +650,7 @@ DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:f74ad4c551@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261121T200000
 DURATION:PT2H
 SUMMARY:Lee Emi (Emilee Petersmark of The Crane Wives) with Cal in Red
@@ -811,7 +664,7 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
 END:VEVENT
 BEGIN:VEVENT
 UID:305d3e6f79@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:The Iron Giant (1999)
@@ -824,7 +677,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:c8ca0e4c24@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Symphonic Band & Winds
@@ -837,7 +690,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:2b9c3d1467@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Dissolution Room (2026)
@@ -850,7 +703,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:bb84774665@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:The Debut (2026)
@@ -862,20 +715,8 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
  t in the valley: https://projectscroll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:bdf88ad3ec@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261122T100000
-DURATION:PT2H
-SUMMARY:Hinterland Bookery
-LOCATION:Goshen Brewing Company\, Goshen
-URL:https://goshenbrewing.com/event/hinterland-bookery-2/
-DESCRIPTION:Listed by Goshen Brewing Company. Times and tickets: https://g
- oshenbrewing.com/event/hinterland-bookery-2/\nMore nights out in the vall
- ey: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:d4116af51b@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261122T150000
 DURATION:PT2H
 SUMMARY:O Christmas Tea: A British Comedy
@@ -887,7 +728,7 @@ DESCRIPTION:Listed by Morris Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:706fd1bbf2@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261122T160000
 DURATION:PT2H
 SUMMARY:South Bend Youth Symphony Orchestra
@@ -898,33 +739,8 @@ DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
  : https://projectscroll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:70a87e35fd@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261122T170000
-DURATION:PT2H
-SUMMARY:Sweet Pea Three
-LOCATION:Goshen Brewing Company\, Goshen
-URL:https://goshenbrewing.com/event/sweet-pea-three/
-DESCRIPTION:Listed by Goshen Brewing Company. Times and tickets: https://g
- oshenbrewing.com/event/sweet-pea-three/\nMore nights out in the valley: h
- ttps://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:8d10d38b36@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261122T190000
-DURATION:PT2H
-SUMMARY:Charlie Berens: The Lost and Found Tour
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/charlie-berens-the-lost-and-found-tour/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/charlie-berens-the-lost-and-found-tour/\nMore nights out i
- n the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:90d1bc8317@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Billy Preston: That’s the Way God Planned It (2024)
@@ -939,7 +755,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:e842dfadbe@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261124T180000
 DURATION:PT2H
 SUMMARY:Wreath Making
@@ -951,7 +767,7 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
 END:VEVENT
 BEGIN:VEVENT
 UID:e54299a017@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261124T200000
 DURATION:PT2H
 SUMMARY:DWTS Finale Watch Party
@@ -964,33 +780,8 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
  d
 END:VEVENT
 BEGIN:VEVENT
-UID:4adf8a7cbb@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261125T110000
-DURATION:PT2H
-SUMMARY:The Nutcracker: FREE Community Performance
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/the-nutcracker-free-community-performance/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/the-nutcracker-free-community-performance/\nMore nights ou
- t in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:a706908fcb@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261125T190000
-DURATION:PT2H
-SUMMARY:Johnny and I
-LOCATION:Goshen Brewing Company\, Goshen
-URL:https://goshenbrewing.com/event/johnny-and-i/
-DESCRIPTION:Listed by Goshen Brewing Company. Times and tickets: https://g
- oshenbrewing.com/event/johnny-and-i/\nMore nights out in the valley: http
- s://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:dde40ebce8@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261125T200000
 DURATION:PT2H
 SUMMARY:Mike Epps
@@ -1002,7 +793,7 @@ DESCRIPTION:Listed by Morris Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:315a18963d@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261127T190000
 DURATION:PT2H
 SUMMARY:It’s a Wonderful Life
@@ -1014,7 +805,7 @@ DESCRIPTION:Listed by Morris Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:e73ef628ec@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261127T193000
 DURATION:PT2H
 SUMMARY:Black Friday Kickback featuring DC + Yolonda WSG DJ Conscious
@@ -1028,7 +819,7 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
 END:VEVENT
 BEGIN:VEVENT
 UID:de13ee8d55@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261127T200000
 DURATION:PT2H
 SUMMARY:Comedy on the Rocks
@@ -1039,21 +830,8 @@ DESCRIPTION:Listed by Journeyman Distillery. Times and tickets: https://ww
  ut in the valley: https://projectscroll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:126a9375ff@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261128T150000
-DURATION:PT2H
-SUMMARY:The Nutcracker at The Lerner Theatre
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/the-nutcracker-at-the-lerner-theatre-2026/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/the-nutcracker-at-the-lerner-theatre-2026/\nMore nights ou
- t in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:52cc5cbb4f@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261128T193000
 DURATION:PT2H
 SUMMARY:The Bergamot – A South Shore Christmas
@@ -1067,7 +845,7 @@ DESCRIPTION:Listed by Morris Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:63ea9cabce@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261128T200000
 DURATION:PT2H
 SUMMARY:Lower Leisure Class with No Bails and Krass Kringle
@@ -1080,20 +858,8 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
  roll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:1939c7c546@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261128T200000
-DURATION:PT2H
-SUMMARY:Trivia
-LOCATION:Goshen Brewing Company\, Goshen
-URL:https://goshenbrewing.com/event/trivia-11/
-DESCRIPTION:Listed by Goshen Brewing Company. Times and tickets: https://g
- oshenbrewing.com/event/trivia-11/\nMore nights out in the valley: https:/
- /projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:dbf2e1ce2c@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:A Very Merry Symphony Sleigh Ride Adventure
@@ -1108,7 +874,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:902726a074@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261129T120000
 DURATION:PT2H
 SUMMARY:Holiday Bizarre Bazaar
@@ -1120,33 +886,8 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
  re nights out in the valley: https://projectscroll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:1d80473c9c@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261129T150000
-DURATION:PT2H
-SUMMARY:The Lerner Loves You: Home Alone
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/the-lerner-loves-you-home-alone/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/the-lerner-loves-you-home-alone/\nMore nights out in the v
- alley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:0436c43ae9@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261129T160000
-DURATION:PT2H
-SUMMARY:Elkhart County Beer Choir
-LOCATION:Goshen Brewing Company\, Goshen
-URL:https://goshenbrewing.com/event/elkhart-county-beer-choir-4/
-DESCRIPTION:Listed by Goshen Brewing Company. Times and tickets: https://g
- oshenbrewing.com/event/elkhart-county-beer-choir-4/\nMore nights out in t
- he valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:4323e77426@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Inside Llewyn Davis (2013)
@@ -1159,7 +900,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:c57d643b70@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261201T180000
 DURATION:PT2H
 SUMMARY:Kalamazoo Academy Of Rock
@@ -1173,7 +914,7 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
 END:VEVENT
 BEGIN:VEVENT
 UID:35068b265a@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261202T180000
 DURATION:PT2H
 SUMMARY:Kalamazoo Academy Of Rock
@@ -1186,20 +927,8 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
  feed
 END:VEVENT
 BEGIN:VEVENT
-UID:67e2ae129f@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261202T190000
-DURATION:PT2H
-SUMMARY:Brides of Neptune wsg Jacob Neild
-LOCATION:Goshen Brewing Company\, Goshen
-URL:https://goshenbrewing.com/event/brides-of-neptune-wsg-jacob-neild/
-DESCRIPTION:Listed by Goshen Brewing Company. Times and tickets: https://g
- oshenbrewing.com/event/brides-of-neptune-wsg-jacob-neild/\nMore nights ou
- t in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:4743b9947b@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Y Tu Mamá También (And Your Mother Too) (2001)
@@ -1214,7 +943,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:9456ed9e5c@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Handel: Messiah ND Chorale and CO
@@ -1229,7 +958,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:e2e178a1c8@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Mysterious Object at Noon (2000)
@@ -1244,7 +973,7 @@ DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
 END:VEVENT
 BEGIN:VEVENT
 UID:75d460459b@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261203T180000
 DURATION:PT2H
 SUMMARY:Kalamazoo Academy Of Rock
@@ -1257,21 +986,8 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
  feed
 END:VEVENT
 BEGIN:VEVENT
-UID:32d97a4abb@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Harvest (2026)
-LOCATION:Browning Cinema GA\, DeBartolo Performing Arts Center\, Notre Dam
- e
-URL:https://performingarts.nd.edu/event/20294/harvest-2026
-DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
-  https://performingarts.nd.edu/event/20294/harvest-2026\nMore nights out 
- in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:1227399d1a@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261204T193000
 DURATION:PT2H
 SUMMARY:The Bodyguard: National Broadway Tour
@@ -1283,7 +999,7 @@ DESCRIPTION:Listed by Morris Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:7ca14dabea@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261204T193000
 DURATION:PT2H
 SUMMARY:Festival of Carols 2026: Dec. 4-5 Evening Concerts
@@ -1295,7 +1011,7 @@ DESCRIPTION:Listed by Goshen College. Times and tickets: https://www.goshe
 END:VEVENT
 BEGIN:VEVENT
 UID:bf8d46ba2e@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261204T200000
 DURATION:PT2H
 SUMMARY:The Palmer Squares with the Sandwich Boiz
@@ -1308,37 +1024,8 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
  croll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:d6b87da1a8@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-SUMMARY:Samson et Dalila (Saint-Saëns)
-LOCATION:Browning Cinema Reserved\, DeBartolo Performing Arts Center\, Not
- re Dame
-URL:https://performingarts.nd.edu/event/19725/samson-et-dalila-saint-sans
-DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
-  https://performingarts.nd.edu/event/19725/samson-et-dalila-saint-sans\nM
- ore nights out in the valley: https://projectscroll.com/scroll-bar/?p=fee
- d
-END:VEVENT
-BEGIN:VEVENT
-UID:d2ea2e0185@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-SUMMARY:ND Glee Club-Symphony: Christmas At Notre Dame
-LOCATION:Leighton Concert Hall\, DeBartolo Performing Arts Center\, Notre 
- Dame
-URL:https://performingarts.nd.edu/event/20244/nd-glee-club-symphony-christ
- mas-at-notre-dame
-DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
-  https://performingarts.nd.edu/event/20244/nd-glee-club-symphony-christma
- s-at-notre-dame\nMore nights out in the valley: https://projectscroll.com
- /scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:69ca096077@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261205T140000
 DURATION:PT2H
 SUMMARY:The Bodyguard: National Broadway Tour
@@ -1350,7 +1037,7 @@ DESCRIPTION:Listed by Morris Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:9f45d74200@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261205T160000
 DURATION:PT2H
 SUMMARY:Caelan Cardello Trio
@@ -1363,7 +1050,7 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
 END:VEVENT
 BEGIN:VEVENT
 UID:d233fd7415@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261205T193000
 DURATION:PT2H
 SUMMARY:Christmas Extravaganza
@@ -1374,90 +1061,8 @@ DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
   in the valley: https://projectscroll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:2d9a6ceb47@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261205T200000
-DURATION:PT2H
-SUMMARY:Trivia
-LOCATION:Goshen Brewing Company\, Goshen
-URL:https://goshenbrewing.com/event/trivia-7/
-DESCRIPTION:Listed by Goshen Brewing Company. Times and tickets: https://g
- oshenbrewing.com/event/trivia-7/\nMore nights out in the valley: https://
- projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:7e1a5b48cf@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-SUMMARY:A Miracle on 34th Street (1947)
-LOCATION:Browning Cinema GA\, DeBartolo Performing Arts Center\, Notre Dam
- e
-URL:https://performingarts.nd.edu/event/19840/a-miracle-on-34th-street-194
- 7
-DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
-  https://performingarts.nd.edu/event/19840/a-miracle-on-34th-street-1947\
- nMore nights out in the valley: https://projectscroll.com/scroll-bar/?p=f
- eed
-END:VEVENT
-BEGIN:VEVENT
-UID:5201d02a05@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-SUMMARY:University Band
-LOCATION:Leighton Concert Hall\, DeBartolo Performing Arts Center\, Notre 
- Dame
-URL:https://performingarts.nd.edu/event/19787/university-band
-DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
-  https://performingarts.nd.edu/event/19787/university-band\nMore nights o
- ut in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:a7187c52c6@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-SUMMARY:Marching to Victory: The Route of the Bicentennial (2025)
-LOCATION:Browning Cinema GA\, DeBartolo Performing Arts Center\, Notre Dam
- e
-URL:https://performingarts.nd.edu/event/20311/marching-to-victory-the-rout
- e-of-the-bicentennial-2025-
-DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
-  https://performingarts.nd.edu/event/20311/marching-to-victory-the-route-
- of-the-bicentennial-2025-\nMore nights out in the valley: https://project
- scroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:bbe3277c10@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-SUMMARY:Notre Dame Jazz Bands - Fall Concert
-LOCATION:Leighton Concert Hall\, DeBartolo Performing Arts Center\, Notre 
- Dame
-URL:https://performingarts.nd.edu/event/19931/notre-dame-jazz-bands-fall-c
- oncert
-DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
-  https://performingarts.nd.edu/event/19931/notre-dame-jazz-bands-fall-con
- cert\nMore nights out in the valley: https://projectscroll.com/scroll-bar
- /?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:9c3fbc04a0@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-SUMMARY:Sunday Brunch
-LOCATION:Silver Harbor Brewing Company\, St. Joseph
-URL:https://silverharborbrewing.com/event/sunday-brunch-2/
-DESCRIPTION:Listed by Silver Harbor Brewing Company. Times and tickets: ht
- tps://silverharborbrewing.com/event/sunday-brunch-2/\nMore nights out in 
- the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:07ddc6b1cd@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261206T120000
 DURATION:PT2H
 SUMMARY:Vintage Music Market
@@ -1470,7 +1075,7 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
 END:VEVENT
 BEGIN:VEVENT
 UID:9093546750@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261206T140000
 DURATION:PT2H
 SUMMARY:The Bodyguard: National Broadway Tour
@@ -1481,23 +1086,8 @@ DESCRIPTION:Listed by Morris Performing Arts Center. Times and tickets: ht
  n the valley: https://projectscroll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:b636174bc8@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261206T150000
-DURATION:PT2H
-SUMMARY:Elkhart Municipal Band presents: The North Pole Radio Hour
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/elkhart-municipal-band-presents-the-north-
- pole-radio-hour-2026/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/elkhart-municipal-band-presents-the-north-pole-radio-hour-
- 2026/\nMore nights out in the valley: https://projectscroll.com/scroll-ba
- r/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:b5b0789ab3@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261206T160000
 DURATION:PT2H
 SUMMARY:Christmas Extravaganza (Reprise)
@@ -1508,45 +1098,8 @@ DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
   in the valley: https://projectscroll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:e16b89e6c3@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-SUMMARY:Wreath Making Class
-LOCATION:Silver Harbor Brewing Company\, St. Joseph
-URL:https://silverharborbrewing.com/event/wreath-making-class/
-DESCRIPTION:Listed by Silver Harbor Brewing Company. Times and tickets: ht
- tps://silverharborbrewing.com/event/wreath-making-class/\nMore nights out
-  in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:b0b3c575e9@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261209
-SUMMARY:Holiday Movie Trivia
-LOCATION:Silver Harbor Brewing Company\, St. Joseph
-URL:https://silverharborbrewing.com/event/holiday-movie-trivia/
-DESCRIPTION:Listed by Silver Harbor Brewing Company. Times and tickets: ht
- tps://silverharborbrewing.com/event/holiday-movie-trivia/\nMore nights ou
- t in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:3cf8179aa3@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-SUMMARY:Batman Returns (1992)
-LOCATION:Browning Cinema GA\, DeBartolo Performing Arts Center\, Notre Dam
- e
-URL:https://performingarts.nd.edu/event/20160/batman-returns-1992
-DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
-  https://performingarts.nd.edu/event/20160/batman-returns-1992\nMore nigh
- ts out in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:28a471146e@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:NUTCRACKER! Magical Christmas Ballet 2026
@@ -1557,49 +1110,8 @@ DESCRIPTION:Listed by Miller Auditorium. Times and tickets: https://www.mi
  croll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:0f9bea77b6@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261211
-SUMMARY:Santa Claus (Santa Claus vs. The Devil) (1959)
-LOCATION:Browning Cinema GA\, DeBartolo Performing Arts Center\, Notre Dam
- e
-URL:https://performingarts.nd.edu/event/20110/santa-claus-santa-claus-vs-t
- he-devil-1959
-DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
-  https://performingarts.nd.edu/event/20110/santa-claus-santa-claus-vs-the
- -devil-1959\nMore nights out in the valley: https://projectscroll.com/scr
- oll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:a72235e920@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261211
-SUMMARY:The Harder They Come (1972)
-LOCATION:Browning Cinema GA\, DeBartolo Performing Arts Center\, Notre Dam
- e
-URL:https://performingarts.nd.edu/event/20164/the-harder-they-come-1972
-DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
-  https://performingarts.nd.edu/event/20164/the-harder-they-come-1972\nMor
- e nights out in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:3ec53ec693@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:Blood Beat (1982)
-LOCATION:Browning Cinema GA\, DeBartolo Performing Arts Center\, Notre Dam
- e
-URL:https://performingarts.nd.edu/event/20313/blood-beat-1982
-DESCRIPTION:Listed by DeBartolo Performing Arts Center. Times and tickets:
-  https://performingarts.nd.edu/event/20313/blood-beat-1982\nMore nights o
- ut in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:00f1e003df@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:UPTOWN: A Very Soulful Christmas
@@ -1610,23 +1122,8 @@ DESCRIPTION:Listed by Miller Auditorium. Times and tickets: https://www.mi
  croll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:2f58d9b3b1@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261211T193000
-DURATION:PT2H
-SUMMARY:Premier Arts: Joseph and the Amazing Technicolor Dreamcoat
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/premier-arts-joseph-and-the-amazing-techni
- color-dreamcoat-2026-12-11/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/premier-arts-joseph-and-the-amazing-technicolor-dreamcoat-
- 2026-12-11/\nMore nights out in the valley: https://projectscroll.com/scr
- oll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:6e4173130f@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Cirque Musica Holiday Wonderland
@@ -1640,7 +1137,7 @@ DESCRIPTION:Listed by Four Winds. Times and tickets: https://www.ticketmas
 END:VEVENT
 BEGIN:VEVENT
 UID:822af355e0@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261212T140000
 DURATION:PT2H
 SUMMARY:Southold Dance Theater Presents: The Nutcracker
@@ -1653,24 +1150,8 @@ DESCRIPTION:Listed by Morris Performing Arts Center. Times and tickets: ht
  com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:884de20331@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261212T140000
-DURATION:PT2H
-SUMMARY:Premier Arts: Joseph and the Amazing Technicolor Dreamcoat - All Y
- outh Production
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/premier-arts-joseph-and-the-amazing-techni
- color-dreamcoat-all-youth-production/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/premier-arts-joseph-and-the-amazing-technicolor-dreamcoat-
- all-youth-production/\nMore nights out in the valley: https://projectscro
- ll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:65bd723ffe@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261212T193000
 DURATION:PT2H
 SUMMARY:Performing Arts Series: The Steel Wheels
@@ -1682,7 +1163,7 @@ DESCRIPTION:Listed by Goshen College. Times and tickets: https://www.goshe
 END:VEVENT
 BEGIN:VEVENT
 UID:0557749df3@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261212T200000
 DURATION:PT2H
 SUMMARY:Out of Favor Boys and Friends Holiday Soiree
@@ -1695,20 +1176,8 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
  m/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:e33f210a89@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-SUMMARY:Grinch Brunch
-LOCATION:Silver Harbor Brewing Company\, St. Joseph
-URL:https://silverharborbrewing.com/event/grinch-brunch/
-DESCRIPTION:Listed by Silver Harbor Brewing Company. Times and tickets: ht
- tps://silverharborbrewing.com/event/grinch-brunch/\nMore nights out in th
- e valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:11b91203fa@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261213T140000
 DURATION:PT2H
 SUMMARY:Southold Dance Theater Presents: The Nutcracker
@@ -1721,52 +1190,8 @@ DESCRIPTION:Listed by Morris Performing Arts Center. Times and tickets: ht
  m/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:03bbfe8e3c@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261213T140000
-DURATION:PT2H
-SUMMARY:Premier Arts: Joseph and the Amazing Technicolor Dreamcoat
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/premier-arts-joseph-and-the-amazing-techni
- color-dreamcoat-2026-12-13/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/premier-arts-joseph-and-the-amazing-technicolor-dreamcoat-
- 2026-12-13/\nMore nights out in the valley: https://projectscroll.com/scr
- oll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:8a53e6be71@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261216T110000
-DURATION:PT2H
-SUMMARY:Lunchtime Live with Celia Weiss – Kimball Organ Concert
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/lunchtime-live-with-celia-weiss-kimball-or
- gan-concert-2026/2026-12-16/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/lunchtime-live-with-celia-weiss-kimball-organ-concert-2026
- /2026-12-16/\nMore nights out in the valley: https://projectscroll.com/sc
- roll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:ec5707cb48@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261216T121500
-DURATION:PT2H
-SUMMARY:Behind the Curtain: A Guided Theatre Tour
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/behind-the-curtain-a-guided-theatre-tour/2
- 026-12-16/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/behind-the-curtain-a-guided-theatre-tour/2026-12-16/\nMore
-  nights out in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:f7134deace@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261216T193000
 DURATION:PT2H
 SUMMARY:The Prophecy Show: The Music of the Trans-Siberian Orchestra
@@ -1780,7 +1205,7 @@ DESCRIPTION:Listed by Morris Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:dcded73c5d@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261219T193000
 DURATION:PT2H
 SUMMARY:Everwise presents Holiday Pops with the South Bend Symphony
@@ -1794,7 +1219,7 @@ DESCRIPTION:Listed by Morris Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:63db531364@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261219T200000
 DURATION:PT2H
 SUMMARY:All American Funk Parade with The Brandino Extravaganza
@@ -1807,32 +1232,8 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
  ctscroll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:28f59daa4b@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261219T200000
-DURATION:PT2H
-SUMMARY:Trivia
-LOCATION:Goshen Brewing Company\, Goshen
-URL:https://goshenbrewing.com/event/trivia-6/
-DESCRIPTION:Listed by Goshen Brewing Company. Times and tickets: https://g
- oshenbrewing.com/event/trivia-6/\nMore nights out in the valley: https://
- projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:f9c66735b5@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261220T100000
-DURATION:PT2H
-SUMMARY:Hinterland Bookery
-LOCATION:Goshen Brewing Company\, Goshen
-URL:https://goshenbrewing.com/event/hinterland-bookery-mobile-bookshop/
-DESCRIPTION:Listed by Goshen Brewing Company. Times and tickets: https://g
- oshenbrewing.com/event/hinterland-bookery-mobile-bookshop/\nMore nights o
- ut in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:f110fbcc67@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261220T143000
 DURATION:PT2H
 SUMMARY:Everwise presents Holiday Pops with the South Bend Symphony
@@ -1845,58 +1246,8 @@ DESCRIPTION:Listed by Morris Performing Arts Center. Times and tickets: ht
  com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:3c885c02c0@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261220T150000
-DURATION:PT2H
-SUMMARY:The Lerner Loves You: Miracle on 34th Street
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/the-lerner-loves-you-miracle-on-34th-stree
- t/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/the-lerner-loves-you-miracle-on-34th-street/\nMore nights 
- out in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:1da8673179@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20261220T160000
-DURATION:PT2H
-SUMMARY:Imphormal
-LOCATION:Goshen Brewing Company\, Goshen
-URL:https://goshenbrewing.com/event/imphormal-electric-cello/
-DESCRIPTION:Listed by Goshen Brewing Company. Times and tickets: https://g
- oshenbrewing.com/event/imphormal-electric-cello/\nMore nights out in the 
- valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:b19f74e669@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;VALUE=DATE:20261222
-DTEND;VALUE=DATE:20261223
-SUMMARY:Christmas Trivia Night
-LOCATION:Silver Harbor Brewing Company\, St. Joseph
-URL:https://silverharborbrewing.com/event/christmas-trivia-night/
-DESCRIPTION:Listed by Silver Harbor Brewing Company. Times and tickets: ht
- tps://silverharborbrewing.com/event/christmas-trivia-night/\nMore nights 
- out in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
-UID:13ea02d3ed@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
-SUMMARY:Sunday Brunch
-LOCATION:Silver Harbor Brewing Company\, St. Joseph
-URL:https://silverharborbrewing.com/event/sunday-brunch/
-DESCRIPTION:Listed by Silver Harbor Brewing Company. Times and tickets: ht
- tps://silverharborbrewing.com/event/sunday-brunch/\nMore nights out in th
- e valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:c9b211606d@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20261231T120000
 DURATION:PT2H
 SUMMARY:Noon Year’s Eve with The Jump Bunny String Band
@@ -1910,7 +1261,7 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
 END:VEVENT
 BEGIN:VEVENT
 UID:17aa075285@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270120T180000
 DURATION:PT2H
 SUMMARY:KSO Craft Presents: Carnival of the Animals
@@ -1923,8 +1274,20 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
  scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
+UID:6b607f8b4b@valley-live.projectscroll.com
+DTSTAMP:20261113T171227Z
+DTSTART;TZID=America/Detroit:20270121T193000
+DURATION:PT2H
+SUMMARY:Umphrey’s McGee
+LOCATION:Morris Performing Arts Center\, South Bend
+URL:https://morriscenter.org/event/umphreys-mcgee-fresh-cut/
+DESCRIPTION:Listed by Morris Performing Arts Center. Times and tickets: ht
+ tps://morriscenter.org/event/umphreys-mcgee-fresh-cut/\nMore nights out i
+ n the valley: https://projectscroll.com/scroll-bar/?p=feed
+END:VEVENT
+BEGIN:VEVENT
 UID:ccb1ce1c71@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270123T180000
 DURATION:PT2H
 SUMMARY:Burns Night
@@ -1936,7 +1299,7 @@ DESCRIPTION:Listed by Journeyman Distillery. Times and tickets: https://ww
 END:VEVENT
 BEGIN:VEVENT
 UID:b3fbeecbe9@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270124T160000
 DURATION:PT2H
 SUMMARY:Sunday Music Series: Ketevan Badridze
@@ -1948,7 +1311,7 @@ DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:eb26f22347@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:A BEAUTIFUL NOISE: THE NEIL DIAMOND MUSICAL
@@ -1960,7 +1323,7 @@ DESCRIPTION:Listed by Miller Auditorium. Times and tickets: https://www.mi
 END:VEVENT
 BEGIN:VEVENT
 UID:3fa8ed144a@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:That Arena Rock Show
@@ -1973,21 +1336,8 @@ DESCRIPTION:Listed by Four Winds. Times and tickets: https://www.ticketmas
  ll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:d54d01b566@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20270205T190000
-DURATION:PT2H
-SUMMARY:Friends of The Lerner presents: Catapult - Magic Shadows
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/catapult-magic-shadows/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/catapult-magic-shadows/\nMore nights out in the valley: ht
- tps://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:de8317999d@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Eaglemania The Worlds Greatest Eagles Tribute
@@ -2001,7 +1351,7 @@ DESCRIPTION:Listed by Four Winds. Times and tickets: https://www.ticketmas
 END:VEVENT
 BEGIN:VEVENT
 UID:1f2a39dfc7@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270206T193000
 DURATION:PT2H
 SUMMARY:AU Symphony Orchestra Young Artist Concert
@@ -2013,7 +1363,7 @@ DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:df5b9cf175@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270210T200000
 DURATION:PT2H
 SUMMARY:Bumpin Uglies with Jakob’s Castle
@@ -2027,7 +1377,7 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
 END:VEVENT
 BEGIN:VEVENT
 UID:36aaa12323@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270211T193000
 DURATION:PT2H
 SUMMARY:AU Wind Symphony Winter Concert and SMC Brass Band
@@ -2039,7 +1389,7 @@ DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:d8f96fd128@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270211T200000
 DURATION:PT2H
 SUMMARY:An Evening with Kanola Band: Kalamazoo’s Fat Friday Mardi Gras P
@@ -2054,7 +1404,7 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
 END:VEVENT
 BEGIN:VEVENT
 UID:7c8f1ba033@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270212T200000
 DURATION:PT2H
 SUMMARY:Infamous Love Songs: An Over the Rhine Valentine‘s Concert
@@ -2068,7 +1418,7 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
 END:VEVENT
 BEGIN:VEVENT
 UID:015f633af1@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:Sons of Mystro
@@ -2080,7 +1430,7 @@ DESCRIPTION:Listed by Miller Auditorium. Times and tickets: https://www.mi
 END:VEVENT
 BEGIN:VEVENT
 UID:ac077683e3@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:Chubby Checker
@@ -2093,21 +1443,8 @@ DESCRIPTION:Listed by Four Winds. Times and tickets: https://www.ticketmas
  /?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:31c560f938@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20270214T160000
-DURATION:PT2H
-SUMMARY:Elkhart County Symphony - Verdi Requiem
-LOCATION:Sauder Concert Hall\, 1700 S Main St\, Goshen\, IN\, 46526\, Unit
- ed States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/elkhart-county-symphony-verdi-requiem/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/elkhart-county-symphony-verdi-requiem/\nMore nights out in
-  the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:643cbe9800@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Holst’s The Planets
@@ -2118,21 +1455,8 @@ DESCRIPTION:Listed by Miller Auditorium. Times and tickets: https://www.mi
  croll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:2582cca8d5@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20270220T193000
-DURATION:PT2H
-SUMMARY:Coppélia at The Lerner Theatre
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/coppelia-at-the-lerner-theatre-2026/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/coppelia-at-the-lerner-theatre-2026/\nMore nights out in t
- he valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:076d116436@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270220T193000
 DURATION:PT2H
 SUMMARY:University Choirs Winter Concert
@@ -2144,7 +1468,7 @@ DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:862acb5fde@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270224T200000
 DURATION:PT2H
 SUMMARY:BERTHA: Grateful Drag The World’s First All-Drag Grateful Dead T
@@ -2159,7 +1483,7 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
 END:VEVENT
 BEGIN:VEVENT
 UID:a401af9f9e@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
 SUMMARY:Sonic Live in Concert
@@ -2171,7 +1495,7 @@ DESCRIPTION:Listed by Miller Auditorium. Times and tickets: https://www.mi
 END:VEVENT
 BEGIN:VEVENT
 UID:6fdea24083@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270304T190000
 DURATION:PT2H
 SUMMARY:Department of Music Showcase Concert
@@ -2183,7 +1507,7 @@ DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:4af129870c@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:LEGALLY BLONDE —THE MUSICAL
@@ -2195,7 +1519,7 @@ DESCRIPTION:Listed by Miller Auditorium. Times and tickets: https://www.mi
 END:VEVENT
 BEGIN:VEVENT
 UID:6224f1b67b@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270305T193000
 DURATION:PT2H
 SUMMARY:Andrews University Wind Symphony Vespers Concert
@@ -2207,7 +1531,7 @@ DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fc7cad4b1f@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270306T160000
 DURATION:PT2H
 SUMMARY:DOM Music Festival Finale Concert
@@ -2218,22 +1542,8 @@ DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
  : https://projectscroll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:2124155e93@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20270307T150000
-DURATION:PT2H
-SUMMARY:Elkhart Municipal Band presents: E Pluribus Unum
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/elkhart-municipal-band-presents-e-pluribus
- -unum/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/elkhart-municipal-band-presents-e-pluribus-unum/\nMore nig
- hts out in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:b4be66a2d4@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270307T160000
 DURATION:PT2H
 SUMMARY:Sunday Music Series: Andrews University Composers
@@ -2245,7 +1555,7 @@ DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:4e76ac1e95@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:YAMATO The Drummers of Japan
@@ -2256,22 +1566,8 @@ DESCRIPTION:Listed by Miller Auditorium. Times and tickets: https://www.mi
  croll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:88ab02e000@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20270314T160000
-DURATION:PT2H
-SUMMARY:Elkhart County Symphony - Cinematic Symphony
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/elkhart-county-symphony-cinematic-symphony
- /
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/elkhart-county-symphony-cinematic-symphony/\nMore nights o
- ut in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:e5ed38f7c0@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270319T200000
 DURATION:PT2H
 SUMMARY:Sicard Hollow
@@ -2283,7 +1579,7 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
 END:VEVENT
 BEGIN:VEVENT
 UID:35a91b883a@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:St. Matthew Passion
@@ -2295,7 +1591,7 @@ DESCRIPTION:Listed by Miller Auditorium. Times and tickets: https://www.mi
 END:VEVENT
 BEGIN:VEVENT
 UID:079499490e@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
 SUMMARY:THE BOOK OF MORMON
@@ -2306,23 +1602,8 @@ DESCRIPTION:Listed by Miller Auditorium. Times and tickets: https://www.mi
  croll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:4308ce1269@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20270326T200000
-DURATION:PT2H
-SUMMARY:Friends of The Lerner presents: Broadway's Rock Of Ages Band
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/friends-of-the-lerner-presents-broadways-r
- ock-of-ages-band/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/friends-of-the-lerner-presents-broadways-rock-of-ages-band
- /\nMore nights out in the valley: https://projectscroll.com/scroll-bar/?p
- =feed
-END:VEVENT
-BEGIN:VEVENT
 UID:04f205810a@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
 SUMMARY:The Rock Orchestra by Candlelight
@@ -2334,7 +1615,7 @@ DESCRIPTION:Listed by Miller Auditorium. Times and tickets: https://www.mi
 END:VEVENT
 BEGIN:VEVENT
 UID:8907762120@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
 SUMMARY:Jefferson Starship And John Waite
@@ -2348,7 +1629,7 @@ DESCRIPTION:Listed by Four Winds. Times and tickets: https://www.ticketmas
 END:VEVENT
 BEGIN:VEVENT
 UID:7236b00656@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270403
 SUMMARY:Star Wars: A New Hope in Concert
@@ -2360,7 +1641,7 @@ DESCRIPTION:Listed by Miller Auditorium. Times and tickets: https://www.mi
 END:VEVENT
 BEGIN:VEVENT
 UID:a6466b6e5a@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270403T203000
 DURATION:PT2H
 SUMMARY:Andrews University Choirs Spring Concert
@@ -2372,7 +1653,7 @@ DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:a2e5327e26@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270404T190000
 DURATION:PT2H
 SUMMARY:Howard Center Presents: Altino Brothers
@@ -2384,7 +1665,7 @@ DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:335eb617a5@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:The Ukulele Orchestra of Great Britain
@@ -2396,7 +1677,7 @@ DESCRIPTION:Listed by Miller Auditorium. Times and tickets: https://www.mi
 END:VEVENT
 BEGIN:VEVENT
 UID:be69708f64@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:Magical Mystery Doors
@@ -2409,21 +1690,8 @@ DESCRIPTION:Listed by Four Winds. Times and tickets: https://www.ticketmas
  oll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:bfa7f184f6@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20270409T190000
-DURATION:PT2H
-SUMMARY:Amber Autry: Happy Holler Tour
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/amber-autry-happy-holler-tour/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/amber-autry-happy-holler-tour/\nMore nights out in the val
- ley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:db2714acf9@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270410T100000
 DURATION:PT2H
 SUMMARY:Spring Artisan Market
@@ -2435,7 +1703,7 @@ DESCRIPTION:Listed by Journeyman Distillery. Times and tickets: https://ww
 END:VEVENT
 BEGIN:VEVENT
 UID:9bcf7eaf81@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270410T183000
 DURATION:PT2H
 SUMMARY:Music & Worship Conference Concert
@@ -2447,7 +1715,7 @@ DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:09b0115579@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270411T160000
 DURATION:PT2H
 SUMMARY:Sunday Music Series: Jason Gresl & Lara Turner
@@ -2459,7 +1727,7 @@ DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:5f84d85a30@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270417T203000
 DURATION:PT2H
 SUMMARY:AU Symphony Orchestra & WAUS Thank You Concert
@@ -2470,23 +1738,8 @@ DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
  : https://projectscroll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:835f5cb49f@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20270418T150000
-DURATION:PT2H
-SUMMARY:Elkhart Municipal Band presents: Songs of Grace and Glory
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/elkhart-municipal-band-presents-songs-of-g
- race-and-glory/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/elkhart-municipal-band-presents-songs-of-grace-and-glory/\
- nMore nights out in the valley: https://projectscroll.com/scroll-bar/?p=f
- eed
-END:VEVENT
-BEGIN:VEVENT
 UID:376f37c2b9@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270418T160000
 DURATION:PT2H
 SUMMARY:Andrews University Wind Symphony Spring Concert
@@ -2498,7 +1751,7 @@ DESCRIPTION:Listed by Howard Performing Arts Center. Times and tickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:e1cb69f4ef@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 SUMMARY:Beethoven & Dvořák
@@ -2510,7 +1763,7 @@ DESCRIPTION:Listed by Miller Auditorium. Times and tickets: https://www.mi
 END:VEVENT
 BEGIN:VEVENT
 UID:07349ded7c@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
 SUMMARY:SHUCKED
@@ -2521,21 +1774,8 @@ DESCRIPTION:Listed by Miller Auditorium. Times and tickets: https://www.mi
  croll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:e718e8cfdf@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20270428T193000
-DURATION:PT2H
-SUMMARY:The Amy Winehouse Band
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/the-amy-winehouse-band/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/the-amy-winehouse-band/\nMore nights out in the valley: ht
- tps://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:b94cdf573a@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
 SUMMARY:HADESTOWN
@@ -2547,7 +1787,7 @@ DESCRIPTION:Listed by Miller Auditorium. Times and tickets: https://www.mi
 END:VEVENT
 BEGIN:VEVENT
 UID:1cb7d7adb6@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;TZID=America/Detroit:20270511T200000
 DURATION:PT2H
 SUMMARY:An Evening With
@@ -2561,7 +1801,7 @@ DESCRIPTION:Listed by Bell's Eccentric Café. Times and tickets: https://c
 END:VEVENT
 BEGIN:VEVENT
 UID:b4bff34072@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20270514
 DTEND;VALUE=DATE:20270515
 SUMMARY:Swan Lake by International Ballet Stars
@@ -2572,21 +1812,8 @@ DESCRIPTION:Listed by Miller Auditorium. Times and tickets: https://www.mi
  croll.com/scroll-bar/?p=feed
 END:VEVENT
 BEGIN:VEVENT
-UID:f8268db0b6@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
-DTSTART;TZID=America/Detroit:20270516T160000
-DURATION:PT2H
-SUMMARY:Elkhart County Symphony - Planetary Finale
-LOCATION:The Lerner Theatre\, 410 South Main Street\, Elkhart\, IN\, 46516
- \, United States\, The Lerner Theatre\, Elkhart
-URL:https://thelerner.com/event/elkhart-county-symphony-planetary-finale/
-DESCRIPTION:Listed by The Lerner Theatre. Times and tickets: https://thele
- rner.com/event/elkhart-county-symphony-planetary-finale/\nMore nights out
-  in the valley: https://projectscroll.com/scroll-bar/?p=feed
-END:VEVENT
-BEGIN:VEVENT
 UID:6ebfa31ae3@valley-live.projectscroll.com
-DTSTAMP:20261112T173522Z
+DTSTAMP:20261113T171227Z
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270519
 SUMMARY:THE WIZ
