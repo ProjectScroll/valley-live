@@ -1,47 +1,19 @@
 {
- "https://fightingirish.com/_nuxt/CrPiqOoU.js": {
+ "https://www.youtube.com/feeds/videos.xml?channel_id=UCFCAsphlN0f9tQcTtvbFKDg": {
   "status": 200,
-  "final": "https://fightingirish.com/_nuxt/CrPiqOoU.js",
-  "bytes": 171271,
+  "final": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFCAsphlN0f9tQcTtvbFKDg",
+  "bytes": 2010,
   "ld_types": {},
   "links": [],
   "ics": [],
-  "feeds": [],
+  "feeds": [
+   "http://www.youtube.com/feeds/videos.xml?channel_id=UCFCAsphlN0f9tQcTtvbFKDg"
+  ],
   "dates": [],
   "apis": [],
-  "snip": "",
-  "head": "",
+  "snip": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:yt=\"http://www.youtube.com/xml/schemas/2015\" xmlns:media=\"http://search.yahoo.com/mrss/\" xmlns=\"http://www.w3.org/2005/Atom\"> <link rel=\"self\" href=\"http://www.youtube.com/feeds/videos.xml?channel_id=UCFCAsphlN0f9tQcTtvbFKDg\"/> <id>yt:channel:FCAsphlN0f9tQcTtvbFKDg</id> <yt:channelId>FCAsphlN0f9tQcTtvbFKDg</yt:channelId> <title>Project Scroll</title> <link rel=\"alternate\" href=\"https://www.youtube.com/channel/UCFCAsphlN0f9tQcTtvbFKDg\"/> <author> <name>Project Scroll</name> <uri>https://www.youtube.com/channel/UCFCAsphlN0f9tQcTtvbFKDg</uri> </author> <published>2023-03-21T05:40:28+00:00</published> <entry> <id>yt:video:40m--5t-2Vo</id> <yt:videoId>40m--5t-2Vo</yt:videoId> <yt:channelId>UCFCAsphlN0f9tQcTtvbFKDg</yt:channelId> <title>The Verdict | Projects Croll, Episode 0</title> <link rel=\"alternate\" href=\"https://www.youtube.com/watch?v=40m--5t-2Vo\"/> <author> <name>Project Scroll</name> <uri>https://www.youtube.com/channel/UCFCAsphlN0f9tQcTtvbFKDg</uri> </author> <published>2026-11-09T04:29:44+00:00</published> <updated>2026-11-09T04:41:43+00:00</updated> <media:group> <media:title>The Verdict | Projects Croll, Episode 0</media:title> <media:content url=\"https://www.youtube.com/v/40m--5t-2Vo?version=3\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\"/> <media:thumbnail url=\"https://i1.ytimg.com/vi/40m--5t-2Vo/hqdefault.jpg\" width=\"480\" height=\"360\"/> <media:description>Long ago, in a river valley, one village kept its smartest ideas on the Projects side of the creek. Today, old Moss sniffs the scroll, and Croll waits for the verdict. Meet Projects Croll. (Say it fast.) More from the valley: https://projectscroll.com #ProjectScroll #Croll #ShortFilm #Comedy #History</media:description> <media:community> <media:starRating count=\"0\" average=\"0.00\" min=\"1\" max=\"5\"/> <media:statistics views=\"5\"/> </media:community> </media:group> </entry> </feed> ",
+  "head": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<feed xmlns:yt=\"http://www.youtube.com/xml/schemas/2015\" xmlns:media=\"http://search.yahoo.com/mrss/\" xmlns=\"http://www.w3.org/2005/Atom\">\n <link rel=\"self\" href=\"http://www.youtube.com/feeds/videos.xml?channel_id=UCFCAsphlN0f9tQcTtvbFKDg\"/>\n <id>yt:channel:FCAsphlN0f9tQcTtvbFKDg</id>\n <yt:channelId>FCAsphlN0f9tQcTtvbFKDg</yt:channelId>\n <title>Project Scroll</title>\n <link rel=\"alternate\" href=\"https://www.youtube.com/channel/UCFCAsphlN0f9tQcTtvbFKDg\"/>\n <author>\n  <name>Project Scroll</name>\n  <uri>https://www.youtube.com/channel/UCFCAsphlN0f9tQcTtvbFKDg</uri>\n </author>\n <published>2023-03-21T05:40:28+00:00</published>\n <entry>\n  <id>yt:video:40m--5t-2Vo</id>\n  <yt:videoId>40m--5t-2Vo</yt:videoId>\n  <yt:channelId>UCFCAsphlN0f9tQcTtvbFKDg</yt:channelId>\n  <title>The Verdict | Projects Croll, Episode 0</title>\n  <link rel=\"alternate\" href=\"https://www.youtube.com/watch?v=40m--5t-2Vo\"/>\n  <author>\n   <name>Project Scroll</name>\n   <uri>https://www.youtube.com/channel/UCFCAsphlN0f9tQcTtvbFKDg</uri>\n  </author>\n  <published>2026-11-09T04:29:44+00:00</published>\n  <updated>2026-11-09T04:41:43+00:00</updated>\n  <media:group>\n   <media:title>The Verdict | Projects Croll, Episode 0</media:title>\n   <media:content url=\"https://www.youtube.com/v/40m--5t-2Vo?version=3\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\"/>\n   <media:thumbnail url=\"https://i1.ytimg.com/vi/40m--5t-2Vo/hqdefault.jpg\" width=\"480\" height=\"360\"/>\n   <media:description>Long ago, in a river valley, one village kept its smartest ideas on the Projects side of the creek. Today, old Moss sniffs the scroll, and Croll waits for the verdict.\n\nMeet Projects Croll. (Say it fast.)\n\nMore from the valley: https://projectscroll.com\n\n#ProjectScroll #Croll #ShortFilm #Comedy #History</media:description>\n   <media:community>\n    <media:starRating count=\"0\" average=\"0.00\" min=\"1\" max=\"5\"/>\n    <media:statistics views=\"5\"/>\n   </media:community>\n  </media:group>\n </entry>\n</feed>\n",
   "types_json": null,
-  "title": ""
- },
- "https://fightingirish.com/_nuxt/D3ohYGWP.js": {
-  "status": 200,
-  "final": "https://fightingirish.com/_nuxt/D3ohYGWP.js",
-  "bytes": 167728,
-  "ld_types": {},
-  "links": [],
-  "ics": [],
-  "feeds": [],
-  "dates": [],
-  "apis": [],
-  "snip": "",
-  "head": "",
-  "types_json": null,
-  "title": ""
- },
- "https://fightingirish.com/_nuxt/xhdzfjPJ.js": {
-  "status": 200,
-  "final": "https://fightingirish.com/_nuxt/xhdzfjPJ.js",
-  "bytes": 237339,
-  "ld_types": {},
-  "links": [],
-  "ics": [],
-  "feeds": [],
-  "dates": [],
-  "apis": [],
-  "snip": "",
-  "head": "",
-  "types_json": null,
-  "title": ""
+  "title": "Project Scroll"
  }
 }

@@ -30,8 +30,25 @@ def when(s):
         try: return datetime.datetime.combine(datetime.date.fromisoformat(s[:10]), datetime.time())
         except ValueError: return None
 
+def sidearm_results(page):
+    """a Sidearm schedule page's games and, once finished, the result as its box prints it: [(month, day, opponent, 'W, 3-2' or None), ...]
+    only a W, L or T the page prints itself (a tournament game between two other teams has none)"""
+    out = []
+    for b in re.split(r'<li[^>]+class="sidearm-schedule-game ', page)[1:]:
+        r = re.search(r'<div class="sidearm-schedule-game-result[^"]*">(.*?)</div>', b, re.S)
+        sp = [clean(x) for x in re.findall(r'<span[^>]*>(.*?)</span>', r.group(1), re.S)] if r else []
+        sp = [x for x in sp if x]
+        res = sp[0].rstrip(',') + ', ' + ' '.join(sp[1:]) if len(sp) >= 2 and re.fullmatch(r'[WLT],?', sp[0]) and re.fullmatch(r'\d+-\d+', sp[1]) else None
+        d = re.search(r'sidearm-schedule-game-opponent-date[^>]*>\s*<span>\s*([A-Z][a-z]{2})[a-z]*\.? (\d{1,2})', b)
+        o = re.search(r'sidearm-schedule-game-opponent-name"?[^>]*>(.*?)</(?:span|div)>\s*</div>', b, re.S)
+        if not d: continue
+        out.append((MON[d.group(1).lower()], int(d.group(2)), re.sub(r'\W+', '', clean(o.group(1)).lower()) if o else '',
+                    res))
+    return out
+
 def from_jsonld(src, page):
     out = []
+    R = sidearm_results(page)
     for blk in re.findall(r'<script[^>]+application/ld\+json[^>]*>(.*?)</script>', page, re.S | re.I):
         try: data = json.loads(html.unescape(blk.strip()))
         except Exception: continue
@@ -48,8 +65,12 @@ def from_jsonld(src, page):
                 if re.match(r'(?i)(vs\.?|at)\s', nm): nm = f"{src.get('team', '')} {nm[0].lower()}{nm[1:]}".strip()   # 'Vs Judson' -> 'IU South Bend vs Judson'
                 # a home game: 'vs', and (when the source names its grounds) played there, not at a neutral site
                 home = bool(re.search(r'(?i)\svs\.?\s', nm)) and (not src.get('home_re') or bool(re.search(src['home_re'], place or '')))
-            out.append({'title': nm, 'free': free, 'home': home, 'start': d.isoformat(),
-                        'url': e.get('url') or src['url'], 'place': place})
+            g = {'title': nm, 'free': free, 'home': home, 'start': d.isoformat(), 'url': e.get('url') or src['url'], 'place': place}
+            # its final score, when the page prints one: the game of that day whose opponent the event names (or the day's only game)
+            day = [x for x in R if (x[0], x[1]) == (d.month, d.day)]
+            hit = [x for x in day if x[2] and x[2] in re.sub(r'\W+', '', nm.lower())] or (day if len(day) == 1 else [])
+            if len(hit) == 1 and hit[0][3]: g['result'] = hit[0][3]
+            out.append(g)
     return out
 
 
@@ -117,8 +138,15 @@ def from_mlb(src, page):
     for d in json.loads(page).get('dates', []):
         for g in d.get('games', []):
             h, a = g['teams']['home']['team']['name'], g['teams']['away']['team']['name']
-            out.append({'title': f"{a} at {h}", 'start': g['gameDate'] if g.get('gameDate') else d['date'],
-                        'url': src.get('link') or src['url'], 'place': (g.get('venue') or {}).get('name'), 'home': h == src['name']})
+            x = {'title': f"{a} at {h}", 'start': when(g['gameDate']).isoformat() if g.get('gameDate') else d['date'],
+                 'url': src.get('link') or src['url'], 'place': (g.get('venue') or {}).get('name'), 'home': h == src['name']}
+            # a final score, from the club's side: only once MLB calls the game Final (not postponed or cancelled, which MLB also files as Final)
+            st = g.get('status') or {}
+            us, them = (g['teams']['home'], g['teams']['away']) if x['home'] else (g['teams']['away'], g['teams']['home'])
+            if st.get('abstractGameState') == 'Final' and st.get('codedGameState') == 'F' and isinstance(us.get('score'), int) and isinstance(them.get('score'), int):
+                w = 'W' if us.get('isWinner') else 'L' if them.get('isWinner') else 'T' if us['score'] == them['score'] else None
+                if w: x['result'] = f"{w}, {us['score']}-{them['score']}"
+            out.append(x)
     return out
 
 def from_ndapi(src, page):
@@ -126,7 +154,7 @@ def from_ndapi(src, page):
     sid = next(x['schedule_id'] for x in json.loads(page)['data'] if x['slug'] == src['slug'])
     out, p = [], 1
     while p and p < 10:
-        j = json.loads(get(f'https://fightingirish.com/website-api/schedule-events?filter%5Bschedule_id%5D={sid}&per_page=100&page={p}'))
+        j = json.loads(get(f'https://fightingirish.com/website-api/schedule-events?filter%5Bschedule_id%5D={sid}&per_page=100&include=scheduleEventResult&page={p}'))
         for g in j['data']:
             if g.get('status') in ('canceled', 'cancelled', 'postponed'): continue
             opp = g.get('opponent_name') or ''
@@ -136,8 +164,16 @@ def from_ndapi(src, page):
             if 'T' in st: st = datetime.datetime.fromisoformat(st.replace('Z', '+00:00').replace('.000000', '')).astimezone(TZ).isoformat()
             else:   # a time to be announced: the valley's own date of the listed moment
                 st = datetime.datetime.fromisoformat(g['datetime'].replace('Z', '+00:00').replace('.000000', '')).astimezone(TZ).date().isoformat()
-            out.append({'title': t, 'start': st, 'url': f"https://fightingirish.com/sports/{src['slug']}/schedule/",
-                        'place': g.get('venue') or g.get('location'), 'home': vt == 'home'})
+            x = {'title': t, 'start': st, 'url': f"https://fightingirish.com/sports/{src['slug']}/schedule/",
+                 'place': g.get('venue') or g.get('location'), 'home': vt == 'home'}
+            # the final, as the schedule records it: win, loss or tie and the two scores, Notre Dame's first
+            r = g.get('schedule_event_result') or {}
+            num = lambda v: re.sub(r'\.0*$|(\.\d*?)0+$', r'\1', str(v).strip()) if v not in (None, '') else None
+            hi, lo = num(r.get('winning_score')), num(r.get('losing_score'))
+            if g.get('status') == 'completed' and hi and lo and r.get('result') in ('win', 'loss', 'tie'):
+                hi, lo = sorted((hi, lo), key=float, reverse=True)   # the two boxes are sometimes filled the other way round: the higher is the winner's
+                x['result'] = {'win': f'W, {hi}-{lo}', 'loss': f'L, {lo}-{hi}', 'tie': f'T, {hi}-{lo}'}[r['result']] + (f" ({r['text'].strip()})" if (r.get('text') or '').strip() else '')
+            out.append(x)
         p = j['meta']['current_page'] + 1 if j['meta']['current_page'] < j['meta']['last_page'] else None
     return out
 
@@ -211,7 +247,8 @@ def ics(items, name, path, desc):
         out.append(b.decode())
     open(path, 'w', newline='').write('\r\n'.join(out) + '\r\n')
 
-def main(SRC='sources.json', OUT='nights.json', KEY='nights', STAT='status.json'):
+def main(SRC='sources.json', OUT='nights.json', KEY='nights', STAT='status.json', KEEP=1):
+    """KEEP: how many days back a listing is kept (the games: a week, for the final scores)"""
     S = json.load(open(SRC))['sources']
     nights, status, seen = [], {}, set()
     for s in S:
@@ -220,7 +257,7 @@ def main(SRC='sources.json', OUT='nights.json', KEY='nights', STAT='status.json'
                 T = json.loads(get('https://statsapi.mlb.com/api/v1/teams?sportIds=11,12,13,14,16&season=' + str(TODAY.year)))['teams']
                 tm = next(t for t in T if t['name'] == s['name'])
                 s = dict(s, url=s['url'].replace('__TEAMID__', str(tm['id'])).replace('__SPORTID__', str(tm['sport']['id'])))
-            page = get(s['url'].replace('__TODAY__', TODAY.isoformat()).replace('__PLUS300__', (TODAY + datetime.timedelta(days=300)).isoformat()))
+            page = get(s['url'].replace('__TODAY__', (TODAY - datetime.timedelta(days=KEEP)).isoformat()).replace('__PLUS300__', (TODAY + datetime.timedelta(days=300)).isoformat()))
             M = {'ics': from_ics, 'jsonld': from_jsonld, 'html': from_html, 'cards': from_cards, 'tm': from_tm, 'mlb': from_mlb, 'ndapi': from_ndapi}
             got = [] if (s.get('follow') and s['method'] == 'html') else M[s['method']](s, page)   # an html source with follow reads only the shows' own pages
             if not got and s.get('follow'):
@@ -237,7 +274,8 @@ def main(SRC='sources.json', OUT='nights.json', KEY='nights', STAT='status.json'
             kept = 0
             for g in got:
                 d = datetime.datetime.fromisoformat(g['start'] if 'T' in g['start'] else g['start'] + 'T00:00')
-                if d.date() < TODAY - datetime.timedelta(days=1) or not g['title']: continue
+                d = d.astimezone(TZ) if d.tzinfo else d
+                if d.date() < TODAY - datetime.timedelta(days=KEEP) or not g['title']: continue
                 if re.search(r'(?i)\b(?:day )?package\b|gift card|private event|to-go\b', g['title']): continue   # ticket bundles and private bookings are not shows
                 key = (s.get('name'), d.date().isoformat(), re.sub(r'\W+', '', g['title'].lower())[:40])
                 if key in seen: continue
@@ -246,7 +284,8 @@ def main(SRC='sources.json', OUT='nights.json', KEY='nights', STAT='status.json'
                                'venue': s['name'], 'room': g['place'] if g['place'] and g['place'] != s['name'] else None,
                                'town': s['town'], 'kind': s['kind'], 'campus': s.get('campus'), 'url': g['url'],
                                'source': s['url'], 'read': TODAY.isoformat(), 'tags': (lambda T: T + (['film'] if 'film' not in T and re.search(r'(?i)cinema|movie|film', (g.get('place') or '') + ' ' + (s.get('kind') or '')) else []))(tags(g['title'])) if s['kind'] != 'sports' else [],   # a show in a cinema is a film **flags(g),
-                               **({'tickets': s['tickets']} if s.get('tickets') else {}), **({'home': g['home'], 'team': s.get('team'), 'sport': s.get('sport')} if 'home' in g and g['home'] is not None else {})})
+                               **({'tickets': s['tickets']} if s.get('tickets') else {}), **({'home': g['home'], 'team': s.get('team'), 'sport': s.get('sport')} if 'home' in g and g['home'] is not None else {}),
+                               **({'result': g['result']} if g.get('result') else {})})
             status[s['id']] = {'ok': True, 'found': len(got), 'kept': kept, 'read': NOW.isoformat(timespec='minutes')}
         except Exception as e:
             status[s['id']] = {'ok': False, 'error': str(e)[:200], 'read': NOW.isoformat(timespec='minutes')}
@@ -260,7 +299,7 @@ def main(SRC='sources.json', OUT='nights.json', KEY='nights', STAT='status.json'
 
 if __name__ == '__main__':
     main()
-    main('sports_sources.json', 'games.json', 'games', 'sports_status.json')
+    main('sports_sources.json', 'games.json', 'games', 'sports_status.json', KEEP=7)
     # counts.json: how many shows and home games each day of the next two weeks, for the home page's two buttons (a few hundred bytes)
     def per_day(path, key, home=False):
         c = {}
