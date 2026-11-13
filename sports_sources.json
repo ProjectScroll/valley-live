@@ -52,7 +52,7 @@
    "sport": "Baseball",
    "town": "South Bend",
    "kind": "sports",
-   "url": "https://statsapi.mlb.com/api/v1/schedule?sportId=__SPORTID__&teamId=__TEAMID__&startDate=__TODAY__&endDate=__PLUS300__",
+   "url": "https://statsapi.mlb.com/api/v1/schedule?sportId=__SPORTID__&teamId=__TEAMID__&startDate=__MINUS7__&endDate=__PLUS300__",
    "link": "https://www.milb.com/south-bend/schedule",
    "method": "mlb",
    "tickets": "https://www.milb.com/south-bend/tickets"

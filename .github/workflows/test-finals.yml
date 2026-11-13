@@ -1,0 +1,13 @@
+name: Test final scores (temporary)
+on: { push: { branches: [test-finals] } }
+permissions: { contents: write }
+jobs:
+  run:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 fetch.py > test_log.txt 2>&1 || true
+      - run: |
+          git config user.name "Project Scroll"; git config user.email "research@projectscroll.com"
+          git add -A games.json sports_status.json test_log.txt; git commit -qm "test run" && git push

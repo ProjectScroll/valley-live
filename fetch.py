@@ -49,8 +49,39 @@ def from_jsonld(src, page):
                 # a home game: 'vs', and (when the source names its grounds) played there, not at a neutral site
                 home = bool(re.search(r'(?i)\svs\.?\s', nm)) and (not src.get('home_re') or bool(re.search(src['home_re'], place or '')))
             out.append({'title': nm, 'free': free, 'home': home, 'start': d.isoformat(),
-                        'url': e.get('url') or src['url'], 'place': place})
+                        'url': e.get('url') or src['url'], 'place': place, '_opp': str(e.get('name', ''))})
+    if out and 'sidearm-schedule-game' in page: sidearm_results(out, page)
+    for g in out: g.pop('_opp', None)
     return out
+
+def onorm(x):
+    """an opponent's name, reduced to its words: '#12/13 Colorado College' and 'Colorado College (Exhibition)' -> 'colorado college'"""
+    x = re.sub(r'(?i)#\d+(?:/\d+)?|\bRV\b|\((?:exh\.?|exhibition)\)|^\s*(?:.*?\s)?(?:vs\.?|at)\s+|\buniversity of\b|\buniversity\b|\bcollege\b', ' ', html.unescape(x or ''))
+    return re.sub(r'[^a-z0-9]+', ' ', x.lower()).strip()
+
+def sidearm_results(games, page):
+    """a Sidearm schedule prints each finished game's result in its row (class sidearm-schedule-game-completed):
+    'W,' '5-1' and, now and then, a note such as '(SOW, 1-0)'. Copied as printed: 'W, 5-1'. A row is matched to its
+    game by the date and, when a date holds more than one game, by the opponent's name; anything unsure is left out."""
+    rows = {}
+    for b in re.split(r'<li[^>]+class="sidearm-schedule-game ', page)[1:]:
+        if 'sidearm-schedule-game-completed' not in b[:300]: continue   # the source itself marks the game completed
+        r = re.search(r'class="sidearm-schedule-game-result[^"]*">(.*?)</div>', b, re.S)
+        dt = re.search(r'opponent-date[^>]*>\s*<span>\s*([A-Z][a-z]{2})[a-z]*\.?\s+(\d{1,2})', b)
+        if not r or not dt: continue
+        res = ' '.join(x for x in (clean(y) for y in re.findall(r'<span[^>]*>(.*?)</span>', r.group(1), re.S)) if x)
+        if not re.match(r'[WLT],\s*\d+-\d+', res): continue          # another team's game in a tournament, 'Completed' without a score
+        opp = clean((re.search(r'opponent-name">(.*?)</span>', b, re.S) or [None, ''])[1])
+        rows.setdefault((MON[dt.group(1).lower()], int(dt.group(2))), []).append((onorm(opp), res))
+    byday = {}
+    for g in games: byday.setdefault(g['start'][5:10], []).append(g)
+    for g in games:
+        md = (int(g['start'][5:7]), int(g['start'][8:10])); c = rows.get(md, [])
+        if not c: continue
+        if len(c) == 1 and len(byday[g['start'][5:10]]) == 1: g['result'] = c[0][1]; continue
+        o = onorm(g.get('_opp'))
+        m = [r for n, r in c if n and o and (n in o or o in n)]
+        if len(m) == 1: g['result'] = m[0]
 
 
 MON = {m: i for i, m in enumerate(['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec'], 1)}
@@ -117,8 +148,14 @@ def from_mlb(src, page):
     for d in json.loads(page).get('dates', []):
         for g in d.get('games', []):
             h, a = g['teams']['home']['team']['name'], g['teams']['away']['team']['name']
-            out.append({'title': f"{a} at {h}", 'start': g['gameDate'] if g.get('gameDate') else d['date'],
-                        'url': src.get('link') or src['url'], 'place': (g.get('venue') or {}).get('name'), 'home': h == src['name']})
+            x = {'title': f"{a} at {h}", 'start': g['gameDate'] if g.get('gameDate') else d['date'],
+                 'url': src.get('link') or src['url'], 'place': (g.get('venue') or {}).get('name'), 'home': h == src['name']}
+            # a final: the scores and the winner as MLB gives them, written from the club's own side ('W, 5-3')
+            us, them = (g['teams']['home'], g['teams']['away']) if h == src['name'] else (g['teams']['away'], g['teams']['home'])
+            if (g.get('status') or {}).get('abstractGameState') == 'Final' and isinstance(us.get('score'), int) and isinstance(them.get('score'), int):
+                w = 'W' if us.get('isWinner') is True else 'L' if them.get('isWinner') is True else 'T' if us['score'] == them['score'] else None
+                if w: x['result'] = f"{w}, {us['score']}-{them['score']}"
+            out.append(x)
     return out
 
 def from_ndapi(src, page):
@@ -126,7 +163,7 @@ def from_ndapi(src, page):
     sid = next(x['schedule_id'] for x in json.loads(page)['data'] if x['slug'] == src['slug'])
     out, p = [], 1
     while p and p < 10:
-        j = json.loads(get(f'https://fightingirish.com/website-api/schedule-events?filter%5Bschedule_id%5D={sid}&per_page=100&page={p}'))
+        j = json.loads(get(f'https://fightingirish.com/website-api/schedule-events?filter%5Bschedule_id%5D={sid}&include=scheduleEventResult&per_page=100&page={p}'))
         for g in j['data']:
             if g.get('status') in ('canceled', 'cancelled', 'postponed'): continue
             opp = g.get('opponent_name') or ''
@@ -136,8 +173,17 @@ def from_ndapi(src, page):
             if 'T' in st: st = datetime.datetime.fromisoformat(st.replace('Z', '+00:00').replace('.000000', '')).astimezone(TZ).isoformat()
             else:   # a time to be announced: the valley's own date of the listed moment
                 st = datetime.datetime.fromisoformat(g['datetime'].replace('Z', '+00:00').replace('.000000', '')).astimezone(TZ).date().isoformat()
-            out.append({'title': t, 'start': st, 'url': f"https://fightingirish.com/sports/{src['slug']}/schedule/",
-                        'place': g.get('venue') or g.get('location'), 'home': vt == 'home'})
+            x = {'title': t, 'start': st, 'url': f"https://fightingirish.com/sports/{src['slug']}/schedule/",
+                 'place': g.get('venue') or g.get('location'), 'home': vt == 'home'}
+            # a final, as the schedule prints it: Notre Dame's score first ('W, 99-59'), with its note ('OT') after
+            r = g.get('schedule_event_result') or {}
+            try: hi, lo = round(float(r.get('winning_score'))), round(float(r.get('losing_score')))
+            except (TypeError, ValueError): hi = lo = None
+            if g.get('status') == 'completed' and hi is not None and hi >= lo:
+                w = {'win': 'W', 'loss': 'L', 'tie': 'T'}.get(r.get('result'))
+                if w and (w != 'T' or hi == lo) and (w == 'T' or hi > lo):
+                    x['result'] = f"{w}, {hi if w != 'L' else lo}-{lo if w != 'L' else hi}" + (f" ({r['text'].strip()})" if (r.get('text') or '').strip() else '')
+            out.append(x)
         p = j['meta']['current_page'] + 1 if j['meta']['current_page'] < j['meta']['last_page'] else None
     return out
 
@@ -220,7 +266,7 @@ def main(SRC='sources.json', OUT='nights.json', KEY='nights', STAT='status.json'
                 T = json.loads(get('https://statsapi.mlb.com/api/v1/teams?sportIds=11,12,13,14,16&season=' + str(TODAY.year)))['teams']
                 tm = next(t for t in T if t['name'] == s['name'])
                 s = dict(s, url=s['url'].replace('__TEAMID__', str(tm['id'])).replace('__SPORTID__', str(tm['sport']['id'])))
-            page = get(s['url'].replace('__TODAY__', TODAY.isoformat()).replace('__PLUS300__', (TODAY + datetime.timedelta(days=300)).isoformat()))
+            page = get(s['url'].replace('__TODAY__', TODAY.isoformat()).replace('__MINUS7__', (TODAY - datetime.timedelta(days=7)).isoformat()).replace('__PLUS300__', (TODAY + datetime.timedelta(days=300)).isoformat()))
             M = {'ics': from_ics, 'jsonld': from_jsonld, 'html': from_html, 'cards': from_cards, 'tm': from_tm, 'mlb': from_mlb, 'ndapi': from_ndapi}
             got = [] if (s.get('follow') and s['method'] == 'html') else M[s['method']](s, page)   # an html source with follow reads only the shows' own pages
             if not got and s.get('follow'):
@@ -237,7 +283,7 @@ def main(SRC='sources.json', OUT='nights.json', KEY='nights', STAT='status.json'
             kept = 0
             for g in got:
                 d = datetime.datetime.fromisoformat(g['start'] if 'T' in g['start'] else g['start'] + 'T00:00')
-                if d.date() < TODAY - datetime.timedelta(days=1) or not g['title']: continue
+                if d.date() < TODAY - datetime.timedelta(days=7 if KEY == 'games' else 1) or not g['title']: continue   # games: a week, for the final scores
                 if re.search(r'(?i)\b(?:day )?package\b|gift card|private event|to-go\b', g['title']): continue   # ticket bundles and private bookings are not shows
                 key = (s.get('name'), d.date().isoformat(), re.sub(r'\W+', '', g['title'].lower())[:40])
                 if key in seen: continue
@@ -246,7 +292,8 @@ def main(SRC='sources.json', OUT='nights.json', KEY='nights', STAT='status.json'
                                'venue': s['name'], 'room': g['place'] if g['place'] and g['place'] != s['name'] else None,
                                'town': s['town'], 'kind': s['kind'], 'campus': s.get('campus'), 'url': g['url'],
                                'source': s['url'], 'read': TODAY.isoformat(), 'tags': (lambda T: T + (['film'] if 'film' not in T and re.search(r'(?i)cinema|movie|film', (g.get('place') or '') + ' ' + (s.get('kind') or '')) else []))(tags(g['title'])) if s['kind'] != 'sports' else [],   # a show in a cinema is a film **flags(g),
-                               **({'tickets': s['tickets']} if s.get('tickets') else {}), **({'home': g['home'], 'team': s.get('team'), 'sport': s.get('sport')} if 'home' in g and g['home'] is not None else {})})
+                               **({'tickets': s['tickets']} if s.get('tickets') else {}), **({'home': g['home'], 'team': s.get('team'), 'sport': s.get('sport')} if 'home' in g and g['home'] is not None else {}),
+                               **({'result': g['result']} if g.get('result') else {})})
             status[s['id']] = {'ok': True, 'found': len(got), 'kept': kept, 'read': NOW.isoformat(timespec='minutes')}
         except Exception as e:
             status[s['id']] = {'ok': False, 'error': str(e)[:200], 'read': NOW.isoformat(timespec='minutes')}
