@@ -66,7 +66,7 @@ def sidearm_results(games, page):
     rows = {}
     for b in re.split(r'<li[^>]+class="sidearm-schedule-game ', page)[1:]:
         if 'sidearm-schedule-game-completed' not in b[:300]: continue   # the source itself marks the game completed
-        r = re.search(r'class="sidearm-schedule-game-result[^"]*">(.*?)</div>', b, re.S)
+        r = re.search(r'class="sidearm-schedule-game-result(?:\s[^"]*)?">(.*?)</div>', b, re.S)   # not ...-result-final ('Final')
         dt = re.search(r'opponent-date[^>]*>\s*<span>\s*([A-Z][a-z]{2})[a-z]*\.?\s+(\d{1,2})', b)
         if not r or not dt: continue
         res = ' '.join(x for x in (clean(y) for y in re.findall(r'<span[^>]*>(.*?)</span>', r.group(1), re.S)) if x)
