@@ -3,78 +3,78 @@
   "ok": true,
   "found": 15,
   "kept": 13,
-  "read": "2026-11-12T12:35-05:00"
+  "read": "2026-11-13T12:21-05:00"
  },
  "lerner": {
   "ok": true,
-  "found": 29,
-  "kept": 26,
-  "read": "2026-11-12T12:35-05:00"
+  "found": 28,
+  "kept": 25,
+  "read": "2026-11-13T12:21-05:00"
  },
  "nd-dpac": {
   "ok": true,
   "found": 40,
   "kept": 40,
-  "read": "2026-11-12T12:35-05:00"
+  "read": "2026-11-13T12:21-05:00"
  },
  "nd-events-arts": {
   "ok": true,
-  "found": 4,
-  "kept": 4,
-  "read": "2026-11-12T12:35-05:00"
+  "found": 7,
+  "kept": 7,
+  "read": "2026-11-13T12:21-05:00"
  },
  "nd-events-ent": {
   "ok": true,
-  "found": 10,
-  "kept": 9,
-  "read": "2026-11-12T12:35-05:00"
+  "found": 11,
+  "kept": 7,
+  "read": "2026-11-13T12:21-05:00"
  },
  "miller": {
   "ok": true,
   "found": 21,
   "kept": 21,
-  "read": "2026-11-12T12:35-05:00"
+  "read": "2026-11-13T12:21-05:00"
  },
  "four-winds": {
   "ok": true,
   "found": 7,
   "kept": 7,
-  "read": "2026-11-12T12:35-05:00"
+  "read": "2026-11-13T12:21-05:00"
  },
  "goshen-college": {
   "ok": true,
   "found": 6,
   "kept": 6,
-  "read": "2026-11-12T12:35-05:00"
+  "read": "2026-11-13T12:21-05:00"
  },
  "howard": {
   "ok": true,
   "found": 144,
   "kept": 21,
-  "read": "2026-11-12T12:35-05:00"
+  "read": "2026-11-13T12:21-05:00"
  },
  "bells-cafe": {
   "ok": true,
   "found": 31,
   "kept": 28,
-  "read": "2026-11-12T12:35-05:00"
+  "read": "2026-11-13T12:21-05:00"
  },
  "goshen-brewing": {
   "ok": true,
   "found": 12,
   "kept": 12,
-  "read": "2026-11-12T12:35-05:00"
+  "read": "2026-11-13T12:21-05:00"
  },
  "silver-harbor": {
   "ok": true,
   "found": 15,
   "kept": 6,
-  "read": "2026-11-12T12:35-05:00"
+  "read": "2026-11-13T12:21-05:00"
  },
  "journeyman": {
   "ok": true,
   "found": 4,
   "kept": 3,
-  "read": "2026-11-12T12:35-05:00"
+  "read": "2026-11-13T12:21-05:00"
  }
 }
