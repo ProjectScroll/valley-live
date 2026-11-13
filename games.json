@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13T11:53-05:00",
+"updated": "2026-11-13T12:00-05:00",
 "games": [
 {
 "id": "f5c6eb1323",
@@ -115,7 +115,8 @@
 "tags": [],
 "home": false,
 "team": "Western Michigan",
-"sport": "Hockey"
+"sport": "Hockey",
+"result": "T, 2-2 (SOW, 1-0)"
 },
 {
 "id": "347a69959b",
@@ -190,7 +191,8 @@
 "tags": [],
 "home": true,
 "team": "IU South Bend",
-"sport": "Women's basketball"
+"sport": "Women's basketball",
+"result": "W, 74-62"
 },
 {
 "id": "5634ae7ea5",
@@ -247,7 +249,8 @@
 "tags": [],
 "home": false,
 "team": "Western Michigan",
-"sport": "Hockey"
+"sport": "Hockey",
+"result": "L, 1-4"
 },
 {
 "id": "5d67326ba5",
@@ -363,7 +366,8 @@
 "tags": [],
 "home": false,
 "team": "Western Michigan",
-"sport": "Football"
+"sport": "Football",
+"result": "W, 42-14"
 },
 {
 "id": "b8c0a76fa7",
@@ -479,7 +483,8 @@
 "tags": [],
 "home": true,
 "team": "IU South Bend",
-"sport": "Women's basketball"
+"sport": "Women's basketball",
+"result": "W, 80-53"
 },
 {
 "id": "86e08b6c3e",
@@ -517,7 +522,8 @@
 "tags": [],
 "home": true,
 "team": "IU South Bend",
-"sport": "Men's basketball"
+"sport": "Men's basketball",
+"result": "W, 83-78"
 },
 {
 "id": "16133d17e1",
