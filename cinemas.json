@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11T23:53Z",
+"updated": "2026-11-16T20:34Z",
 "source": "OpenStreetMap contributors (ODbL), amenity=cinema",
 "cinemas": [
 {
@@ -77,7 +77,7 @@
 "town": "Three Oaks",
 "address": "6 North Elm Street",
 "zip": "49128",
-"url": "",
+"url": "https://vickerstheatre.com",
 "drive_in": false,
 "brand": "",
 "screens": "1"
