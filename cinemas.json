@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16T20:34Z",
+"updated": "2026-11-23T22:09Z",
 "source": "OpenStreetMap contributors (ODbL), amenity=cinema",
 "cinemas": [
 {
@@ -87,7 +87,7 @@
 "name": "Wonderland Cinema",
 "ll": [
 41.83206,
--86.25912
+-86.25914
 ],
 "county": "Berrien",
 "town": "Niles",
