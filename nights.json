@@ -1,25 +1,6 @@
 {
-"updated": "2026-11-23T16:21-05:00",
+"updated": "2026-11-24T15:08-05:00",
 "nights": [
-{
-"id": "706fd1bbf2",
-"title": "South Bend Youth Symphony Orchestra",
-"start": "2026-11-22T16:00:00-05:00",
-"allday": false,
-"venue": "Howard Performing Arts Center",
-"room": null,
-"town": "Berrien Springs",
-"kind": "concerts",
-"campus": "Andrews University",
-"url": "https://howard.andrews.edu/events/index.html",
-"source": "https://howard.andrews.edu/events/index.html",
-"read": "2026-11-23",
-"tags": [
-"classical",
-"music",
-"family"
-]
-},
 {
 "id": "90d1bc8317",
 "title": "Billy Preston: That’s the Way God Planned It (2024)",
@@ -32,7 +13,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/20290/billy-preston-thats-the-way-god-planned-it-2024",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "film"
 ]
@@ -49,7 +30,7 @@
 "campus": "University of Notre Dame",
 "url": "https://events.nd.edu/events/2026/11/24/billy-preston-thats-the-way-god-planned-it-2024/",
 "source": "https://events.nd.edu/events/calendar/arts-and-entertainment/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "film"
 ]
@@ -66,7 +47,7 @@
 "campus": null,
 "url": "https://thelerner.com/event/the-nutcracker-free-community-performance/",
 "source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "dance",
 "holiday"
@@ -84,7 +65,7 @@
 "campus": null,
 "url": "https://goshenbrewing.com/event/johnny-and-i/",
 "source": "https://goshenbrewing.com/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -99,7 +80,7 @@
 "campus": null,
 "url": "https://morriscenter.org/event/mike-epps/",
 "source": "https://morriscenter.org/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -114,7 +95,7 @@
 "campus": null,
 "url": "https://morriscenter.org/event/its-a-wonderful-life/",
 "source": "https://morriscenter.org/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -129,7 +110,7 @@
 "campus": null,
 "url": "https://www.journeyman.com/events/comedy-on-the-rocks-three-oaks-mi/",
 "source": "https://www.journeyman.com/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "comedy",
 "music"
@@ -147,7 +128,7 @@
 "campus": null,
 "url": "https://thelerner.com/event/the-nutcracker-at-the-lerner-theatre-2026/",
 "source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "theatre",
 "dance",
@@ -166,7 +147,7 @@
 "campus": null,
 "url": "https://goshenbrewing.com/event/reuben-gingrich-and-the-jazz-bandits/",
 "source": "https://goshenbrewing.com/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
 ]
@@ -183,7 +164,7 @@
 "campus": null,
 "url": "https://morriscenter.org/event/the-bergamot-a-south-shore-christmas-2026/",
 "source": "https://morriscenter.org/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "holiday"
 ]
@@ -200,7 +181,7 @@
 "campus": null,
 "url": "https://goshenbrewing.com/event/trivia-11/",
 "source": "https://goshenbrewing.com/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "trivia"
 ]
@@ -217,7 +198,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/19582/a-very-merry-symphony-sleigh-ride-adventure",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "classical",
 "music"
@@ -235,7 +216,7 @@
 "campus": null,
 "url": "https://thelerner.com/event/the-lerner-loves-you-home-alone/",
 "source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -250,7 +231,7 @@
 "campus": null,
 "url": "https://goshenbrewing.com/event/elkhart-county-beer-choir-4/",
 "source": "https://goshenbrewing.com/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
 ]
@@ -267,7 +248,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/19904/inside-llewyn-davis-2013",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "film"
 ]
@@ -284,7 +265,7 @@
 "campus": "University of Notre Dame",
 "url": "https://events.nd.edu/events/2026/12/02/bite-sized-art-8/",
 "source": "https://events.nd.edu/events/calendar/arts-and-entertainment/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -299,7 +280,7 @@
 "campus": null,
 "url": "https://goshenbrewing.com/event/brides-of-neptune-wsg-jacob-neild/",
 "source": "https://goshenbrewing.com/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -314,7 +295,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/20347/geros-2014",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "film"
 ]
@@ -331,7 +312,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/20320/an-evening-with-tom-kitt",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -346,7 +327,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/20248/handel-messiah-nd-chorale-and-co",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "classical",
 "music",
@@ -365,7 +346,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/20156/mysterious-object-at-noon-2000",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "film"
 ]
@@ -382,7 +363,24 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/20294/harvest-2026",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
+"tags": [
+"film"
+]
+},
+{
+"id": "85cb282fd9",
+"title": "Die Hard (1988)",
+"start": "2026-12-04",
+"allday": true,
+"venue": "DeBartolo Performing Arts Center",
+"room": "Browning Cinema GA",
+"town": "Notre Dame",
+"kind": "concerts",
+"campus": "University of Notre Dame",
+"url": "https://performingarts.nd.edu/event/20324/die-hard-1988",
+"source": "https://performingarts.nd.edu/events/",
+"read": "2026-11-24",
 "tags": [
 "film"
 ]
@@ -399,7 +397,7 @@
 "campus": null,
 "url": "https://morriscenter.org/event/the-bodyguard-2/",
 "source": "https://morriscenter.org/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music",
 "theatre"
@@ -417,7 +415,7 @@
 "campus": "Goshen College",
 "url": "https://www.goshen.edu/events/festival-of-carols/",
 "source": "https://www.goshen.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
 ]
@@ -434,7 +432,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/19725/samson-et-dalila-saint-sans",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "film"
 ]
@@ -451,7 +449,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/20244/nd-glee-club-symphony-christmas-at-notre-dame",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "classical",
 "music",
@@ -470,7 +468,7 @@
 "campus": null,
 "url": "https://morriscenter.org/event/the-bodyguard/2026-12-05/1/",
 "source": "https://morriscenter.org/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music",
 "theatre"
@@ -488,7 +486,7 @@
 "campus": "University of Notre Dame",
 "url": "https://events.nd.edu/events/2026/12/05/winter-wonders-2/",
 "source": "https://events.nd.edu/events/calendar/arts-and-entertainment/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -503,7 +501,7 @@
 "campus": "Andrews University",
 "url": "https://www.tix.com/ticket-sales/howard/6714/event/1472724",
 "source": "https://howard.andrews.edu/events/index.html",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "holiday"
 ]
@@ -520,7 +518,7 @@
 "campus": null,
 "url": "https://goshenbrewing.com/event/trivia-7/",
 "source": "https://goshenbrewing.com/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "trivia"
 ]
@@ -537,7 +535,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/19840/a-miracle-on-34th-street-1947",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "film"
 ]
@@ -554,7 +552,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/19787/university-band",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
 ]
@@ -571,7 +569,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/20311/marching-to-victory-the-route-of-the-bicentennial-2025-",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "film"
 ]
@@ -588,7 +586,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/19931/notre-dame-jazz-bands-fall-concert",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
 ]
@@ -605,7 +603,7 @@
 "campus": null,
 "url": "https://silverharborbrewing.com/event/sunday-brunch-2/",
 "source": "https://silverharborbrewing.com/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -620,7 +618,7 @@
 "campus": null,
 "url": "https://morriscenter.org/event/the-bodyguard/2026-12-06/",
 "source": "https://morriscenter.org/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music",
 "theatre"
@@ -638,7 +636,7 @@
 "campus": null,
 "url": "https://thelerner.com/event/elkhart-municipal-band-presents-the-north-pole-radio-hour-2026/",
 "source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
 ]
@@ -655,7 +653,7 @@
 "campus": "Andrews University",
 "url": "https://www.tix.com/ticket-sales/howard/6714/event/1472732",
 "source": "https://howard.andrews.edu/events/index.html",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "holiday"
 ]
@@ -672,7 +670,7 @@
 "campus": null,
 "url": "https://silverharborbrewing.com/event/wreath-making-class/",
 "source": "https://silverharborbrewing.com/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -687,11 +685,28 @@
 "campus": null,
 "url": "https://silverharborbrewing.com/event/holiday-movie-trivia/",
 "source": "https://silverharborbrewing.com/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "film",
 "holiday",
 "trivia"
+]
+},
+{
+"id": "3cf8179aa3",
+"title": "Batman Returns (1992)",
+"start": "2026-12-09",
+"allday": true,
+"venue": "DeBartolo Performing Arts Center",
+"room": "Browning Cinema GA",
+"town": "Notre Dame",
+"kind": "concerts",
+"campus": "University of Notre Dame",
+"url": "https://performingarts.nd.edu/event/20160/batman-returns-1992",
+"source": "https://performingarts.nd.edu/events/",
+"read": "2026-11-24",
+"tags": [
+"film"
 ]
 },
 {
@@ -706,25 +721,8 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/20316/and-on-earth-peace",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
-},
-{
-"id": "3cf8179aa3",
-"title": "Batman Returns (1992)",
-"start": "2026-12-09",
-"allday": true,
-"venue": "DeBartolo Performing Arts Center",
-"room": "Browning Cinema GA",
-"town": "Notre Dame",
-"kind": "concerts",
-"campus": "University of Notre Dame",
-"url": "https://performingarts.nd.edu/event/20160/batman-returns-1992",
-"source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
-"tags": [
-"film"
-]
 },
 {
 "id": "28a471146e",
@@ -738,7 +736,7 @@
 "campus": "Western Michigan University",
 "url": "https://www.millerauditorium.com/shows",
 "source": "https://www.millerauditorium.com/shows",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "dance",
 "holiday"
@@ -756,7 +754,7 @@
 "campus": null,
 "url": "https://goshenbrewing.com/event/ben-traverse/",
 "source": "https://goshenbrewing.com/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -771,7 +769,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/20110/santa-claus-santa-claus-vs-the-devil-1959",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "holiday",
 "film"
@@ -789,7 +787,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/20164/the-harder-they-come-1972",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "film"
 ]
@@ -806,7 +804,7 @@
 "campus": null,
 "url": "https://www.journeyman.com/events/santas-secret-reserve-three-oaks-mi/",
 "source": "https://www.journeyman.com/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "holiday"
 ]
@@ -823,7 +821,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/20313/blood-beat-1982",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "film"
 ]
@@ -840,7 +838,7 @@
 "campus": "Western Michigan University",
 "url": "https://www.millerauditorium.com/shows",
 "source": "https://www.millerauditorium.com/shows",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "holiday"
 ]
@@ -857,7 +855,7 @@
 "campus": null,
 "url": "https://thelerner.com/event/premier-arts-joseph-and-the-amazing-technicolor-dreamcoat-2026-12-11/",
 "source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -872,7 +870,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/19727/the-magic-flute-mozart",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "film"
 ]
@@ -889,10 +887,27 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/20254/the-nutcracker",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "dance",
 "holiday"
+]
+},
+{
+"id": "dd355e649b",
+"title": "Edward Scissorhands (1990)",
+"start": "2026-12-12",
+"allday": true,
+"venue": "DeBartolo Performing Arts Center",
+"room": "Browning Cinema GA",
+"town": "Notre Dame",
+"kind": "concerts",
+"campus": "University of Notre Dame",
+"url": "https://performingarts.nd.edu/event/20330/edward-scissorhands-1990",
+"source": "https://performingarts.nd.edu/events/",
+"read": "2026-11-24",
+"tags": [
+"film"
 ]
 },
 {
@@ -907,7 +922,7 @@
 "campus": null,
 "url": "https://www.ticketmaster.com/cirque-musica-holiday-wonderland-new-buffalo-michigan-12-12-2026/event/040064E8A92EB6FB",
 "source": "https://fourwindscasino.com/newbuffalo/entertainment/event-calendar/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music",
 "holiday"
@@ -925,7 +940,7 @@
 "campus": null,
 "url": "https://morriscenter.org/event/southold-dance-theater-presents-the-nutcracker-4/2026-12-12/1/",
 "source": "https://morriscenter.org/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "theatre",
 "dance",
@@ -944,7 +959,7 @@
 "campus": null,
 "url": "https://thelerner.com/event/premier-arts-joseph-and-the-amazing-technicolor-dreamcoat-all-youth-production/",
 "source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "family"
 ]
@@ -961,7 +976,7 @@
 "campus": "Goshen College",
 "url": "https://www.goshen.edu/events/performing-arts-series-the-steel-wheels/",
 "source": "https://www.goshen.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -976,7 +991,24 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/19844/the-polar-express-2004",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
+"tags": [
+"film"
+]
+},
+{
+"id": "b7d6cc79f3",
+"title": "The Store (1983)",
+"start": "2026-12-13",
+"allday": true,
+"venue": "DeBartolo Performing Arts Center",
+"room": "Browning Cinema GA",
+"town": "Notre Dame",
+"kind": "concerts",
+"campus": "University of Notre Dame",
+"url": "https://performingarts.nd.edu/event/20333/the-store-1983",
+"source": "https://performingarts.nd.edu/events/",
+"read": "2026-11-24",
 "tags": [
 "film"
 ]
@@ -993,7 +1025,7 @@
 "campus": null,
 "url": "https://silverharborbrewing.com/event/grinch-brunch/",
 "source": "https://silverharborbrewing.com/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -1008,7 +1040,7 @@
 "campus": null,
 "url": "https://morriscenter.org/event/southold-dance-theater-presents-the-nutcracker-4/2026-12-13/",
 "source": "https://morriscenter.org/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "theatre",
 "dance",
@@ -1027,7 +1059,7 @@
 "campus": null,
 "url": "https://thelerner.com/event/premier-arts-joseph-and-the-amazing-technicolor-dreamcoat-2026-12-13/",
 "source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -1042,7 +1074,7 @@
 "campus": "Andrews University",
 "url": "https://howard.andrews.edu/events/index.html",
 "source": "https://howard.andrews.edu/events/index.html",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "classical",
 "music",
@@ -1061,7 +1093,7 @@
 "campus": null,
 "url": "https://goshenbrewing.com/event/jack-byron/",
 "source": "https://goshenbrewing.com/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -1076,7 +1108,7 @@
 "campus": "Andrews University",
 "url": "https://howard.andrews.edu/events/index.html",
 "source": "https://howard.andrews.edu/events/index.html",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music",
 "holiday"
@@ -1094,7 +1126,7 @@
 "campus": "Andrews University",
 "url": "https://howard.andrews.edu/events/index.html",
 "source": "https://howard.andrews.edu/events/index.html",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music",
 "holiday"
@@ -1112,7 +1144,7 @@
 "campus": null,
 "url": "https://thelerner.com/event/lunchtime-live-with-celia-weiss-kimball-organ-concert-2026/2026-12-16/",
 "source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "classical",
 "music"
@@ -1130,7 +1162,7 @@
 "campus": null,
 "url": "https://thelerner.com/event/behind-the-curtain-a-guided-theatre-tour/2026-12-16/",
 "source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music",
 "theatre"
@@ -1148,7 +1180,7 @@
 "campus": null,
 "url": "https://goshenbrewing.com/event/shelly-cowling-quintet/",
 "source": "https://goshenbrewing.com/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -1163,7 +1195,7 @@
 "campus": null,
 "url": "https://morriscenter.org/event/the-prophecy-show-the-music-of-the-trans-siberian-orchestra/",
 "source": "https://morriscenter.org/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "classical",
 "music"
@@ -1181,7 +1213,7 @@
 "campus": null,
 "url": "https://morriscenter.org/event/everwise-presents-holiday-pops-with-the-south-bend-symphony/",
 "source": "https://morriscenter.org/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "classical",
 "music",
@@ -1200,7 +1232,7 @@
 "campus": null,
 "url": "https://goshenbrewing.com/event/trivia-6/",
 "source": "https://goshenbrewing.com/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "trivia"
 ]
@@ -1217,7 +1249,7 @@
 "campus": null,
 "url": "https://goshenbrewing.com/event/hinterland-bookery-mobile-bookshop/",
 "source": "https://goshenbrewing.com/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -1232,7 +1264,7 @@
 "campus": null,
 "url": "https://morriscenter.org/event/everwise-presents-holiday-pops-with-the-south-bend-symphony-2/",
 "source": "https://morriscenter.org/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "classical",
 "music",
@@ -1251,7 +1283,7 @@
 "campus": null,
 "url": "https://thelerner.com/event/the-lerner-loves-you-miracle-on-34th-street/",
 "source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -1266,7 +1298,7 @@
 "campus": null,
 "url": "https://goshenbrewing.com/event/imphormal-electric-cello/",
 "source": "https://goshenbrewing.com/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -1281,7 +1313,7 @@
 "campus": null,
 "url": "https://silverharborbrewing.com/event/christmas-trivia-night/",
 "source": "https://silverharborbrewing.com/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "holiday",
 "trivia"
@@ -1299,7 +1331,7 @@
 "campus": null,
 "url": "https://silverharborbrewing.com/event/sunday-brunch/",
 "source": "https://silverharborbrewing.com/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -1314,7 +1346,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/19580/musician-voices-baroque-reflections",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
 ]
@@ -1331,7 +1363,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/19649/turrell-oneal-and-the-ofc-experience",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -1346,7 +1378,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/19651/actors-from-the-london-stage-presents-king-lear",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "theatre"
 ]
@@ -1363,7 +1395,7 @@
 "campus": null,
 "url": "https://morriscenter.org/event/umphreys-mcgee-fresh-cut/",
 "source": "https://morriscenter.org/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -1378,7 +1410,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/19729/la-fanciulla-del-west-puccini",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "film"
 ]
@@ -1395,7 +1427,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/19700/uzima-drum-and-dance-company",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "dance"
 ]
@@ -1412,7 +1444,7 @@
 "campus": null,
 "url": "https://www.journeyman.com/events/burns-night-three-oaks-mi/",
 "source": "https://www.journeyman.com/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -1427,7 +1459,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/19657/thomas-ospital-concert-organist",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "classical",
 "music"
@@ -1445,7 +1477,7 @@
 "campus": "Andrews University",
 "url": "https://howard.andrews.edu/events/index.html",
 "source": "https://howard.andrews.edu/events/index.html",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
 ]
@@ -1462,7 +1494,7 @@
 "campus": "Western Michigan University",
 "url": "https://www.millerauditorium.com/shows",
 "source": "https://www.millerauditorium.com/shows",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music",
 "theatre"
@@ -1480,8 +1512,25 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/19698/mike-mattison-trash-magic",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
+},
+{
+"id": "0966c6c99d",
+"title": "38th Annual Notre Dame Student Film Festival",
+"start": "2027-01-29",
+"allday": true,
+"venue": "DeBartolo Performing Arts Center",
+"room": "Browning Cinema GA",
+"town": "Notre Dame",
+"kind": "concerts",
+"campus": "University of Notre Dame",
+"url": "https://performingarts.nd.edu/event/20349/38th-annual-notre-dame-student-film-festival",
+"source": "https://performingarts.nd.edu/events/",
+"read": "2026-11-24",
+"tags": [
+"film"
+]
 },
 {
 "id": "3fa8ed144a",
@@ -1495,7 +1544,7 @@
 "campus": null,
 "url": "https://www.ticketmaster.com/that-arena-rock-show-new-buffalo-michigan-01-29-2027/event/0400655CA9648165",
 "source": "https://fourwindscasino.com/newbuffalo/entertainment/event-calendar/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
 ]
@@ -1512,7 +1561,7 @@
 "campus": null,
 "url": "https://morriscenter.org/event/brahms-symphony-no-4/",
 "source": "https://morriscenter.org/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "classical",
 "music"
@@ -1530,7 +1579,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/19659/pacifica-quartet",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "classical",
 "music"
@@ -1548,7 +1597,7 @@
 "campus": null,
 "url": "https://thelerner.com/event/catapult-magic-shadows/",
 "source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -1563,7 +1612,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/20241/jonathan-mcreynolds",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -1578,7 +1627,7 @@
 "campus": null,
 "url": "https://www.ticketmaster.com/eaglemania-the-worlds-greatest-eagles-tribute-new-buffalo-michigan-02-06-2027/event/0400655CAE6788B3",
 "source": "https://fourwindscasino.com/newbuffalo/entertainment/event-calendar/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
 ]
@@ -1595,7 +1644,7 @@
 "campus": "Andrews University",
 "url": "https://www.tix.com/ticket-sales/howard/6714/event/1472733",
 "source": "https://howard.andrews.edu/events/index.html",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "classical",
 "music"
@@ -1613,7 +1662,7 @@
 "campus": "Andrews University",
 "url": "https://www.tix.com/ticket-sales/howard/6714/event/1472743",
 "source": "https://howard.andrews.edu/events/index.html",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "classical",
 "music"
@@ -1631,7 +1680,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/19936/2027-collegiate-jazz-festival",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
 ]
@@ -1648,7 +1697,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/19731/carmen-bizet",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "film"
 ]
@@ -1665,7 +1714,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/19663/terri-lyne-carrington-we-insist",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -1680,7 +1729,7 @@
 "campus": "Western Michigan University",
 "url": "https://www.millerauditorium.com/shows",
 "source": "https://www.millerauditorium.com/shows",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -1695,7 +1744,7 @@
 "campus": null,
 "url": "https://www.ticketmaster.com/chubby-checker-new-buffalo-michigan-02-13-2027/event/040065388D855946",
 "source": "https://fourwindscasino.com/newbuffalo/entertainment/event-calendar/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -1710,7 +1759,7 @@
 "campus": null,
 "url": "https://thelerner.com/event/elkhart-county-symphony-verdi-requiem/",
 "source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "classical",
 "music"
@@ -1728,7 +1777,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/19972/the-book-of-will",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -1743,7 +1792,7 @@
 "campus": "Western Michigan University",
 "url": "https://www.millerauditorium.com/shows",
 "source": "https://www.millerauditorium.com/shows",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -1758,7 +1807,7 @@
 "campus": null,
 "url": "https://thelerner.com/event/coppelia-at-the-lerner-theatre-2026/",
 "source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "theatre"
 ]
@@ -1775,7 +1824,7 @@
 "campus": "Andrews University",
 "url": "https://www.tix.com/ticket-sales/howard/6714/event/1472746",
 "source": "https://howard.andrews.edu/events/index.html",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
 ]
@@ -1792,7 +1841,7 @@
 "campus": "University of Notre Dame",
 "url": "https://performingarts.nd.edu/event/19667/awadagin-pratt-piano",
 "source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -1807,26 +1856,9 @@
 "campus": "Western Michigan University",
 "url": "https://www.millerauditorium.com/shows",
 "source": "https://www.millerauditorium.com/shows",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
-]
-},
-{
-"id": "7ce1cddc43",
-"title": "Hans Davidsson, organ",
-"start": "2027-02-28",
-"allday": true,
-"venue": "DeBartolo Performing Arts Center",
-"room": "Reyes Organ and Choral Hall",
-"town": "Notre Dame",
-"kind": "concerts",
-"campus": "University of Notre Dame",
-"url": "https://performingarts.nd.edu/event/19671/hans-davidsson-organ",
-"source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
-"tags": [
-"classical"
 ]
 },
 {
@@ -1841,7 +1873,7 @@
 "campus": "Andrews University",
 "url": "https://howard.andrews.edu/events/index.html",
 "source": "https://howard.andrews.edu/events/index.html",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
 ]
@@ -1858,7 +1890,7 @@
 "campus": "Western Michigan University",
 "url": "https://www.millerauditorium.com/shows",
 "source": "https://www.millerauditorium.com/shows",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music",
 "theatre"
@@ -1876,7 +1908,7 @@
 "campus": "Andrews University",
 "url": "https://howard.andrews.edu/events/index.html",
 "source": "https://howard.andrews.edu/events/index.html",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "classical",
 "music"
@@ -1894,26 +1926,9 @@
 "campus": "Andrews University",
 "url": "https://howard.andrews.edu/events/index.html",
 "source": "https://howard.andrews.edu/events/index.html",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
-]
-},
-{
-"id": "5fdddeb75e",
-"title": "Handel’s Messiah: From Passion to Resurrection",
-"start": "2027-03-07",
-"allday": true,
-"venue": "DeBartolo Performing Arts Center",
-"room": "Leighton Concert Hall",
-"town": "Notre Dame",
-"kind": "concerts",
-"campus": "University of Notre Dame",
-"url": "https://performingarts.nd.edu/event/19581/handels-messiah-from-passion-to-resurrection",
-"source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
-"tags": [
-"holiday"
 ]
 },
 {
@@ -1928,7 +1943,7 @@
 "campus": null,
 "url": "https://thelerner.com/event/elkhart-municipal-band-presents-e-pluribus-unum/",
 "source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
 ]
@@ -1945,26 +1960,8 @@
 "campus": "Andrews University",
 "url": "https://howard.andrews.edu/events/index.html",
 "source": "https://howard.andrews.edu/events/index.html",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
-"music"
-]
-},
-{
-"id": "92d5cb86f2",
-"title": "Symphony Ever After",
-"start": "2027-03-14",
-"allday": true,
-"venue": "DeBartolo Performing Arts Center",
-"room": "Leighton Concert Hall",
-"town": "Notre Dame",
-"kind": "concerts",
-"campus": "University of Notre Dame",
-"url": "https://performingarts.nd.edu/event/19587/symphony-ever-after",
-"source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
-"tags": [
-"classical",
 "music"
 ]
 },
@@ -1980,7 +1977,7 @@
 "campus": "Western Michigan University",
 "url": "https://www.millerauditorium.com/shows",
 "source": "https://www.millerauditorium.com/shows",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -1995,7 +1992,7 @@
 "campus": null,
 "url": "https://thelerner.com/event/elkhart-county-symphony-cinematic-symphony/",
 "source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "classical",
 "music",
@@ -2014,27 +2011,12 @@
 "campus": null,
 "url": "https://thelerner.com/event/south-bend-youth-symphony-orchestras-presents-lord-of-the-rings-symphony/",
 "source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "classical",
 "music",
 "family"
 ]
-},
-{
-"id": "17d5dc9932",
-"title": "Lying Flat 2.0",
-"start": "2027-03-18",
-"allday": true,
-"venue": "DeBartolo Performing Arts Center",
-"room": "Philbin Studio Theatre",
-"town": "Notre Dame",
-"kind": "concerts",
-"campus": "University of Notre Dame",
-"url": "https://performingarts.nd.edu/event/19983/lying-flat-20",
-"source": "https://performingarts.nd.edu/events/",
-"read": "2026-11-23",
-"tags": []
 },
 {
 "id": "35a91b883a",
@@ -2048,7 +2030,7 @@
 "campus": "Western Michigan University",
 "url": "https://www.millerauditorium.com/shows",
 "source": "https://www.millerauditorium.com/shows",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -2063,7 +2045,7 @@
 "campus": null,
 "url": "https://www.ticketmaster.com/skid-row-new-buffalo-michigan-03-20-2027/event/0400656592833D68",
 "source": "https://fourwindscasino.com/newbuffalo/entertainment/event-calendar/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -2078,7 +2060,7 @@
 "campus": "Western Michigan University",
 "url": "https://www.millerauditorium.com/shows",
 "source": "https://www.millerauditorium.com/shows",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -2093,7 +2075,7 @@
 "campus": null,
 "url": "https://thelerner.com/event/friends-of-the-lerner-presents-broadways-rock-of-ages-band/",
 "source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music",
 "theatre"
@@ -2111,7 +2093,7 @@
 "campus": "Western Michigan University",
 "url": "https://www.millerauditorium.com/shows",
 "source": "https://www.millerauditorium.com/shows",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "classical",
 "music"
@@ -2129,7 +2111,7 @@
 "campus": null,
 "url": "https://www.ticketmaster.com/jefferson-starship-and-john-waite-new-buffalo-michigan-03-27-2027/event/04006530987EEE65",
 "source": "https://fourwindscasino.com/newbuffalo/entertainment/event-calendar/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -2144,7 +2126,7 @@
 "campus": "Western Michigan University",
 "url": "https://www.millerauditorium.com/shows",
 "source": "https://www.millerauditorium.com/shows",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
 ]
@@ -2161,7 +2143,7 @@
 "campus": "Andrews University",
 "url": "https://www.tix.com/ticket-sales/howard/6714/event/1472749",
 "source": "https://howard.andrews.edu/events/index.html",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
 ]
@@ -2178,7 +2160,7 @@
 "campus": "Andrews University",
 "url": "https://www.tix.com/ticket-sales/howard/6714/event/1480346",
 "source": "https://howard.andrews.edu/events/index.html",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -2193,7 +2175,7 @@
 "campus": "Western Michigan University",
 "url": "https://www.millerauditorium.com/shows",
 "source": "https://www.millerauditorium.com/shows",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "classical",
 "music"
@@ -2211,7 +2193,7 @@
 "campus": null,
 "url": "https://www.ticketmaster.com/magical-mystery-doors-new-buffalo-michigan-04-09-2027/event/0400656388502A0B",
 "source": "https://fourwindscasino.com/newbuffalo/entertainment/event-calendar/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -2226,7 +2208,7 @@
 "campus": null,
 "url": "https://thelerner.com/event/amber-autry-happy-holler-tour/",
 "source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
 ]
@@ -2243,7 +2225,7 @@
 "campus": null,
 "url": "https://www.journeyman.com/events/spring-artisan-market-three-oaks-27/",
 "source": "https://www.journeyman.com/events/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -2258,7 +2240,7 @@
 "campus": "Andrews University",
 "url": "https://howard.andrews.edu/events/index.html",
 "source": "https://howard.andrews.edu/events/index.html",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
 ]
@@ -2275,7 +2257,7 @@
 "campus": "Andrews University",
 "url": "https://howard.andrews.edu/events/index.html",
 "source": "https://howard.andrews.edu/events/index.html",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
 ]
@@ -2292,7 +2274,7 @@
 "campus": "Andrews University",
 "url": "https://howard.andrews.edu/events/index.html",
 "source": "https://howard.andrews.edu/events/index.html",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "classical",
 "music"
@@ -2310,7 +2292,7 @@
 "campus": null,
 "url": "https://thelerner.com/event/elkhart-municipal-band-presents-songs-of-grace-and-glory/",
 "source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
 ]
@@ -2327,7 +2309,7 @@
 "campus": "Andrews University",
 "url": "https://www.tix.com/ticket-sales/howard/6714/event/1472750",
 "source": "https://howard.andrews.edu/events/index.html",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "classical",
 "music"
@@ -2345,7 +2327,7 @@
 "campus": "Western Michigan University",
 "url": "https://www.millerauditorium.com/shows",
 "source": "https://www.millerauditorium.com/shows",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -2360,7 +2342,7 @@
 "campus": "Western Michigan University",
 "url": "https://www.millerauditorium.com/shows",
 "source": "https://www.millerauditorium.com/shows",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -2375,7 +2357,7 @@
 "campus": null,
 "url": "https://thelerner.com/event/the-amy-winehouse-band/",
 "source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
 ]
@@ -2392,7 +2374,7 @@
 "campus": "Western Michigan University",
 "url": "https://www.millerauditorium.com/shows",
 "source": "https://www.millerauditorium.com/shows",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -2407,7 +2389,7 @@
 "campus": "Western Michigan University",
 "url": "https://www.millerauditorium.com/shows",
 "source": "https://www.millerauditorium.com/shows",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "dance"
 ]
@@ -2424,7 +2406,7 @@
 "campus": null,
 "url": "https://thelerner.com/event/elkhart-county-symphony-planetary-finale/",
 "source": "https://thelerner.com/events/?ical=1",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "classical",
 "music"
@@ -2442,7 +2424,7 @@
 "campus": "Western Michigan University",
 "url": "https://www.millerauditorium.com/shows",
 "source": "https://www.millerauditorium.com/shows",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -2457,7 +2439,7 @@
 "campus": null,
 "url": "https://www.ticketmaster.com/los-lonely-boys-new-buffalo-michigan-06-11-2027/event/0400656ABC8B93D4",
 "source": "https://fourwindscasino.com/newbuffalo/entertainment/event-calendar/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": []
 },
 {
@@ -2472,7 +2454,7 @@
 "campus": "University of Notre Dame",
 "url": "https://events.nd.edu/events/2027/10/02/bon-jovi-concert/",
 "source": "https://events.nd.edu/events/calendar/performing-arts/",
-"read": "2026-11-23",
+"read": "2026-11-24",
 "tags": [
 "music"
 ]
